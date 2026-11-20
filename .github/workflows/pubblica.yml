@@ -20,10 +20,8 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
-        with:
-          repository: Francstopp84/studio-iaccarino-blog
-          path: ${{ runner.temp }}/blog
+      - name: Scarica il repo del blog
+        run: git clone --depth 1 https://github.com/Francstopp84/studio-iaccarino-blog.git "${{ runner.temp }}/blog"
       - name: Costruisce il blog
         run: python3 _strumenti/costruisci_blog.py "${{ runner.temp }}/blog" .
       - uses: actions/configure-pages@v5
