@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /grazie.html
+Disallow: /ar/grazie.html
+Disallow: /bn/grazie.html
+Disallow: /en/grazie.html
+Disallow: /es/grazie.html
+Disallow: /hi/grazie.html
+Disallow: /pt/grazie.html
+Disallow: /ru/grazie.html
+Disallow: /si/grazie.html
+Disallow: /zh/grazie.html
+Disallow: /landing/grazie.html
+
+Sitemap: https://studiolegalefrancescoiaccarino.com/sitemap.xml
+Sitemap: https://studiolegalefrancescoiaccarino.com/sitemap-lingue.xml

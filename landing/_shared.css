@@ -1,0 +1,84 @@
+:root{
+  --navy:#0a2540;--gold:#c9a24c;--bg:#f7f5f0;--text:#1a1a1a;--muted:#5a5a5a;--white:#fff;
+  --radius:10px;--shadow:0 10px 30px rgba(10,37,64,.08);
+  --font-serif:"EB Garamond",Garamond,"Times New Roman",serif;
+  --font-sans:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:var(--font-sans);color:var(--text);background:var(--bg);line-height:1.6;font-size:17px}
+img{max-width:100%;display:block}
+a{color:var(--navy);text-decoration:none}
+.container{max-width:1100px;margin:0 auto;padding:0 24px}
+
+/* Topbar */
+.topbar{background:var(--navy);color:#fff;font-size:14px;padding:10px 0}
+.topbar .container{display:flex;gap:18px;justify-content:space-between;align-items:center;flex-wrap:wrap}
+.topbar a{color:#fff;font-weight:600}
+
+/* Hero */
+.hero{background:linear-gradient(135deg,#0a2540 0%,#143b63 100%);color:#fff;padding:56px 0 44px}
+.hero h1{font-family:var(--font-serif);font-size:clamp(2rem,5vw,3.4rem);line-height:1.15;margin-bottom:18px;font-weight:500}
+.hero h1 em{color:var(--gold);font-style:normal}
+.hero .sub{font-size:1.15rem;max-width:720px;opacity:.92;margin-bottom:26px}
+.hero .badges{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:28px;font-size:14px}
+.hero .badge{background:rgba(255,255,255,.1);padding:6px 14px;border-radius:50px;border:1px solid rgba(255,255,255,.2)}
+
+/* CTA row (3 CTA sopra la piega) */
+.cta-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin-top:12px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:16px 22px;border-radius:var(--radius);font-weight:700;font-size:16px;transition:transform .15s,box-shadow .15s;cursor:pointer;border:0;text-align:center}
+.btn:hover{transform:translateY(-2px);box-shadow:var(--shadow)}
+.btn-call{background:var(--gold);color:var(--navy)}
+.btn-wa{background:#25d366;color:#fff}
+.btn-form{background:#fff;color:var(--navy);border:2px solid #fff}
+
+/* Sections */
+section{padding:56px 0}
+section h2{font-family:var(--font-serif);font-size:clamp(1.6rem,3.5vw,2.3rem);color:var(--navy);margin-bottom:28px;font-weight:500}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start}
+@media(max-width:800px){.two-col{grid-template-columns:1fr}}
+
+/* Services / checklist */
+.check-list{list-style:none;display:grid;gap:12px}
+.check-list li{padding-left:32px;position:relative}
+.check-list li::before{content:"✓";position:absolute;left:0;top:0;width:22px;height:22px;background:var(--gold);color:var(--navy);border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px}
+
+/* Proof */
+.proof{background:#fff}
+.reviews{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+.review{background:var(--bg);border-radius:var(--radius);padding:22px;border-left:4px solid var(--gold)}
+.review .stars{color:var(--gold);font-size:14px;letter-spacing:2px;margin-bottom:8px}
+.review p{font-style:italic;color:var(--muted);margin-bottom:10px;font-size:15px}
+.review .name{font-weight:700;color:var(--navy);font-size:14px}
+
+/* Form */
+.form-wrap{background:var(--navy);color:#fff;border-radius:var(--radius);padding:32px}
+.form-wrap h3{font-family:var(--font-serif);font-size:1.5rem;margin-bottom:16px}
+.form-wrap input,.form-wrap textarea{width:100%;padding:13px 14px;margin-bottom:12px;border:0;border-radius:8px;font-family:inherit;font-size:15px}
+.form-wrap textarea{min-height:100px;resize:vertical}
+.form-wrap .btn{width:100%;margin-top:6px}
+.form-wrap .privacy{font-size:12px;opacity:.75;margin-top:12px}
+
+/* FAQ */
+.faq details{background:#fff;border-radius:var(--radius);padding:18px 22px;margin-bottom:10px;box-shadow:var(--shadow);cursor:pointer}
+.faq summary{font-weight:700;color:var(--navy);list-style:none;outline:none;display:flex;justify-content:space-between;align-items:center}
+.faq summary::after{content:"+";color:var(--gold);font-size:24px;font-weight:300}
+.faq details[open] summary::after{content:"−"}
+.faq details p{margin-top:12px;color:var(--muted)}
+
+/* Footer sticky mobile */
+.sticky-mobile{display:none}
+@media(max-width:700px){
+  .sticky-mobile{display:grid;grid-template-columns:1fr 1fr;position:fixed;bottom:0;left:0;right:0;z-index:50;box-shadow:0 -6px 18px rgba(0,0,0,.12)}
+  .sticky-mobile a{padding:16px 10px;text-align:center;color:#fff;font-weight:700;font-size:15px}
+  .sticky-mobile .sm-call{background:var(--gold);color:var(--navy)}
+  .sticky-mobile .sm-wa{background:#25d366}
+  body{padding-bottom:56px}
+}
+
+/* Footer */
+footer{background:#0a2540;color:#d6dbe4;padding:40px 0;font-size:14px;margin-top:40px}
+footer .container{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px}
+footer h4{color:#fff;margin-bottom:10px;font-size:15px}
+footer a{color:#d6dbe4}
+footer .copyright{grid-column:1/-1;border-top:1px solid #1a3556;padding-top:18px;opacity:.7;font-size:13px}

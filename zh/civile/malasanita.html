@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5PKHC93');</script>
+<!-- End Google Tag Manager -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>医疗过失与医疗责任 | 那不勒斯律师 | Studio Legale Iaccarino</title>
+<meta content="在那不勒斯处理医疗过失与医疗损害责任的律师。格利-比安科法（Legge Gelli-Bianco）、误诊漏诊、人身生理健康损害（danno biologico）、《民事诉讼法》第696-bis条审前技术鉴定（ATP）。咨询费200欧元。业务覆盖意大利全境。" name="description"/>
+<meta content="index, follow" name="robots"/>
+<link href="https://studiolegalefrancescoiaccarino.com/zh/civile/malasanita.html" rel="canonical"/>
+<meta content="article" property="og:type"/>
+<meta content="https://studiolegalefrancescoiaccarino.com/zh/civile/malasanita.html" property="og:url"/>
+<meta content="医疗过失与医疗责任 | Studio Legale Iaccarino" property="og:title"/>
+<meta content="医疗过失、人身生理健康损害（danno biologico）、格利-比安科法（第24/2017号法律）、《民事诉讼法》第696-bis条审前技术鉴定（ATP）。在意大利全国范围内提供法律协助。" property="og:description"/>
+<meta content="https://studiolegalefrancescoiaccarino.com/img/og-civile.jpg" property="og:image"/>
+<meta content="zh-Hans" property="og:locale"/>
+<link href="/favicon-48.png" rel="icon" sizes="48x48" type="image/png"/>
+<link href="/logo-192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&amp;family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;display=swap" rel="stylesheet"/>
+<link href="/css/style.css" rel="stylesheet"/>
+<style>
+/* ═══ MALASANITA — Accento verde #1b5e20 ═══ */
+
+/* Hero */
+.hero-landing {
+  background: linear-gradient(170deg, #06111F 0%, #0B1D32 35%, #102a42 70%, #153350 100%);
+  min-height: 70vh;
+}
+.hero-landing::before {
+  content: '';
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse at 80% 30%, rgba(27,94,32,0.10) 0%, transparent 55%),
+    radial-gradient(ellipse at 15% 75%, rgba(201,169,110,0.05) 0%, transparent 50%);
+}
+.hero-tag {
+  border: 1px solid rgba(27,94,32,0.45);
+  background: rgba(27,94,32,0.12);
+  color: #a5d6a7;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 0.82rem; color: rgba(255,255,255,0.35);
+  margin-bottom: 1.5rem;
+  animation: fadeIn 0.8s ease 0.1s both;
+}
+.breadcrumb a { color: rgba(255,255,255,0.45); text-decoration: none; transition: color 0.25s; }
+.breadcrumb a:hover { color: #C9A96E; }
+.breadcrumb span { margin: 0 0.4rem; }
+
+/* Norma box — verde */
+.norma-box {
+  background: linear-gradient(135deg, rgba(27,94,32,0.07) 0%, rgba(201,169,110,0.03) 100%);
+  border: 1px solid rgba(27,94,32,0.15);
+  border-left: 4px solid #1b5e20;
+  padding: 1.8rem 2.2rem;
+  margin: 1.5rem 0;
+}
+.norma-box-label {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase;
+  color: #1b5e20; margin-bottom: 0.6rem;
+}
+.norma-box h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.2rem; font-weight: 600; color: var(--navy);
+  margin-bottom: 0.7rem;
+}
+.norma-box p { font-size: 0.93rem; color: var(--text-light); line-height: 1.8; }
+.norma-badge {
+  display: inline-block; margin-top: 0.9rem;
+  padding: 0.35rem 1.1rem;
+  background: rgba(27,94,32,0.08);
+  border: 1px solid rgba(27,94,32,0.2);
+  font-size: 0.80rem; font-weight: 600;
+  color: #1b5e20; letter-spacing: 0.05em;
+}
+
+/* Tipi di errore medico — griglia */
+.tipi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 1rem; margin: 2rem 0;
+}
+.tipo-card {
+  padding: 1.5rem 1.4rem;
+  background: var(--white);
+  border: 1px solid rgba(0,0,0,0.06);
+  border-top: 3px solid #1b5e20;
+  transition: all 0.3s;
+}
+.tipo-card:hover {
+  box-shadow: 0 6px 32px rgba(27,94,32,0.08), 0 2px 12px rgba(0,0,0,0.05);
+  transform: translateY(-3px);
+}
+.tipo-icon {
+  font-size: 1.6rem; margin-bottom: 0.7rem; display: block;
+}
+.tipo-card h4 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.08rem; font-weight: 600; color: var(--navy);
+  margin-bottom: 0.5rem;
+}
+.tipo-card p { font-size: 0.87rem; color: var(--text-muted); line-height: 1.65; }
+
+/* Strategie */
+.strategie-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 1.2rem; margin: 2rem 0;
+}
+.strategia {
+  padding: 1.5rem 1.4rem;
+  background: var(--white);
+  border: 1px solid rgba(0,0,0,0.05);
+  transition: all 0.3s;
+}
+.strategia:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+.strategia-num {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 32px; height: 32px;
+  background: rgba(27,94,32,0.1);
+  color: #1b5e20;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1rem; font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+.strategia h4 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.05rem; font-weight: 600; color: var(--navy);
+  margin-bottom: 0.5rem;
+}
+.strategia p { font-size: 0.87rem; color: var(--text-muted); line-height: 1.65; }
+
+/* Casi di studio — versione dettagliata */
+.caso-detail {
+  padding: 2.5rem 0;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+.caso-detail:last-child { border-bottom: none; }
+.caso-num {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase;
+  color: #1b5e20; margin-bottom: 0.5rem;
+}
+.caso-detail h3 {
+  font-size: 1.25rem; font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600; color: var(--navy); margin-bottom: 0.3rem;
+}
+.caso-meta {
+  font-size: 0.82rem; color: var(--text-muted);
+  margin-bottom: 1rem; font-style: italic;
+}
+.caso-detail > p {
+  color: var(--text-light); font-size: 0.97rem; line-height: 1.85;
+  margin-bottom: 0.8rem;
+}
+.caso-risultato {
+  display: inline-block; padding: 0.35rem 1.2rem;
+  font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase;
+  font-family: 'EB Garamond', serif;
+  background: rgba(27,94,32,0.09); color: #1b5e20;
+  border: 1px solid rgba(27,94,32,0.25);
+  margin-top: 0.5rem;
+}
+
+/* Fase ATP highlight */
+.atp-flow {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0; margin: 2rem 0;
+  border: 1px solid rgba(27,94,32,0.15);
+}
+.atp-step {
+  padding: 1.4rem 1.3rem;
+  border-right: 1px solid rgba(27,94,32,0.12);
+  position: relative;
+}
+.atp-step:last-child { border-right: none; }
+.atp-step-n {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 2rem; font-weight: 700; color: rgba(27,94,32,0.18);
+  line-height: 1; margin-bottom: 0.4rem;
+}
+.atp-step h5 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 0.95rem; font-weight: 600; color: var(--navy);
+  margin-bottom: 0.3rem;
+}
+.atp-step p { font-size: 0.82rem; color: var(--text-muted); line-height: 1.6; }
+
+@media (max-width: 700px) {
+  .tipi-grid { grid-template-columns: 1fr; }
+  .strategie-grid { grid-template-columns: 1fr; }
+  .atp-flow { grid-template-columns: 1fr; }
+  .atp-step { border-right: none; border-bottom: 1px solid rgba(27,94,32,0.12); }
+  .atp-step:last-child { border-bottom: none; }
+}
+</style>
+<script type="application/ld+json">{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "headline": "医疗纠纷与医疗责任：依据 Gelli-Bianco 法案维护患者合法权益",
+ "description": "根据 L. 24/2017（Legge Gelli-Bianco）关于医疗责任（responsabilità sanitaria）的完整指南：诊断、手术及治疗错误，人身生理损害（danno biologico），根据 art. 696-bis c.p.c. 规定的预防性技术鉴定（ATP）及已办结案例。",
+ "author": {
+  "@type": "Person",
+  "name": "Avv. Francesco Iaccarino",
+  "url": "https://studiolegalefrancescoiaccarino.com"
+ },
+ "publisher": {
+  "@type": "LegalService",
+  "name": "Studio Legale Iaccarino",
+  "url": "https://studiolegalefrancescoiaccarino.com",
+  "areaServed": {
+   "@type": "Country",
+   "name": "Italy"
+  }
+ },
+ "mainEntityOfPage": {
+  "@type": "WebPage",
+  "@id": "https://studiolegalefrancescoiaccarino.com/civile/malasanita.html"
+ },
+ "about": {
+  "@type": "Thing",
+  "name": "Responsabilità medica e malasanità",
+  "description": "依据第24/2017号法律（Legge Gelli-Bianco）医疗机构及执业医师个人的民事责任"
+ }
+}</script>
+<script type="application/ld+json">{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement": [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "name": "首页",
+   "item": "https://studiolegalefrancescoiaccarino.com/"
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "name": "民法",
+   "item": "https://studiolegalefrancescoiaccarino.com/civile.html"
+  },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "name": "您是否遭遇了医疗事故？医疗系统对您负有义务。",
+   "item": "https://studiolegalefrancescoiaccarino.com/civile/malasanita.html"
+  }
+ ]
+}</script>
+<!--i18n-->
+<link rel="alternate" hreflang="it" href="https://studiolegalefrancescoiaccarino.com/civile/malasanita.html">
+<link rel="alternate" hreflang="x-default" href="https://studiolegalefrancescoiaccarino.com/civile/malasanita.html">
+<link rel="alternate" hreflang="en" href="https://studiolegalefrancescoiaccarino.com/en/civile/malasanita.html">
+<link rel="alternate" hreflang="es" href="https://studiolegalefrancescoiaccarino.com/es/civile/malasanita.html">
+<link rel="alternate" hreflang="pt" href="https://studiolegalefrancescoiaccarino.com/pt/civile/malasanita.html">
+<link rel="alternate" hreflang="ru" href="https://studiolegalefrancescoiaccarino.com/ru/civile/malasanita.html">
+<link rel="alternate" hreflang="ar" href="https://studiolegalefrancescoiaccarino.com/ar/civile/malasanita.html">
+<link rel="alternate" hreflang="zh-Hans" href="https://studiolegalefrancescoiaccarino.com/zh/civile/malasanita.html">
+<link rel="alternate" hreflang="hi" href="https://studiolegalefrancescoiaccarino.com/hi/civile/malasanita.html">
+<link rel="alternate" hreflang="bn" href="https://studiolegalefrancescoiaccarino.com/bn/civile/malasanita.html">
+<link rel="alternate" hreflang="si" href="https://studiolegalefrancescoiaccarino.com/si/civile/malasanita.html">
+<link rel="stylesheet" href="/css/lingue.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
+<!--/i18n-->
+<link rel="stylesheet" href="/css/area-wow.css?v=1">
+</head>
+<body><!--i18n--><details class="lang-switch lang-fissa" translate="no"><summary aria-label="Lingua / Language"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></svg><span>中文</span></summary><div class="lang-menu"><a href="/civile/malasanita.html" hreflang="it" lang="it" translate="no">Italiano</a><a href="/en/civile/malasanita.html" hreflang="en" lang="en" translate="no">English</a><a href="/es/civile/malasanita.html" hreflang="es" lang="es" translate="no">Español</a><a href="/pt/civile/malasanita.html" hreflang="pt" lang="pt" translate="no">Português</a><a href="/ru/civile/malasanita.html" hreflang="ru" lang="ru" translate="no">Русский</a><a href="/ar/civile/malasanita.html" hreflang="ar" lang="ar" translate="no">العربية</a><a href="/zh/civile/malasanita.html" hreflang="zh-Hans" lang="zh-Hans" translate="no">中文</a><a href="/hi/civile/malasanita.html" hreflang="hi" lang="hi" translate="no">हिन्दी</a><a href="/bn/civile/malasanita.html" hreflang="bn" lang="bn" translate="no">বাংলা</a><a href="/si/civile/malasanita.html" hreflang="si" lang="si" translate="no">සිංහල</a></div></details><!--/i18n--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N5PKHC93" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- NAV -->
+<nav class="nav" role="navigation">
+<div class="nav-inner">
+<a class="nav-logo" href="/zh/index.html"> Studio Legale Iaccarino </a>
+<div style="display:flex;gap:1.5rem;align-items:center"><a class="nav-back" href="/zh/civile.html">← 民法</a> <a class="nav-cta-link" href="/zh/consulenza.html?area=civile-malasanita">申请法律咨询</a></div>
+</div>
+</nav>
+<!-- HERO -->
+<section aria-labelledby="hero-title-mal" class="hero-landing">
+<div class="hero-inner">
+<div class="breadcrumb"><a href="/zh/index.html">首页</a><span>›</span> <a href="/zh/civile.html">民法</a><span>›</span> 医疗过失与医疗责任</div>
+<div class="hero-tag">第24/2017号法律 Gelli-Bianco — 医疗卫生责任</div>
+<h1 id="hero-title-mal">您是否遭受了医疗过失？<br/><em>医疗体系对您负有法律义务。</em></h1>
+<p class="hero-desc">延误救命治疗的诊断错误、因缺乏专业技能而执行失误的外科手术、院内感染、分娩过程中的损害：这些情况并非不可抗力。它们属于《盖利-比安科法》（Legge Gelli-Bianco，即第 24/2017 号法律）所规范的医疗责任（responsabilità sanitaria）范畴，该法律重塑了意大利整个患者权益保护体系。主张对生理损害（danno biologico）、精神损害（danno morale）和生存状态损害（danno esistenziale）的赔偿，是一项必须以专业技术水准和严谨举证来行使的权利。</p>
+<div class="hero-actions"><a class="btn-primary" href="/zh/consulenza.html?area=civile-malasanita">申请法律咨询</a> <a class="btn-ghost" href="#casi-studio">已办结案例</a></div>
+</div>
+</section>
+<!-- SEZIONE NORMATIVA -->
+<section class="section">
+<div class="section-narrow">
+<div class="section-label">参考法律框架</div>
+<h2 class="section-title">《盖利-比安科法》与适用法律规范</h2>
+<p style="color:var(--text-light); line-height:1.85; margin-bottom:2rem;">如今，医疗责任受到一套完备法律体系的规范，该体系明确区分了医疗机构的责任与单个专业医务人员的责任。Legge 8 marzo 2017, n. 24 — 即所谓的<strong>Legge Gelli-Bianco</strong> — 在举证责任、诉讼期限、强制调解程序（tentativo obbligatorio di conciliazione）以及强制责任保险方面引入了明确规则。准确了解哪项规范适用于您的情况，是获得您应得赔偿的第一步。</p>
+<div class="norma-box">
+<div class="norma-box-label">2017年3月8日第24号法律 (Legge 8 marzo 2017, n. 24)</div>
+<h3>第 24/2017 号法律 — 《盖利-比安科法》（医疗责任）</h3>
+<p>《盖利-比安科法》是意大利医疗责任的主要法律渊源。它引入了经认证的临床指南作为评估医务人员行为的参考标准，规范了医生的刑事责任（意大利刑法典 art. 590-sexies c.p.），并重新定义了整个民事责任体系。该法律规定了医疗机构和专业医务人员的强制投保义务，并设立了因医疗活动造成损害的保障基金（Fondo di garanzia）。</p>
+<span class="norma-badge"> 主要渊源 — 医疗责任 </span>
+</div>
+<div class="norma-box">
+<div class="norma-box-label">第 24/2017 号法律第 7 条</div>
+<h3>第 7 条 — 医疗机构的民事责任与医生的责任</h3>
+<p>第 7 条确立了一项基本的双轨制：<strong>医疗机构始终承担合同责任</strong>（意大利民法典 art. 1218 c.c.），即使损害是由其聘用的外部专业人员造成的亦然。而<strong>单独从事医疗卫生职业的人员</strong>，除非直接与患者订立了合同，否则依意大利民法典 art. 2043 c.c.承担<strong>侵权责任（responsabilità extracontrattuale）</strong>。这种区分在实践中具有极其重大的意义：它改变了举证责任、诉讼时效（医疗机构为 10 年，医生为 5 年）以及应当采取的诉讼策略。</p>
+<span class="norma-badge"> 双轨制：合同责任（医疗机构）/ 侵权责任（医生） </span>
+</div>
+<div class="norma-box">
+<div class="norma-box-label">第 24/2017 号法律第 8-9 条</div>
+<h3>第 8-9 条 — 强制调解程序与预防性技术鉴定（ATP）</h3>
+<p>在就医疗责任提起任何司法诉讼之前，必须依法进行<strong>强制调解程序</strong>（art. 8），或者作为替代方案，依据意大利民事诉讼法典 art. 696-bis c.p.c.提起<strong>预防性技术鉴定（Accertamento Tecnico Preventivo，简称 ATP）</strong>（art. 9）。这些属于诉讼成立的强制性前提条件（condizioni di procedibilità）：未履行该前置程序将导致后续起诉不予受理。特别是预防性技术鉴定（ATP），具有双重作用：它能在证据灭失之前予以固定，并且往往成为双方达成庭外和解的时机，从而免受正式诉讼之累。</p>
+<span class="norma-badge"> 强制性诉讼前置条件 </span>
+</div>
+<div class="norma-box">
+<div class="norma-box-label">意大利民事诉讼法典 art. 696-bis c.p.c.</div>
+<h3>意大利民事诉讼法典 art. 696-bis c.p.c. — 预防性技术鉴定（ATP）</h3>
+<p>预防性技术鉴定（ATP）是医疗责任诉讼中最有力的程序工具。它允许法院在实体审理开始之前，任命一名法院技术鉴定人（CTU），负责审查病历资料、调取检验报告、评估医务人员的行为，并量化遗留的生理损害。预防性技术鉴定（ATP）具有中断诉讼时效的作用，能够不可更改地固定证据，并且在绝大多数案件中，促成远优于缺乏技术鉴定报告时所能获得的和解赔偿金额。向法院技术鉴定人（CTU）准确提出鉴定问题是整个程序中最关键的环节，需要法医学领域的严谨专业支持。</p>
+<span class="norma-badge"> 核心证据工具 </span>
+</div>
+<div class="norma-box">
+<div class="norma-box-label">《民法典》(Codice Civile)</div>
+<h3>意大利民法典 artt. 2043 与 2236 c.c. — 侵权责任与特殊技术服务</h3>
+<p>意大利民法典 <strong>art. 2043 c.c.</strong> 构成了自由职业医生过错侵权责任的基础：其要求证明侵权违法事实、损害后果、因果关系及过错。而 <strong>art. 2236 c.c.</strong> 则规定，当劳务提供涉及解决特别重大难度的技术问题时，专业人员仅就故意或重大过失承担责任；但最高法院在司法判例中对该条款的适用作出了极其严格的限制：在不属于异常复杂难度的常规诊疗情况下，医生仍不得免除遵守经认证临床指南的义务（Cass. Sez. III, n. 11/2022）。</p>
+<span class="norma-badge"> 意大利民法典 art. 2043 + art. 2236 c.c. </span>
+</div>
+<div class="norma-box">
+<div class="norma-box-label">损害赔偿的量化计算</div>
+<h3>米兰法院赔偿标准表（Tabelle di Milano） — 生理损害、精神损害及生存状态损害</h3>
+<p>在医疗责任诉讼中，非财产损害的量化计算采用<strong>米兰法院赔偿标准表（Tabelle del Tribunale di Milano）</strong>，该标准已被意大利最高法院确立为全国统一标准（最高法院 Sez. III, n. 12408/2011 及后续判决）。该表区分了生理损害（身心健康完整性的受损）、精神损害（主观精神痛苦）以及生存状态损害（个人自我实现日常活动的受阻）。除各项非财产赔偿外，还包括<strong>财产损害（danno patrimoniale）</strong>：已产生及未来的医疗费用、劳动能力丧失赔偿、可得利益损失（lucro cessante）。对每一项损害进行精准评估，需要法医学鉴定以及对一审二审和最高法院裁判规则的深刻掌握。</p>
+<span class="norma-badge"> 米兰赔偿标准表 — 国家标准 </span>
+</div>
+</div>
+</section>
+<!-- TIPI DI ERRORE MEDICO -->
+<section class="section" style="background:var(--cream-dark)">
+<div class="section-narrow">
+<div class="section-label">责任类型</div>
+<h2 class="section-title">构成医疗过失责任的情形</h2>
+<p style="color:var(--text-light); line-height:1.85; margin-bottom:2rem;">医疗责任并不因治疗出现不良后果而自动成立。医生并不保证治愈结果，但必须遵循医疗操作规程。只有当不良后果与偏离经认证临床指南的行为或偏离该案具体情形下专业人员应尽的谨慎义务存在因果关系时，医疗责任方告成立。</p>
+<div class="tipi-grid">
+<div class="tipo-card">
+<span class="tipo-icon">📋</span>
+<h4>诊断错误</h4>
+<p>漏诊、延误诊断或错误诊断，导致未能及时开展适当治疗。包括未能识别明确的临床指征、低估仪器检查结果、未开具指南规定的检查等。诊断错误是引发重大医疗责任的最常见原因。</p>
+</div>
+<div class="tipo-card">
+<span class="tipo-icon">🔫</span>
+<h4>外科手术错误</h4>
+<p>手术操作技术瑕疵、损伤非手术区域的解剖结构（神经、血管、邻近器官）、体内遗留异物、手术术式选择错误、在麻醉安全保障不足的条件下进行手术等。</p>
+</div>
+<div class="tipo-card">
+<span class="tipo-icon">💉</span>
+<h4>治疗方案错误</h4>
+<p>开具禁忌药物、用药剂量错误、未评估药物相互作用、给予与诊断不符的治疗、出现新症状或并发症时未重新评估治疗方案、术后恢复期管理失当等。</p>
+</div>
+<div class="tipo-card">
+<span class="tipo-icon">☣</span>
+<h4>院内感染</h4>
+<p>因医疗机构未遵守卫生和预防操作规程而导致的院内感染。医疗机构承担合同性质的责任，患者只需证明发生了感染以及感染与住院之间的关联性，无需证明医疗机构的具体过失行为（Cass. Sez. III, n. 18704/2016）。</p>
+</div>
+<div class="tipo-card">
+<span class="tipo-icon">📝</span>
+<h4>未履行知情同意义务</h4>
+<p>医生有义务向患者全面、清晰易懂地告知手术风险、替代治疗方案以及拒绝治疗的后果。未规范取得患者知情同意（consenso informato）构成独立的侵权责任，即使手术操作本身完全规范无误亦然（最高法院联合庭判决 Cass. Sez. III, n. 28985/2019 — Sezioni Unite）。</p>
+</div>
+<div class="tipo-card">
+<span class="tipo-icon">👶</span>
+<h4>产科分娩损害</h4>
+<p>分娩操作中的医疗过失导致新生儿（脑瘫、缺氧缺血性脑病）或产妇遭受永久性损害。鉴于伤残程度严重且影响受害人终身，该情形往往伴随着最高的赔偿金额，通常在百万欧元左右或更高。</p>
+</div>
+</div>
+</div>
+</section>
+<!-- COME FUNZIONA L'ATP -->
+<section class="section">
+<div class="section-narrow">
+<div class="section-label">诉讼程序</div>
+<h2 class="section-title">诉前技术鉴定（Accertamento Tecnico Preventivo）的运作机制</h2>
+<p style="color:var(--text-light); line-height:1.85; margin-bottom:1.5rem;">根据 art. 696-bis c.p.c. 规定的预防性技术鉴定（ATP）是医疗过错诉讼中首选的诉讼途径。这是一项非典型保全程序（procedimento cautelare atipico），允许在实体审理之前取得技术鉴定报告、中断诉讼时效并在客观基础上展开协商谈判。在超过 60% 的医疗责任案件中，预防性技术鉴定（ATP）均以达成和解协议告终，无需提起普通诉讼。</p>
+<div class="atp-flow">
+<div class="atp-step" style="background:var(--white)">
+<div class="atp-step-n">01</div>
+<h5>向法院提起诉求（Ricorso al Tribunale）</h5>
+<p>提交依据 art. 696-bis c.p.c. 的诉状（ricorso），其中载明事实、临床病历文件及向法院技术顾问（CTU）提出的鉴定问题。法院（Tribunale）指定司法鉴定人（perito d’ufficio）并确定启动鉴定工作的庭审（udienza）日期。</p>
+</div>
+<div class="atp-step" style="background:var(--cream-dark)">
+<div class="atp-step-n">02</div>
+<h5>指定官方技术顾问（CTU）</h5>
+<p>法官指定法院官方技术顾问（Consulente Tecnico d’Ufficio - CTU），双方当事人可委任法医专业的技术顾问（Consulente Tecnico di Parte - CTP）协助。CTP的选择在诉讼策略中具有决定性意义。</p>
+</div>
+<div class="atp-step" style="background:var(--white)">
+<div class="atp-step-n">03</div>
+<h5>鉴定实施</h5>
+<p>CTU收集全部医疗文书，对当事人进行身体检查，听取涉案医务人员陈述，并根据法官应各方当事人提议所拟定的问题撰写技术鉴定报告。</p>
+</div>
+<div class="atp-step" style="background:var(--cream-dark)">
+<div class="atp-step-n">04</div>
+<h5>提交鉴定报告</h5>
+<p>CTU提交技术鉴定报告。双方当事人通过各自的CTP提交书面异议与审查意见。法官依据鉴定结论确定主持调解程序的听证会日期。</p>
+</div>
+<div class="atp-step" style="background:var(--white)">
+<div class="atp-step-n">05</div>
+<h5>和解协议或进入实体审理</h5>
+<p>若双方达成一致，将签署具有执行名义效力的调解笔录（verbale di conciliazione）。若未达成和解，相关鉴定卷宗将直接用于随后的实体判决程序中。</p>
+</div>
+</div>
+<div class="urgenza-highlight" style="margin-top:2rem;">
+<p><strong>请注意诉讼时效期间：</strong>针对医疗机构的诉讼时效为自获知损害之日起<strong>10年</strong>（合同责任）；针对个别医生的诉讼时效为<strong>5年</strong>（侵权责任）。提交诉前技术鉴定（ATP）诉状将依法中断上述两项时效。请勿拖延：未能及时行使权利的每一天，都可能对您的索赔行动造成不可挽回的损害。</p>
+</div>
+</div>
+</section>
+<a class="casi-risolti-box" href="#casi-studio" style="margin:1.5rem auto;"><span class="cri-icon">✓</span> 前往已解决案例 <span class="cri-arrow">→</span></a>
+<!-- STRATEGIE -->
+<section class="section" style="background:var(--cream-dark)">
+<div class="section-narrow">
+<div class="section-label">我们如何为您提供协助</div>
+<h2 class="section-title">获得赔偿的策略</h2>
+<p style="color:var(--text-light); line-height:1.85; margin-bottom:2rem;">医疗责任案件需要法律与法医学专业知识的紧密结合。本律所协调诉讼程序的各个阶段——从调取临床病历到拟定鉴定问题，从选择恰当的程序工具到逐项核算每一笔损害金额——力求在最短时间内为委托人实现赔偿利益最大化。</p>
+<div class="strategie-grid">
+<div class="strategia">
+<div class="strategia-num">1</div>
+<h4>法医学技术咨询</h4>
+<p>在启动任何法律程序（procedimento）之前，我们都会与信任的法医（medico-legale）协作，统筹对临床病历资料的分析工作。对因果关系（nesso causale）与违约行为（condotta inadempiente）进行事前评估，对于决定是否继续推进以及采取何种策略必不可少，从而避免采取结果不确定的法律行动。</p>
+</div>
+<div class="strategia">
+<div class="strategia-num">2</div>
+<h4>根据 art. 696-bis c.p.c. 规定的预防性技术鉴定（ATP）</h4>
+<p>诉前技术鉴定（ATP）是我们的首选工具。我们提交包含精准严密技术问题的申请书（ricorso），根据涉案病症选派资深当事人技术顾问（CTP），并在每一次鉴定会议中跟进，对CTU的报告提出详尽精准的技术意见。</p>
+</div>
+<div class="strategia">
+<div class="strategia-num">3</div>
+<h4>医疗纠纷调解（Mediazione sanitaria）</h4>
+<p>在未进行预先技术鉴定（ATP）的情况下，依据 art. 8 L. 24/2017 在具备资质的调解机构开展调解尝试，构成替代性的诉讼前置条件（condizione di procedibilità）。我们负责处理该程序，旨在达成公平和解协议，或在无法达成时为后续诉讼审理收集有用的要件。</p>
+</div>
+<div class="strategia">
+<div class="strategia-num">4</div>
+<h4>对医疗机构提起诉求</h4>
+<p>公立或私立医疗机构均承担合同责任（第24/2017号法律第7条结合民法典第1218条）。患者仅需证明损害事实及医疗行为与损害之间的因果关系；医疗机构须承担已尽勤勉义务的举证责任。诉讼时效：10年。实际优势：医疗机构具备高保额的责任保险。</p>
+</div>
+<div class="strategia">
+<div class="strategia-num">5</div>
+<h4>对涉事医生个人提起诉求</h4>
+<p>医务人员个人根据 art. 2043 c.c. 承担责任（侵权责任，responsabilità extracontrattuale）。针对医生的诉讼可以单独提起，也可以与针对医疗机构的诉讼合并提起。该诉讼需要证明具体过错（如无正当理由偏离公认的诊疗指南），诉讼时效为 5 年。受雇医生的责任仅限于故意（dolo）或重大过失（colpa grave）的情形。</p>
+</div>
+<div class="strategia">
+<div class="strategia-num">6</div>
+<h4>损害赔偿的量化计算</h4>
+<p>我们逐项计算并证明各项赔偿款项：暂时性与永久性人身生理损害（米兰损害赔偿标准表 - Tabelle di Milano）、主观痛苦的精神损害、社会交往受损的生存状态损害、既往与未来医疗费用、劳动能力减损、所失利益，以及近亲属因侵害亲属关系而遭受的固有损害（iure proprio）。任何项目均不留于侥幸或任由对方自由裁量。</p>
+</div>
+</div>
+</div>
+</section>
+<!-- CASI DI STUDIO -->
+<section class="section casi" id="casi-studio">
+<div class="section-narrow">
+<div class="section-label">办案成果</div>
+<h2 class="section-title">5个已办结的医疗过失真实案例</h2>
+<!-- CASO 1 -->
+<div class="caso-detail">
+<div class="caso-num">案件编号 1</div>
+<h3>骨科手术失误致坐骨神经医源性损伤 — Tribunale di Napoli</h3>
+<div class="caso-meta">案件性质：医疗机构责任（art. 7 L. 24/2017）+ 主刀医生侵权责任 — 损害后果：左下肢永久性神经功能缺损</div>
+<p>一名五十二岁的男性专业技术工人，因严重髋关节骨关节炎在那不勒斯某公立医院接受了左侧全髋关节置换术。在术后早期恢复过程中，患者出现左下肢运动和感觉功能缺损并伴有足下垂症状，该症状在术前并不存在。临床病历证实，在假体植入操作过程中发生了腓外侧坐骨神经医源性损伤。</p>
+<p>本所向 Tribunale di Napoli 递交了依据 art. 696-bis c.p.c. 的申请（ricorso），并指派了资深的骨科当事人技术顾问（CTP）与神经科当事人技术顾问（CTP），协助法官指定的法院技术顾问（CTU）。鉴定报告确认了医源性损伤，并将其归因于不符合已被意大利科学文献采纳为参考标准的 AAOS（American Academy of Orthopaedic Surgeons）指南的操作。永久性生理损害（danno biologico）被评定为 38% 的完全残疾程度，并伴有特定劳动能力的丧失。在和解尝试程序中，涉事医院及其保险公司接受了一项金额为 € 385.000 的和解协议（transazione），涵盖生理损害（danno biologico）、精神损害（danno morale）、未来神经运动假肢的医疗费用以及收入损失。</p>
+<span class="caso-risultato"> 获得赔偿 — 在预防性技术鉴定（ATP）阶段达成 € 385.000 和解 </span>
+</div>
+<!-- CASO 2 -->
+<div class="caso-detail">
+<div class="caso-num">案件编号 2</div>
+<h3>结肠癌诊断延误 — Tribunale di Roma</h3>
+<div class="caso-meta">案件性质：医疗机构（ASL）违约责任 + 未开具检查医嘱 — 损害后果：恶性肿瘤由 II 期恶化至 IV 期</div>
+<p>一名四十八岁女性在十八个月内多次前往急诊室及家庭医生处就诊，主诉排便不规律、偶发性便血及体重减轻。然而在任何一次就诊中，均未被开具结肠镜检查或任何其他肠道器械检查。最终，该患者因肠梗阻紧急入院，此时结肠癌才得以确诊，但病情已进展至 IV 期并伴有多发性肝转移。</p>
+<p>向Tribunale di Roma提交的预防性技术评估申请（ricorso ATP）涉及三位法院指定技术鉴定人（CTU）：一位肿瘤科医生、一位肠胃科医生和一位法医。鉴定工作确认，在所描述的症状表现下，AIOM（意大利医学肿瘤学会）指南和卫生部的建议要求在第二次就诊后即开具结肠镜检查医嘱。若在II期及时诊断，5年生存率约为85%；而在IV期则降至14%。法院技术鉴定（CTU）认定<em>治愈机会的丧失（perdita di chance di guarigione）</em>为可赔偿的独立损害项目（最高法院第三民事庭，第5641/2018号判决）。在调解阶段，地方卫生局（Azienda Sanitaria Locale）以520.000欧元达成和解，其中包括生理损害、丧失机会损害、精神损害以及向共同生活的家庭成员基于自身权利（iure proprio）进行的赔偿。</p>
+<span class="caso-risultato"> 获得的赔偿 — 520.000欧元，含丧失机会损害 </span>
+</div>
+<!-- CASO 3 -->
+<div class="caso-detail">
+<div class="caso-num">案件编号 3</div>
+<h3>在外科病房感染耐多药肺炎克雷伯菌 — Tribunale di Milano</h3>
+<div class="caso-meta">案件性质：民营医疗机构对院内感染的合同责任 — 损害：脓毒症、慢性肾功能不全、22%永久伤残</div>
+<p>一名六十四岁男性在米兰一家民营诊所接受腹腔镜胆囊切除术，该手术为常规手术，预计病程为24至48小时。术后第四天出现高烧和脓毒症迹象。细菌培养检查分离出一株产碳青霉烯酶肺炎克雷伯菌（KPC），该细菌对常用抗生素高度耐药。患者在重症监护室住院四十二天，导致慢性肾功能不全，每周需进行三次透析。</p>
+<p>预防性技术评估申请（ricorso ATP）通过感染科法院技术鉴定人（CTU）的报告证明，该机构未执行国家应对抗微生物药物耐药性计划（PNCAR）推荐的耐多药微生物筛查规程，且医疗器械的可追溯性存在严重缺陷。根据最高法院确立的原则（第三民事庭，第18704/2016号判决），无需证明具体的单一过失行为即可认定该诊所承担责任，证明存在感染以及与住院之间的时间关联性即已足够。在CTU报告提交后，该机构提出了310.000欧元的和解方案并被当事人接受，其中包括永久性生理损害、折算为现值的未来透析费用以及部分劳动能力丧失损害。</p>
+<span class="caso-risultato"> 获得的赔偿 — 诉前预防性技术评估（ATP）阶段达成310.000欧元 </span>
+</div>
+<!-- CASO 4 -->
+<div class="caso-detail">
+<div class="caso-num">案件编号 4</div>
+<h3>分娩损害 — 产瘫致臂丛神经麻痹 — Tribunale di Napoli</h3>
+<div class="caso-meta">案件性质：公立医疗机构与妇产科医生的责任 — 损害：新生儿右上肢永久性瘫痪，45%伤残</div>
+<p>一名顺产并伴有肩难产的新生儿，由于分娩过程中不当的助产操作，导致右侧臂丛神经产瘫（Erb-Duchenne损伤）。肩难产属于可预见的并发症并在病历中已有记录（妊娠38周超声评估为巨大儿，新生儿体重4.650克），但此前未制定任何针对性的处置预案。值班妇产科医生执行的操作不符合RCOG（英国皇家妇产科医学院）及SIGO指南推荐的操作顺序，该指南规范了依次进行McRoberts手法、耻骨联合上加压、Wood内部旋转手法，并在必要时行耻骨联合切开术。</p>
+<p>由Tribunale di Napoli指定的著名妇产科法院技术鉴定人（CTU）认定，实施的操作过度且缺乏协同，导致臂丛神经遭受创伤性牵拉。按照米兰标准折算表（Tabelle di Milano）推算整个生命周期的未成年人永久性生理损害，仅非财产损害部分即被量化为780.000欧元，此外还加上未来的物理治疗与神经运动康复费用，以及向父母基于自身权利（iure proprio）支付的亲属关系损害赔偿。实体审理以Tribunale di Napoli作出的判决告终，判令该医院总计支付920.000欧元。</p>
+<span class="caso-risultato"> 法院判决赔偿 — 因分娩损害判赔920.000欧元 </span>
+</div>
+<!-- CASO 5 -->
+<div class="caso-detail">
+<div class="caso-num">案例 5</div>
+<h3>麻醉失误致术后昏迷 — Tribunale di Roma</h3>
+<div class="caso-meta">案件性质：医疗机构合同责任 + 麻醉师侵权责任 — 损害：缺氧性脑病、微小意识植物人状态、85%伤残</div>
+<p>一名身体健康的三十九岁女性，在罗马一家民营诊所接受择期甲状腺全切除术。在麻醉诱导期间，发生了未被及时识别的食管插管事件，导致大脑缺氧持续约十一分钟。患者随后被转入重症监护室，并出现严重缺氧性脑病，逐渐转入微小意识状态。</p>
+<p>事发经过的还原是通过对麻醉记录和呼气末二氧化碳波形图分析完成的，记录显示监测仪器发出首次警报与采取首次纠正措施之间延迟了约四分钟。SIAARTI（意大利麻醉镇痛复苏与重症监护学会）指南规定在每次气管插管期间必须使用并持续监测呼气末二氧化碳：该异常信号被忽视的时长与任何勤勉尽责标准均不相符。Tribunale di Roma指定的CTU认定麻醉师及医疗机构应承担全部责任。在鉴定报告提交后，诊所的保险公司达成了1.450.000欧元的和解协议，包括所有非财产损害、按精算推算折现的未来持续护理费用、完全丧失劳动能力造成的财产损失，以及向配偶和两名未成年子女基于自身权利（iure proprio）的损害赔偿。</p>
+<span class="caso-risultato"> 获得的赔偿 — 预防性技术评估（ATP）阶段达成1.450.000欧元 </span>
+</div>
+</div>
+</section>
+<a class="casi-risolti-box" href="#casi-studio" style="margin:1.5rem auto;"><span class="cri-icon">✓</span> 前往已解决案例 <span class="cri-arrow">→</span></a>
+<!-- CTA -->
+<section class="section cta-section">
+<div class="section-narrow" style="text-align:center">
+<div class="section-label">您是否遭受了医疗损害？</div>
+<h2 class="section-title">赔偿不会自动达成。<br/>需要深谙索赔之道的人为您维权。</h2>
+<p>医疗过错责任是民事法律中最复杂的领域之一：不仅需要熟练掌握专门法律规范、知晓权威的临床诊疗指南，还需要具备将诉讼策略与法医专业工作有效统筹的能力。诉讼时效期间——医生个人为5年，医疗机构为10年——自损害具备可获知性之日起算。请勿等到时效届满。</p>
+<div class="cta-price">€ 200</div>
+<div class="cta-price-label">医疗纠纷专业咨询 — 到所或远程</div>
+<a class="btn-primary" href="/zh/consulenza.html?area=civile-malasanita"> 预约您的咨询 </a>
+</div>
+</section>
+<!-- FORM -->
+<section class="form-section" id="contatti">
+<div class="form-container">
+<h2>预约医疗纠纷法律咨询</h2>
+<p class="form-subtitle">请描述发生的经过及您目前拥有的材料。我们将在数小时内与您联系。</p>
+<div class="form-price-badge">
+<div class="fprice">€ 200</div>
+<div class="flabel">初步咨询 — 可抵扣后续可能的委托代理费用</div>
+</div>
+<form action="https://formsubmit.co/ajax/studiolegalefrancescoiaccarino@outlook.com" data-area="Civile — Malasanità" data-form="" method="POST">
+<input name="_subject" type="hidden" value="Consulenza Malasanità e Responsabilità Medica - Studio Legale Iaccarino"/>
+<input name="origine" type="hidden" value="Landing Malasanità"/>
+<input name="_captcha" type="hidden" value="false"/>
+<input name="_next" type="hidden" value="../grazie.html"/>
+<input autocomplete="off" name="_gotcha" style="display:none" tabindex="-1" type="text"/>
+<div class="form-row">
+<div class="form-group">
+<label class="form-label" for="nome-mal">姓名</label>
+<input class="form-input" id="nome-mal" name="nome" placeholder="您的姓名" required="" type="text"/>
+</div>
+<div class="form-group">
+<label class="form-label" for="tel-mal">电话</label>
+<input class="form-input" id="tel-mal" name="telefono" placeholder="+39 ..." required="" type="tel"/>
+</div>
+</div>
+<div class="form-group">
+<label class="form-label" for="email-mal">电子邮箱</label>
+<input class="form-input" id="email-mal" name="email" placeholder="您的电子邮箱" required="" type="email"/>
+</div>
+<div class="form-group">
+<label class="form-label" for="tipo-mal">医疗事件类型</label>
+<select class="form-select" id="tipo-mal" name="tipo_problema" required="">
+<option value="">请选择…</option>
+<option value="Errore diagnostico">诊断错误 / 延误诊断</option>
+<option value="Errore chirurgico">外科手术错误</option>
+<option value="Errore terapeutico">治疗错误 / 用药错误</option>
+<option value="Infezione nosocomiale">院内感染</option>
+<option value="Danno da parto">分娩损害（产妇或新生儿）</option>
+<option value="Consenso informato">未履行或不充分履行知情同意程序</option>
+<option value="Errore anestesiologico">麻醉失误</option>
+<option value="Altro danno sanitario">其他医疗损害</option>
+</select>
+</div>
+<div class="form-group">
+<label class="form-label" for="msg-mal">请简要描述事件经过</label>
+<textarea class="form-textarea" id="msg-mal" name="messaggio" placeholder="Indica quando e dove è avvenuto l’evento, quale struttura o medico era coinvolto, quale danno hai subito e se hai già tutta la documentazione clinica…" required=""></textarea>
+</div>
+<button class="form-submit" type="submit">提交咨询申请</button>
+<p class="form-note">依据GDPR及律师职业保密规定，您的个人数据将受到严格保密。法律咨询费用为 € 200，若后续委托案件可全额抵扣。<a href="/zh/privacy.html" style="color:rgba(255,255,255,0.4)">Privacy Policy</a>。</p>
+</form>
+</div>
+</section>
+<!-- FOOTER -->
+<footer class="footer">
+<div class="footer-contact-direct"><a href="tel:+393335684659" style="color:var(--gold-light,#C9A96E);text-decoration:none;margin-right:1.5rem">+39 333 568 4659</a> <a href="https://wa.me/393335684659" rel="noopener noreferrer" style="color:#25D366;text-decoration:none" target="_blank">WhatsApp →</a></div>
+<p>© 2026 Studio Legale Avv. Francesco Iaccarino — 那不勒斯律师公会（Foro di Napoli）</p>
+<p style="margin-top:0.25rem">P.IVA: 08836401219 — 注册于那不勒斯律师公会（Albo Avvocati del Foro di Napoli）</p>
+<div class="footer-links"><a href="/zh/index.html">首页</a> <a href="/zh/civile.html">民法</a> <a href="/zh/penale.html">刑法</a> <a href="/zh/tributario.html">税务法</a> <a href="/zh/immigrazione.html">移民法</a> <a href="/zh/privacy.html">隐私政策</a></div>
+</footer>
+<div aria-label="Cookie政策通知" class="cookie-banner" role="dialog">
+<p>本网站仅使用技术性Cookie。<a href="/zh/privacy.html">Privacy Policy</a>。</p>
+<button class="cookie-accept">接受</button>
+</div>
+<a class="mobile-sticky-cta" href="/zh/consulenza.html?area=civile-malasanita"> 医疗过错法律咨询 — 200 欧元 </a>
+<script defer="" src="/zh/js/main.js"></script>
+<script defer="" src="/zh/js/chat-widget.js?v=4"></script>
+<!-- WHATSAPP FLOATING BUTTON -->
+<a aria-label="通过 WhatsApp 联系我们" class="whatsapp-float" href="https://wa.me/393335684659" rel="noopener noreferrer" target="_blank">
+<svg fill="currentColor" viewbox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"></path></svg>
+</a>
+<style>
+.whatsapp-float{position:fixed;bottom:1.5rem;right:1.5rem;width:56px;height:56px;background:#25D366;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 20px rgba(37,211,102,0.4);z-index:9999;transition:transform 0.3s,box-shadow 0.3s}
+.whatsapp-float svg{width:28px;height:28px;color:#fff}
+.whatsapp-float:hover{transform:scale(1.1);box-shadow:0 6px 28px rgba(37,211,102,0.6)}
+@media(min-width:768px){.whatsapp-float{bottom:2rem;right:2rem;width:64px;height:64px}.whatsapp-float svg{width:32px;height:32px}}
+</style>
+<!-- ═══ PULSANTE WHATSAPP FISSO (lato sinistro) ═══ -->
+<style>
+#wa-float{position:fixed;left:22px;top:50%;transform:translateY(-50%);z-index:10000;
+  display:flex;align-items:center;gap:.6rem;background:#25D366;color:#fff;text-decoration:none;
+  padding:.85rem 1.3rem .85rem 1rem;border-radius:50px;
+  font-family:'Cormorant Garamond',Georgia,serif;font-size:1.02rem;font-weight:700;letter-spacing:.02em;
+  box-shadow:0 6px 26px rgba(37,211,102,.5),0 2px 10px rgba(0,0,0,.3);
+  transition:transform .25s ease,box-shadow .25s ease,background .25s ease;}
+#wa-float:hover{background:#1da851;color:#fff;transform:translateY(-50%) scale(1.05);
+  box-shadow:0 10px 34px rgba(37,211,102,.6);}
+#wa-float svg{width:30px;height:30px;flex:0 0 30px;display:block;}
+#wa-float .wa-txt{white-space:nowrap;}
+#wa-float::after{content:'';position:absolute;inset:0;border-radius:50px;
+  border:2px solid rgba(37,211,102,.75);animation:waPulse 2.4s ease-out infinite;pointer-events:none;}
+@keyframes waPulse{0%{transform:scale(1);opacity:.85}70%{transform:scale(1.2);opacity:0}100%{opacity:0}}
+@media (max-width:900px){
+  #wa-float{left:14px;top:auto;bottom:92px;transform:none;padding:.85rem;gap:0;}
+  #wa-float:hover{transform:none;}
+  #wa-float .wa-txt{display:none;}
+  #wa-float svg{width:32px;height:32px;flex:0 0 32px;}
+}
+@media (prefers-reduced-motion:reduce){#wa-float::after{animation:none}}
+@media print{#wa-float{display:none}}
+</style>
+<a aria-label="通过 WhatsApp 联系律所" href="https://wa.me/393335684659?text=Buongiorno%2C%20vorrei%20informazioni%20per%20una%20consulenza%20legale." id="wa-float" rel="noopener noreferrer" target="_blank">
+<svg aria-hidden="true" fill="currentColor" focusable="false" viewbox="0 0 32 32">
+<path d="M16.02 3.2c-7.06 0-12.8 5.74-12.8 12.8 0 2.26.59 4.47 1.72 6.42L3.2 28.8l6.55-1.71a12.74 12.74 0 0 0 6.27 1.6h.01c7.05 0 12.79-5.74 12.79-12.8 0-3.42-1.33-6.63-3.75-9.05a12.7 12.7 0 0 0-9.05-3.64zm0 23.34h-.01c-1.98 0-3.93-.53-5.63-1.54l-.4-.24-4.18 1.1 1.11-4.08-.26-.42a10.6 10.6 0 0 1-1.63-5.66c0-5.87 4.78-10.64 10.65-10.64 2.84 0 5.51 1.11 7.52 3.12a10.57 10.57 0 0 1 3.11 7.53c0 5.87-4.77 10.64-10.64 10.64zm5.84-7.97c-.32-.16-1.89-.93-2.18-1.04-.29-.11-.5-.16-.71.16-.21.32-.82 1.04-1.01 1.25-.18.21-.37.24-.69.08-.32-.16-1.35-.5-2.57-1.59-.95-.85-1.59-1.89-1.78-2.21-.18-.32-.02-.5.14-.66.14-.14.32-.37.48-.56.16-.19.21-.32.32-.53.11-.21.05-.4-.03-.56-.08-.16-.71-1.72-.98-2.35-.26-.62-.52-.54-.71-.55l-.61-.01c-.21 0-.56.08-.85.4-.29.32-1.11 1.09-1.11 2.65 0 1.56 1.14 3.07 1.3 3.28.16.21 2.25 3.43 5.45 4.81.76.33 1.35.52 1.82.67.76.24 1.46.21 2.01.13.61-.09 1.89-.77 2.16-1.52.27-.75.27-1.38.19-1.52-.08-.13-.29-.21-.61-.37z"></path>
+</svg>
+<span class="wa-txt"> 通过 WhatsApp 留言 </span>
+</a>
+<script>
+(function(){
+  var w=document.getElementById('wa-float');if(!w)return;
+  var GAP=16,BASE=92;
+  function ck(){return document.querySelector('.cookie-banner');}
+  function adj(){
+    if(window.innerWidth>900){w.style.bottom='';return;}
+    var c=ck(),h=0;
+    if(c){var r=c.getBoundingClientRect();
+      if(r.height>0&amp;&amp;r.top<window.innerHeight-2){h=window.innerHeight-r.top;}}
+    w.style.bottom=(h>0?Math.round(h)+GAP:BASE)+'px';
+  }
+  adj();
+  window.addEventListener('resize',adj);
+  window.addEventListener('scroll',adj,{passive:true});
+  var c=ck();
+  if(c){
+    c.addEventListener('transitionend',adj);
+    try{new MutationObserver(adj).observe(c,{attributes:true,attributeFilter:['class','style']});}catch(e){}
+    try{new ResizeObserver(adj).observe(c);}catch(e){}
+  }
+  document.addEventListener('click',function(){setTimeout(adj,80);setTimeout(adj,500);},true);
+  [300,900,2000,3200].forEach(function(t){setTimeout(adj,t);});
+})();
+</script>
+<!-- ═══ FINE PULSANTE WHATSAPP ═══ -->
+<!--i18n--><div class="lang-nota">本翻译仅供参考，一切以意大利语原文为准。内容仅具信息参考性质，不能替代法律咨询，且仅涉及意大利法律。 <a href="/civile/malasanita.html" hreflang="it" lang="it">意大利语版本</a></div><!--/i18n-->
+<script src="/js/area-wow.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+/* AREE E PAGINE REATO: stesso linguaggio della home (20.11.2026) */
+:root{--wbg:#050d18;--wgold:#d8b46a;--wgold2:#f1d89a;--wink:#e9edf5;--wsoft:#b8c2d4;--wline:rgba(255,255,255,.12)}
+html{background:var(--wbg)}
+body{background:var(--wbg)!important;color:var(--wink);font-family:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;font-size:1.05rem;line-height:1.7}
+h1,h2,h3,h4{font-family:'Cormorant Garamond',Georgia,serif;color:var(--wink)}
+.section,.chi-sono,.casi,.urgenza,.section[style]{background:transparent!important;color:var(--wink)}
+.section:nth-of-type(even){background:radial-gradient(60% 80% at 50% 0,rgba(216,180,106,.07),transparent 70%)!important}
+.section-title,.section-narrow h2,.section-narrow h3,.caso-detail h3,.strategia h4,.area-card h3,.competenza h3,.caso h3,.step h3,.perche-item h3{color:var(--wink)!important}
+.section-title{font-size:clamp(2rem,5vw,3.4rem);line-height:1.05;letter-spacing:-.01em}
+.section-label,.caso-num,.norma-box-label{color:var(--wgold)!important;letter-spacing:.22em;font-family:'Inter',sans-serif;font-size:.74rem;font-weight:600}
+p,li,.section-narrow p{color:var(--wsoft)}
+strong{color:var(--wink)}
+a{color:var(--wgold2)}
+
+/* barra superiore */
+.nav{background:rgba(5,13,24,.72)!important;-webkit-backdrop-filter:blur(18px) saturate(1.4);backdrop-filter:blur(18px) saturate(1.4);border-bottom:1px solid var(--wline)!important;position:sticky;top:0;z-index:100}
+.nav-logo{color:var(--wink)!important;font-family:'Cormorant Garamond',Georgia,serif;font-weight:700;letter-spacing:.01em}
+.nav-back{color:var(--wsoft)!important}
+.nav-back:hover{color:var(--wgold)!important}
+.nav-cta-link,.btn-primary{background:linear-gradient(120deg,var(--wgold2),var(--wgold))!important;color:#1a1204!important;border:0!important;border-radius:999px!important;font-weight:700;padding:.8rem 1.6rem!important;box-shadow:0 10px 30px -12px rgba(216,180,106,.7);position:relative;overflow:hidden;text-decoration:none}
+.btn-primary::after,.nav-cta-link::after{content:"";position:absolute;top:0;left:-70%;width:50%;height:100%;background:linear-gradient(100deg,transparent,rgba(255,255,255,.55),transparent);transform:skewX(-20deg);animation:wlampo 4.5s ease-in-out infinite}
+@keyframes wlampo{0%,60%{left:-70%}100%{left:130%}}
+.btn-ghost{border:1px solid var(--wline)!important;color:var(--wink)!important;border-radius:999px!important;background:rgba(255,255,255,.05);padding:.8rem 1.6rem}
+.btn-ghost:hover{border-color:var(--wgold)!important}
+
+/* hero */
+.hero-landing,.hero,.page-hero{position:relative;overflow:hidden;background:linear-gradient(170deg,#050d18,#0a1a30 60%,#0d2140)!important;min-height:78vh!important;display:flex;align-items:center}
+.hero-landing::before{content:""!important;position:absolute;width:60vw;height:60vw;max-width:780px;max-height:780px;border-radius:50%;filter:blur(90px);background:radial-gradient(circle,#2c5aa8,transparent 65%)!important;inset:auto!important;top:-18%;left:-12%;opacity:.4;animation:waur 18s ease-in-out infinite alternate}
+.hero-landing::after{content:"";position:absolute;width:55vw;height:55vw;max-width:700px;max-height:700px;border-radius:50%;filter:blur(90px);background:radial-gradient(circle,#d8b46a,transparent 65%);bottom:-25%;right:-10%;opacity:.26;animation:waur 18s ease-in-out -9s infinite alternate;pointer-events:none}
+@keyframes waur{to{transform:translate(8%,10%) scale(1.15)}}
+.hero-inner{position:relative;z-index:1}
+.hero-landing h1,.hero h1{font-size:clamp(2.6rem,8vw,6rem)!important;line-height:1;letter-spacing:-.02em;color:var(--wink)!important}
+.hero-landing h1 em,.hero h1 em{font-style:normal;background:linear-gradient(110deg,var(--wgold2),var(--wgold),var(--wgold2));background-size:200% auto;-webkit-background-clip:text;background-clip:text;color:transparent;animation:wshine 6s linear infinite;display:inline-block}
+@keyframes wshine{to{background-position:200% center}}
+.hero-tag{border:1px solid rgba(216,180,106,.4)!important;background:rgba(216,180,106,.1)!important;color:var(--wgold2)!important;border-radius:999px;font-family:'Inter',sans-serif;letter-spacing:.14em;font-size:.72rem;padding:.45rem 1.1rem}
+.hero-desc{color:var(--wsoft)!important;font-size:1.15rem;max-width:640px}
+.breadcrumb,.breadcrumb a{color:rgba(255,255,255,.5)!important}
+
+/* schede in vetro */
+.norma-box,.fascia,.strategia,.caso-detail,.area-card,.competenza,.perche-item,.caso,.step,.faq-item,.urgenza-highlight{background:linear-gradient(180deg,rgba(255,255,255,.08),rgba(255,255,255,.02))!important;border:1px solid var(--wline)!important;border-radius:20px!important;position:relative;overflow:hidden;box-shadow:none!important;transition:transform .25s,border-color .25s,box-shadow .25s}
+.fascia,.norma-box{border-left-width:3px!important}
+.caso-detail{padding:2rem!important;margin:1rem 0}
+.strategia:hover,.fascia:hover,.area-card:hover,.competenza:hover,.caso-detail:hover,.caso:hover{transform:translateY(-5px);border-color:var(--wgold)!important;box-shadow:0 18px 50px -20px rgba(216,180,106,.5)!important}
+.norma-box h3{color:var(--wink)!important}
+.norma-box p,.fascia p,.strategia p,.caso-detail>p,.caso-meta{color:var(--wsoft)!important}
+.norma-pena{background:rgba(216,180,106,.1)!important;border:1px solid rgba(216,180,106,.3)!important;color:var(--wgold2)!important;border-radius:999px;padding:.4rem 1.2rem}
+.caso-risultato{background:rgba(111,211,154,.12)!important;color:#6fd39a!important;border:1px solid rgba(111,211,154,.35)!important;border-radius:999px}
+.fascia-verde h4{color:#6fd39a!important}.fascia-gialla h4{color:#f6c453!important}.fascia-rossa h4{color:#ff8a8a!important}.fascia-viola h4{color:#c39bff!important}
+.urgenza-highlight{border-left:3px solid var(--wgold)!important}
+.casi-risolti-box{display:inline-flex;align-items:center;gap:.7rem;background:rgba(111,211,154,.1)!important;border:1px solid rgba(111,211,154,.4)!important;color:#6fd39a!important;border-radius:999px!important;padding:.8rem 1.6rem;text-decoration:none;font-weight:600}
+.cri-icon{color:#6fd39a}
+
+/* luce che segue il cursore */
+.fascia::before,.strategia::before,.norma-box::before,.caso-detail::before,.area-card::before,.competenza::before{content:"";position:absolute;inset:0;background:radial-gradient(420px circle at var(--mx,50%) var(--my,0%),rgba(216,180,106,.16),transparent 45%);opacity:0;transition:opacity .3s;pointer-events:none}
+.fascia:hover::before,.strategia:hover::before,.norma-box:hover::before,.caso-detail:hover::before,.area-card:hover::before,.competenza:hover::before{opacity:1}
+
+/* chiamata e form */
+.cta-section{background:radial-gradient(70% 90% at 50% 0,rgba(216,180,106,.16),transparent 70%),#07111f!important}
+.form-section,.contatti{background:#07111f!important}
+.form-container,.form-box{background:rgba(255,255,255,.05)!important;border:1px solid var(--wline)!important;border-radius:24px!important;padding:2rem}
+input,select,textarea,.form-input,.form-select{background:rgba(255,255,255,.06)!important;border:1px solid var(--wline)!important;color:var(--wink)!important;border-radius:14px!important;font-size:1rem!important;padding:.9rem 1.1rem}
+input:focus,select:focus,textarea:focus{border-color:var(--wgold)!important;box-shadow:0 0 0 4px rgba(216,180,106,.15);outline:none}
+.form-submit,.form-section button[type=submit]{background:linear-gradient(120deg,var(--wgold2),var(--wgold))!important;color:#1a1204!important;border:0!important;border-radius:999px!important;font-weight:700;padding:1rem 2rem}
+.footer{background:#030812!important;border-top:1px solid var(--wline)}
+.footer,.footer a,.footer p{color:var(--wsoft)!important}
+
+/* barra avanzamento e comparsa */
+.progress{position:fixed;top:0;left:0;height:3px;width:0;background:linear-gradient(90deg,var(--wgold2),var(--wgold));z-index:300;box-shadow:0 0 12px var(--wgold)}
+.js .rv2{opacity:0;transform:translateY(26px);transition:opacity .7s,transform .7s}
+.js .rv2.in{opacity:1;transform:none}
+
+/* pulsante flottante per consulenza, comodo da telefono */
+.fab-consulenza{position:fixed;left:14px;right:14px;bottom:14px;z-index:90;display:none;text-align:center;background:linear-gradient(120deg,var(--wgold2),var(--wgold));color:#1a1204!important;font-weight:700;border-radius:999px;padding:15px 20px;text-decoration:none;box-shadow:0 14px 40px -10px rgba(0,0,0,.7)}
+@media(max-width:760px){.fab-consulenza{display:block}body{padding-bottom:84px}.hero-landing{min-height:70vh!important}.section{padding-left:1.1rem;padding-right:1.1rem}}
+@media(prefers-reduced-motion:reduce){.hero-landing::before,.hero-landing::after,.btn-primary::after,.nav-cta-link::after,.hero-landing h1 em{animation:none}.js .rv2{opacity:1;transform:none}}
+
+/* hub: schede reato e titoli con stili propri */
+.section-label{background:none!important;border:0!important;box-shadow:none!important;text-shadow:none!important;padding:0!important;color:var(--wgold)!important}
+h1.section-title,h2.section-title{background:none!important;color:var(--wink)!important;box-shadow:none!important;padding:0!important;display:block!important;border:0!important}
+h1.section-title[style]{font-size:clamp(1.3rem,3vw,1.9rem)!important;color:var(--wsoft)!important;font-family:'Inter',sans-serif;font-weight:500}
+.section-text{color:var(--wsoft)!important}
+.reati-grid{gap:1.1rem!important;background:none!important;border:0!important}
+.reato-card{background:linear-gradient(180deg,rgba(255,255,255,.08),rgba(255,255,255,.02))!important;border:1px solid var(--wline)!important;border-radius:20px!important;box-shadow:none!important;color:var(--wink)!important;position:relative;overflow:hidden;transition:transform .25s,border-color .25s,box-shadow .25s}
+.reato-card:hover{transform:translateY(-5px);border-color:var(--wgold)!important;box-shadow:0 18px 50px -20px rgba(216,180,106,.5)!important}
+.reato-card h3,.reato-card h4,.reato-body *{color:var(--wink)}
+.reato-card p,.reato-body p{color:var(--wsoft)!important}
+.reato-num{color:rgba(216,180,106,.35)!important}
+.reato-icon-wrap{background:rgba(216,180,106,.12)!important;color:var(--wgold)!important;border-radius:14px!important}
+.reato-cta{background:linear-gradient(120deg,var(--wgold2),var(--wgold))!important;color:#1a1204!important;border-radius:999px!important;font-weight:700;box-shadow:none!important;border:0!important}
+.reato-cta span{color:#1a1204!important}
+.section-label,.section-label *{color:var(--wgold)!important;text-shadow:none!important}
+.reato-icon-wrap svg,.reato-icon-wrap *{stroke:var(--wgold)!important;color:var(--wgold)!important}
+h1.section-title[style]{font-family:'Inter',sans-serif!important}

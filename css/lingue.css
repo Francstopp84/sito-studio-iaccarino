@@ -1,0 +1,23 @@
+/* Selettore lingua e adattamenti per le versioni tradotte */
+.lang-switch{position:relative;display:inline-block;margin-inline-start:.9rem;font-family:Arial,'Segoe UI',sans-serif;font-size:.85rem;font-style:normal;z-index:1001}
+.lang-switch summary{display:flex;align-items:center;gap:.35rem;cursor:pointer;list-style:none;padding:.35rem .6rem;border:1px solid rgba(201,169,110,.65);border-radius:4px;color:#C9A96E;background:rgba(11,29,50,.85);white-space:nowrap}
+.lang-switch summary::-webkit-details-marker{display:none}
+.lang-menu{position:absolute;inset-inline-end:0;top:calc(100% + 4px);min-width:150px;background:#0B1D32;border:1px solid rgba(201,169,110,.5);border-radius:4px;box-shadow:0 8px 24px rgba(0,0,0,.35);padding:.25rem 0}
+.lang-menu a{display:block;padding:.5rem .85rem;color:#f4efe6!important;text-decoration:none;font-size:.95rem;line-height:1.35;text-align:start}
+.lang-menu a:hover,.lang-menu a:focus{background:rgba(201,169,110,.2)}
+.lang-fissa{position:fixed;top:.6rem;inset-inline-end:.8rem;margin:0}
+.nav-inner{align-items:center}
+.lang-nota{background:#0B1D32;color:rgba(255,255,255,.75);font-family:Arial,sans-serif;font-size:.8rem;line-height:1.5;text-align:center;padding:.8rem 1rem 5rem}
+.lang-nota a{color:#C9A96E}
+@media(max-width:900px){.lang-switch{margin-inline-start:auto;margin-inline-end:.6rem}}
+
+/* Scritture non latine */
+html[lang=ar] body,html[lang=ar] h1,html[lang=ar] h2,html[lang=ar] h3,html[lang=ar] h4,html[lang=ar] p,html[lang=ar] a,html[lang=ar] li,html[lang=ar] div,html[lang=ar] span,html[lang=ar] button,html[lang=ar] input,html[lang=ar] select,html[lang=ar] label{font-family:'Noto Naskh Arabic',serif!important}
+html[lang=zh-Hans] body,html[lang=zh-Hans] h1,html[lang=zh-Hans] h2,html[lang=zh-Hans] h3,html[lang=zh-Hans] h4,html[lang=zh-Hans] p,html[lang=zh-Hans] a,html[lang=zh-Hans] li,html[lang=zh-Hans] div,html[lang=zh-Hans] span,html[lang=zh-Hans] button,html[lang=zh-Hans] input,html[lang=zh-Hans] select,html[lang=zh-Hans] label{font-family:'Noto Serif SC',serif!important}
+html[lang=hi] body,html[lang=hi] h1,html[lang=hi] h2,html[lang=hi] h3,html[lang=hi] h4,html[lang=hi] p,html[lang=hi] a,html[lang=hi] li,html[lang=hi] div,html[lang=hi] span,html[lang=hi] button,html[lang=hi] input,html[lang=hi] select,html[lang=hi] label{font-family:'Noto Serif Devanagari',serif!important}
+html[lang=bn] body,html[lang=bn] h1,html[lang=bn] h2,html[lang=bn] h3,html[lang=bn] h4,html[lang=bn] p,html[lang=bn] a,html[lang=bn] li,html[lang=bn] div,html[lang=bn] span,html[lang=bn] button,html[lang=bn] input,html[lang=bn] select,html[lang=bn] label{font-family:'Noto Serif Bengali',serif!important}
+html[lang=si] body,html[lang=si] h1,html[lang=si] h2,html[lang=si] h3,html[lang=si] h4,html[lang=si] p,html[lang=si] a,html[lang=si] li,html[lang=si] div,html[lang=si] span,html[lang=si] button,html[lang=si] input,html[lang=si] select,html[lang=si] label{font-family:'Noto Serif Sinhala',serif!important}
+html[lang=ar] em,html[lang=ar] i,html[lang=zh-Hans] em,html[lang=zh-Hans] i,html[lang=hi] em,html[lang=hi] i,html[lang=bn] em,html[lang=bn] i,html[lang=si] em,html[lang=si] i{font-style:normal}
+html[lang=ar] h1,html[lang=ar] h2,html[lang=ar] h3,html[lang=zh-Hans] h1,html[lang=zh-Hans] h2,html[lang=hi] h1,html[lang=hi] h2,html[lang=bn] h1,html[lang=bn] h2,html[lang=si] h1,html[lang=si] h2{letter-spacing:0;line-height:1.35}
+html[lang=ar] body,html[lang=hi] body,html[lang=bn] body,html[lang=si] body{line-height:1.8}
+html[dir=rtl] input[type=tel],html[dir=rtl] input[type=email]{direction:ltr;text-align:right}

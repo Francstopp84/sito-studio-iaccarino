@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5PKHC93');</script>
+<!-- End Google Tag Manager -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>继承与遗产 | 那不勒斯民事律师 | Studio Legale Iaccarino</title>
+<meta content="在那不勒斯处理继承与遗产事务的律师。遗嘱异议 (impugnazione testamento)、侵害特留份之扣减之诉 (azione di riduzione per lesione di legittima)、遗产分割 (divisione ereditaria)、放弃继承 (rinuncia all'eredità)。Artt. 456-768 c.c. 咨询费用 200 欧元。业务范围覆盖全国。" name="description"/>
+<meta content="index, follow" name="robots"/>
+<link href="https://studiolegalefrancescoiaccarino.com/zh/civile/successioni.html" rel="canonical"/>
+<meta content="article" property="og:type"/>
+<meta content="https://studiolegalefrancescoiaccarino.com/zh/civile/successioni.html" property="og:url"/>
+<meta content="继承与遗产 | 那不勒斯律师 | Studio Legale Iaccarino" property="og:title"/>
+<meta content="遗嘱异议、特留份扣减诉讼、遗产分割、特留份份额。在继承法领域提供全面权益维护。咨询费200欧元。" property="og:description"/>
+<meta content="https://studiolegalefrancescoiaccarino.com/img/og-successioni.jpg" property="og:image"/>
+<meta content="zh-Hans" property="og:locale"/>
+<link href="/favicon-48.png" rel="icon" sizes="48x48" type="image/png"/>
+<link href="/logo-192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&amp;family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;display=swap" rel="stylesheet"/>
+<link href="/css/style.css" rel="stylesheet"/>
+<style>
+/* Successioni: accento verde (#1b5e20) */
+.hero-landing {
+  background: linear-gradient(170deg, #06111F 0%, #0B1D32 35%, #0d2416 70%, #112b1a 100%);
+  min-height: 70vh;
+}
+.hero-landing::before {
+  content: '';
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse at 78% 35%, rgba(27,94,32,0.11) 0%, transparent 55%),
+    radial-gradient(ellipse at 20% 70%, rgba(201,169,110,0.06) 0%, transparent 50%);
+}
+.hero-tag {
+  border: 1px solid rgba(27,94,32,0.45);
+  background: rgba(27,94,32,0.13);
+  color: #a5d6a7;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 0.82rem; color: rgba(255,255,255,0.35);
+  margin-bottom: 1.5rem;
+  animation: fadeIn 0.8s ease 0.1s both;
+}
+.breadcrumb a { color: rgba(255,255,255,0.45); text-decoration: none; transition: color 0.25s; }
+.breadcrumb a:hover { color: #C9A96E; }
+.breadcrumb span { margin: 0 0.4rem; }
+
+/* Norma box — verde */
+.norma-box {
+  background: linear-gradient(135deg, rgba(27,94,32,0.07) 0%, rgba(201,169,110,0.04) 100%);
+  border: 1px solid rgba(27,94,32,0.14);
+  border-left: 4px solid #1b5e20;
+  padding: 2rem 2.2rem;
+  margin: 1.5rem 0;
+}
+.norma-box-label {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase;
+  color: #1b5e20; margin-bottom: 0.75rem;
+}
+.norma-box h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.25rem; font-weight: 600; color: var(--navy);
+  margin-bottom: 0.7rem;
+}
+.norma-box p { font-size: 0.95rem; color: var(--text-light); line-height: 1.8; }
+.norma-box .norma-ref {
+  display: inline-block; margin-top: 1rem;
+  padding: 0.4rem 1.2rem;
+  background: rgba(27,94,32,0.07);
+  border: 1px solid rgba(27,94,32,0.18);
+  font-size: 0.82rem; font-weight: 600;
+  color: #1b5e20; letter-spacing: 0.05em;
+}
+
+/* Norma grid — 2 colonne su desktop */
+.norma-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.2rem;
+  margin: 2rem 0;
+}
+@media (max-width: 700px) {
+  .norma-grid { grid-template-columns: 1fr; }
+}
+
+/* Tipi di successione — cards */
+.tipi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  gap: 1rem; margin: 2rem 0;
+}
+.tipo-card {
+  background: var(--white);
+  border: 1px solid rgba(0,0,0,0.06);
+  border-top: 3px solid #1b5e20;
+  padding: 1.6rem 1.5rem;
+  transition: all 0.3s cubic-bezier(0.4,0,0.2,1);
+}
+.tipo-card:hover {
+  box-shadow: 0 6px 30px rgba(27,94,32,0.09), 0 2px 12px rgba(0,0,0,0.05);
+  transform: translateY(-3px);
+}
+.tipo-card-icon {
+  font-size: 1.6rem; margin-bottom: 0.8rem; display: block;
+}
+.tipo-card h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.12rem; font-weight: 600; color: var(--navy);
+  margin-bottom: 0.4rem;
+}
+.tipo-card h3 span {
+  display: block; font-size: 0.75rem; font-weight: 400;
+  font-family: 'EB Garamond', Georgia, serif;
+  letter-spacing: 0.08em; color: #1b5e20; margin-top: 0.15rem;
+}
+.tipo-card p {
+  font-size: 0.88rem; color: var(--text-muted); line-height: 1.65;
+}
+@media (max-width: 700px) {
+  .tipi-grid { grid-template-columns: 1fr; }
+}
+
+/* Casi di studio — versione dettagliata */
+.caso-detail {
+  padding: 2.5rem 0;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+.caso-detail:last-child { border-bottom: none; }
+.caso-num {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase;
+  color: #1b5e20; margin-bottom: 0.5rem;
+}
+.caso-detail h3 {
+  font-size: 1.25rem; color: var(--navy); margin-bottom: 0.3rem;
+  font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600;
+}
+.caso-meta {
+  font-size: 0.82rem; color: var(--text-muted);
+  margin-bottom: 1rem; font-style: italic;
+}
+.caso-detail > p { color: var(--text-light); font-size: 0.98rem; line-height: 1.85; margin-bottom: 0.8rem; }
+.caso-risultato {
+  display: inline-block; padding: 0.35rem 1.2rem;
+  font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase;
+  font-family: 'EB Garamond', serif;
+  background: rgba(27,94,32,0.09); color: #1b5e20;
+  border: 1px solid rgba(27,94,32,0.22);
+  margin-top: 0.5rem;
+}
+
+/* Strategie difensive — verde */
+.strategie-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.2rem; margin: 2rem 0;
+}
+.strategia {
+  padding: 1.6rem 1.5rem;
+  background: var(--white);
+  border: 1px solid rgba(0,0,0,0.05);
+  border-left: 3px solid rgba(27,94,32,0.35);
+  transition: all 0.3s;
+}
+.strategia:hover {
+  box-shadow: 0 4px 24px rgba(27,94,32,0.08);
+  transform: translateY(-2px);
+  border-left-color: #1b5e20;
+}
+.strategia-num {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 2rem; font-weight: 700; color: rgba(27,94,32,0.18);
+  line-height: 1; margin-bottom: 0.5rem;
+}
+.strategia h4 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.08rem; font-weight: 600; color: var(--navy);
+  margin-bottom: 0.5rem;
+}
+.strategia p { font-size: 0.88rem; color: var(--text-muted); line-height: 1.65; }
+@media (max-width: 700px) {
+  .strategie-grid { grid-template-columns: 1fr; }
+  .tipi-grid { grid-template-columns: 1fr; }
+}
+
+/* Alert box */
+.urgenza-highlight {
+  background: linear-gradient(135deg, rgba(27,94,32,0.06) 0%, rgba(201,169,110,0.04) 100%);
+  border-left: 4px solid #1b5e20;
+  padding: 1.5rem 1.8rem;
+  margin: 2rem 0;
+}
+.urgenza-highlight p { font-size: 0.96rem; color: var(--text-light); line-height: 1.8; margin: 0; }
+</style>
+<script type="application/ld+json">{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "headline": "继承与遗产：全方位法律保护 — Studio Legale Iaccarino",
+ "description": "意大利继承法完整指南：法定继承（successione legittima）与遗嘱继承（successione testamentaria）、特留份（quota di legittima）、扣减之诉（azione di riduzione）、遗产分割（divisione ereditaria）、遗嘱质疑（impugnazione testamento）。Artt. 456-768 c.c.",
+ "author": {
+  "@type": "Person",
+  "name": "Avv. Francesco Iaccarino",
+  "url": "https://studiolegalefrancescoiaccarino.com"
+ },
+ "publisher": {
+  "@type": "LegalService",
+  "name": "Studio Legale Iaccarino",
+  "url": "https://studiolegalefrancescoiaccarino.com",
+  "areaServed": {
+   "@type": "Country",
+   "name": "Italy"
+  }
+ },
+ "mainEntityOfPage": {
+  "@type": "WebPage",
+  "@id": "https://studiolegalefrancescoiaccarino.com/civile/successioni.html"
+ }
+}</script>
+<!-- Google Analytics — ISTRUZIONE: togliere i commenti e inserire ID reale
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script>
+-->
+<script type="application/ld+json">{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement": [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "name": "首页",
+   "item": "https://studiolegalefrancescoiaccarino.com/"
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "name": "民法",
+   "item": "https://studiolegalefrancescoiaccarino.com/civile.html"
+  },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "name": "L&#8217;eredit&agrave; che ti spettanon pu&ograve; essere sottratta.",
+   "item": "https://studiolegalefrancescoiaccarino.com/civile/successioni.html"
+  }
+ ]
+}</script>
+<!--i18n-->
+<link rel="alternate" hreflang="it" href="https://studiolegalefrancescoiaccarino.com/civile/successioni.html">
+<link rel="alternate" hreflang="x-default" href="https://studiolegalefrancescoiaccarino.com/civile/successioni.html">
+<link rel="alternate" hreflang="en" href="https://studiolegalefrancescoiaccarino.com/en/civile/successioni.html">
+<link rel="alternate" hreflang="es" href="https://studiolegalefrancescoiaccarino.com/es/civile/successioni.html">
+<link rel="alternate" hreflang="pt" href="https://studiolegalefrancescoiaccarino.com/pt/civile/successioni.html">
+<link rel="alternate" hreflang="ru" href="https://studiolegalefrancescoiaccarino.com/ru/civile/successioni.html">
+<link rel="alternate" hreflang="ar" href="https://studiolegalefrancescoiaccarino.com/ar/civile/successioni.html">
+<link rel="alternate" hreflang="zh-Hans" href="https://studiolegalefrancescoiaccarino.com/zh/civile/successioni.html">
+<link rel="alternate" hreflang="hi" href="https://studiolegalefrancescoiaccarino.com/hi/civile/successioni.html">
+<link rel="alternate" hreflang="bn" href="https://studiolegalefrancescoiaccarino.com/bn/civile/successioni.html">
+<link rel="alternate" hreflang="si" href="https://studiolegalefrancescoiaccarino.com/si/civile/successioni.html">
+<link rel="stylesheet" href="/css/lingue.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
+<!--/i18n-->
+<link rel="stylesheet" href="/css/area-wow.css?v=1">
+</head>
+<body><!--i18n--><details class="lang-switch lang-fissa" translate="no"><summary aria-label="Lingua / Language"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></svg><span>中文</span></summary><div class="lang-menu"><a href="/civile/successioni.html" hreflang="it" lang="it" translate="no">Italiano</a><a href="/en/civile/successioni.html" hreflang="en" lang="en" translate="no">English</a><a href="/es/civile/successioni.html" hreflang="es" lang="es" translate="no">Español</a><a href="/pt/civile/successioni.html" hreflang="pt" lang="pt" translate="no">Português</a><a href="/ru/civile/successioni.html" hreflang="ru" lang="ru" translate="no">Русский</a><a href="/ar/civile/successioni.html" hreflang="ar" lang="ar" translate="no">العربية</a><a href="/zh/civile/successioni.html" hreflang="zh-Hans" lang="zh-Hans" translate="no">中文</a><a href="/hi/civile/successioni.html" hreflang="hi" lang="hi" translate="no">हिन्दी</a><a href="/bn/civile/successioni.html" hreflang="bn" lang="bn" translate="no">বাংলা</a><a href="/si/civile/successioni.html" hreflang="si" lang="si" translate="no">සිංහල</a></div></details><!--/i18n--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N5PKHC93" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- NAV -->
+<nav class="nav" role="navigation">
+<div class="nav-inner">
+<a class="nav-logo" href="/zh/index.html"> Studio Legale Iaccarino </a>
+<div style="display:flex;gap:1.5rem;align-items:center"><a class="nav-back" href="/zh/civile.html">← 民法</a> <a class="nav-cta-link" href="/zh/consulenza.html?area=civile-successioni">预约咨询</a></div>
+</div>
+</nav>
+<!-- HERO -->
+<section aria-labelledby="hero-title-succ" class="hero-landing">
+<div class="hero-inner">
+<div class="breadcrumb"><a href="/zh/index.html">首页</a><span>›</span> <a href="/zh/civile.html">民法</a><span>›</span> 继承与遗产</div>
+<div class="hero-tag">Artt. 456–768 c.c. — 意大利民法典第二编</div>
+<h1 id="hero-title-succ">您应得的遗产，<br/><em>任何人都无法剥夺。</em></h1>
+<p class="hero-desc">失去亲人已是令人悲痛的时刻。若发现毕生积蓄分配不公 — 遭遇存在瑕疵的遗嘱、侵害了您特留份（legittima）的生前赠与，或是显失公平的强制分割 — 更会加剧内心的痛苦。意大利继承法赋予法定特留份继承人强大且不可剥夺的保护。我们律所将以处理此类精细案件所必需的专业技术与同理心，为您提供全程法律协助。</p>
+<div class="hero-actions"><a class="btn-primary" href="/zh/consulenza.html?area=civile-successioni">预约咨询</a> <a class="btn-ghost" href="#casi-studio">办结案例</a></div>
+</div>
+</section>
+<!-- NORMA DI RIFERIMENTO -->
+<section class="section">
+<div class="section-narrow">
+<div class="section-label">法规框架</div>
+<h2 class="section-title">规范继承的相关法律</h2>
+<p style="color:var(--text-light); line-height:1.8; margin-bottom:2rem;">继承法由意大利民法典第二编（Codice Civile, artt. 456–809 c.c.）予以规范，是整个意大利民法体系中最具层次感和技术含量的规范体系之一。法定继承与遗嘱继承的并存、特留份继承人不可剥夺的权利、以及与赠与规则、夫妻财产制和法定必经调解（mediazione obbligatoria）的交织，更增加了其复杂程度。</p>
+<div class="norma-grid">
+<div class="norma-box">
+<div class="norma-box-label">民法典 — 第二编</div>
+<h3>继承通则（Artt. 456–535）</h3>
+<p>民法典第二编统揽并规范了继承领域的全部事项。继承在被继承人（de cuius）死亡时于其最后住所地开始（art. 456 c.c.）。被指定为继承人的人士可以在继承开始之日起的十年普通时效内，选择单纯接受继承、保留财产清单利益接受（accettazione con beneficio d'inventario，art. 484 c.c.），或放弃继承（rinuncia all'eredità，art. 519 c.c.）。</p>
+<span class="norma-ref"> Artt. 456–535 c.c. </span>
+</div>
+<div class="norma-box">
+<div class="norma-box-label">特留份份额</div>
+<h3>为特留份权利人保留的份额（Artt. 536–564）</h3>
+<p>特留份（quota di legittima）是法律强制保留给特定亲属类别的财产份额：配偶、直系后代及直系尊亲属。配偶无论如何均享有净财产至少四分之一的份额。在无配偶的情况下，独生子女享有二分之一，有两个及以上子女的共享有三分之二。任何侵害特留份的遗嘱处分或生前赠与，均可行使扣减诉讼（azione di riduzione）。</p>
+<span class="norma-ref"> Artt. 536–564 c.c. </span>
+</div>
+<div class="norma-box">
+<div class="norma-box-label">特留份扣减之诉</div>
+<h3>被侵害份额的返还（Artt. 553–564）</h3>
+<p>扣减之诉（azione di riduzione）是受侵害或被遗漏的特留份继承人用于请求恢复其应得份额的法定救济手段。扣减顺序首先为遗嘱处分（art. 554 c.c.），其后视需要按照从最近到最久远的顺序扣减生前赠与（art. 559 c.c.）。该诉讼受自继承开始之日起算的十年普通诉讼时效约束。要准确计算可自由处分份额（disponibile），必须对全部遗产范围进行全面重构。</p>
+<span class="norma-ref"> Artt. 553–564 c.c. </span>
+</div>
+<div class="norma-box">
+<div class="norma-box-label">法定继承</div>
+<h3>无遗嘱情况下的继承人指定（Artt. 565–586）</h3>
+<p>在没有有效遗嘱的情况下，继承按照法定继承的规则展开。继承人的顺序是严格法定的：首先是子女（以及代位继承的直系后代，意大利民法典 art. 467 c.c.），然后是父母，继而是兄弟姐妹，再是其他直系尊亲属，之后是六亲等以内的旁系血亲，最后是国家。配偶始终享有法律为其保留的份额。事实同居关系（convivenza di fatto）虽受第 76/2016 号法律保护，但并不赋予继承权。</p>
+<span class="norma-ref"> 意大利民法典 artt. 565–586 c.c. </span>
+</div>
+<div class="norma-box">
+<div class="norma-box-label">遗嘱继承</div>
+<h3>自书遗嘱、公证遗嘱及秘密遗嘱（artt. 587–712）</h3>
+<p>遗嘱是被继承人（de cuius）处分其身后财产的单方、可撤销且具有人身专属性的法律行为（意大利民法典 art. 587 c.c.）。最常见的形式是自书遗嘱（testamento olografo）——由立遗嘱人亲笔书写、注明日期并签名（art. 602 c.c.）——以及由公证人制作的公证遗嘱（testamento pubblico，art. 603 c.c.）。遗嘱的可撤销性可能源于立遗嘱人自然行为能力不足、意思表示瑕疵（错误、强迫、欺诈）、形式瑕疵或实质与思想上的伪造。</p>
+<span class="norma-ref"> 意大利民法典 artt. 587–712 c.c. </span>
+</div>
+<div class="norma-box">
+<div class="norma-box-label">遗产分割</div>
+<h3>遗产共同共有的解除（artt. 713–768）</h3>
+<p>在遗产分割前，共同继承人对整个遗产享有共有权（comunione ereditaria）。每位共同继承人均可随时要求进行分割（art. 713 c.c.），除非存在不超过五年的不分割协议。分割可以通过协议方式、司法程序（任命一名CTU技术鉴定人）或强制调解（mediazione obbligatoria）进行。将被继承人生前收到的赠与进行归扣（collazione，artt. 737–751 c.c.）往往是共同继承人之间产生争议的根源。</p>
+<span class="norma-ref"> 意大利民法典 artt. 713–768 c.c. </span>
+</div>
+</div>
+<div class="norma-box" style="margin-top:1rem;">
+<div class="norma-box-label">法定前置程序</div>
+<h3>继承纠纷中的强制调解</h3>
+<p>根据第 28/2010 号立法令 art. 5 第 1 款（经第 149/2022 号立法令 Cartabia 司法改革修改），调解也是<strong>遗产继承</strong>纠纷以及所有物权纠纷提请诉讼的法定前置受理条件（condizione di procedibilità）。未启动调解程序将导致起诉不予受理。本事务所负责全程处理继承调解程序，无论在庭外阶段还是在必要的诉讼阶段，均切实维护委托人的利益。</p>
+<span class="norma-ref"> 第 28/2010 号立法令 art. 5 — Cartabia 改革（第 149/2022 号立法令） </span>
+</div>
+<div class="urgenza-highlight" style="margin-top:2rem;">
+<p><strong>注意法定期限：</strong>扣减之诉（azione di riduzione）的时效为自继承开始之日起十年。因形式瑕疵对遗嘱提出异议的诉讼时效为自遗嘱公布之日起五年（意大利民法典 art. 591 c.c.）。接受或放弃继承的期限为自继承开始之日起十年。请勿延误：时间每拖延一年，获得维权救济的几率便随之降低。</p>
+</div>
+</div>
+</section>
+<!-- TIPI DI SUCCESSIONE / FATTISPECIE -->
+<section class="section" id="fattispecie" style="background:var(--cream-dark)">
+<div class="section-wide">
+<div class="section-label">您的具体情况属于哪一种？</div>
+<h2 class="section-title">我们办理的案件类型</h2>
+<p class="section-text" style="margin-bottom:2rem;">继承法包含极其多样的情况。每种情形都需要量身定制方案，这建立在对遗产总额、共同继承人之间的关系以及被继承人生前实施的行为进行精准分析的基础之上。</p>
+<div class="tipi-grid">
+<div class="tipo-card">
+<span class="tipo-card-icon">⚖</span>
+<h3>法定继承 <span>意大利民法典 artt. 565–586 c.c.</span></h3>
+<p>当被继承人未留下遗嘱或遗嘱无效时，继承依法定规则处理。我们在正确确认权利人、核算继承份额、处理与意大利税务局（Agenzia delle Entrate）的关系以及应对第三方对遗产提出的权利主张方面提供协助。</p>
+</div>
+<div class="tipo-card">
+<span class="tipo-card-icon">📜</span>
+<h3>遗嘱继承 <span>意大利民法典 artt. 587–712 c.c.</span></h3>
+<p>遗嘱自立遗嘱人去世时发生法律效力，但必须符合形式与实质上的严格法定要件。我们在遗嘱条款释明、形式与实质有效性审查、自书遗嘱的公证公布（art. 620 c.c.）以及执行被继承人意愿方面提供协助。</p>
+</div>
+<div class="tipo-card">
+<span class="tipo-card-icon">⛔</span>
+<h3>遗嘱异议之诉 <span>意大利民法典 artt. 591, 606, 624, 625 c.c.</span></h3>
+<p>遗嘱可能因无效事由（形式瑕疵、违反法律强制性规定的处分）或可撤销事由（立遗嘱人自然行为能力不足、欺诈或胁迫等意思表示瑕疵、实质伪造）而被提起异议。我们协助处理全部法律程序，从自书遗嘱的笔迹司法鉴定直至撤销判决的下达。</p>
+</div>
+<div class="tipo-card">
+<span class="tipo-card-icon">⚖</span>
+<h3>侵害特留份之扣减之诉 <span>意大利民法典 artt. 553–564 c.c.</span></h3>
+<p>如果遗嘱处分或被继承人生前的赠与使您的特留份（quota di legittima）降至法律保证的最低限额以下，您有权要求返还并补足。我们准确核算现存遗产（relictum）与赠与财产（donatum），明确应予扣减的处分，并向法院提起诉讼以恢复受损的特留份额。</p>
+</div>
+<div class="tipo-card">
+<span class="tipo-card-icon">🚫</span>
+<h3>放弃继承 <span>意大利民法典 artt. 519–527 c.c.</span></h3>
+<p>当遗产负担沉重债务时，放弃继承是避免以超出所继承财产价值承担被继承人债务的法律手段。我们在评估遗产负债、在公证人或法院书记官（cancelliere del Tribunale）处拟定放弃声明，以及处理相关的税务和财产后果方面提供协助。</p>
+</div>
+<div class="tipo-card">
+<span class="tipo-card-icon">📋</span>
+<h3>遗产分割 <span>意大利民法典 artt. 713–768 c.c.</span></h3>
+<p>多名共同继承人之间的遗产共有（comunione ereditaria）往往是产生争议的根源，特别是当遗产中包含不易分割的不动产时。我们协助客户进行协议分割、强制调解（mediazione obbligatoria）以及司法分割诉讼（giudizio di divisione giudiziale），协调CTU技术鉴定人的任命、赠与的归扣（collazione）以及份额的划分。</p>
+</div>
+</div>
+</div>
+</section>
+<a class="casi-risolti-box" href="#casi-studio" style="margin:1.5rem auto;"><span class="cri-icon">✓</span> 前往已解决案例 <span class="cri-arrow">→</span></a>
+<!-- STRATEGIE -->
+<section class="section" id="strategie">
+<div class="section-narrow">
+<div class="section-label">我们如何为您维权</div>
+<h2 class="section-title">六大实操策略</h2>
+<p style="color:var(--text-light); line-height:1.8; margin-bottom:2rem;">每起继承纠纷在家庭关系、公证文书、生前赠与和相关文件方面皆具其独特性。本事务所采取严谨的专业方法：首先以财务级的精确度厘清全部遗产构成，继而制定出最有效的法律策略，切实维护您的合法权益。</p>
+<div class="strategie-grid">
+<div class="strategia">
+<div class="strategia-num">01</div>
+<h4>审查遗嘱效力</h4>
+<p>从形式要件（自书遗嘱的全手写、日期及签名；公证遗嘱符合 art. 603 c.c. 的要件）和实质要件（立遗嘱人立嘱时的行为能力、意思表示无瑕疵、符合强制性规定）对遗嘱进行严格分析。若存在无效或可撤销的情由，我们将准备完备的诉讼方案，包括委托具备司法鉴定经验的技术顾问进行笔迹司法鉴定。</p>
+</div>
+<div class="strategia">
+<div class="strategia-num">02</div>
+<h4>扣减之诉</h4>
+<p>依照法宝方式精准厘清遗产构成（扣除债务后的现存财产加上 art. 556 c.c. 规定的生前赠与），计算应得的法定特留份，并按照 art. 559 c.c. 确定的法定顺序确定应扣减的遗嘱处分及赠与。我们向有管辖权的法院提起诉讼，并在必要时申请遗产保全扣押（sequestro conservativo），以防止诉讼期间财产被转移分散。</p>
+</div>
+<div class="strategia">
+<div class="strategia-num">03</div>
+<h4>遗产分割</h4>
+<p>在解除遗产共有（comunione ereditaria）方面提供全面协助：尝试共同继承人之间的协议分割，管理根据 D.Lgs. 28/2010 第5条进行的强制调解（mediazione obbligatoria），以及在无法达成协议的情况下，根据 art. 784 c.p.c. 提起司法分割诉讼（giudizio di divisione giudiziale）。与CTU技术鉴定人协调进行不动产估价及份额划分。保护在实物分割尝试中其份额与其权利比例不符的共同继承人。</p>
+</div>
+<div class="strategia">
+<div class="strategia-num">04</div>
+<h4>限定继承（保留财产清册之接受）</h4>
+<p>当遗产债务状况不明或可能超出积极财产时，限定继承（accettazione con beneficio di inventario，art. 484 c.c.）可保护继承人的个人财产，使其对被继承人债务的责任以所继承财产的实际价值为限。我们在公证人或法院书记官面前办理接受声明、制作财产清册，并依法在法定程序下处理后续的遗产清偿清算事宜。</p>
+</div>
+<div class="strategia">
+<div class="strategia-num">05</div>
+<h4>继承调解</h4>
+<p>继承领域的强制调解（mediazione obbligatoria，根据《卡塔比亚改革》修订的D.Lgs. 28/2010第5条）并非纯粹的官僚程序：若运用得当并配合策略，它是远比普通诉讼程序更快达成公平且具约束力协议的有力工具。本事务所协助客户进行调解程序，与共同继承人展开协商，以达成既符合法定份额又契合客户期望的遗产分割。</p>
+</div>
+<div class="strategia">
+<div class="strategia-num">06</div>
+<h4>预防性继承规划</h4>
+<p>最好的法律保护是在发生争议之前建立的。我们协助起草在形式上无可挑剔的遗嘱，运用遗嘱继承以外的替代性工具（信托、民法典art. 768-bis c.c.项下的家族协议[patti di famiglia]、人寿保单、保留用益权的赠与[donazioni con riserva di usufrutto]），进行继承税与赠与税的税务筹划（D.Lgs. 346/1990），并优化家族资产结构，将各继承人之间发生遗产纠纷的风险降至最低。</p>
+</div>
+</div>
+</div>
+</section>
+<!-- 5 CASI DI STUDIO -->
+<section class="section casi" id="casi-studio" style="background:var(--cream-dark)">
+<div class="section-narrow">
+<div class="section-label">办案成果</div>
+<h2 class="section-title">五个办结案例</h2>
+<p style="color:var(--text-light); line-height:1.8; margin-bottom:2rem;">继承争议触及最深层的家庭关系，且往往持续多年。以下案例展现了我们日常处理的各种实际情形，以及我们所取得的切实验证的成果。</p>
+<div class="caso-detail">
+<div class="caso-num">案件编号 1</div>
+<h3>以自然行为能力欠缺为由质疑自书遗嘱 — Tribunale di Napoli</h3>
+<div class="caso-meta">案情：依据民法典（c.c.）第591条撤销遗嘱之诉 — 遗产标的：不动产与流动资金共计约 € 850.000</div>
+<p>一名已故的高龄商人留下了一份在去世前六个月书写的自书遗嘱（testamento olografo），通过该遗嘱排除了两名子女，并将全部遗产指定给一名孙女。被剥夺继承权的两位子女向本所寻求法律协助，怀疑其父亲在生命最后几年患有严重的认知障碍，相关病历亦载有证明。</p>
+<p>代理律师调取了被继承人（de cuius）生前最后三年的完整医疗档案，包括主治医生出具的进行性血管性痴呆诊断、神经心理学评估报告以及住院病历。同时指定了一名法医精神病司法鉴定人，对订立遗嘱时的临床状况进行了重建分析，最终依据民法典第591条第2款第3项认定立遗嘱人当时处于欠缺自然行为能力（incapacità naturale）状态。</p>
+<p>与此同时，代理律师调取了邻居、家庭医生和店铺雇员的证人证言，证实了被继承人在立遗嘱期间处于严重定向障碍和极易受暗示的状态。法院采纳了司法技术顾问（CTU）的结论及抗辩意见，以立遗嘱人欠缺自然行为能力为由裁定撤销遗嘱。两名子女按民法典第566条和第537条规定的份额恢复法定继承权，每人最终分别获得约 € 566.000。</p>
+<span class="caso-risultato"> 遗嘱撤销 — 法定继承恢复 </span>
+</div>
+<div class="caso-detail">
+<div class="caso-num">案件编号 2</div>
+<h3>因隐匿赠与导致特留份受损 — Corte d’Appello di Napoli</h3>
+<div class="caso-meta">案情：依据民法典（c.c.）第553–564条扣减之诉（Azione di riduzione）— 涉案财产：三处不动产 + 银行流动资金</div>
+<p>一名已故企业家在生前的最后十五年里，向其三个子女中仅一人（即负责经营家族企业的那个子女）进行了大量的直接和间接赠与，基本上掏空了可处分遗产。在继承开始（apertura della successione）之时，现存遗产（relictum）仅缩减为少数微薄价值的财产，而包括三处房产及大额资金在内的赠与则完全侵蚀了另外两名被排除在外的子女的特留份（quota di legittima）。</p>
+<p>辩护方通过对公证书、银行流水和房产买卖契据的分析，缜密地重构了被继承人（de cuius）生前所作的全部赠与财产（donatum）。此外，还查明了通过虚假登记实现的间接赠与，通过书证予以重构，并根据民法典第559条（art. 559 c.c.）提起扣减之诉（azione di riduzione），从最近期的赠与开始追溯。对可处分部分的计算表明，两名被排除在外的兄弟的特留份（合计相当于重构遗产总额的三分之二）已完全受到侵害。</p>
+<p>一审法院（Tribunale）曾部分支持了该诉求。在上诉审理中，上诉法院（Corte d’Appello）对判决的金额（quantum）进行了改判，确认了其他法律行为亦具有间接赠与的性质，并大幅提高了计入的赠与财产（donatum）价值。两名子女成功获得了用以补足受侵害特留份所需的房产转让，两审诉讼费用均判由被告兄弟承担。</p>
+<span class="caso-risultato"> 扣减之诉获支持 — 特留份获全额补足 </span>
+</div>
+<div class="caso-detail">
+<div class="caso-num">案件编号 3</div>
+<h3>不可分割不动产的复杂遗产分割 — Tribunale di Napoli Nord</h3>
+<div class="caso-meta">案情分类：根据民事诉讼法第784条（art. 784 c.p.c.）提起的司法分割诉讼 — 遗产总额：六处商业和住宅不动产、公司股权</div>
+<p>四名共同继承人兄弟处于超过七年的遗产共同共有（comunione ereditaria）状态，遗产包括六处不动产单元（其中包括两处带现行租赁合同的商业房产）、两家有限责任公司的股权以及银行存款。共同继承人之间的关系严重受损：其中两人在未支付占用补偿金的情况下使用一处住宅房产，另一人事实控制公司运营却不向其他共同继承人出具账目报告，而协议分割的协商则屡屡陷入僵局。</p>
+<p>本所协助了四位共同继承人中的两位，提起了司法分割诉讼（azione di divisione giudiziale），并同时对兼任管理人的共同继承人所持有的公司份额申请了保全性扣押（sequestro conservativo）。法院指定了一名评估技术顾问（CTU perito estimatore），该顾问对不动产及公司股权进行了评估，核查了租赁收益报告，并提出了设立四个价值基本相等的财产份额（lotti）的分割方案，同时针对各份额之间不可避免的价值差异拟定了现金补价（conguagli in denaro）。</p>
+<p>对共有不动产单独占用的补偿金由法院技术顾问（CTU）进行了核算，并在分割审理中获得确认。法院核准了分割方案，解除了共有关系，并将各自份额分配给每位共同继承人。我们的委托人获得了商业价值更高的不动产，并按照评估价值变现了各自的公司股权，追回了七年未收取的租金。</p>
+<span class="caso-risultato"> 共有关系解除 — 通过诉讼实现公平分割 </span>
+</div>
+<div class="caso-detail">
+<div class="caso-num">案件编号 4</div>
+<h3>因遗产债务放弃继承 — Tribunale di Napoli</h3>
+<div class="caso-meta">案情分类：根据民法典第519条至第527条（artt. 519–527 c.c.）放弃继承 — 预估遗产消极财产：超过 € 1.200.000</div>
+<p>父亲去世几天后，两名子女便求助于本律所。这位父亲生前经营着一家陷入严重财务危机的商业公司。公司的债权人和部分供应商已将两名子女非正式地视为“继承人”，并已开始接触他们以追讨债权。初步分析显示，被继承人（de cuius）留下的财产预估价值约为 € 180.000，但消极财产（包括银行债务、供应商欠款、融资款及提供的个人担保）已超过 € 1.200.000。</p>
+<p>本律所在极短时间内查清了遗产消极财产的整体状况，核实了各项债务的真实性与金额、债权人可能提起的撤销诉权（azioni revocatorie）以及运用特定保护工具的可能性。法律咨询明确得出结论：根据民法典第519条（art. 519 c.c.）放弃继承（rinuncia all’eredità）是最为有利的方案，也是防止父亲的债务转移至子女个人财产的唯一途径。</p>
+<p>放弃继承声明依法在Tribunale di Napoli书记官面前作出。被继承人（de cuius）的债权人已收到放弃继承的通知，该声明已依法办理登记簿登记（trascrizione）。两名子女的个人财产得到了完好保全，完全免受其父债务的牵连。遗产债务仅由无人承认之继承财产（eredità giacente）承担，随后根据民法典第586条（art. 586 c.c.）归属国家。</p>
+<span class="caso-risultato"> 个人财产得以保全 — 遗产债务成功化解 </span>
+</div>
+<div class="caso-detail">
+<div class="caso-num">案例 5</div>
+<h3>兄弟之间的遗产纠纷 — 调解与庭外协议</h3>
+<div class="caso-meta">案情分类：扣减之诉 + 遗嘱异议诉讼 — 经强制调解（mediazione obbligatoria）解决</div>
+<p>三名兄弟为已故母亲的遗产产生争议，母亲生前留有一份自书遗嘱（testamento olografo），将最具价值的不动产（一处位于那不勒斯历史中心、价值约 € 480.000 的公寓）留给近年来与她同住的小儿子。另两名兄弟认为，该遗嘱系受欺诈诱导（captazione）所致，且母亲生前对共同居住儿子的赠与（包括一辆豪华轿车及若干款项）侵蚀了他们的特留份（quota di legittima）。</p>
+<p>本律所为两名被排除在外的兄弟提供法律协助，同时采取了双重行动：核查自书遗嘱的形式有效性，并计算遗嘱处分及生前赠与对特留份造成的侵害。对遗嘱的笔迹分析发现了日期标注上的若干异常，这本可作为提起撤销之诉（azione di annullamento）的依据。将赠与财产（donatum）与现存遗产（relictum）合并计算后表明，两名兄弟的特留份受到了严重侵害，合计相当于遗产总额的50%。</p>
+<p>基于上述证据，我们根据法令第28/2010号第5条（art. 5 D.Lgs. 28/2010）启动了强制调解程序（mediazione obbligatoria），确立了有据可依的有力谈判立场。在调解中，共同居住的儿子意识到其诉讼立场的薄弱，同意向两名兄弟支付相当于其特留份的金额，在保留房产所有权的同时，放弃对遗产的任何其他主张。我们的委托人在短短数月内获得了法律赋予的权益，避免了长达数年的诉讼纷争。</p>
+<span class="caso-risultato"> 调解达成协议 — 特留份获全额确认 </span>
+</div>
+</div>
+</section>
+<a class="casi-risolti-box" href="#casi-studio" style="margin:1.5rem auto;"><span class="cri-icon">✓</span> 前往已解决案例 <span class="cri-arrow">→</span></a>
+<!-- CTA -->
+<section class="section cta-section">
+<div class="section-narrow" style="text-align:center">
+<div class="section-label">切勿拖延</div>
+<h2 class="section-title">继承权受诉讼时效限制。今日采取行动，方能切实维护自身权益。</h2>
+<p>扣减之诉（azione di riduzione）的诉讼时效为继承开始之日起十年。因形式瑕疵对自书遗嘱提出异议（impugnazione del testamento olografo）的诉讼时效为公布之日起五年。每拖延一年，追索权利的可能性就会降低。第一步是咨询一位在继承法领域专业技术性及争议性方面均有深入研究的专业人士。</p>
+<div class="cta-price">€ 200</div>
+<div class="cta-price-label">继承法律咨询 — 现场或远程 — 可在后续委托中抵扣</div>
+<a class="btn-primary" href="/zh/consulenza.html?area=civile-successioni"> 预约您的咨询 </a>
+</div>
+</section>
+<!-- FORM -->
+<section class="form-section" id="contatti">
+<div class="form-container">
+<h2>申请继承领域法律咨询</h2>
+<p class="form-subtitle">请描述您的遗产情况。我们将在数小时内与您取得联系。</p>
+<div class="form-price-badge">
+<div class="fprice">€ 200</div>
+<div class="flabel">首次咨询 — 若后续建立委托代理关系可予以抵扣</div>
+</div>
+<form action="https://formsubmit.co/ajax/studiolegalefrancescoiaccarino@outlook.com" data-area="Civile — Successioni" data-form="" method="POST">
+<input name="_subject" type="hidden" value="Consulenza Successioni e Eredità - Studio Legale Iaccarino"/>
+<input name="origine" type="hidden" value="Landing Successioni"/>
+<input name="_captcha" type="hidden" value="false"/>
+<input name="_next" type="hidden" value="../grazie.html"/>
+<input autocomplete="off" name="_gotcha" style="display:none" tabindex="-1" type="text"/>
+<div class="form-row">
+<div class="form-group">
+<label class="form-label" for="nome-succ">姓名</label>
+<input class="form-input" id="nome-succ" name="nome" placeholder="您的姓名" required="" type="text"/>
+</div>
+<div class="form-group">
+<label class="form-label" for="tel-succ">电话</label>
+<input class="form-input" id="tel-succ" name="telefono" placeholder="+39 ..." required="" type="tel"/>
+</div>
+</div>
+<div class="form-group">
+<label class="form-label" for="email-succ">电子邮箱</label>
+<input class="form-input" id="email-succ" name="email" placeholder="您的电子邮箱" required="" type="email"/>
+</div>
+<div class="form-group">
+<label class="form-label" for="tipo-succ">继承问题类型</label>
+<select class="form-select" id="tipo-succ" name="tipo_problema" required="">
+<option value="">请选择…</option>
+<option value="Testamento contestato">被质疑 / 需提出异议的遗嘱</option>
+<option value="Lesione legittima">特留份受到侵害</option>
+<option value="Divisione ereditaria">共同继承人之间的遗产分割</option>
+<option value="Rinuncia eredita">因债务声明放弃继承权</option>
+<option value="Azione di riduzione">针对赠与行为的扣减之诉</option>
+<option value="Successione legittima">无遗嘱继承</option>
+<option value="Pianificazione successoria">预防性继承规划</option>
+<option value="Altro">其他 / 尚不明确</option>
+</select>
+</div>
+<div class="form-group">
+<label class="form-label" for="msg-succ">请简要描述您的情况</label>
+<textarea class="form-textarea" id="msg-succ" name="messaggio" placeholder="Raccontaci cosa è accaduto: quando è avvenuto il decesso, quali beni compongono l’eredità, quanti sono gli eredi, se esiste un testamento e qual è il problema che devi risolvere…" required=""></textarea>
+</div>
+<button class="form-submit" type="submit">提交咨询申请</button>
+<p class="form-note">根据GDPR及律师执业职业保密规定，您的个人数据将受到严格保密。法律咨询费用为 € 200，可在后续专业委托中抵扣。<a href="/zh/privacy.html" style="color:rgba(255,255,255,0.4)">Privacy Policy</a>.</p>
+</form>
+</div>
+</section>
+<!-- FOOTER -->
+<footer class="footer">
+<div class="footer-contact-direct"><a href="tel:+393335684659" style="color:var(--gold-light,#C9A96E);text-decoration:none;margin-right:1.5rem">+39 333 568 4659</a> <a href="https://wa.me/393335684659" rel="noopener noreferrer" style="color:#25D366;text-decoration:none" target="_blank">WhatsApp →</a></div>
+<p>© 2026 Studio Legale Avv. Francesco Iaccarino — 那不勒斯律师公会（Foro di Napoli）</p>
+<p style="margin-top:0.25rem">P.IVA: 08836401219 — 注册于那不勒斯律师公会（Albo Avvocati del Foro di Napoli）</p>
+<div class="footer-links"><a href="/zh/index.html">首页</a> <a href="/zh/civile.html">民法</a> <a href="/zh/penale.html">刑法</a> <a href="/zh/tributario.html">税法</a> <a href="/zh/immigrazione.html">移民法</a> <a href="/zh/privacy.html">隐私政策</a></div>
+</footer>
+<div aria-label="Cookie政策通知" class="cookie-banner" role="dialog">
+<p>本网站仅使用技术性Cookie。<a href="/zh/privacy.html">Privacy Policy</a>。</p>
+<button class="cookie-accept">接受</button>
+</div>
+<a class="mobile-sticky-cta" href="/zh/consulenza.html?area=civile-successioni"> 继承法律咨询 — € 200 </a>
+<script defer="" src="/zh/js/main.js"></script>
+<script defer="" src="/zh/js/chat-widget.js?v=4"></script>
+<!-- WHATSAPP FLOATING BUTTON -->
+<a aria-label="通过 WhatsApp 联系我们" class="whatsapp-float" href="https://wa.me/393335684659" rel="noopener noreferrer" target="_blank">
+<svg fill="currentColor" viewbox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"></path></svg>
+</a>
+<style>
+.whatsapp-float{position:fixed;bottom:1.5rem;right:1.5rem;width:56px;height:56px;background:#25D366;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 20px rgba(37,211,102,0.4);z-index:9999;transition:transform 0.3s,box-shadow 0.3s}
+.whatsapp-float svg{width:28px;height:28px;color:#fff}
+.whatsapp-float:hover{transform:scale(1.1);box-shadow:0 6px 28px rgba(37,211,102,0.6)}
+@media(min-width:768px){.whatsapp-float{bottom:2rem;right:2rem;width:64px;height:64px}.whatsapp-float svg{width:32px;height:32px}}
+</style>
+<!-- ═══ PULSANTE WHATSAPP FISSO (lato sinistro) ═══ -->
+<style>
+#wa-float{position:fixed;left:22px;top:50%;transform:translateY(-50%);z-index:10000;
+  display:flex;align-items:center;gap:.6rem;background:#25D366;color:#fff;text-decoration:none;
+  padding:.85rem 1.3rem .85rem 1rem;border-radius:50px;
+  font-family:'Cormorant Garamond',Georgia,serif;font-size:1.02rem;font-weight:700;letter-spacing:.02em;
+  box-shadow:0 6px 26px rgba(37,211,102,.5),0 2px 10px rgba(0,0,0,.3);
+  transition:transform .25s ease,box-shadow .25s ease,background .25s ease;}
+#wa-float:hover{background:#1da851;color:#fff;transform:translateY(-50%) scale(1.05);
+  box-shadow:0 10px 34px rgba(37,211,102,.6);}
+#wa-float svg{width:30px;height:30px;flex:0 0 30px;display:block;}
+#wa-float .wa-txt{white-space:nowrap;}
+#wa-float::after{content:'';position:absolute;inset:0;border-radius:50px;
+  border:2px solid rgba(37,211,102,.75);animation:waPulse 2.4s ease-out infinite;pointer-events:none;}
+@keyframes waPulse{0%{transform:scale(1);opacity:.85}70%{transform:scale(1.2);opacity:0}100%{opacity:0}}
+@media (max-width:900px){
+  #wa-float{left:14px;top:auto;bottom:92px;transform:none;padding:.85rem;gap:0;}
+  #wa-float:hover{transform:none;}
+  #wa-float .wa-txt{display:none;}
+  #wa-float svg{width:32px;height:32px;flex:0 0 32px;}
+}
+@media (prefers-reduced-motion:reduce){#wa-float::after{animation:none}}
+@media print{#wa-float{display:none}}
+</style>
+<a aria-label="通过 WhatsApp 联系律所" href="https://wa.me/393335684659?text=Buongiorno%2C%20vorrei%20informazioni%20per%20una%20consulenza%20legale." id="wa-float" rel="noopener noreferrer" target="_blank">
+<svg aria-hidden="true" fill="currentColor" focusable="false" viewbox="0 0 32 32">
+<path d="M16.02 3.2c-7.06 0-12.8 5.74-12.8 12.8 0 2.26.59 4.47 1.72 6.42L3.2 28.8l6.55-1.71a12.74 12.74 0 0 0 6.27 1.6h.01c7.05 0 12.79-5.74 12.79-12.8 0-3.42-1.33-6.63-3.75-9.05a12.7 12.7 0 0 0-9.05-3.64zm0 23.34h-.01c-1.98 0-3.93-.53-5.63-1.54l-.4-.24-4.18 1.1 1.11-4.08-.26-.42a10.6 10.6 0 0 1-1.63-5.66c0-5.87 4.78-10.64 10.65-10.64 2.84 0 5.51 1.11 7.52 3.12a10.57 10.57 0 0 1 3.11 7.53c0 5.87-4.77 10.64-10.64 10.64zm5.84-7.97c-.32-.16-1.89-.93-2.18-1.04-.29-.11-.5-.16-.71.16-.21.32-.82 1.04-1.01 1.25-.18.21-.37.24-.69.08-.32-.16-1.35-.5-2.57-1.59-.95-.85-1.59-1.89-1.78-2.21-.18-.32-.02-.5.14-.66.14-.14.32-.37.48-.56.16-.19.21-.32.32-.53.11-.21.05-.4-.03-.56-.08-.16-.71-1.72-.98-2.35-.26-.62-.52-.54-.71-.55l-.61-.01c-.21 0-.56.08-.85.4-.29.32-1.11 1.09-1.11 2.65 0 1.56 1.14 3.07 1.3 3.28.16.21 2.25 3.43 5.45 4.81.76.33 1.35.52 1.82.67.76.24 1.46.21 2.01.13.61-.09 1.89-.77 2.16-1.52.27-.75.27-1.38.19-1.52-.08-.13-.29-.21-.61-.37z"></path>
+</svg>
+<span class="wa-txt"> 通过 WhatsApp 留言 </span>
+</a>
+<script>
+(function(){
+  var w=document.getElementById('wa-float');if(!w)return;
+  var GAP=16,BASE=92;
+  function ck(){return document.querySelector('.cookie-banner');}
+  function adj(){
+    if(window.innerWidth>900){w.style.bottom='';return;}
+    var c=ck(),h=0;
+    if(c){var r=c.getBoundingClientRect();
+      if(r.height>0&amp;&amp;r.top<window.innerHeight-2){h=window.innerHeight-r.top;}}
+    w.style.bottom=(h>0?Math.round(h)+GAP:BASE)+'px';
+  }
+  adj();
+  window.addEventListener('resize',adj);
+  window.addEventListener('scroll',adj,{passive:true});
+  var c=ck();
+  if(c){
+    c.addEventListener('transitionend',adj);
+    try{new MutationObserver(adj).observe(c,{attributes:true,attributeFilter:['class','style']});}catch(e){}
+    try{new ResizeObserver(adj).observe(c);}catch(e){}
+  }
+  document.addEventListener('click',function(){setTimeout(adj,80);setTimeout(adj,500);},true);
+  [300,900,2000,3200].forEach(function(t){setTimeout(adj,t);});
+})();
+</script>
+<!-- ═══ FINE PULSANTE WHATSAPP ═══ -->
+<!--i18n--><div class="lang-nota">本翻译仅供参考，一切以意大利语原文为准。内容仅具信息参考性质，不能替代法律咨询，且仅涉及意大利法律。 <a href="/civile/successioni.html" hreflang="it" lang="it">意大利语版本</a></div><!--/i18n-->
+<script src="/js/area-wow.js" defer></script>
+</body>
+</html>

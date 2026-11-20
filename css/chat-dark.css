@@ -1,0 +1,55 @@
+/* ASSISTENTE AI: vetro scuro e oro (20.11.2026) */
+#ai-chat-widget{font-family:'Inter',system-ui,sans-serif}
+.acw-btn{position:fixed;bottom:22px;right:22px;z-index:9990;display:flex;align-items:center;gap:.75rem;background:linear-gradient(135deg,#0d2140,#08162a);color:#f1d89a;padding:.55rem 1.3rem .55rem .55rem;border-radius:999px;cursor:pointer;border:1px solid rgba(216,180,106,.5);box-shadow:0 14px 44px -10px rgba(0,0,0,.8),0 0 0 0 rgba(216,180,106,.4);animation:acwP 3s ease-in-out infinite;user-select:none;-webkit-tap-highlight-color:transparent;transition:transform .3s}
+.acw-btn:hover{transform:translateY(-3px)}
+@keyframes acwP{50%{box-shadow:0 14px 44px -10px rgba(0,0,0,.8),0 0 0 12px rgba(216,180,106,0)}}
+.acw-btn-logo{width:44px;height:44px;border-radius:50%;object-fit:cover;flex-shrink:0;border:2px solid #d8b46a;background:#0d2140}
+.acw-btn-text{font-family:'Cormorant Garamond',Georgia,serif;font-size:1.02rem;font-weight:700;letter-spacing:.02em;white-space:nowrap}
+.acw-btn-dot{width:9px;height:9px;background:#6fd39a;border-radius:50%;box-shadow:0 0 10px #6fd39a;flex-shrink:0}
+.acw-open .acw-btn{opacity:0;pointer-events:none;transform:scale(.8)}
+.acw-window{position:fixed;bottom:22px;right:22px;z-index:9991;width:390px;max-width:calc(100vw - 24px);height:600px;max-height:calc(100vh - 44px);background:rgba(7,17,31,.96);-webkit-backdrop-filter:blur(20px);backdrop-filter:blur(20px);border:1px solid rgba(216,180,106,.35);border-radius:22px;box-shadow:0 30px 90px -20px rgba(0,0,0,.9);display:flex;flex-direction:column;overflow:hidden;opacity:0;transform:translateY(20px) scale(.96);pointer-events:none;transition:all .35s cubic-bezier(.4,0,.2,1)}
+.acw-open .acw-window{opacity:1;transform:none;pointer-events:auto}
+.acw-header{background:linear-gradient(135deg,#0d2140,#08162a);padding:.9rem 1.1rem;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid rgba(216,180,106,.25)}
+.acw-header-info{display:flex;align-items:center;gap:.8rem}
+.acw-avatar{width:42px;height:42px;border-radius:50%;overflow:hidden;border:2px solid #d8b46a;flex-shrink:0;background:#0d2140}
+.acw-avatar img{width:100%;height:100%;object-fit:cover!important;border-radius:50%}
+.acw-header-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:1.1rem;font-weight:700;color:#e9edf5}
+.acw-header-status{font-size:.72rem;color:#b8c2d4;display:flex;align-items:center;gap:.4rem}
+.acw-status-dot{width:7px;height:7px;background:#6fd39a;border-radius:50%;box-shadow:0 0 8px #6fd39a;display:inline-block}
+.acw-close{background:none;border:0;color:#b8c2d4;font-size:1.7rem;cursor:pointer;padding:.2rem .5rem;line-height:1}
+.acw-close:hover{color:#d8b46a}
+.acw-messages{flex:1;overflow-y:auto;padding:1rem;display:flex;flex-direction:column;gap:.8rem}
+.acw-messages::-webkit-scrollbar{width:4px}.acw-messages::-webkit-scrollbar-thumb{background:rgba(216,180,106,.3);border-radius:2px}
+.acw-msg{display:flex;gap:.6rem;max-width:90%}
+.acw-msg-bot{align-self:flex-start}.acw-msg-user{align-self:flex-end;flex-direction:row-reverse}
+.acw-msg-enter{animation:acwI .3s ease-out both}
+@keyframes acwI{from{opacity:0;transform:translateY(8px)}}
+.acw-msg-avatar{width:28px;height:28px;display:flex;align-items:center;justify-content:center;background:#0d2140;border:1px solid rgba(216,180,106,.4);border-radius:50%;flex-shrink:0}
+.acw-msg-avatar svg{width:14px;height:14px;color:#d8b46a}
+.acw-msg-bubble{padding:.7rem 1rem;font-size:.93rem;line-height:1.6;border-radius:16px}
+.acw-msg-bot .acw-msg-bubble{background:rgba(255,255,255,.07);color:#e9edf5;border:1px solid rgba(255,255,255,.1);border-bottom-left-radius:4px}
+.acw-msg-user .acw-msg-bubble{background:linear-gradient(120deg,#f1d89a,#d8b46a);color:#1a1204;font-weight:500;border-bottom-right-radius:4px}
+.acw-typing{display:flex;align-items:center;gap:4px;padding:.9rem 1.2rem!important}
+.acw-typing span{width:6px;height:6px;background:#d8b46a;border-radius:50%;display:inline-block;animation:acwT 1.2s ease-in-out infinite}
+.acw-typing span:nth-child(2){animation-delay:.2s}.acw-typing span:nth-child(3){animation-delay:.4s}
+@keyframes acwT{0%,60%,100%{transform:none;opacity:.3}30%{transform:translateY(-4px);opacity:1}}
+.acw-quick-replies{display:flex;flex-wrap:wrap;gap:.5rem;padding:0 1rem .6rem}
+.acw-qr{font-family:inherit;font-size:.82rem;padding:.5rem .95rem;background:rgba(216,180,106,.1);border:1px solid rgba(216,180,106,.45);border-radius:999px;color:#f1d89a;cursor:pointer;transition:.25s}
+.acw-qr:hover{background:#d8b46a;color:#1a1204}
+.acw-action-btn{display:block;width:100%;margin-top:.5rem;padding:.7rem 1rem;border-radius:999px;font-family:inherit;font-weight:700;font-size:.88rem;text-align:center;text-decoration:none;cursor:pointer;border:1px solid transparent}
+.acw-action-primary{background:linear-gradient(120deg,#f1d89a,#d8b46a);color:#1a1204!important}
+.acw-action-whatsapp{background:#1fa855;color:#fff!important}
+.acw-action-tel{background:transparent;color:#f1d89a!important;border-color:rgba(216,180,106,.5)}
+.acw-input-wrap{display:flex;align-items:flex-end;gap:.5rem;padding:.8rem 1rem;border-top:1px solid rgba(255,255,255,.1);background:rgba(255,255,255,.03)}
+.acw-input{flex:1;resize:none;font-family:inherit;font-size:.95rem;padding:.65rem .9rem;border:1px solid rgba(255,255,255,.18);border-radius:16px;background:rgba(255,255,255,.07);color:#e9edf5;outline:none;max-height:110px}
+.acw-input:focus{border-color:#d8b46a}.acw-input::placeholder{color:#8a96ab}
+.acw-send{width:42px;height:42px;border-radius:50%;border:0;background:linear-gradient(120deg,#f1d89a,#d8b46a);color:#1a1204;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.acw-send svg{width:18px;height:18px}
+@media(max-width:640px){
+.acw-btn{bottom:14px;right:14px;padding:.4rem 1rem .4rem .4rem}.acw-btn-text{font-size:.92rem}.acw-btn-logo{width:38px;height:38px}
+.acw-window{right:0;bottom:0;left:0;width:100%;max-width:100%;height:100dvh;max-height:100dvh;border-radius:0}
+.acw-open .acw-btn{display:none}}
+/* posizioni senza sovrapposizioni con WhatsApp e barra mobile */
+@media(min-width:901px){.wa{bottom:96px!important;right:30px!important;width:52px!important;height:52px!important}}
+@media(max-width:900px){.acw-btn{bottom:76px!important}.wa{bottom:140px!important}}
+@media(max-width:640px){.acw-btn-text{max-width:150px;white-space:normal;line-height:1.1;font-size:.8rem}}
