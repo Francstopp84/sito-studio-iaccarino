@@ -41,7 +41,7 @@ footer{border-top:1px solid rgba(201,169,110,.25);border-bottom:0;font-size:.95r
 header a.logo{font-family:'Cormorant Garamond',serif;font-size:1.35rem;text-decoration:none;color:#E8E4DA}
 nav a{margin-left:1.2rem;text-decoration:none;font-size:.98rem}
 main{max-width:860px;margin:0 auto;padding:2.2rem 6vw 3rem}
-h1,h2{font-family:'Cormorant Garamond',serif;font-weight:600;color:#F3EEE3}h1{font-size:2.3rem;line-height:1.2}
+h1,h2{font-family:'Cormorant Garamond',serif;font-weight:600;color:#F3EEE3}h1{font-size:2.3rem;line-height:1.2}h3{font-size:1.18rem;color:#C9A96E;margin:1.4em 0 .3em}
 .bc{font-size:.85rem;color:#8d97a6}.bc a{color:#8d97a6}
 .tag{display:inline-block;border:1px solid rgba(201,169,110,.5);color:#C9A96E;padding:.1rem .7rem;border-radius:20px;font-size:.85rem;margin:0 .4rem .3rem 0}
 .box{background:#0B1D32;border:1px solid rgba(201,169,110,.25);border-radius:10px;padding:1.2rem 1.5rem;margin:1.6rem 0}
@@ -126,22 +126,63 @@ def guide_correlate(area, sub, escl=None, n=6):
 
 AUT = {"@type": "Person", "name": "Avv. Francesco Iaccarino"}
 
+LUNGHE = R / "_strumenti" / "guide_lunghe"
+
+
+def carica_lunga(slug):
+    f = LUNGHE / f"{slug}.json"
+    if not f.exists():
+        return None
+    try:
+        g = json.load(open(f, encoding="utf-8"))
+    except Exception:
+        return None
+    return g if g.get("sezioni") else None
+
+
 for a in ART:
-    par = "".join(f"<p>{E(p)}</p>" for p in lista(a["paragraphs"]))
+    g = carica_lunga(a["slug"])
     chk = "".join(f"<li>{E(x)}</li>" for x in lista(a["checklist"]))
     pu = perc_url.get((a["area"], a["subtopic"]))
+    faq_schema = None
+    if g:
+        titolo, desc = g.get("title") or a["title"], g.get("description") or a["excerpt"]
+        par = "".join(f"<p>{E(p)}</p>" for p in g.get("intro", []))
+        for s in g["sezioni"]:
+            par += f"\n<h2>{E(s.get('h2', ''))}</h2>" + "".join(f"<p>{E(p)}</p>" for p in s.get("paragrafi", []))
+            if s.get("elenco"):
+                par += "<ul class='el'>" + "".join(f"<li>{E(x)}</li>" for x in s["elenco"]) + "</ul>"
+        if g.get("faq"):
+            par += "\n<h2>Domande frequenti</h2>" + "".join(
+                f"<h3>{E(q['q'])}</h3><p>{E(q['a'])}</p>" for q in g["faq"])
+            faq_schema = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                {"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["a"]}}
+                for q in g["faq"]]}
+        if g.get("norme_verificate"):
+            par += "\n<h2>Norme di riferimento</h2><ul class='el'>" + "".join(
+                f"<li>{E(n['norma'])}</li>" for n in g["norme_verificate"]) + "</ul>"
+        parole = len(re.sub(r"<[^>]+>", " ", par).split())
+        lettura = f"{max(3, round(parole / 200))} min"
+        chk = ""
+        tit_tag = g.get("seo_title") or titolo
+    else:
+        titolo, desc, tit_tag = a["title"], a["excerpt"], f"{a['title']} | Avv. Iaccarino Napoli"
+        par = "".join(f"<p>{E(p)}</p>" for p in lista(a["paragraphs"]))
+        lettura = a["readTime"]
     corpo = (f"<p><span class='tag'>{E(AREE.get(a['area'], a['area']))}</span><span class='tag'>{E(a['subtopicName'])}</span>"
-             f"<span class='tag'>{E(a['lawRef'])}</span></p>\n<h1>{E(a['title'])}</h1>"
-             f"<p><em>{E(a['date'])}, lettura {E(a['readTime'])}</em></p>{par}\n"
+             f"<span class='tag'>{E(a['lawRef'])}</span></p>\n<h1>{E(titolo)}</h1>"
+             f"<p><em>{E(a['date'])}, lettura {E(lettura)}</em></p>{par}\n"
              + (f"<h2>Cosa fare subito</h2><ul class='el'>{chk}</ul>\n" if chk else "")
              + (f"<p>Approfondimento della materia: <a href='{pu}'>{E(a['subtopicName'])}</a>.</p>\n" if pu else "")
              + f"<h2>Casi risolti dallo studio sul tema</h2><ul class='el'>{casi_correlati(a['area'], a['subtopic'])}</ul>\n"
              + f"<h2>Altre guide</h2><ul class='el'>{guide_correlate(a['area'], a['subtopic'], a['slug'])}</ul>")
-    sch = {"@context": "https://schema.org", "@type": "Article", "headline": a["title"][:110],
-           "description": a["excerpt"], "inLanguage": "it", "author": AUT,
+    sch = {"@context": "https://schema.org", "@type": "Article", "headline": titolo[:110],
+           "description": desc, "inLanguage": "it", "author": AUT,
            "publisher": {"@type": "LegalService", "name": "Studio Legale Avv. Francesco Iaccarino", "url": SITE}}
-    pagina(guide_url[a["slug"]][1:], f"{a['title']} | Avv. Iaccarino Napoli", a["excerpt"], corpo,
-           bc(("Guide", "/guide/"), (a["subtopicName"], None)), sch)
+    if g and g.get("parole_chiave"):
+        sch["keywords"] = ", ".join(g["parole_chiave"])
+    pagina(guide_url[a["slug"]][1:], tit_tag, desc, corpo,
+           bc(("Guide", "/guide/"), (a["subtopicName"], None)), [sch, faq_schema] if faq_schema else sch)
 
 for c in CASI:
     att = "".join(f"<li>{E(x)}</li>" for x in lista(c.get("attivita")))

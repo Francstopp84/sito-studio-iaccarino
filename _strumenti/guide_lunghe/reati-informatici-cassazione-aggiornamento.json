@@ -1,0 +1,103 @@
+{
+ "slug": "reati-informatici-cassazione-aggiornamento",
+ "title": "Reati informatici: come ragionano i giudici e come si impugna",
+ "seo_title": "Reati informatici: giudizio e impugnazioni",
+ "description": "Reati informatici e impugnazioni: prova dell'autore, autorizzazione all'accesso, qualificazione dei fatti, sequestri, termini di appello e ricorso.",
+ "parole_chiave": [
+  "reati informatici ricorso cassazione",
+  "impugnare condanna accesso abusivo",
+  "sequestro telefono computer riesame",
+  "frode informatica appello",
+  "reati informatici prova dell'autore",
+  "art 606 codice procedura penale",
+  "riqualificazione truffa frode informatica"
+ ],
+ "intro": [
+  "Nei processi per reati informatici la decisione dipende raramente da una sola prova. Contano i dati estratti da dispositivi e server, il modo in cui sono stati acquisiti, il collegamento tra un'attività online e una persona in carne e ossa. Chi ha ricevuto una condanna, o un provvedimento che incide sui propri dispositivi, deve capire presto quali margini restano e in che modo si possano far valere.",
+  "Questa guida non cita singole pronunce. Descrive i punti sui quali i giudici concentrano l'attenzione nei reati degli articoli 615-ter, 617-quater, 635-bis e 640-ter del codice penale e illustra i mezzi di impugnazione, con i termini previsti dal codice di procedura penale. Ha un taglio diverso dalla guida dedicata alla difesa nelle indagini: parte da una decisione già presa e da contestare."
+ ],
+ "sezioni": [
+  {
+   "h2": "Dalla qualificazione dei fatti dipende la pena",
+   "paragrafi": [
+    "Nei reati informatici lo stesso episodio può essere inquadrato in modi molto diversi. L'accesso a un account è punito dall'articolo 615-ter con la reclusione fino a tre anni nel caso base, mentre le ipotesi aggravate arrivano a dieci e dodici anni. Un raggiro online può essere truffa (articolo 640, da sei mesi a tre anni) oppure frode informatica (articolo 640-ter), con pene più alte quando c'è un trasferimento di denaro o valuta virtuale.",
+    "La scelta della norma incide anche sulla procedibilità: alcuni reati richiedono la querela, altri no. Nelle impugnazioni si verifica quindi con attenzione se il giudice abbia applicato la norma giusta, e se gli elementi che la caratterizzano, per esempio l'alterazione del funzionamento del sistema nella frode informatica, siano stati davvero provati."
+   ]
+  },
+  {
+   "h2": "Chi ha agito: il collegamento tra la persona e il dispositivo",
+   "paragrafi": [
+    "Il tema più frequente è l'attribuzione del fatto. Un accesso risulta da un indirizzo di rete, da un dispositivo o da un account, ma questi elementi indicano uno strumento, non una persona. I giudici guardano se altri avessero accesso agli stessi apparecchi o alle stesse credenziali, se vi siano stati orari o spostamenti compatibili e se esistano riscontri indipendenti.",
+    "Chi impugna può contestare l'insufficienza o la contraddittorietà di questi elementi. In Cassazione, tuttavia, non si ripete l'esame delle prove: si può censurare la motivazione solo se manca, è contraddittoria o manifestamente illogica, come prevede l'articolo 606 del codice di procedura penale."
+   ]
+  },
+  {
+   "h2": "L'autorizzazione all'accesso e lo scopo",
+   "paragrafi": [
+    "Nell'accesso abusivo il giudice valuta se la persona avesse il diritto di entrare nel sistema, con quali limiti e a quali condizioni. Chi aveva le credenziali per ragioni di lavoro può trovarsi imputato perché ha usato l'accesso per finalità diverse da quelle assegnate. L'articolo 615-ter punisce anche chi si mantiene nel sistema contro la volontà di chi ha il diritto di escluderlo.",
+    "Nelle difese si esaminano quindi le istruzioni ricevute, i regolamenti aziendali, le comunicazioni sull'uso degli strumenti e i tempi del contrasto con l'azienda. Sono documenti che, se non valutati in primo grado, possono diventare l'oggetto di un motivo di impugnazione per vizio della motivazione."
+   ]
+  },
+  {
+   "h2": "Sequestri e copie dei dati: la regolarità dell'acquisizione",
+   "paragrafi": [
+    "Telefoni, computer e supporti sono spesso sequestrati nelle prime fasi. Il sequestro probatorio incide su strumenti di lavoro e archivi personali, e va quindi contestato rapidamente. Il provvedimento che dispone una misura cautelare coercitiva si impugna con il riesame entro dieci giorni (articolo 309 del codice di procedura penale). L'articolo 311 consente anche il ricorso diretto per cassazione per violazione di legge, entro gli stessi termini, ma rende inammissibile la richiesta di riesame.",
+    "Sulla prova digitale i giudici verificano come i dati sono stati copiati, se la loro integrità è documentata e se la difesa ha avuto modo di partecipare agli accertamenti tecnici. Se l'acquisizione è irregolare, il motivo può riguardare l'inutilizzabilità, uno dei vizi previsti dall'articolo 606."
+   ]
+  },
+  {
+   "h2": "Appello e ricorso: termini e motivi",
+   "paragrafi": [
+    "Il termine per impugnare la sentenza dipende da quando viene depositata la motivazione. L'articolo 585 del codice di procedura penale prevede quindici giorni, trenta giorni quando la motivazione è depositata in un termine più lungo, quarantacinque giorni nei casi di maggiore ampiezza. Il termine decorre dalla lettura o dalla notificazione dell'avviso di deposito.",
+    "I motivi di ricorso per cassazione sono elencati nell'articolo 606: erronea applicazione della legge penale, violazione di norme processuali a pena di nullità o inutilizzabilità, mancata assunzione di una prova decisiva, vizi della motivazione. Un ricorso efficace sceglie pochi punti, li lega agli atti e non si limita a riproporre la propria versione.",
+    "Prima di impugnare è utile farsi consegnare la copia completa degli atti, comprese le relazioni tecniche sulle copie forensi dei dispositivi, e far esaminare da un consulente informatico le parti decisive, in modo da distinguere i rilievi davvero fondati da quelli che il giudice dell'impugnazione non potrebbe esaminare."
+   ]
+  },
+  {
+   "h2": "Querela e accordo con la persona offesa",
+   "paragrafi": [
+    "Alcuni reati informatici, come l'accesso abusivo nel caso base o il danneggiamento di dati nella forma semplice, sono punibili a querela. Il termine per proporla è di tre mesi dalla notizia del fatto (articolo 124 del codice penale). Nelle impugnazioni si controlla anche che la querela sia stata presentata nei tempi e dalla persona legittimata.",
+    "Se la persona offesa e l'imputato raggiungono un accordo, gli effetti sul procedimento vanno valutati con un difensore, perché la possibilità di chiudere la vicenda dipende dal tipo di reato e dalla fase raggiunta."
+   ]
+  },
+  {
+   "h2": "Come lavora lo studio",
+   "paragrafi": [
+    "Lo Studio Legale Avv. Francesco Iaccarino, a Napoli, Palazzo Barbaja, Via Toledo 205, esamina sentenze e provvedimenti sui reati informatici a Napoli e in tutta Italia. Il primo passo è il controllo dei termini, poi la lettura della motivazione e degli atti, anche con l'ausilio di consulenti tecnici, e la scelta del mezzo di impugnazione, senza promettere risultati."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Entro quanto devo impugnare una condanna per reati informatici?",
+   "a": "Dipende dal termine con cui è stata depositata la motivazione. L'articolo 585 del codice di procedura penale prevede quindici giorni, trenta o quarantacinque, a partire dalla lettura della sentenza o dalla notificazione dell'avviso di deposito. Poiché i termini sono brevi, conviene far controllare subito la data da un difensore."
+  },
+  {
+   "q": "Posso contestare in Cassazione la ricostruzione dei dati informatici?",
+   "a": "Non si può chiedere un nuovo esame dei fatti. L'articolo 606 permette di denunciare l'erronea applicazione della legge, le nullità, l'inutilizzabilità di prove, la mancata assunzione di una prova decisiva e i vizi della motivazione. Chi ricorre deve indicare con precisione dove la sentenza manca, si contraddice o è manifestamente illogica."
+  },
+  {
+   "q": "Come si contesta il sequestro del telefono o del computer?",
+   "a": "Il codice di procedura penale prevede il riesame entro dieci giorni per le misure cautelari coercitive (articolo 309) e, per violazione di legge, il ricorso diretto per cassazione (articolo 311). Per il sequestro di dispositivi occorre verificare con il difensore il mezzo corretto, in base al tipo di provvedimento notificato."
+  },
+  {
+   "q": "Una truffa online può essere qualificata come frode informatica?",
+   "a": "Dipende dalle modalità. La frode informatica dell'articolo 640-ter richiede l'alterazione del funzionamento di un sistema o l'intervento senza diritto su dati, con ingiusto profitto e danno altrui. La truffa dell'articolo 640 si basa sul raggiro. La qualificazione cambia le pene e va controllata in ogni grado di giudizio."
+  },
+  {
+   "q": "Un accordo con la persona offesa chiude il procedimento?",
+   "a": "Non sempre. Per i reati punibili a querela gli effetti di un accordo dipendono dal tipo di reato e dalla fase del procedimento; per quelli procedibili d'ufficio la vicenda prosegue comunque. Prima di firmare qualsiasi accordo o di restituire somme conviene consultare un avvocato, perché il comportamento può avere conseguenze diverse da quelle sperate."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "Codice penale",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "Codice di procedura penale",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+  }
+ ],
+ "parole": 1225
+}

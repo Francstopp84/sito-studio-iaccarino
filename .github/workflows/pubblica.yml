@@ -24,6 +24,8 @@ jobs:
         run: git clone --depth 1 https://github.com/Francstopp84/studio-iaccarino-blog.git "${{ runner.temp }}/blog"
       - name: Costruisce il blog
         run: python3 _strumenti/costruisci_blog.py "${{ runner.temp }}/blog" .
+      - name: Toglie dalla pubblicazione gli strumenti interni
+        run: rm -rf _strumenti .github
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

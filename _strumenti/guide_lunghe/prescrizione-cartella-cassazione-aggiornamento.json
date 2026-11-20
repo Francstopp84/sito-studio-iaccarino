@@ -1,0 +1,128 @@
+{
+ "slug": "prescrizione-cartella-cassazione-aggiornamento",
+ "title": "Prescrizione della cartella: calcolo del termine con esempi pratici",
+ "seo_title": "Prescrizione cartella: calcolo, interruzione, esempi",
+ "description": "Come si calcola la prescrizione di una cartella esattoriale: termine, atti che lo interrompono, sospensioni, differenza dalla decadenza ed esempi ipotetici.",
+ "parole_chiave": [
+  "calcolo prescrizione cartella esattoriale",
+  "prescrizione cartelle esattoriali termini",
+  "interruzione prescrizione cartella",
+  "decadenza cartella esattoriale",
+  "intimazione di pagamento prescrizione",
+  "cartella esattoriale 10 anni o 5 anni",
+  "sospensione prescrizione rateizzazione"
+ ],
+ "intro": [
+  "Quanto tempo ha l'agente della riscossione per chiedere il pagamento di una cartella? La risposta che si legge più spesso, un numero secco di anni, è quasi sempre incompleta. Il tempo si conta da una data precisa, può ripartire da zero quando intervengono certi atti, può fermarsi per un periodo e dipende dalla natura di ciascuna somma. Per questo due cartelle apparentemente identiche possono avere esiti opposti.",
+  "Questa guida si concentra sul calcolo. Spiega da dove parte il conteggio, quali eventi lo azzerano o lo bloccano, in che cosa la prescrizione differisce dalla decadenza e come si ragiona su alcuni esempi inventati, utili solo a capire il meccanismo. Il termine concretamente applicabile al tuo debito va sempre verificato sui documenti."
+ ],
+ "sezioni": [
+  {
+   "h2": "Il punto di partenza del conteggio",
+   "paragrafi": [
+    "Il codice civile risponde alla prima domanda con l'articolo 2935: la prescrizione comincia a decorrere dal giorno in cui il diritto può essere fatto valere. Applicato alla riscossione, significa che il tempo si misura da quando il credito poteva essere preteso con l'atto di cui si discute, e non dalla data in cui ti è stato richiesto per la prima volta o da quella in cui hai ricevuto la lettera che ti ha allarmato.",
+    "Il passo successivo è capire quanto dura il periodo. L'articolo 2946 stabilisce che i diritti si estinguono, di regola, con il decorso di dieci anni. L'articolo 2948, numero 4, riserva invece cinque anni agli interessi e a quanto deve pagarsi periodicamente, ad anno o in termini più brevi. Quale delle due regole, o quale altra norma speciale, riguardi la singola voce della cartella non si decide con una formula valida per tutti: bisogna guardare l'origine del credito, e una cartella può contenere voci con regole diverse."
+   ]
+  },
+  {
+   "h2": "Gli atti che azzerano il tempo",
+   "paragrafi": [
+    "Il conteggio non è una corsa in linea retta. L'articolo 2943 del codice civile elenca gli atti che interrompono la prescrizione: la notificazione dell'atto con cui si inizia un giudizio, anche in forma esecutiva, e ogni altro atto che valga a costituire in mora il debitore. L'articolo 2944 aggiunge il riconoscimento del diritto fatto dal debitore. Quando la prescrizione è interrotta, spiega l'articolo 2945, comincia un nuovo periodo e il precedente non conta più.",
+    "Nella riscossione, ciò che interessa è soprattutto la notifica degli atti successivi alla cartella. L'articolo 50 del D.P.R. 602/1973 prevede che, se l'esecuzione non è iniziata entro un anno dalla notifica della cartella, l'espropriazione deve essere preceduta da un avviso che intima di pagare entro cinque giorni, e che questo avviso perde efficacia trascorso un anno. Un atto di questo tipo, se validamente notificato, può costituire il punto da cui riparte il conto; se la notifica è nulla, può non produrre alcun effetto interruttivo."
+   ],
+   "elenco": [
+    "notifica valida di un'intimazione o di un altro atto che costituisce in mora",
+    "inizio di un'esecuzione, per esempio un pignoramento",
+    "pagamento parziale o richiesta di piano a rate, se valgono come riconoscimento del debito",
+    "dichiarazioni scritte in cui ammetti l'esistenza del debito"
+   ]
+  },
+  {
+   "h2": "Quando il tempo si ferma senza ripartire",
+   "paragrafi": [
+    "Accanto all'interruzione esiste la sospensione: il tempo smette di scorrere per un certo periodo e poi riprende da dove si era fermato, senza ricominciare da capo. L'articolo 19, comma 1-quater, del D.P.R. 602/1973 collega la sospensione dei termini di prescrizione e decadenza alla richiesta di rateizzazione, dal momento della presentazione fino al rigetto o alla decadenza dal piano. Anche la definizione agevolata introdotta dalla legge 199/2025 prevede, per i carichi compresi nella domanda, la sospensione dei termini di prescrizione e decadenza.",
+    "Nel calcolo, quindi, vanno sommati i periodi di sospensione al tempo trascorso. Se per esempio una domanda di dilazione è rimasta pendente per alcuni mesi, quei mesi non contano ai fini della prescrizione. Dimenticare questo dettaglio porta a conclusioni troppo ottimiste, e confidarvi in un ricorso può costare spese e tempo."
+   ]
+  },
+  {
+   "h2": "Decadenza e prescrizione: perché non vanno confuse",
+   "paragrafi": [
+    "Il termine di decadenza riguarda la notifica della cartella, non la fase successiva. L'articolo 25 del D.P.R. 602/1973 indica le date entro cui la cartella deve essere notificata: il 31 dicembre del terzo anno successivo alla dichiarazione per le somme da controllo automatizzato, il 31 dicembre del quarto anno per il controllo formale, il 31 dicembre del secondo anno successivo alla definitività per gli accertamenti. Se la cartella è notificata dopo, il problema non è che il credito si sia prescritto: è che l'atto è stato emesso fuori tempo.",
+    "La distinzione ha conseguenze pratiche. Un termine di decadenza non si interrompe con gli atti sopra descritti: o la notifica è avvenuta in tempo oppure no. Il termine di prescrizione, al contrario, può essere interrotto e sospeso. Chi imposta una difesa sull'uno e dimentica l'altro rischia di lasciare fuori un argomento che poteva essere decisivo."
+   ]
+  },
+  {
+   "h2": "Tre esempi ipotetici per capire il meccanismo",
+   "paragrafi": [
+    "Primo esempio, inventato. Una cartella viene notificata correttamente in una certa data, poi non succede nulla per anni: nessuna intimazione, nessun pignoramento, nessun pagamento. Se il termine applicabile a quelle somme, verificato caso per caso, si compie senza interruzioni né sospensioni, la difesa di prescrizione ha buone basi, ma resta da controllare voce per voce.",
+    "Secondo esempio. La stessa cartella è seguita, dopo alcuni anni, da un'intimazione notificata alla persona giusta. Quell'atto può avere interrotto la prescrizione e fatto ripartire un nuovo periodo: il conto, da quel momento, comincia daccapo. Se però l'intimazione è stata notificata a un indirizzo sbagliato o con modalità irregolari, la sua efficacia interruttiva è contestabile, e la prova della corretta notifica spetta a chi la invoca.",
+    "Terzo esempio. Tra la cartella e l'intimazione il contribuente ha presentato richiesta di rateizzazione, poi respinta. Il periodo tra richiesta e rigetto è sospeso e va aggiunto al calcolo. Ciascuno di questi scenari mostra che la data riportata sul documento è solo il primo dato: contano tutti gli eventi intermedi."
+   ]
+  },
+  {
+   "h2": "Quando il credito è già accertato da una sentenza",
+   "paragrafi": [
+    "Esiste poi un'ipotesi particolare. L'articolo 2953 del codice civile prevede che i diritti per i quali la legge stabilisce una prescrizione più breve di dieci anni, quando sono stati riconosciuti con sentenza di condanna passata in giudicato, si prescrivono con il decorso di dieci anni. Se la tua vicenda comprende una sentenza definitiva, il termine può quindi cambiare. Non è però detto che questa regola si applichi alla tua cartella: dipende da quale atto accerta il credito, e il punto va verificato nel caso concreto.",
+    "La cautela vale anche in senso opposto. Se pensi che la tua cartella sia prescritta perché sono passati più di cinque anni, ricorda che un diverso termine, o un atto interruttivo che non ricordavi, potrebbe cambiare la conclusione."
+   ]
+  },
+  {
+   "h2": "Cosa fare dopo aver fatto il conto",
+   "paragrafi": [
+    "Fatto il calcolo, la scelta dipende dall'atto che hai in mano. Se la notifica è recente, il termine per il ricorso alla Corte di giustizia tributaria è di sessanta giorni, come prevede l'articolo 21 del D.Lgs. 546/1992, e scade a pena di inammissibilità. L'articolo 19 dello stesso decreto individua gli atti impugnabili; per capire a quale categoria appartenga un'intimazione o un altro atto della riscossione serve l'esame del documento.",
+    "Se invece la scadenza è passata, la prescrizione maturata dopo la notifica potrebbe ancora essere fatta valere con altri strumenti. In ogni caso la regola pratica è una sola: non pagare e non firmare nulla finché il conto non è stato verificato da chi ha letto tutti gli atti."
+   ]
+  },
+  {
+   "h2": "Chi siamo e come possiamo aiutarti",
+   "paragrafi": [
+    "Lo Studio Legale Avv. Francesco Iaccarino, con sede a Napoli nel Palazzo Barbaja, in Via Toledo 205, segue contribuenti e imprese in tutta Italia. Per ogni cartella lo studio ricostruisce la sequenza degli atti, calcola i termini per ciascuna voce e spiega con chiarezza quali strade sono percorribili e con quali rischi, senza promettere esiti."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Come si calcola la prescrizione di una cartella esattoriale?",
+   "a": "Si parte dalla data da cui il credito poteva essere preteso, si individua il termine applicabile a ciascuna somma, si sommano gli eventuali periodi di sospensione e si verifica se atti validi, come una intimazione notificata o un pignoramento, abbiano interrotto il tempo facendolo ripartire. Il risultato dipende dalla storia completa degli atti, non solo dalla data della cartella."
+  },
+  {
+   "q": "Un'intimazione di pagamento interrompe la prescrizione?",
+   "a": "Può interromperla, perché costituisce in mora il debitore, ma solo se è stata validamente notificata. Se la notifica è irregolare, l'effetto interruttivo può essere contestato. Per questo conviene controllare data, modalità e destinatario di ogni atto ricevuto, chiedendo se necessario la relata di notifica."
+  },
+  {
+   "q": "Perché dopo dieci anni non è sempre prescritta?",
+   "a": "Perché il conto può ripartire da zero con ogni atto interruttivo e può fermarsi nei periodi di sospensione, per esempio quando è pendente una richiesta di rateizzazione. Inoltre alcune somme seguono termini diversi, più brevi o più lunghi. Un semplice calcolo di dieci anni dalla cartella rischia quindi di essere sbagliato."
+  },
+  {
+   "q": "Qual è la differenza tra prescrizione e decadenza?",
+   "a": "La decadenza riguarda il termine entro cui la cartella doveva essere notificata e non può essere interrotta. La prescrizione riguarda il periodo successivo alla notifica e può essere interrotta o sospesa. Sono eccezioni diverse, che spesso si possono sollevare entrambe nello stesso giudizio."
+  },
+  {
+   "q": "La domanda di rateizzazione ferma i termini?",
+   "a": "Sì, secondo l'articolo 19, comma 1-quater, del D.P.R. 602/1973, dalla richiesta fino al rigetto o alla decadenza sono sospesi i termini di prescrizione e decadenza. È un periodo da aggiungere al calcolo, e va considerato prima di decidere se presentare una domanda per un debito molto vecchio."
+  },
+  {
+   "q": "Se la cartella è stata confermata da una sentenza cambia qualcosa?",
+   "a": "Può cambiare. Il codice civile prevede che alcune prescrizioni brevi, una volta accertato il diritto con sentenza definitiva, diventino di dieci anni. Se esiste una sentenza nella tua vicenda, bisogna verificare se riguarda proprio il credito in questione e quale termine ne deriva."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 2935, 2943, 2944, 2945, 2946, 2948, 2953 codice civile",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+  },
+  {
+   "norma": "artt. 19 (comma 1-quater), 25, 50 D.P.R. 602/1973",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\DPR 602-1973 riscossione.md"
+  },
+  {
+   "norma": "artt. 19, 21 D.Lgs. 546/1992",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\D.Lgs. 546-1992 processo tributario.md"
+  },
+  {
+   "norma": "L. 199/2025 art. 1 comma 91",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\L. 199-2025 art. 1 commi 82-101 rottamazione quinquies.md"
+  }
+ ],
+ "parole": 1510
+}
