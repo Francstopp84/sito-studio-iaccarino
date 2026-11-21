@@ -71,6 +71,7 @@ def pagina(path, title, desc, corpo, briciole, schema):
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=EB+Garamond:ital@0;1&display=swap" rel="stylesheet">
 <style>{CSS}</style>
 <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
+<link rel="stylesheet" href="/css/chat-dark.css">
 </head>
 <body>
 <header><a class="logo" href="/">Studio Legale Avv. Francesco Iaccarino</a>
@@ -82,6 +83,7 @@ def pagina(path, title, desc, corpo, briciole, schema):
 <a class="cta" href="tel:+393335684659">Chiama 333 568 4659</a><a class="cta" href="https://wa.me/393335684659">WhatsApp</a><a class="cta" href="/prenota.html">Prenota una consulenza</a></div>
 </main>
 <footer>Studio Legale Avv. Francesco Iaccarino, Via Toledo 205, 80134 Napoli. Tel. 081 426459. <a href="/privacy.html">Privacy</a>. Le informazioni pubblicate hanno carattere generale e non sostituiscono un parere sul caso concreto; i casi sono descritti in forma anonima.</footer>
+<script src="/js/chat-widget.js" defer></script>
 </body></html>
 """
     f = R / path

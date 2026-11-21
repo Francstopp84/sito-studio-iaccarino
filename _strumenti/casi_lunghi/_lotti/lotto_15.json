@@ -252,8 +252,8 @@
   "title": "Revoca illegittima per assenza superiore a 12 mesi: documentazione del caso di forza maggiore",
   "outcome": "Revoca annullata — Permesso UE reintegrato — Forza maggiore riconosciuta",
   "fatto": "Un cittadino cinese, titolare di permesso UE per lungo soggiornanti da sei anni, era rimasto bloccato in Cina a causa delle restrizioni di viaggio internazionali imposte durante l’emergenza pandemica COVID-19, con i voli internazionali tra Cina e Italia sospesi per oltre quattordici mesi.",
-  "strategia": "Al suo rientro in Italia, la Questura di Napoli aveva avviato un procedimento di revoca del permesso UE per lungo soggiornanti ai sensi dell’art. 9 co. 4 lett.",
-  "decisione": "a) TUI, che prevede la revoca quando il titolare è assente dal territorio italiano per più di dodici mesi consecutivi. L’applicazione meccanica della norma non teneva conto del fatto che l’assenza era stata determinata da una causa di forza maggiore — la sospensione dei voli internazionali e le restrizioni agli spostamenti imposte dalla pandemia — indipendente dalla volontà del titolare e pienamente documentata.",
+  "strategia": "Al suo rientro in Italia, la Questura di Napoli aveva avviato un procedimento di revoca del permesso UE per lungo soggiornanti ai sensi dell’art. 9 co. 7 lett. d) TUI, che prevede la revoca in caso di assenza dal territorio dell’Unione per un periodo di dodici mesi consecutivi.",
+  "decisione": "L’applicazione meccanica della norma non teneva conto del fatto che l’assenza era stata determinata da una causa di forza maggiore, la sospensione dei voli internazionali e le restrizioni agli spostamenti imposte dalla pandemia, indipendente dalla volontà del titolare e pienamente documentata.",
   "attivita": [
    "Rilascio titolo di soggiorno",
    "Iscrizione anagrafica",
@@ -374,8 +374,8 @@
   "court": "TAR Lazio, condanna al provvedimento",
   "title": "Silenzio-inadempimento dopo 1.100 giorni",
   "outcome": "Silenzio-inadempimento accertato — Cittadinanza conferita",
-  "fatto": "Una cittadina filippina, residente in Italia da sedici anni con permesso di soggiorno per lavoro domestico, aveva presentato istanza di cittadinanza per residenza decennale tramite il portale telematico del Ministero dell’Interno nel novembre 2020.",
-  "strategia": "L’istanza era corredata da documentazione completa: certificato di residenza cumulativo attestante la presenza continuativa sin dall’ingresso regolare in Italia, dichiarazione dei redditi degli ultimi tre anni con reddito imponibile superiore alla soglia minima richiesta, certificato del casellario giudiziale italiano e straniero privi di annotazioni, estratti del conto corrente bancario a dimostrazione della stabilità economica. Nonostante la completezza del fascicolo, dopo 730 giorni dalla presentazione — termine massimo previsto dall’art. 9-bis L. 91/1992 introdotto dalla L. 132/2018 — il Ministero non si era ancora pronunciato.",
+  "fatto": "Una cittadina filippina, residente in Italia da sedici anni con permesso di soggiorno per lavoro domestico, aveva presentato istanza di cittadinanza per residenza decennale tramite il portale telematico del Ministero dell’Interno.",
+  "strategia": "L’istanza era corredata da documentazione completa: certificato di residenza cumulativo attestante la presenza continuativa sin dall’ingresso regolare in Italia, dichiarazione dei redditi degli ultimi tre anni con reddito imponibile superiore alla soglia minima richiesta, certificato del casellario giudiziale italiano e straniero privi di annotazioni, estratti del conto corrente bancario a dimostrazione della stabilità economica. Nonostante la completezza del fascicolo, il Ministero non si era pronunciato neppure alla scadenza del termine di definizione del procedimento, fissato dall’art. 9-ter L. 91/1992 in ventiquattro mesi, prorogabili fino a trentasei, dalla presentazione della domanda.",
   "decisione": "All’atto del nostro mandato, erano già trascorsi 1.100 giorni senza alcun provvedimento.",
   "attivita": [
    "Decreto di cittadinanza",
@@ -416,8 +416,8 @@
   "title": "Conversione da studio a lavoro fuori quota per laureato nigeriano",
   "outcome": "Conversione fuori quota ottenuta — Permesso lavoro subordinato rilasciato",
   "fatto": "Un cittadino nigeriano, entrato in Italia a diciassette anni per motivi familiari e rimasto regolarmente soggiornante per otto anni durante i quali aveva frequentato il liceo scientifico e conseguito la laurea triennale in ingegneria informatica presso l’Università Federico II di Napoli, aveva trovato impiego a tempo indeterminato come sviluppatore software presso una società del settore informatico di Napoli.",
-  "strategia": "La Questura di Napoli aveva rigettato l’istanza di conversione del suo permesso in permesso per lavoro subordinato, affermando che la conversione era subordinata alle quote del decreto flussi, che per il settore informatico erano già esaurite per l’anno in corso. Il diniego non faceva alcuna menzione dell’art. 6 co.",
-  "decisione": "1-bis TUI, che consente espressamente la conversione fuori quota per gli stranieri che hanno completato percorsi di istruzione in Italia.",
+  "strategia": "La Questura di Napoli aveva rigettato l’istanza di conversione del suo permesso in permesso per lavoro subordinato, affermando che la conversione era subordinata alle quote del decreto flussi, che per il settore informatico erano già esaurite per l’anno in corso. Il diniego non faceva alcuna menzione dell’art. 6 co. 1 TUI, che consente la conversione del permesso per motivi di studio e formazione in permesso per lavoro al di fuori delle quote.",
+  "decisione": "La conversione fuori quota è stata ottenuta e il permesso per lavoro subordinato è stato rilasciato.",
   "attivita": [
    "Rilascio titolo di soggiorno",
    "Iscrizione anagrafica",
@@ -498,8 +498,8 @@
   "title": "Conversione da protezione speciale a lavoro subordinato",
   "outcome": "Conversione da protezione a lavoro ottenuta — Posizione giuridica stabilizzata",
   "fatto": "Un cittadino gambiano, titolare di permesso per protezione speciale dalla durata biennale, aveva trovato impiego regolare a tempo indeterminato come operaio metalmeccanico. Desiderava convertire il proprio permesso in permesso per lavoro subordinato per acquisire una posizione giuridica più stabile e indipendente dalle revisioni periodiche della condizione nel suo Paese di origine, che avrebbero potuto portare alla revoca della protezione speciale.",
-  "strategia": "La Questura di Napoli aveva rigettato l’istanza di conversione affermando che il permesso per protezione speciale non rientrava tra le categorie convertibili elencate dall’art. 14 D.P.R. 394/1999, in quanto il richiedente avrebbe dovuto attendere la scadenza naturale del permesso e poi presentare un’istanza di rinnovo per cambio di categoria. Questa interpretazione era manifestamente errata: l’art. 14 co. 3 del regolamento prevede espressamente la possibilità di conversione del permesso per protezione internazionale (inclusa la protezione speciale post-D.Lgs.",
-  "decisione": "130/2020) in permesso per lavoro.",
+  "strategia": "La Questura di Napoli aveva rigettato l’istanza di conversione affermando che il permesso per protezione speciale non rientrava tra le categorie convertibili elencate dall’art. 14 D.P.R. 394/1999, in quanto il richiedente avrebbe dovuto attendere la scadenza naturale del permesso e poi presentare un’istanza di rinnovo per cambio di categoria. Questa interpretazione era errata: l’art. 6 co. 1-bis TUI, nel testo introdotto dal D.L. 130/2020, includeva il permesso per protezione speciale tra i permessi di soggiorno convertibili in permesso per motivi di lavoro.",
+  "decisione": "La conversione in permesso per lavoro subordinato è stata ottenuta e la posizione giuridica del lavoratore è stata stabilizzata.",
   "attivita": [
    "Rilascio titolo di soggiorno",
    "Iscrizione anagrafica",

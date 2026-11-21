@@ -8,7 +8,7 @@
 
   // ─── Configurazione ───
   var CONFIG = {
-    apiEndpoint: '/api/chat',
+    apiEndpoint: null,
     studioName: 'Studio Legale Iaccarino',
     greeting: 'Buongiorno! Sono l\'assistente virtuale dello Studio Legale Iaccarino. Mi racconti il suo problema: saremo felici di aiutarla.',
     quickReplies: [
@@ -18,20 +18,11 @@
       'Ho un problema di immigrazione'
     ],
     emailEndpoint: 'https://formsubmit.co/ajax/studiolegalefrancescoiaccarino@outlook.com',
-    consultaUrl: 'consulenza.html',
+    consultaUrl: '/consulenza.html',
     whatsappUrl: 'https://wa.me/393335684659'
   };
 
-  // ─── Rileva path base per risorse ───
-  var scripts = document.getElementsByTagName('script');
-  var basePath = '';
-  for (var i = 0; i < scripts.length; i++) {
-    if (scripts[i].src && scripts[i].src.indexOf('chat-widget') !== -1) {
-      basePath = scripts[i].src.replace(/js\/chat-widget\.js.*$/, '');
-      break;
-    }
-  }
-  var logoUrl = basePath + 'img/foto-avvocato-profilo.jpg';
+  var logoUrl = '/img/foto-avvocato-profilo.jpg';
 
   // ─── Stato ───
   var state = {
@@ -304,11 +295,18 @@
     sendToAI(text);
   }
 
-  // ─── Invia all'AI (Netlify Function) ───
+  // ─── Invia all'AI (API esterna se configurata, altrimenti motore guidato integrato) ───
   function sendToAI(text) {
     showTyping();
 
     var endpoint = CONFIG.apiEndpoint;
+    if (!endpoint) {
+      setTimeout(function () {
+        hideTyping();
+        handleSmartFlow(text);
+      }, 650);
+      return;
+    }
 
     fetch(endpoint, {
       method: 'POST',
@@ -327,27 +325,8 @@
         hideTyping();
         if (data.reply) {
           addBotMessage(data.reply);
-          // Se c'è un follow-up (dopo |||), mostralo dopo 15 secondi
           if (data.followUp) {
-            setTimeout(function () {
-              showTyping();
-              setTimeout(function () {
-                hideTyping();
-                addBotMessage(data.followUp);
-                // Dopo 20s senza risposta, mostra i contatti dello studio
-                var msgCountNow = state.userMessageCount;
-                state.contactTimer = setTimeout(function () {
-                  if (state.userMessageCount === msgCountNow) {
-                    showTyping();
-                    setTimeout(function () {
-                      hideTyping();
-                      addBotMessage('Se preferisce, può contattare direttamente l\'Avv. Iaccarino al +39 333 568 4659, disponibile anche su WhatsApp. Oppure può prenotare una consulenza online — il primo incontro ha un costo di €200, interamente deducibili dal mandato professionale.');
-                      showActionButtons();
-                    }, 2000);
-                  }
-                }, 18000); // 18s + 2s typing = 20s totali
-              }, 2000); // 2s di "typing" per naturalezza
-            }, 13000); // 13s + 2s typing = 15s totali
+            scheduleFollowUp(data.followUp);
           } else if (data.showConsulta) {
             showActionButtons();
           }
@@ -355,45 +334,127 @@
       })
       .catch(function () {
         hideTyping();
-        handleFallback(text);
+        handleSmartFlow(text);
       });
   }
 
-  // ─── Fallback senza API ───
-  function handleFallback(text) {
+  function scheduleFollowUp(followUpText) {
+    setTimeout(function () {
+      showTyping();
+      setTimeout(function () {
+        hideTyping();
+        addBotMessage(followUpText);
+        showActionButtons();
+        var msgCountNow = state.userMessageCount;
+        state.contactTimer = setTimeout(function () {
+          if (state.userMessageCount === msgCountNow) {
+            showTyping();
+            setTimeout(function () {
+              hideTyping();
+              addBotMessage('Se preferisce, può contattare direttamente l\'Avv. Iaccarino al +39 333 568 4659, disponibile anche su WhatsApp. La prima consulenza ha un costo di €200, interamente deducibili dal mandato professionale.');
+              showActionButtons();
+            }, 1500);
+          }
+        }, 18000);
+      }, 1500);
+    }, 3500);
+  }
+
+  // ─── Motore conversazionale a 3 fasi con casi reali dello Studio ───
+  function detectArea(lowerText) {
+    if (/(penal|arrest|carcer|denunc|querel|avviso|garanzia|sequestr|misura|cautelar|truff|frode|stupefac|droga|maltratt|stalking|processo|imputat)/.test(lowerText)) return 'penale';
+    if (/(tribut|cartell|agenzia entrate|fisco|esattorial|accertament|redditometro|fermo amministrativo|ipoteca|cgt|rottamazione|pignorament)/.test(lowerText)) return 'tributario';
+    if (/(immigra|permess|soggiorn|cittadinanz|espulsion|questura|prefettura|visto|ricongiung|iure sanguinis|decreto flussi)/.test(lowerText)) return 'immigrazione';
+    if (/(civil|divorz|separaz|affidament|manteniment|lavor|licenziament|risarciment|incident|sinistr|condomini|contrat|credit|eredit|casa)/.test(lowerText)) return 'civile';
+    return state.area || null;
+  }
+
+  function pickRealCase(area, lowerText) {
+    if (area === 'penale') {
+      if (/(truff|frode|informatic|edile|assicur)/.test(lowerText)) {
+        return 'Abbiamo affrontato una situazione simile alla sua: in un caso di truffa vendita online da €4.800 al Tribunale di Napoli abbiamo ottenuto l\'assoluzione piena, così come l\'assoluzione per frode informatica da €12.500 al Tribunale di Milano.';
+      }
+      if (/(tenuit|querela|liev|telefon)/.test(lowerText)) {
+        return 'Abbiamo affrontato una situazione simile alla sua: al Tribunale di Salerno abbiamo ottenuto la non punibilità per particolare tenuità del fatto, e al Tribunale di Napoli Nord la chiusura con remissione di querela.';
+      }
+      return 'Abbiamo affrontato situazioni simili alla sua in ambito penale: lo Studio assiste quotidianamente indagati e imputati davanti ai Tribunali di Napoli, Roma e Milano, ottenendo assoluzioni piene e archiviazioni.';
+    }
+    if (area === 'civile') {
+      if (/(divorz|separaz|assegno|casa|affidament|figl|matrimon)/.test(lowerText)) {
+        return 'Abbiamo affrontato una situazione simile alla sua: in un divorzio con patrimonio occulto al Tribunale di Napoli (2023) abbiamo ottenuto l\'assegno pieno e l\'assegnazione della casa, e in Corte d\'Appello di Napoli (2024) una revisione dell\'assegno da €1.400 a €400.';
+      }
+      return 'Abbiamo affrontato situazioni simili alla sua in diritto civile e del lavoro: lo Studio tutela clienti in tutta Italia su famiglia, risarcimenti, licenziamenti e recupero crediti.';
+    }
+    if (area === 'tributario') {
+      if (/(redditometro|induttivo|accertament|ricavi)/.test(lowerText)) {
+        return 'Abbiamo affrontato una situazione simile alla sua: davanti alla CGT di Napoli (2024) abbiamo ottenuto l\'annullamento di un redditometro da €87.400 e la riduzione dell\'80% di un accertamento induttivo da €142.000 a €28.600.';
+      }
+      return 'Abbiamo affrontato una situazione simile alla sua: davanti alla CGT di Napoli (2023) abbiamo ottenuto l\'annullamento per decadenza dei termini su una pretesa da €53.800 e in mediazione una riduzione da €38.400 a €9.800.';
+    }
+    if (area === 'immigrazione') {
+      if (/(cittadinanz|iure sanguinis|silenzio|ritard|1100|tar)/.test(lowerText)) {
+        return 'Abbiamo affrontato una situazione simile alla sua: davanti al TAR Lazio (2024) abbiamo vinto un ricorso contro il silenzio-inadempimento dopo 1.100 giorni ottenendo la cittadinanza, e al Tribunale di Roma (2024) il passaporto iure sanguinis.';
+      }
+      return 'Abbiamo affrontato una situazione simile alla sua: al Tribunale di Roma (2023) abbiamo ottenuto l\'annullamento di un diniego per precedente estinto e nel 2024 la revoca di un diniego per interruzione della residenza.';
+    }
+    return 'Lo Studio Legale Iaccarino tratta abitualmente questa materia su tutto il territorio nazionale con difesa dedicata in sede giudiziale e stragiudiziale.';
+  }
+
+  function handleSmartFlow(text) {
     var lowerText = text.toLowerCase();
-    var areaLabels = {
-      'penale': 'diritto penale',
-      'civile': 'diritto civile e risarcimento danni',
-      'tributario': 'diritto tributario',
-      'immigrazione': 'diritto dell\'immigrazione'
-    };
+    var phoneDigits = text.replace(/\D/g, '');
 
-    if (state.area && !state._fallbackAreaDone) {
-      state._fallbackAreaDone = true;
-      var areaName = areaLabels[state.area] || 'l\'area che la interessa';
-      addBotMessage('Mi racconti nel dettaglio cosa è successo. Il nostro studio ha grande esperienza in ' + areaName + ' e potrò indicarle un caso simile al suo che abbiamo risolto con successo.');
-      return;
-    }
-
-    if (lowerText.indexOf('consult') !== -1 || lowerText.indexOf('prenot') !== -1 || lowerText.indexOf('appuntamento') !== -1) {
-      addBotMessage('Perfetto! Può prenotare una consulenza direttamente online o contattarci via WhatsApp per fissare un appuntamento.');
+    if (phoneDigits.length >= 8) {
+      if (!state.emailSent) sendConversationEmail();
+      addBotMessage('Grazie, abbiamo registrato il suo recapito. L\'Avv. Francesco Iaccarino la ricontatterà al più presto. Se il caso è urgente può chiamare subito il +39 333 568 4659.');
       showActionButtons();
       return;
     }
 
-    if (lowerText.indexOf('costo') !== -1 || lowerText.indexOf('prezzo') !== -1 || lowerText.indexOf('quanto') !== -1) {
-      addBotMessage('La consulenza iniziale ha un costo di €200, comprensiva di analisi del caso e indicazione delle possibili strategie difensive. L\'importo è deducibile dall\'eventuale mandato professionale.');
+    var detected = detectArea(lowerText);
+    if (detected) state.area = detected;
+
+    if (/(costo|prezzo|quanto costa|onorario|parcel)/.test(lowerText)) {
+      addBotMessage('La prima consulenza legale, in studio a Via Toledo 205 (Palazzo Barbaja, Napoli) oppure al telefono o in videochiamata, ha un costo fisso di €200, interamente deducibili dal compenso in caso di conferimento del mandato.');
       showActionButtons();
       return;
     }
 
-    if (lowerText.indexOf('orari') !== -1 || lowerText.indexOf('dove') !== -1 || lowerText.indexOf('indirizzo') !== -1 || lowerText.indexOf('sede') !== -1) {
-      addBotMessage('Lo studio si trova nel Palazzo di Domenico Barbaja, a Napoli. Siamo operativi dal lunedì al venerdì, dalle 9:00 alle 13:00 e dalle 15:00 alle 19:00. Operiamo su tutto il territorio nazionale.');
+    if (/(orari|dove|indirizzo|sede|palazzo|toledo)/.test(lowerText)) {
+      addBotMessage('Lo Studio si trova a Napoli in Via Toledo 205 (Palazzo di Domenico Barbaja). Riceviamo dal lunedì al venerdì dalle 9:00 alle 13:00 e dalle 15:00 alle 19:00, e assistiamo clienti in tutta Italia.');
+      showActionButtons();
       return;
     }
 
-    addBotMessage('Capisco. Mi descriva meglio la sua situazione: cosa è successo e quando? Così potrò indicarle un caso simile che abbiamo risolto e come possiamo aiutarla.');
+    if (/(urgen|arrest|ferm|sequestr|perquisiz|subito)/.test(lowerText)) {
+      addBotMessage(pickRealCase(state.area, lowerText));
+      addBotMessage('Trattandosi di una situazione urgente, le consiglio di chiamare subito il +39 333 568 4659 oppure di lasciarmi qui il suo numero di telefono per essere richiamata immediatamente.');
+      showActionButtons();
+      return;
+    }
+
+    var isGenericAreaOnly = /^(ho un problema|problema)\s+(penale|civile|tributario|di immigrazione)\.?$/i.test(text.trim());
+    if (isGenericAreaOnly && !state._askedDetails) {
+      state._askedDetails = true;
+      var areaLabels = {
+        'penale': 'diritto penale',
+        'civile': 'diritto civile e del lavoro',
+        'tributario': 'diritto tributario',
+        'immigrazione': 'diritto dell\'immigrazione'
+      };
+      addBotMessage('Capisco, si tratta di ' + (areaLabels[state.area] || 'una questione legale') + '. Mi racconti brevemente cosa è successo e quando, così posso indicarle subito un caso simile già risolto dallo Studio.');
+      return;
+    }
+
+    if (!state._casePresented) {
+      state._casePresented = true;
+      addBotMessage(pickRealCase(state.area, lowerText));
+      scheduleFollowUp('Per poterla ricontattare e valutare i documenti, mi lasci il suo recapito telefonico. La prima consulenza costa €200 ed è interamente deducibile dal mandato.');
+      return;
+    }
+
+    addBotMessage('Ho annotato anche questi dettagli. Mi lasci pure il suo numero di telefono qui in chat, oppure utilizzi i pulsanti qui sotto per prenotare la consulenza (€200 deducibili) o scrivere su WhatsApp.');
+    showActionButtons();
   }
 
   // ─── Mostra bottoni azione ───

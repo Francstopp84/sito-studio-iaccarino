@@ -5,6 +5,13 @@ import json, os, shutil, sys, html
 def esc(x):
     return html.escape("" if x is None else str(x), quote=True).replace("&#x27;", "'")
 
+def inject_chat(page_html):
+    if "chat-dark.css" not in page_html and "</head>" in page_html:
+        page_html = page_html.replace("</head>", '<link rel="stylesheet" href="/css/chat-dark.css">\n</head>', 1)
+    if "chat-widget.js" not in page_html and "</body>" in page_html:
+        page_html = page_html.replace("</body>", '<script src="/js/chat-widget.js" defer></script>\n</body>', 1)
+    return page_html
+
 repo, sito = sys.argv[1], sys.argv[2]
 lista = json.load(open(os.path.join(repo, "articles.json"), encoding="utf-8"))
 blog = os.path.join(sito, "blog"); os.makedirs(blog, exist_ok=True)
@@ -21,7 +28,7 @@ cards = "\n\n".join(
     <p>{esc(a.get('descrizione'))}</p>
     <span class="article-cta">Leggi l&#8217;articolo &rarr;</span>
   </a>''' for a in lista)
-open(os.path.join(blog, "index.html"), "w", encoding="utf-8", newline="").write(tpl.replace("<!--ARTICOLI-->", cards))
+open(os.path.join(blog, "index.html"), "w", encoding="utf-8", newline="").write(inject_chat(tpl.replace("<!--ARTICOLI-->", cards)))
 
 # articoli dal repo (i file statici gia' nel sito hanno la precedenza, come su Netlify)
 statici = set(json.load(open(os.path.join(sito, "_strumenti", "blog_statici.json"), encoding="utf-8")))
@@ -35,7 +42,7 @@ for f in os.listdir(os.path.join(repo, "posts")):
     if altri and "</article>" in t and "leggi-anche" not in t:
         li = "".join(f'<li><a href="/blog/{esc(a["slug"])}.html">{esc(a["titolo"])}</a></li>' for a in altri)
         t = t.replace("</article>", f'<aside class="leggi-anche" style="margin:2.5rem 0 1rem;padding:1.2rem 1.5rem;border:1px solid #B8965A;border-radius:8px"><h2 style="font-size:1.3rem;margin:0 0 .6rem">Leggi anche</h2><ul style="margin:0;padding-left:1.2rem;line-height:1.9">{li}</ul><p style="margin:.8rem 0 0"><a href="/blog/">Tutte le guide legali &rarr;</a></p></aside></article>', 1)
-    open(os.path.join(blog, f), "w", encoding="utf-8", newline="").write(t); fatti += 1
+    open(os.path.join(blog, f), "w", encoding="utf-8", newline="").write(inject_chat(t)); fatti += 1
 
 # immagini
 img_src = os.path.join(repo, "img"); img_dst = os.path.join(sito, "img", "blog")
