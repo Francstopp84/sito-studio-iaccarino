@@ -1,0 +1,74 @@
+{
+ "id": "SLI-108",
+ "seo_title": "Lesioni gravi: nesso causale escluso dalla perizia",
+ "description": "Accusa di lesioni gravi dopo una colluttazione: come la perizia medico-legale può escludere il nesso causale con l'ernia discale e portare all'assoluzione.",
+ "parole_chiave": [
+  "nesso causale lesioni perizia medico legale",
+  "lesioni gravi colluttazione assoluzione",
+  "ernia discale lesioni penale",
+  "invalidità permanente lesioni personali",
+  "certificato pronto soccorso valore prova"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il nesso causale nel diritto penale",
+   "paragrafi": [
+    "Per condannare per lesioni non basta che la persona offesa abbia una malattia: occorre provare che quella malattia sia stata causata dalla condotta dell'imputato. L'art. 41 del codice penale afferma che il concorso di cause preesistenti, simultanee o sopravvenute, anche se indipendenti dall'azione del colpevole, non esclude il rapporto di causalità; le cause sopravvenute lo escludono quando sono state da sole sufficienti a determinare l'evento. Se quindi la patologia dipende da altro, per esempio da uno stato preesistente o da eventi successivi, manca il collegamento richiesto.",
+    "La gravità della lesione, d'altra parte, cambia radicalmente la sanzione: l'art. 583 considera grave la lesione da cui deriva una malattia che dura più di quaranta giorni o l'indebolimento permanente di un organo, e prevede la reclusione da tre a sette anni. Per questo il primo terreno di scontro in questi processi è il rapporto tra il fatto e il danno."
+   ]
+  },
+  {
+   "h2": "Perché nel caso è mancato il collegamento",
+   "paragrafi": [
+    "Nel caso un imprenditore era accusato di aver causato lesioni gravi a un ex socio dopo una colluttazione. L'accusa riferiva un'ernia discale cervicale con prognosi di sessanta giorni e invalidità permanente, ed era fondata sul certificato del pronto soccorso e su una risonanza magnetica eseguita un mese dopo l'episodio. Il Tribunale di Torre Annunziata, sulla base della perizia, ha escluso il nesso causale e ha assolto.",
+    "Il dato temporale è decisivo e già emerge dal lotto: tra la colluttazione e la risonanza magnetica è trascorso circa un mese. Il certificato del pronto soccorso attesta ciò che il paziente riferisce e che il sanitario rileva nell'immediato, ma da solo non dimostra che la patologia discale sia la conseguenza di quel contatto fisico. La perizia ha avuto il compito di rispondere a questa domanda tecnica, e la risposta ha spezzato la catena causale. In applicazione dell'art. 530, comma 2, del codice di procedura penale, quando la prova manca o è insufficiente o contraddittoria il giudice assolve. Il lotto non precisa altro, e nulla si aggiunge sulle conclusioni peritali."
+   ]
+  },
+  {
+   "h2": "Se ti viene attribuita una lesione medicalmente discutibile",
+   "paragrafi": [
+    "In generale, nei casi in cui le conseguenze lamentate sono patologie della colonna o articolari che possono avere origine degenerativa o pregressa, la difesa dovrebbe far verificare con un medico legale se la lesione sia compatibile, per natura e tempi di insorgenza, con il fatto contestato. Contano la documentazione medica anteriore all'episodio, la cronologia degli esami, la coerenza tra sede del trauma e sede della patologia. Una consulenza di parte, e se disposta una perizia, ricostruisce questi elementi.",
+    "Va poi distinto ciò che prova il fatto da ciò che prova il danno. Un referto è un elemento, non una conclusione: il giudice lo valuta insieme agli altri atti. Ogni caso si decide sugli atti, e la vicenda qui riferita non assicura un esito uguale altrove."
+   ],
+   "elenco": [
+    "certificato del pronto soccorso e referti successivi",
+    "esami strumentali con le relative date",
+    "documentazione sanitaria precedente all'episodio",
+    "dichiarazioni dei presenti sulla dinamica della colluttazione",
+    "relazioni di consulenti medico-legali"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Le investigazioni difensive possono iniziare dal conferimento dell'incarico scritto al difensore, secondo l'art. 327-bis del codice di procedura penale, e non occorre attendere la fine delle indagini. Dopo l'avviso di conclusione delle indagini, l'art. 415-bis assegna venti giorni per depositare memorie e documenti: è il momento adatto per presentare una consulenza medico-legale. Se si arriva al processo, la perizia può essere chiesta e la sua formulazione dei quesiti è decisiva.",
+    "Un esito di assoluzione chiude il giudizio penale. Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, assiste in procedimenti di questo tipo."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Un certificato del pronto soccorso basta a provare la lesione?",
+   "a": "Non basta da solo: attesta ciò che il medico ha rilevato, ma non prova che la patologia derivi dal fatto contestato. Nel caso il Tribunale ha ritenuto decisiva la perizia, che ha escluso il nesso causale tra la colluttazione e l'ernia discale cervicale."
+  },
+  {
+   "q": "Cosa significa nesso causale escluso?",
+   "a": "Significa che non è provato il collegamento tra la condotta dell'imputato e l'evento lesivo. L'art. 41 del codice penale spiega che le cause preesistenti o concorrenti non escludono il nesso, ma le cause sopravvenute lo escludono se sono state da sole sufficienti a produrre l'evento."
+  },
+  {
+   "q": "Quando le lesioni diventano gravi per legge?",
+   "a": "Secondo l'art. 583 del codice penale sono gravi se dal fatto deriva una malattia che mette in pericolo la vita o che dura più di quaranta giorni, oppure l'indebolimento permanente di un senso o di un organo. La reclusione è allora da tre a sette anni."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 41, 583 c.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+  },
+  {
+   "norma": "artt. 327-bis, 415-bis, 530 c.p.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+  }
+ ],
+ "parole": 753
+}

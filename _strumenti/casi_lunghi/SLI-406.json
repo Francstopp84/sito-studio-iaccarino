@@ -1,0 +1,79 @@
+{
+  "id": "SLI-406",
+  "seo_title": "Opposizione a decreto ingiuntivo chiusa con transazione",
+  "description": "Come un'opposizione a decreto ingiuntivo può chiudersi con un accordo che riduce la pretesa: conteggi, prescrizione, mediazione e verbale con valore di titolo esecutivo.",
+  "parole_chiave": [
+    "opposizione a decreto ingiuntivo",
+    "transazione",
+    "mediazione",
+    "verbale di conciliazione",
+    "prescrizione del credito"
+  ],
+  "sezioni": [
+    {
+      "h2": "Quando conviene chiudere e a quali condizioni",
+      "paragrafi": [
+        "Non ogni opposizione a decreto ingiuntivo deve finire con una decisione. Nel caso deciso davanti al Tribunale di Salerno la vicenda si è conclusa con un accordo che ha ridotto in modo drastico la pretesa iniziale. Il punto interessante non è l'accordo in sé, ma il percorso che lo ha reso possibile: una parte in posizione di debolezza apparente ha costruito, prima di trattare, le ragioni che le hanno permesso di negoziare da una posizione diversa.",
+        "Chi riceve un decreto ingiuntivo ha un termine breve per reagire. L'articolo 641 del codice di procedura civile fissa in quaranta giorni dalla notificazione il termine per proporre opposizione, con possibili riduzioni o aumenti nei casi previsti dalla stessa norma. È dentro questa finestra che si decide se difendersi, trattare, o fare entrambe le cose insieme."
+      ]
+    },
+    {
+      "h2": "Il lavoro sui conteggi e sulla prescrizione",
+      "paragrafi": [
+        "La strategia adottata si è fondata su due leve. La prima è stata la contestazione analitica dei conteggi: invece di opporsi in modo generico, la difesa ha esaminato voce per voce quanto richiesto, mettendo in discussione capitale, interessi e accessori. Una contestazione specifica obbliga la controparte a documentare ogni importo, e ogni importo non documentato diventa un punto di debolezza.",
+        "La seconda leva è stata l'eccezione di prescrizione. Il codice civile prevede termini diversi a seconda del tipo di credito. L'articolo 2946 fissa la regola generale di dieci anni, mentre l'articolo 2948 elenca crediti che si prescrivono in cinque anni, tra cui gli interessi e in generale ciò che deve pagarsi periodicamente ad anno o in termini più brevi. L'articolo 2956 prevede tre anni per alcuni compensi professionali. Sapere quale termine si applica a ciascuna voce può ridurre in modo significativo la parte di pretesa ancora esigibile.",
+        "A quella prescrizione si contrappongono gli atti interruttivi. Secondo l'articolo 2943 la prescrizione è interrotta, tra l'altro, da ogni atto che valga a costituire in mora il debitore, e secondo l'articolo 2945 per effetto dell'interruzione inizia un nuovo periodo. Perciò l'eccezione si valuta solo dopo aver ricostruito la sequenza delle richieste ricevute nel tempo."
+      ]
+    },
+    {
+      "h2": "La negoziazione assistita e la mediazione",
+      "paragrafi": [
+        "Sul piano procedurale la difesa ha affiancato al giudizio una negoziazione assistita. Per alcune materie, come i contratti bancari e assicurativi, il decreto sulla mediazione civile rende il tentativo di conciliazione condizione di procedibilità, e l'articolo 5-bis stabilisce che, quando la domanda è stata introdotta con ricorso per decreto ingiuntivo, l'onere di avviare la mediazione nel giudizio di opposizione grava su chi ha chiesto il decreto. Se non lo fa, il giudice dichiara improcedibile la domanda e revoca il decreto.",
+        "Questa regola vale per le materie elencate dalla norma e non per qualsiasi credito. Nel caso esaminato i dati disponibili non consentono di dire quale fosse la materia, e quindi non si può affermare che la regola si applicasse. Resta comunque il principio generale: la sede della mediazione è un luogo in cui le parti possono avvicinarsi senza il rischio di una decisione imposta."
+      ]
+    },
+    {
+      "h2": "Il verbale di conciliazione e le sue conseguenze",
+      "paragrafi": [
+        "La transazione è, secondo l'articolo 1965 del codice civile, il contratto con cui le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata. L'articolo 1967 aggiunge che deve essere provata per iscritto. Nel caso concreto l'accordo è stato racchiuso in un verbale di conciliazione con valore di titolo esecutivo, cioè in un documento che, in caso di inadempimento, consente di procedere all'esecuzione forzata senza dover ricominciare un nuovo giudizio.",
+        "Questo aspetto interessa entrambe le parti. Chi ha ridotto la propria pretesa ottiene la certezza di un pagamento garantito da uno strumento esecutivo, chi paga ottiene una somma definita e la fine della lite."
+      ]
+    },
+    {
+      "h2": "Cosa fare dopo l'accordo",
+      "paragrafi": [
+        "L'esecuzione dell'accordo richiede alcune attività precise. Il pagamento va accompagnato da una quietanza, cioè da una dichiarazione scritta di ricevuta. Il giudizio pendente va dichiarato estinto, perché l'accordo non lo chiude automaticamente. Le posizioni debitorie risultanti dalle precedenti iscrizioni o segnalazioni vanno archiviate e aggiornate.",
+        "Un errore frequente è pensare che l'accordo risolva ogni cosa nel momento della firma. In realtà la lite si chiude davvero solo quando tutti questi passaggi sono compiuti e documentati, in modo che nessuno possa più avanzare pretese sulla stessa vicenda."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Si può trattare mentre decorre il termine per opporsi?",
+      "a": "Sì, ma la trattativa non sospende il termine di quaranta giorni previsto dall'articolo 641. Se l'opposizione non viene proposta in tempo il decreto diventa esecutivo, e la posizione negoziale si indebolisce molto."
+    },
+    {
+      "q": "Il verbale di conciliazione può essere eseguito senza un nuovo processo?",
+      "a": "Nel caso esaminato il verbale aveva valore di titolo esecutivo, e questo significa che in caso di mancato pagamento si può procedere con l'esecuzione. Il valore dipende dalla sede e dalla forma in cui l'accordo viene raggiunto."
+    },
+    {
+      "q": "La prescrizione elimina automaticamente il debito?",
+      "a": "No. Va eccepita dal debitore nel giudizio, e va valutata insieme agli atti che hanno interrotto il decorso del tempo, come le richieste di pagamento ricevute."
+    }
+  ],
+  "norme_verificate": [
+    {
+      "norma": "Codice di procedura civile, art. 641",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+    },
+    {
+      "norma": "Codice civile, artt. 1965, 1967, 2943, 2945, 2946, 2948, 2956",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+    },
+    {
+      "norma": "D.Lgs. 28/2010, artt. 5 e 5-bis",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+    }
+  ],
+  "parole": 763
+}

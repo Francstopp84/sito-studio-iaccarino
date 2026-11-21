@@ -1,0 +1,76 @@
+{
+ "id": "SLI-227",
+ "seo_title": "Rottamazione-quater: errore nella comunicazione somme",
+ "description": "Comunicazione delle somme errata nella rottamazione-quater: carichi esclusi dalla definizione, rischio decadenza, ricorso in CGT e correzione in autotutela.",
+ "parole_chiave": [
+  "rottamazione quater comunicazione somme errata",
+  "carichi esclusi rottamazione quater",
+  "decadenza rottamazione quater",
+  "recupero aiuti di Stato rottamazione",
+  "autotutela comunicazione agenzia riscossione"
+ ],
+ "sezioni": [
+  {
+   "h2": "Che cosa può entrare nella rottamazione-quater",
+   "paragrafi": [
+    "La definizione agevolata prevista dall'art. 1, comma 231, della L. 197/2022 permette di estinguere i debiti affidati agli agenti della riscossione pagando il capitale e le spese, senza interessi e sanzioni. Non tutti i carichi, però, sono ammessi. Il comma 246 elenca le esclusioni: tra queste le somme dovute a titolo di recupero di aiuti di Stato e le multe, le ammende e le sanzioni pecuniarie derivanti da provvedimenti e sentenze penali di condanna.",
+    "Il caso nasce proprio da questa distinzione. Un artigiano edile aderisce alla definizione e riceve una comunicazione delle somme dovute che comprendeva due carichi che la legge esclude: uno derivante da una condanna penale e uno dal recupero di un aiuto di Stato incompatibile. Pagare in base a quella comunicazione avrebbe significato versare importi non definibili, con il rischio di una decadenza dal beneficio sull'intero piano."
+   ]
+  },
+  {
+   "h2": "Perché l'errore era pericoloso e come è stato corretto",
+   "paragrafi": [
+    "Il rischio era concreto: i benefici in gioco ammontavano a 31.200 euro. La legge collega l'efficacia della definizione al corretto versamento delle rate, e il comma 244 dispone che, in caso di mancato, insufficiente o tardivo versamento oltre cinque giorni, la definizione non produce effetti e riprendono a decorrere i termini di prescrizione e decadenza. In una comunicazione errata, il contribuente rischia di trovarsi inadempiente per non aver pagato carichi che comunque non poteva definire.",
+    "La strategia, descritta nel caso, ha avuto tre passaggi: ricorso tempestivo alla Corte di giustizia tributaria di primo grado, richiesta di sospensione cautelare del piano e correzione in autotutela con separazione dei due carichi. Il risultato è stato un piano corretto, che il contribuente prosegue senza rischio di decadenza. Va notato che la dichiarazione di adesione produce effetti protettivi: il comma 240 sospende prescrizione e decadenza e impedisce nuove procedure esecutive sui carichi che ne sono oggetto."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi aderisce a una definizione agevolata dovrebbe in generale confrontare la comunicazione ricevuta con l'elenco delle cartelle indicate nella propria dichiarazione, verificando che ogni carico sia effettivamente ammesso e che gli importi siano coerenti. Se compare un carico che la legge esclude, o un importo che non torna, conviene muoversi prima della scadenza della prima rata. Ogni situazione va valutata sui suoi atti e le norme della singola definizione vanno lette nella loro versione applicabile."
+   ],
+   "elenco": [
+    "La dichiarazione di adesione presentata",
+    "La comunicazione delle somme dovute",
+    "L'elenco delle cartelle e la natura di ciascun debito",
+    "I provvedimenti da cui deriva un eventuale carico di natura penale",
+    "Le ricevute dei pagamenti già eseguiti"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "L'impugnazione della comunicazione, quando è ammessa, segue il termine di sessanta giorni a pena di inammissibilità (art. 21 D.Lgs. 546/1992), con deposito entro trenta giorni (art. 22). Se il rischio di decadenza è imminente, si può chiedere la sospensione per danno grave e irreparabile (art. 47). L'errore più grave è interrompere i pagamenti in attesa della correzione senza aver prima valutato le conseguenze del comma 244. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quali debiti sono esclusi dalla rottamazione-quater?",
+   "a": "Il comma 246 dell'art. 1 della L. 197/2022 esclude, tra l'altro, le somme da recupero di aiuti di Stato, i crediti da condanne della Corte dei conti e le multe, ammende e sanzioni pecuniarie da provvedimenti penali di condanna. Conviene verificare ogni carico prima di pagare."
+  },
+  {
+   "q": "Cosa succede se non pago una rata della definizione?",
+   "a": "Il comma 244 prevede che, in caso di mancato, insufficiente o tardivo versamento oltre cinque giorni, la definizione non produce effetti e riprendono a decorrere i termini di prescrizione e decadenza. I versamenti fatti sono acquisiti come acconto del debito complessivo."
+  },
+  {
+   "q": "Posso contestare una comunicazione delle somme sbagliata?",
+   "a": "Nel caso la comunicazione è stata impugnata davanti alla Corte di giustizia tributaria e corretta in autotutela. Se e come impugnare dipende dall'atto: il termine, quando il ricorso è ammesso, è di sessanta giorni dalla notifica."
+  },
+  {
+   "q": "La dichiarazione di adesione protegge dalle esecuzioni?",
+   "a": "Il comma 240 prevede che, dopo la dichiarazione, sui carichi definibili siano sospesi i termini di prescrizione e decadenza e non possano essere avviate nuove procedure esecutive né iscritti nuovi fermi e ipoteche. Le procedure già avviate restano ferme salvo il primo incanto con esito positivo."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "L. 197/2022, art. 1, commi 231, 240, 246",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 197-2022 art. 1 commi 222-252 stralcio e rottamazione quater.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992, artt. 12, 19, 21, 22, 47",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 647
+}

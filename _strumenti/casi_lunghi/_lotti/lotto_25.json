@@ -1,0 +1,440 @@
+[
+ {
+  "id": "SLI-109",
+  "area": "penale",
+  "court": "Tribunale di Napoli",
+  "title": "Assoluzione per conflittualità reciproca",
+  "outcome": "Assoluzione piena — Misure cautelari revocate",
+  "fatto": "Un imprenditore veniva denunciato dalla moglie per maltrattamenti in famiglia durante la fase di separazione.",
+  "strategia": "La donna riferiva anni di soprusi verbali, umiliazioni e controllo economico.",
+  "decisione": "L’uomo era stato immediatamente allontanato dalla casa familiare con divieto di avvicinamento.",
+  "attivita": [
+   "Ordine di scarcerazione eseguito",
+   "Restituzione beni/libertà",
+   "Monitoraggio fase successiva"
+  ],
+  "subtopic": "maltrattamenti-famiglia",
+  "materia": "Maltrattamenti in famiglia",
+  "lawRef_materia": "Art. 572 c.p.",
+  "sintesi_materia": "Intervento d’urgenza su misure cautelari, ascolto protetto e difesa dibattimentale.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "L. 69/2019 (Codice rosso)",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-113",
+  "area": "penale",
+  "court": "Corte d’Appello di Napoli",
+  "title": "Assoluzione per insussistenza del fatto",
+  "outcome": "Assoluzione in appello — Sentenza di condanna riformata",
+  "fatto": "Una donna veniva condannata in primo grado per maltrattamenti nei confronti dell’anziana madre convivente.",
+  "strategia": "L’accusa era stata innescata dalla segnalazione di un’assistente sociale che aveva riscontrato condizioni igieniche precarie nell’abitazione.",
+  "decisione": "Assoluzione in appello — Sentenza di condanna riformata",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "maltrattamenti-famiglia",
+  "materia": "Maltrattamenti in famiglia",
+  "lawRef_materia": "Art. 572 c.p.",
+  "sintesi_materia": "Intervento d’urgenza su misure cautelari, ascolto protetto e difesa dibattimentale.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "L. 69/2019 (Codice rosso)",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-114",
+  "area": "penale",
+  "court": "Tribunale di Napoli",
+  "title": "Litigio condominiale",
+  "outcome": "Assoluzione piena — Il fatto non sussiste",
+  "fatto": "Imprenditore denunciato dal vicino di casa per aver pronunciato, durante un’accesa discussione condominiale sugli spazi comuni, la frase “te la faccio pagare, vedrai come finisce”.",
+  "strategia": "Il denunciante aveva registrato l’audio con il proprio cellulare e sosteneva di aver temuto per la propria incolumità.",
+  "decisione": "La Procura aveva qualificato il fatto come minaccia grave e procedeva d’ufficio.",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "maltrattamenti-famiglia",
+  "materia": "Maltrattamenti in famiglia",
+  "lawRef_materia": "Art. 572 c.p.",
+  "sintesi_materia": "Intervento d’urgenza su misure cautelari, ascolto protetto e difesa dibattimentale.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "L. 69/2019 (Codice rosso)",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-344",
+  "area": "penale",
+  "subtopic": "maltrattamenti-famiglia",
+  "court": "Tribunale del Riesame di Napoli",
+  "title": "Maltrattamenti in famiglia — Difesa tecnica (Art. 572 c.p.)",
+  "outcome": "Assoluzione con formula piena",
+  "fatto": "Procedimento relativo a maltrattamenti in famiglia (Art. 572 c.p.) instaurato dinanzi a Tribunale del Riesame di Napoli. Archiviazione / proscioglimento integrale per insussistenza del fatto o difetto di elemento soggettivo.",
+  "strategia": "La difesa ha depositato indagini difensive tempestive, consulenza tecnica di parte e memoria ex art. 415-bis c.p.p. demolendo la tenuta dell’ipotesi accusatoria.",
+  "decisione": "Pronuncia integralmente liberatoria con caducazione di ogni vincolo reale e personale.",
+  "attivita": [
+   "Notifica sentenza definitiva",
+   "Cancellazione pendenze",
+   "Restituzione beni in sequestro"
+  ],
+  "materia": "Maltrattamenti in famiglia",
+  "lawRef_materia": "Art. 572 c.p.",
+  "sintesi_materia": "Intervento d’urgenza su misure cautelari, ascolto protetto e difesa dibattimentale.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "L. 69/2019 (Codice rosso)",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-345",
+  "area": "penale",
+  "subtopic": "maltrattamenti-famiglia",
+  "court": "Corte di Cassazione, Sez. Penale",
+  "title": "Maltrattamenti in famiglia — Ricorso urgente (Art. 572 c.p.)",
+  "outcome": "Revoca misura cautelare e dissequestro",
+  "fatto": "Procedimento relativo a maltrattamenti in famiglia (Art. 572 c.p.) instaurato dinanzi a Corte di Cassazione, Sez. Penale. Annullamento ordinanza cautelare con immediato ripristino della libertà e sblocco dei conti.",
+  "strategia": "Istanza al Tribunale del Riesame centrata sul difetto di gravità indiziaria, sull’assenza di attualità delle esigenze cautelari e sulla tracciabilità documentale.",
+  "decisione": "Il Collegio ha accolto integralmente il riesame revocando la misura e disponendo il dissequestro.",
+  "attivita": [
+   "Esecuzione immediata provvedimento",
+   "Sblocco rapporti bancari",
+   "Monitoraggio fase dibattimentale"
+  ],
+  "materia": "Maltrattamenti in famiglia",
+  "lawRef_materia": "Art. 572 c.p.",
+  "sintesi_materia": "Intervento d’urgenza su misure cautelari, ascolto protetto e difesa dibattimentale.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "L. 69/2019 (Codice rosso)",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-346",
+  "area": "penale",
+  "subtopic": "maltrattamenti-famiglia",
+  "court": "Tribunale di Torre Annunziata",
+  "title": "Maltrattamenti in famiglia — Tutela giudiziale (Art. 572 c.p.)",
+  "outcome": "Non punibilità ex art. 131-bis c.p. / Messa alla prova",
+  "fatto": "Procedimento relativo a maltrattamenti in famiglia (Art. 572 c.p.) instaurato dinanzi a Tribunale di Torre Annunziata. Estinzione del procedimento senza condanna né iscrizione pregiudizievole nel casellario.",
+  "strategia": "Ricostruzione dell’occasionalità della condotta, integrale riparazione e accesso strategico agli istituti deflattivi prima dell’apertura dibattimentale.",
+  "decisione": "Il Giudice ha dichiarato l’estinzione del reato escludendo sanzioni detentive e pene accessorie.",
+  "attivita": [
+   "Verifica casellario giudiziale",
+   "Chiusura posizione processuale",
+   "Restituzione patente o beni"
+  ],
+  "materia": "Maltrattamenti in famiglia",
+  "lawRef_materia": "Art. 572 c.p.",
+  "sintesi_materia": "Intervento d’urgenza su misure cautelari, ascolto protetto e difesa dibattimentale.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "L. 69/2019 (Codice rosso)",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-347",
+  "area": "penale",
+  "subtopic": "maltrattamenti-famiglia",
+  "court": "Tribunale di Napoli Nord",
+  "title": "Maltrattamenti in famiglia — Definizione favorevole (Art. 572 c.p.)",
+  "outcome": "Riqualificazione in appello e riduzione pena",
+  "fatto": "Procedimento relativo a maltrattamenti in famiglia (Art. 572 c.p.) instaurato dinanzi a Tribunale di Napoli Nord. Riforma sostanziale della sentenza di primo grado con esclusione delle aggravanti e sospensione condizionale.",
+  "strategia": "Atto di appello fondato su vizi motivazionali, contestazione dell’attendibilità dichiarativa e perizia tecnico-giuridica di parte.",
+  "decisione": "La Corte d’Appello ha accolto i motivi difensivi rideterminando radicalmente il trattamento sanzionatorio.",
+  "attivita": [
+   "Deposito istanze esecutive",
+   "Verifica sospensione condizionale",
+   "Chiusura giudizio di gravame"
+  ],
+  "materia": "Maltrattamenti in famiglia",
+  "lawRef_materia": "Art. 572 c.p.",
+  "sintesi_materia": "Intervento d’urgenza su misure cautelari, ascolto protetto e difesa dibattimentale.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "L. 69/2019 (Codice rosso)",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-544",
+  "area": "penale",
+  "subtopic": "maltrattamenti-famiglia",
+  "court": "Tribunale di Napoli · Sez. Penale",
+  "title": "Accusa di maltrattamenti in separazione conflittuale: assoluzione piena",
+  "outcome": "Assoluzione perché il fatto non sussiste — Revoca del divieto di avvicinamento",
+  "fatto": "Un professionista, nel pieno di una separazione altamente conflittuale con contesa sull’affidamento del figlio minore, veniva raggiunto da un avviso di conclusione indagini ex art. 415-bis c.p.p. per maltrattamenti in famiglia e sottoposto a misura cautelare del divieto di avvicinamento.",
+  "strategia": "La difesa ha condotto indagini difensive tempestive acquisendo messaggi, certificazioni scolastiche e testimonianze di vicini e docenti, facendo emergere l’assenza di abitualità vessatoria e la natura strumentale della denuncia rispetto al giudizio civile pendente.",
+  "decisione": "Il Collegio ha rilevato contraddizioni insanabili nel narrato accusatorio durante il controesame e ha pronunciato sentenza di assoluzione piena ai sensi dell’art. 530 co. 1 c.p.p.",
+  "attivita": [
+   "Revoca immediata misura cautelare",
+   "Produzione sentenza nel giudizio civile di famiglia",
+   "Ripristino integrale delle visite col minore"
+  ],
+  "materia": "Maltrattamenti in famiglia",
+  "lawRef_materia": "Art. 572 c.p.",
+  "sintesi_materia": "Intervento d’urgenza su misure cautelari, ascolto protetto e difesa dibattimentale.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "L. 69/2019 (Codice rosso)",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-089",
+  "area": "penale",
+  "court": "Tribunale di Napoli",
+  "title": "Da estorsione a esercizio arbitrario",
+  "outcome": "Riqualificazione — Pena sospesa — Nessuna detenzione",
+  "fatto": "Imprenditore edile accusato di aver minacciato un committente per ottenere il pagamento di fatture scadute da oltre un anno. La Procura contestava l’estorsione aggravata per le modalità intimidatorie delle richieste di pagamento.",
+  "strategia": "La difesa ha prodotto documentazione contabile che dimostrava l’esistenza di un credito reale e ha ricostruito il contesto delle comunicazioni, dimostrando che le espressioni utilizzate, pur aspre, erano funzionali alla riscossione di un credito legittimo.",
+  "decisione": "Riqualificazione — Pena sospesa — Nessuna detenzione",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "minacce",
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-090",
+  "area": "penale",
+  "court": "Tribunale di Roma",
+  "title": "Assoluzione per inattendibilità del denunciante",
+  "outcome": "Assoluzione piena — Il fatto non sussiste",
+  "fatto": "Professionista accusato dall’ex socio di affari di averlo costretto, sotto minaccia, a cedergli quote societarie e a versargli somme di denaro per oltre 150.000 euro.",
+  "strategia": "La difesa ha analizzato le dichiarazioni del denunciante evidenziando gravi contraddizioni: le date non coincidevano, i versamenti risultavano anteriori alla presunta minaccia, e-mail e messaggi dimostravano un rapporto collaborativo fino a poche settimane prima della denuncia.",
+  "decisione": "Assoluzione piena — Il fatto non sussiste",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "minacce",
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-091",
+  "area": "penale",
+  "court": "Tribunale del Riesame di Napoli",
+  "title": "Annullamento della custodia cautelare",
+  "outcome": "Scarcerazione — Custodia cautelare annullata",
+  "fatto": "Commerciante sottoposto a custodia cautelare in carcere con l’accusa di aver estorto pagamenti sistematici a piccoli fornitori, minacciandoli di escluderli dal circuito commerciale.",
+  "strategia": "La difesa ha impugnato l’ordinanza cautelare dinanzi al Tribunale del Riesame entro i 10 giorni previsti, contestando la gravità indiziaria: le intercettazioni, riascoltate integralmente, rivelavano normali trattative commerciali e non minacce.",
+  "decisione": "Scarcerazione — Custodia cautelare annullata",
+  "attivita": [
+   "Ordine di scarcerazione eseguito",
+   "Restituzione beni/libertà",
+   "Monitoraggio fase successiva"
+  ],
+  "subtopic": "minacce",
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-105",
+  "area": "penale",
+  "court": "Tribunale di Roma",
+  "title": "Riqualificazione da gravi a lievi e remissione di querela",
+  "outcome": "Reato riqualificato — Querela rimessa — Procedimento estinto",
+  "fatto": "A seguito di un alterco condominiale, l’imputato spingeva il vicino di casa, il quale cadeva a terra riportando la frattura del polso con prognosi iniziale di 50 giorni.",
+  "strategia": "La prognosi superiore a 40 giorni qualificava il fatto come lesione grave, procedibile d’ufficio, impedendo la composizione bonaria.",
+  "decisione": "Reato riqualificato — Querela rimessa — Procedimento estinto",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "minacce",
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-116",
+  "area": "penale",
+  "court": "Tribunale di Napoli Nord",
+  "title": "Minaccia in contesto lavorativo",
+  "outcome": "Messa alla prova — Reato estinto — Nessun precedente",
+  "fatto": "Operaio denunciato dal proprio superiore per aver detto, al culmine di una discussione sui turni di lavoro, “prima o poi ti aspetto fuori e sistemiamo la cosa”, alla presenza di altri colleghi.",
+  "strategia": "Il PM aveva contestato la minaccia grave per la presenza di più persone e la specificità del male prospettato.",
+  "decisione": "Messa alla prova — Reato estinto — Nessun precedente",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "minacce",
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-117",
+  "area": "penale",
+  "court": "Tribunale di Salerno",
+  "title": "Frase pronunciata per scherzo",
+  "outcome": "Assoluzione — Contesto scherzoso accertato",
+  "fatto": "Commerciante denunciato da un conoscente per aver detto, in un contesto conviviale durante una partita di carte, “se vinci ancora ti spezzo le gambe”.",
+  "strategia": "Il denunciante, con cui i rapporti si erano nel frattempo deteriorati per ragioni estranee, aveva sporto querela a distanza di settimane.",
+  "decisione": "Assoluzione — Contesto scherzoso accertato",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "minacce",
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ }
+]

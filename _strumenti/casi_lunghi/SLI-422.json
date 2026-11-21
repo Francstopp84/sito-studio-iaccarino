@@ -1,0 +1,75 @@
+{
+ "id": "SLI-422",
+ "seo_title": "Riduzione del prezzo o risoluzione: accordo transattivo",
+ "description": "Riduzione del prezzo o risoluzione per vizi nella vendita e nell'appalto (artt. 1492, 1493, 1668 c.c.) e accordo transattivo con valore di titolo esecutivo.",
+ "parole_chiave": [
+  "riduzione del prezzo o risoluzione",
+  "accordo transattivo vizi",
+  "titolo esecutivo accordo mediazione",
+  "garanzia appalto rimedi",
+  "scelta del rimedio irrevocabile"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le norme applicate al caso",
+   "paragrafi": [
+    "Il caso è stato definito davanti al Tribunale di Napoli, Sezione Civile, con un accordo transattivo. Il testo non indica il contratto, il difetto o le somme, e perciò l'angolo scelto è quello della scelta del rimedio e di come un accordo può chiudere la questione senza attendere la decisione.",
+    "Nella vendita, l'art. 1492 c.c. lascia al compratore la scelta tra la risoluzione del contratto e la riduzione del prezzo, e la scelta diventa irrevocabile quando è fatta con la domanda giudiziale. L'art. 1493 c.c. regola le conseguenze della risoluzione, con la restituzione delle prestazioni e il rimborso di quanto il compratore ha sostenuto. Nell'appalto, l'art. 1668 c.c. elenca i rimedi a disposizione del committente: eliminazione dei difetti a spese dell'appaltatore, riduzione del prezzo, risarcimento del danno e, se i difetti rendono l'opera del tutto inadatta alla sua destinazione, risoluzione del contratto.",
+    "Il tema pratico è quindi duplice: capire quale rimedio serva davvero e capire quando conviene chiudere con un accordo."
+   ]
+  },
+  {
+   "h2": "Perché la decisione è arrivata a questo esito",
+   "paragrafi": [
+    "Il caso riferisce una definizione concordata, seguita da quietanza, estinzione del giudizio e archiviazione delle posizioni debitorie. Non si conoscono le condizioni dell'accordo, e quindi non si può dire se sia stato scelto un abbattimento del prezzo, una restituzione o un'eliminazione dei difetti.",
+    "In generale, la transazione ha senso quando i rischi del giudizio, il tempo e il costo di una consulenza tecnica superano il vantaggio di attendere la decisione. Il vantaggio dell'accordo è la certezza, mentre il costo è la rinuncia a una parte della pretesa.",
+    "Se l'accordo nasce in mediazione, l'art. 12 del D.Lgs. 28/2010 stabilisce che costituisce titolo esecutivo per l'espropriazione forzata, per l'esecuzione per consegna e rilascio, per l'esecuzione degli obblighi di fare e non fare e per l'iscrizione di ipoteca giudiziale, se sottoscritto dalle parti e dagli avvocati che le assistono. Gli avvocati attestano e certificano la conformità dell'accordo alle norme imperative. Il caso non dice se l'accordo sia nato in mediazione, quindi la norma è citata come riferimento generale."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi ha acquistato o fatto eseguire un'opera con difetti dovrebbe decidere presto quale risultato vuole: tenere il bene a un prezzo più basso, farlo riparare o sciogliere il contratto. La scelta fatta in giudizio, nella vendita, non si cambia più, e perciò conviene pesarla prima con un tecnico. Ogni vicenda va valutata sui suoi atti."
+   ],
+   "elenco": [
+    "Contratto e documenti di consegna del bene o dell'opera",
+    "Relazione tecnica che quantifichi la diminuzione di valore o il costo di eliminazione",
+    "Corrispondenza con la controparte sulle richieste fatte",
+    "Proposte di accordo ricevute, con le date",
+    "Bozza di transazione con tempi di pagamento e rinunce reciproche"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Un accordo scritto in fretta può lasciare aperte questioni che sembravano chiuse. Vanno indicati con precisione il bene, le somme, le scadenze, le spese, la sorte del processo in corso e la rinuncia a ogni ulteriore pretesa. Se i pagamenti sono a rate, conviene prevedere le conseguenze del mancato versamento.",
+    "Dopo la firma bisogna eseguire quanto promesso, ottenere la quietanza e far dichiarare l'estinzione del giudizio. Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, assiste nella trattativa e nella redazione degli accordi."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso cambiare idea tra riduzione del prezzo e risoluzione?",
+   "a": "Nella vendita, secondo l'art. 1492 c.c., la scelta diventa irrevocabile quando è fatta con la domanda giudiziale. Prima di allora conviene valutarla con attenzione, perché le conseguenze pratiche sono molto diverse."
+  },
+  {
+   "q": "Quali rimedi ha il committente nell'appalto?",
+   "a": "L'art. 1668 c.c. prevede l'eliminazione dei difetti a spese dell'appaltatore, la riduzione del prezzo, il risarcimento del danno e, se i difetti rendono l'opera inadatta alla sua destinazione, la risoluzione."
+  },
+  {
+   "q": "Un accordo di mediazione si può eseguire senza decisione?",
+   "a": "Sì, secondo l'art. 12 del D.Lgs. 28/2010, se è sottoscritto dalle parti e dagli avvocati con attestazione di conformità alle norme imperative. Vale come titolo esecutivo per le forme di esecuzione indicate dalla norma."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 1492, 1493, 1668 c.c.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+  },
+  {
+   "norma": "art. 12 D.Lgs. 28/2010",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+  }
+ ],
+ "parole": 656
+}

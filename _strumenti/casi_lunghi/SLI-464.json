@@ -1,0 +1,80 @@
+{
+ "id": "SLI-464",
+ "seo_title": "Bollo auto: prescrizione triennale e rimborso",
+ "description": "Tassa automobilistica contestata: come funziona la prescrizione triennale dell'articolo 5 del DL 953/1982, anche per il rimborso, e come si ricorre in giudizio.",
+ "parole_chiave": [
+  "bollo auto prescrizione triennale",
+  "tassa automobilistica prescritta",
+  "rimborso bollo auto",
+  "cartella bollo auto annullamento",
+  "articolo 5 dl 953 1982"
+ ],
+ "sezioni": [
+  {
+   "h2": "La regola sulla prescrizione del bollo",
+   "paragrafi": [
+    "La tassa automobilistica è regolata, per la prescrizione, dall'articolo 5 del D.L. 953/1982. La norma stabilisce che l'azione dell'ente per il recupero della tassa si prescrive con il decorso del terzo anno successivo a quello in cui il pagamento doveva essere effettuato. Ogni annualità ha quindi una scadenza propria e un proprio termine, e non si può ragionare sulla cartella come un blocco unico.",
+    "La stessa disposizione prevede che nello stesso termine si prescriva il diritto al rimborso di quanto pagato indebitamente. Chi ha versato una somma non dovuta ha dunque un tempo limitato per chiederla indietro. La norma dispone inoltre che la cessazione della circolazione, con cancellazione dal registro, faccia venir meno l'obbligo per i periodi successivi.",
+    "Sul piano del processo, l'articolo 19 del D.Lgs. 546/1992 consente di impugnare la cartella di pagamento e gli atti della riscossione; il ricorso va proposto nei sessanta giorni dalla notificazione, secondo l'articolo 21."
+   ]
+  },
+  {
+   "h2": "L'esito del ricorso nel caso",
+   "paragrafi": [
+    "Nel caso, il ricorso è stato proposto davanti alla Corte di giustizia tributaria di primo grado di Salerno e si è concluso con l'annullamento totale dell'atto, con il risultato di zero euro dovuti. Il tema era la prescrizione triennale delle annualità di bollo richieste.",
+    "La decisione conferma l'importanza di un controllo anno per anno: quando l'ente chiede più annualità in un unico atto, la difesa più efficace consiste nel costruire una tabella con la data in cui ciascun pagamento andava effettuato, la data del primo atto notificato e l'eventuale presenza di atti interruttivi validi.",
+    "Un esito come questo non è prevedibile in altri casi: dipende dalle date, dalla regolarità delle notifiche e dalla natura del veicolo. Resta il metodo, che è quello di partire dalle norme e dai documenti, mai da una convinzione sul dovuto."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi riceve una cartella di bollo auto dovrebbe, in generale, controllare tre dati: gli anni a cui si riferisce, la data in cui il debito sarebbe scaduto e quando è stata notificata la prima richiesta. Il confronto tra le date mostra subito se qualche annualità è oltre il terzo anno successivo.",
+    "Se il veicolo è stato demolito, esportato o radiato, va verificata anche la data della cancellazione dal registro, perché dopo quella data la tassa non è più dovuta. Se invece si è pagato più del dovuto, il rimborso va chiesto entro lo stesso termine triennale."
+   ],
+   "elenco": [
+    "cartella o avviso con l'indicazione delle annualità",
+    "ricevute dei pagamenti già effettuati",
+    "documenti sulla cessazione della circolazione o sulla cancellazione",
+    "notifiche ricevute con le relative date",
+    "libretto o visura del veicolo"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il termine del ricorso è di sessanta giorni dalla notificazione e la costituzione in giudizio avviene entro trenta giorni (articoli 21 e 22 del D.Lgs. 546/1992). Le spese sono a carico della parte soccombente, come dispone l'articolo 15. Il rischio più concreto è lasciare scadere il termine per il ricorso su un atto che sembra piccolo.",
+    "Meglio non pagare per impulso né ignorare l'atto: ogni scelta va ponderata sui documenti. Le informazioni sono generali e nessun esito può essere assicurato. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Dopo quanto tempo si prescrive il bollo auto?",
+   "a": "L'articolo 5 del D.L. 953/1982 prevede la prescrizione con il decorso del terzo anno successivo a quello in cui il pagamento doveva essere effettuato. Ogni annualità ha quindi un proprio termine e vanno controllati anche gli atti che possono averlo interrotto, con le relative date di notifica."
+  },
+  {
+   "q": "Posso chiedere il rimborso del bollo pagato per errore?",
+   "a": "Sì, entro lo stesso termine triennale previsto dall'articolo 5 del D.L. 953/1982 per l'azione di recupero. Il diritto al rimborso si prescrive nello stesso periodo. Occorre allegare le ricevute dei pagamenti e spiegare perché la somma non era dovuta."
+  },
+  {
+   "q": "Se vendo o demolisco il veicolo devo pagare il bollo?",
+   "a": "La norma prevede che la cessazione della circolazione, con cancellazione dal registro, faccia venir meno l'obbligo per i periodi successivi. Conviene conservare la documentazione della cancellazione e controllare che le annualità richieste siano precedenti a quella data."
+  },
+  {
+   "q": "Entro quanto devo ricorrere contro la cartella?",
+   "a": "Il ricorso va proposto entro sessanta giorni dalla notificazione dell'atto, a pena di inammissibilità (articolo 21 del D.Lgs. 546/1992), e la costituzione in giudizio avviene entro trenta giorni dalla proposizione (articolo 22). Il calcolo parte dalla data di ricezione."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "DL 953/1982",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DL 953-1982 art 5 tasse automobilistiche.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 698
+}

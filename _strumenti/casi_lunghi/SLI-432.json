@@ -1,0 +1,81 @@
+{
+ "id": "SLI-432",
+ "seo_title": "Prescrizione cartelle e annullamento CGT Salerno",
+ "description": "Cartelle esattoriali prescritte e annullamento totale in CGT di primo grado a Salerno: termini dell'art. 2948 c.c., prescrizione ordinaria e passi difensivi.",
+ "parole_chiave": [
+  "prescrizione cartelle esattoriali Salerno",
+  "art. 2948 codice civile prescrizione",
+  "annullamento cartella esattoriale",
+  "difesa cartelle prescritte",
+  "ricorso CGT Salerno cartella"
+ ],
+ "sezioni": [
+  {
+   "h2": "I termini di prescrizione nel codice civile",
+   "paragrafi": [
+    "Il caso, discusso davanti alla Corte di giustizia tributaria di primo grado di Salerno, si è chiuso con l'annullamento totale dell'atto e zero euro dovuti. Il tema è la prescrizione dei crediti iscritti a ruolo, e la prima domanda è quale termine si applichi. L'art. 2946 del codice civile prevede la prescrizione ordinaria di dieci anni, quando la legge non dispone diversamente; l'art. 2948 prevede invece il termine di cinque anni per gli interessi e, in generale, per tutto ciò che deve pagarsi periodicamente ad anno o in termini più brevi.",
+    "Questa differenza ha conseguenze pratiche, perché un carico può contenere voci soggette a termini diversi. Il caso mostra che la scelta del termine corretto è un passaggio da dimostrare e non da presumere: ogni voce va collocata nella categoria giusta, e solo dopo si calcola se il tempo trascorso sia sufficiente."
+   ]
+  },
+  {
+   "h2": "Come si è arrivati all'annullamento",
+   "paragrafi": [
+    "Secondo i dati del caso, la difesa ha unito alla prescrizione i vizi di notifica, la decadenza dei termini e il difetto di motivazione. Sono motivi autonomi: il primo contesta il modo in cui la cartella è arrivata, il secondo il rispetto dei termini che l'art. 25 del DPR 602/1973 fissa per la notifica, il terzo la comprensibilità dell'atto. Più motivi proposti insieme consentono al giudice di decidere sul primo che risulti fondato.",
+    "La decisione ha annullato integralmente l'atto e condannato alle spese. Da questo risultato non si ricava che ogni cartella vecchia sia prescritta: nella prescrizione conta anche l'art. 2943, che elenca gli atti interruttivi, e l'art. 2945, secondo cui dopo l'interruzione inizia un nuovo periodo. Un atto interruttivo valido, anche remoto, cambia il calcolo.",
+    "Un altro profilo pratico riguarda la prova: spetta a chi invoca la prescrizione indicare le date e i periodi trascorsi, mentre l'amministrazione può replicare producendo atti interruttivi. Questo scambio si risolve sulle carte, e dunque la parte ordinata e documentata si trova in vantaggio. Anche la data di iscrizione a ruolo e quella di consegna al concessionario vanno ricostruite, perché da esse dipendono i calcoli successivi."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale chi vuole contestare una cartella per prescrizione dovrebbe costruire una tabella con tutte le date: ruolo, notifica, atti successivi, pagamenti. Accanto a ogni riga va indicato il termine applicabile alla singola voce. Ogni cartella ha una storia propria, e un esito favorevole in un caso non dice nulla sul successivo."
+   ],
+   "elenco": [
+    "Tabella delle date di notifica di ogni atto",
+    "Cartelle e intimazioni con le relate",
+    "Ricevute di ogni pagamento già effettuato",
+    "Estratto di ruolo con la composizione del debito",
+    "Eventuali richieste di dilazione presentate in passato"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il ricorso va presentato entro sessanta giorni dalla notifica dell'atto impugnato (art. 21 D.Lgs. 546/1992) e depositato entro trenta giorni (art. 22); in entrambi i casi il termine è a pena di inammissibilità. La prescrizione, inoltre, va fatta valere in giudizio: l'art. 2934 la descrive come causa di estinzione, ma sul piano pratico occorre eccepirla con prove. Un pagamento o un riconoscimento (art. 2944) rischia di interromperla. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual è la differenza tra prescrizione di cinque e di dieci anni?",
+   "a": "Il codice civile fissa dieci anni come termine ordinario (art. 2946) e cinque anni per interessi e prestazioni periodiche (art. 2948). Quale si applichi dipende dalla natura di ciascuna voce del carico, e lo stesso atto può contenere voci soggette a termini diversi."
+  },
+  {
+   "q": "Cosa interrompe la prescrizione di una cartella?",
+   "a": "L'art. 2943 c.c. indica la notifica dell'atto di giudizio e ogni atto che costituisce in mora il debitore, l'art. 2944 il riconoscimento del debito. Dopo l'interruzione ricomincia un nuovo periodo (art. 2945). Perché l'atto produca effetto deve essere validamente notificato."
+  },
+  {
+   "q": "Basta far valere un solo vizio per ottenere l'annullamento?",
+   "a": "Nel caso la difesa ha proposto più vizi e il giudice ha annullato l'atto integralmente. In generale è sufficiente che un motivo risulti fondato, ma la scelta e l'ordine dei motivi dipendono dagli atti disponibili."
+  },
+  {
+   "q": "Entro quando devo impugnare?",
+   "a": "Il ricorso si propone entro sessanta giorni dalla notifica dell'atto, a pena di inammissibilità, e il deposito avviene entro trenta giorni (artt. 21 e 22 del D.Lgs. 546/1992). Superati i termini, si perde la via del ricorso su quell'atto."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 2934-2953 codice civile",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992, artt. 12, 19, 21, 22, 47",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  },
+  {
+   "norma": "art. 72-bis, 72-ter, 25, 26, 50, 60, 77, 86 DPR 602/1973",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+  }
+ ],
+ "parole": 654
+}

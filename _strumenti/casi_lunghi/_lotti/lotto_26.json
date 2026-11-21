@@ -1,0 +1,504 @@
+[
+ {
+  "id": "SLI-336",
+  "area": "penale",
+  "subtopic": "minacce",
+  "court": "Tribunale di Napoli",
+  "title": "Minacce e violenza privata — Difesa tecnica (Artt. 610–612 c.p.)",
+  "outcome": "Assoluzione con formula piena",
+  "fatto": "Procedimento relativo a minacce e violenza privata (Artt. 610–612 c.p.) instaurato dinanzi a Tribunale di Napoli. Archiviazione / proscioglimento integrale per insussistenza del fatto o difetto di elemento soggettivo.",
+  "strategia": "La difesa ha depositato indagini difensive tempestive, consulenza tecnica di parte e memoria ex art. 415-bis c.p.p. demolendo la tenuta dell’ipotesi accusatoria.",
+  "decisione": "Pronuncia integralmente liberatoria con caducazione di ogni vincolo reale e personale.",
+  "attivita": [
+   "Notifica sentenza definitiva",
+   "Cancellazione pendenze",
+   "Restituzione beni in sequestro"
+  ],
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-337",
+  "area": "penale",
+  "subtopic": "minacce",
+  "court": "Corte d’Appello di Napoli",
+  "title": "Minacce e violenza privata — Ricorso urgente (Artt. 610–612 c.p.)",
+  "outcome": "Revoca misura cautelare e dissequestro",
+  "fatto": "Procedimento relativo a minacce e violenza privata (Artt. 610–612 c.p.) instaurato dinanzi a Corte d’Appello di Napoli. Annullamento ordinanza cautelare con immediato ripristino della libertà e sblocco dei conti.",
+  "strategia": "Istanza al Tribunale del Riesame centrata sul difetto di gravità indiziaria, sull’assenza di attualità delle esigenze cautelari e sulla tracciabilità documentale.",
+  "decisione": "Il Collegio ha accolto integralmente il riesame revocando la misura e disponendo il dissequestro.",
+  "attivita": [
+   "Esecuzione immediata provvedimento",
+   "Sblocco rapporti bancari",
+   "Monitoraggio fase dibattimentale"
+  ],
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-338",
+  "area": "penale",
+  "subtopic": "minacce",
+  "court": "Tribunale del Riesame di Napoli",
+  "title": "Minacce e violenza privata — Tutela giudiziale (Artt. 610–612 c.p.)",
+  "outcome": "Non punibilità ex art. 131-bis c.p. / Messa alla prova",
+  "fatto": "Procedimento relativo a minacce e violenza privata (Artt. 610–612 c.p.) instaurato dinanzi a Tribunale del Riesame di Napoli. Estinzione del procedimento senza condanna né iscrizione pregiudizievole nel casellario.",
+  "strategia": "Ricostruzione dell’occasionalità della condotta, integrale riparazione e accesso strategico agli istituti deflattivi prima dell’apertura dibattimentale.",
+  "decisione": "Il Giudice ha dichiarato l’estinzione del reato escludendo sanzioni detentive e pene accessorie.",
+  "attivita": [
+   "Verifica casellario giudiziale",
+   "Chiusura posizione processuale",
+   "Restituzione patente o beni"
+  ],
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-339",
+  "area": "penale",
+  "subtopic": "minacce",
+  "court": "Corte di Cassazione, Sez. Penale",
+  "title": "Minacce e violenza privata — Definizione favorevole (Artt. 610–612 c.p.)",
+  "outcome": "Riqualificazione in appello e riduzione pena",
+  "fatto": "Procedimento relativo a minacce e violenza privata (Artt. 610–612 c.p.) instaurato dinanzi a Corte di Cassazione, Sez. Penale. Riforma sostanziale della sentenza di primo grado con esclusione delle aggravanti e sospensione condizionale.",
+  "strategia": "Atto di appello fondato su vizi motivazionali, contestazione dell’attendibilità dichiarativa e perizia tecnico-giuridica di parte.",
+  "decisione": "La Corte d’Appello ha accolto i motivi difensivi rideterminando radicalmente il trattamento sanzionatorio.",
+  "attivita": [
+   "Deposito istanze esecutive",
+   "Verifica sospensione condizionale",
+   "Chiusura giudizio di gravame"
+  ],
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-558",
+  "area": "penale",
+  "subtopic": "minacce",
+  "court": "Giudice di Pace di Napoli",
+  "title": "Querela per minacce tra vicini: improcedibilità e condanna alle spese",
+  "outcome": "Assoluzione per insussistenza dell’idoneità intimidatoria",
+  "fatto": "Imputato tratto a giudizio per presunte minacce proferite durante un’assemblea condominiale conflittuale.",
+  "strategia": "Durante l’esame incrociato dei testi è emersa l’assenza di qualunque prospettazione di male ingiusto e il mero sfogo verbale privo di carica offensiva.",
+  "decisione": "Il giudice ha pronunciato sentenza di assoluzione piena con formula perché il fatto non sussiste.",
+  "attivita": [
+   "Cancellazione pendenza giudiziaria",
+   "Notifica dispositivo",
+   "Recupero spese difensive"
+  ],
+  "materia": "Minacce e violenza privata",
+  "lawRef_materia": "Artt. 610–612 c.p.",
+  "sintesi_materia": "Contestazione del contesto probatorio, archiviazione indagini e proscioglimento.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-107",
+  "area": "penale",
+  "court": "Tribunale di Salerno",
+  "title": "Messa alla prova con estinzione del reato",
+  "outcome": "Reato estinto — Nessun precedente penale",
+  "fatto": "Giovane incensurato coinvolto in una rissa fuori da un locale notturno.",
+  "strategia": "Aveva colpito un altro ragazzo con un pugno al volto, cagionandogli una contusione al labbro e la frattura di un dente, con prognosi di 25 giorni. La persona offesa aveva sporto querela.",
+  "decisione": "L’accertamento era solido: numerosi testimoni e videosorveglianza del locale.",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "omicidio-stradale",
+  "materia": "Omicidio stradale e lesioni gravi",
+  "lawRef_materia": "Art. 589-bis c.p.",
+  "sintesi_materia": "Ricostruzione cinematica peritale, concorso di colpa e mitigazione sanzionatoria.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 186 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 186.md"
+   },
+   {
+    "norma": "art. 222 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 222.md"
+   },
+   {
+    "norma": "art. 224 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 224.md"
+   },
+   {
+    "norma": "art. 223 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 223.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-340",
+  "area": "penale",
+  "subtopic": "omicidio-stradale",
+  "court": "Corte d’Appello di Napoli",
+  "title": "Omicidio stradale e lesioni gravi — Difesa tecnica (Art. 589-bis c.p.)",
+  "outcome": "Assoluzione con formula piena",
+  "fatto": "Procedimento relativo a omicidio stradale e lesioni gravi (Art. 589-bis c.p.) instaurato dinanzi a Corte d’Appello di Napoli. Archiviazione / proscioglimento integrale per insussistenza del fatto o difetto di elemento soggettivo.",
+  "strategia": "La difesa ha depositato indagini difensive tempestive, consulenza tecnica di parte e memoria ex art. 415-bis c.p.p. demolendo la tenuta dell’ipotesi accusatoria.",
+  "decisione": "Pronuncia integralmente liberatoria con caducazione di ogni vincolo reale e personale.",
+  "attivita": [
+   "Notifica sentenza definitiva",
+   "Cancellazione pendenze",
+   "Restituzione beni in sequestro"
+  ],
+  "materia": "Omicidio stradale e lesioni gravi",
+  "lawRef_materia": "Art. 589-bis c.p.",
+  "sintesi_materia": "Ricostruzione cinematica peritale, concorso di colpa e mitigazione sanzionatoria.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 186 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 186.md"
+   },
+   {
+    "norma": "art. 222 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 222.md"
+   },
+   {
+    "norma": "art. 224 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 224.md"
+   },
+   {
+    "norma": "art. 223 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 223.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-341",
+  "area": "penale",
+  "subtopic": "omicidio-stradale",
+  "court": "Tribunale del Riesame di Napoli",
+  "title": "Omicidio stradale e lesioni gravi — Ricorso urgente (Art. 589-bis c.p.)",
+  "outcome": "Revoca misura cautelare e dissequestro",
+  "fatto": "Procedimento relativo a omicidio stradale e lesioni gravi (Art. 589-bis c.p.) instaurato dinanzi a Tribunale del Riesame di Napoli. Annullamento ordinanza cautelare con immediato ripristino della libertà e sblocco dei conti.",
+  "strategia": "Istanza al Tribunale del Riesame centrata sul difetto di gravità indiziaria, sull’assenza di attualità delle esigenze cautelari e sulla tracciabilità documentale.",
+  "decisione": "Il Collegio ha accolto integralmente il riesame revocando la misura e disponendo il dissequestro.",
+  "attivita": [
+   "Esecuzione immediata provvedimento",
+   "Sblocco rapporti bancari",
+   "Monitoraggio fase dibattimentale"
+  ],
+  "materia": "Omicidio stradale e lesioni gravi",
+  "lawRef_materia": "Art. 589-bis c.p.",
+  "sintesi_materia": "Ricostruzione cinematica peritale, concorso di colpa e mitigazione sanzionatoria.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 186 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 186.md"
+   },
+   {
+    "norma": "art. 222 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 222.md"
+   },
+   {
+    "norma": "art. 224 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 224.md"
+   },
+   {
+    "norma": "art. 223 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 223.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-342",
+  "area": "penale",
+  "subtopic": "omicidio-stradale",
+  "court": "Corte di Cassazione, Sez. Penale",
+  "title": "Omicidio stradale e lesioni gravi — Tutela giudiziale (Art. 589-bis c.p.)",
+  "outcome": "Non punibilità ex art. 131-bis c.p. / Messa alla prova",
+  "fatto": "Procedimento relativo a omicidio stradale e lesioni gravi (Art. 589-bis c.p.) instaurato dinanzi a Corte di Cassazione, Sez. Penale. Estinzione del procedimento senza condanna né iscrizione pregiudizievole nel casellario.",
+  "strategia": "Ricostruzione dell’occasionalità della condotta, integrale riparazione e accesso strategico agli istituti deflattivi prima dell’apertura dibattimentale.",
+  "decisione": "Il Giudice ha dichiarato l’estinzione del reato escludendo sanzioni detentive e pene accessorie.",
+  "attivita": [
+   "Verifica casellario giudiziale",
+   "Chiusura posizione processuale",
+   "Restituzione patente o beni"
+  ],
+  "materia": "Omicidio stradale e lesioni gravi",
+  "lawRef_materia": "Art. 589-bis c.p.",
+  "sintesi_materia": "Ricostruzione cinematica peritale, concorso di colpa e mitigazione sanzionatoria.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 186 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 186.md"
+   },
+   {
+    "norma": "art. 222 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 222.md"
+   },
+   {
+    "norma": "art. 224 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 224.md"
+   },
+   {
+    "norma": "art. 223 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 223.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-343",
+  "area": "penale",
+  "subtopic": "omicidio-stradale",
+  "court": "Tribunale di Torre Annunziata",
+  "title": "Omicidio stradale e lesioni gravi — Definizione favorevole (Art. 589-bis c.p.)",
+  "outcome": "Riqualificazione in appello e riduzione pena",
+  "fatto": "Procedimento relativo a omicidio stradale e lesioni gravi (Art. 589-bis c.p.) instaurato dinanzi a Tribunale di Torre Annunziata. Riforma sostanziale della sentenza di primo grado con esclusione delle aggravanti e sospensione condizionale.",
+  "strategia": "Atto di appello fondato su vizi motivazionali, contestazione dell’attendibilità dichiarativa e perizia tecnico-giuridica di parte.",
+  "decisione": "La Corte d’Appello ha accolto i motivi difensivi rideterminando radicalmente il trattamento sanzionatorio.",
+  "attivita": [
+   "Deposito istanze esecutive",
+   "Verifica sospensione condizionale",
+   "Chiusura giudizio di gravame"
+  ],
+  "materia": "Omicidio stradale e lesioni gravi",
+  "lawRef_materia": "Art. 589-bis c.p.",
+  "sintesi_materia": "Ricostruzione cinematica peritale, concorso di colpa e mitigazione sanzionatoria.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 186 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 186.md"
+   },
+   {
+    "norma": "art. 222 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 222.md"
+   },
+   {
+    "norma": "art. 224 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 224.md"
+   },
+   {
+    "norma": "art. 223 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 223.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-555",
+  "area": "penale",
+  "subtopic": "omicidio-stradale",
+  "court": "Corte d’Appello di Napoli",
+  "title": "Sinistro stradale grave: concorso di colpa della vittima e pena dimezzata",
+  "outcome": "Riduzione sostanziale della pena — Concessione sospensione condizionale",
+  "fatto": "Conducente imputato ai sensi dell’art. 589-bis c.p. con richiesta accusatoria di pena detentiva elevata e revoca pluriennale della patente.",
+  "strategia": "La consulenza cinematica difensiva ha dimostrato l’improvviso attraversamento fuori dalle strisce in condizioni di scarsa illuminazione, provando il concorso causale non esclusivo ai sensi del settimo comma dell’art. 589-bis c.p.",
+  "decisione": "La Corte ha applicato la diminuente fino alla metà della pena e revocato la sanzione accessoria più afflittiva.",
+  "attivita": [
+   "Evitata la detenzione",
+   "Riduzione sospensione patente",
+   "Coordinamento integrale con la compagnia assicurativa"
+  ],
+  "materia": "Omicidio stradale e lesioni gravi",
+  "lawRef_materia": "Art. 589-bis c.p.",
+  "sintesi_materia": "Ricostruzione cinematica peritale, concorso di colpa e mitigazione sanzionatoria.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 186 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 186.md"
+   },
+   {
+    "norma": "art. 222 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 222.md"
+   },
+   {
+    "norma": "art. 224 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 224.md"
+   },
+   {
+    "norma": "art. 223 D.Lgs. 285/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/D.Lgs. 285-1992 codice della strada (articoli)/art. 223.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-115",
+  "area": "penale",
+  "court": "Tribunale di Roma",
+  "title": "Messaggi WhatsApp tra ex partner",
+  "outcome": "Remissione di querela — Reato estinto",
+  "fatto": "Giovane professionista denunciato dall’ex compagna per una serie di messaggi WhatsApp inviati nei giorni successivi alla fine della relazione, contenenti espressioni come “te ne pentirai” e “non finisce qui”.",
+  "strategia": "La persona offesa aveva sporto querela entro i termini.",
+  "decisione": "Remissione di querela — Reato estinto",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "reati-informatici",
+  "materia": "Reati informatici e frodi digitali",
+  "lawRef_materia": "Artt. 615-ter–640-ter c.p.",
+  "sintesi_materia": "Accesso abusivo, frode informatica, perizie forensi su log e dispositivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-124",
+  "area": "penale",
+  "court": "Tribunale di Napoli",
+  "title": "Accesso abusivo al sistema aziendale",
+  "outcome": "Assoluzione piena — Insussistenza del dolo",
+  "fatto": "Un dipendente veniva accusato di accesso abusivo al sistema informatico dell’azienda dopo il licenziamento.",
+  "strategia": "L’accusa sosteneva che avesse scaricato dati riservati dei clienti accedendo con le proprie credenziali, non ancora disattivate dall’IT aziendale, nei giorni successivi alla cessazione del rapporto di lavoro.",
+  "decisione": "Assoluzione piena — Insussistenza del dolo",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "reati-informatici",
+  "materia": "Reati informatici e frodi digitali",
+  "lawRef_materia": "Artt. 615-ter–640-ter c.p.",
+  "sintesi_materia": "Accesso abusivo, frode informatica, perizie forensi su log e dispositivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-127",
+  "area": "penale",
+  "court": "Tribunale di Salerno",
+  "title": "Accesso abusivo — sistema privo di misure di sicurezza",
+  "outcome": "Assoluzione — Sistema non protetto",
+  "fatto": "Un consulente informatico veniva accusato di accesso abusivo al server di un ex cliente dopo la cessazione del rapporto contrattuale.",
+  "strategia": "Il cliente denunciava che il consulente avesse copiato dati aziendali riservati.",
+  "decisione": "Assoluzione — Sistema non protetto",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "reati-informatici",
+  "materia": "Reati informatici e frodi digitali",
+  "lawRef_materia": "Artt. 615-ter–640-ter c.p.",
+  "sintesi_materia": "Accesso abusivo, frode informatica, perizie forensi su log e dispositivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ }
+]

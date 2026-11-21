@@ -1,0 +1,79 @@
+{
+ "id": "SLI-446",
+ "seo_title": "Fermo su debito prescritto: presupposti e intimazione",
+ "description": "Debito prescritto e fermo amministrativo: perché senza cartella valida e senza atti interruttivi il fermo non regge, anche dopo l'intimazione.",
+ "parole_chiave": [
+  "fermo su debito prescritto",
+  "prescrizione cartella fermo",
+  "avviso di intimazione dopo un anno",
+  "presupposto del fermo",
+  "cancellazione fermo giudice esecuzione"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il fermo ha bisogno di un credito vivo",
+   "paragrafi": [
+    "Il caso, trattato davanti al Giudice dell'Esecuzione di Napoli, si è chiuso con l'accertamento della prescrizione: la strategia è quella della prescrizione, applicata a un fermo. Il fermo è una misura che serve a garantire la riscossione di un credito; se il credito è estinto, il fermo perde ogni fondamento.",
+    "L'articolo 86, comma 1, del decreto del Presidente della Repubblica 602 del 1973 lo colloca dopo il decorso del termine dell'articolo 50, cioè sessanta giorni dalla notifica della cartella. Il comma 2 dell'articolo 50 aggiunge che, se l'espropriazione non inizia entro un anno dalla notifica della cartella, deve essere preceduta da un avviso di intimazione.",
+    "Ne deriva una scansione utile: cartella, sessanta giorni, eventuale fermo. Se passa più di un anno senza atti esecutivi, serve l'intimazione. Il tempo è quindi parte del procedimento, e un fermo iscritto molto tardi senza atti intermedi è sospetto."
+   ]
+  },
+  {
+   "h2": "Perché la prescrizione fa cadere il fermo",
+   "paragrafi": [
+    "La prescrizione estingue il diritto di credito. Gli atti che la interrompono sono indicati dagli articoli 2943 e 2944 del codice civile: la notificazione di un atto che inizia un'esecuzione, un atto che costituisce in mora, il riconoscimento del debito. L'articolo 2945 aggiunge che dopo l'interruzione inizia un nuovo periodo.",
+    "Il fermo, preso da solo, non è considerato nel caso come un atto che interrompa: la questione è se esistessero atti validi a ripartire il termine. La difesa deve ripercorrere le notifiche e verificare che ciascuna sia valida; se manca l'anello, il periodo si compie.",
+    "Accertata la prescrizione, il fermo è stato cancellato. La decisione chiude la parte giuridica, ma resta la parte pratica: ottenere la cancellazione dal pubblico registro e controllare che il debito sia anche eliminato dagli archivi dell'agente."
+   ]
+  },
+  {
+   "h2": "Che cosa verificare se il fermo riguarda un debito vecchio",
+   "paragrafi": [
+    "Chi riceve un fermo per un debito risalente dovrebbe ottenere l'estratto di ruolo e le copie delle notifiche. Poi si guardano le date: quando è stata notificata la cartella, se è stata seguita da un'intimazione e quanto tempo è trascorso senza atti.",
+    "Va ricordato che la richiesta di dilazione sospende i termini di prescrizione e decadenza ai sensi dell'articolo 19, comma 1-quater, lettera a, del decreto del Presidente della Repubblica 602 del 1973. Chi ritiene prescritto il debito dovrebbe valutare con attenzione prima di presentarla.",
+    "Un pagamento parziale può essere letto come riconoscimento del debito e interrompere la prescrizione. Prima di versare qualsiasi somma su un debito vecchio conviene capire le conseguenze."
+   ],
+   "elenco": [
+    "estratto di ruolo e cartelle con le relate di notifica",
+    "eventuali avvisi di intimazione ricevuti",
+    "visura del veicolo con la data di iscrizione del fermo",
+    "pagamenti e richieste di dilazione già effettuati"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "La via giudiziale dipende dall'atto: il fermo è impugnabile davanti al giudice tributario entro sessanta giorni, mentre la contestazione dell'esecuzione segue regole diverse. Nel caso l'accertamento è avvenuto davanti al Giudice dell'Esecuzione. L'esito non è garantito per altre posizioni. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Un fermo può essere iscritto su un debito prescritto?",
+   "a": "Può essere iscritto di fatto, ma è contestabile: se il credito è prescritto manca il presupposto del fermo. Nel caso descritto, accertata la prescrizione, il fermo è stato cancellato. Occorre però dimostrare che nessun atto valido ha interrotto il decorso del termine."
+  },
+  {
+   "q": "Quando serve l'avviso di intimazione?",
+   "a": "Secondo l'articolo 50, comma 2, del decreto del Presidente della Repubblica 602 del 1973, se l'espropriazione non inizia entro un anno dalla notifica della cartella, deve essere preceduta da un avviso di intimazione. La mancanza dell'avviso può essere un vizio da far valere."
+  },
+  {
+   "q": "Che cosa interrompe la prescrizione?",
+   "a": "Gli articoli 2943 e 2944 del codice civile indicano la notificazione di un atto con cui si inizia un'esecuzione, ogni atto che costituisce in mora il debitore e il riconoscimento del diritto da parte del debitore. Dopo l'interruzione, l'articolo 2945 fa iniziare un nuovo periodo di prescrizione."
+  },
+  {
+   "q": "Dopo l'accertamento della prescrizione il fermo sparisce da solo?",
+   "a": "Non sempre. Dopo la decisione occorre ottenere la cancellazione della trascrizione dal pubblico registro e verificare che la posizione sia aggiornata negli archivi dell'agente della riscossione. Conviene controllare con una visura che il vincolo sia effettivamente scomparso. Il controllo finale evita brutte sorprese."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 2943, 2944, 2945 c.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "D.P.R. 602/1973, riscossione",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+  }
+ ],
+ "parole": 695
+}

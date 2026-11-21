@@ -1,0 +1,79 @@
+{
+ "id": "SLI-083",
+ "seo_title": "Querela tardiva contro l'ex amministratore: improcedibilità",
+ "description": "Ex amministratore di condominio accusato di appropriazione indebita: improcedibilità per querela tardiva, con il termine di tre mesi dalla notizia del fatto.",
+ "parole_chiave": [
+  "querela tardiva termine tre mesi",
+  "ex amministratore condominio denuncia",
+  "appropriazione indebita conto condominiale",
+  "improcedibilità per querela tardiva",
+  "decorrenza termine querela"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le norme sul termine per la querela",
+   "paragrafi": [
+    "L'art. 124 del codice penale stabilisce che il diritto di querela non può essere esercitato, salvo che la legge disponga altrimenti, decorsi tre mesi dal giorno della notizia del fatto che costituisce il reato. L'art. 120 riconosce a chi ha subito il reato il diritto di querela, e l'art. 337 del codice di procedura penale ne regola la presentazione, specificando forme e destinatari.",
+    "Il reato contestato era l'appropriazione indebita, definita dall'art. 646 del codice penale. Se la querela è presentata fuori termine, manca una condizione di procedibilità: il giudice deve rilevarlo in ogni stato e grado ai sensi dell'art. 129 del codice di procedura penale e, in dibattimento, pronunciare sentenza di non doversi procedere in base all'art. 529."
+   ]
+  },
+  {
+   "h2": "Perché è stata dichiarata l'improcedibilità",
+   "paragrafi": [
+    "Nel caso, un ex amministratore di condominio era accusato di essersi appropriato di € 45.000 dal conto condominiale. La querela era stata presentata dal nuovo amministratore, a distanza di nove mesi dalla scoperta delle irregolarità, emerse nell'assemblea di approvazione del rendiconto. Il Tribunale di Benevento ha considerato quella data come momento della notizia del fatto.",
+    "Poiché tra la scoperta e la querela era trascorso un periodo ben superiore al limite di tre mesi dell'art. 124, la querela è risultata tardiva e l'azione penale non poteva proseguire. Il punto decisivo è stato quindi il momento a partire dal quale la notizia del fatto era stata acquisita, e non la fondatezza dell'accusa."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale, chi riceve una querela dovrebbe chiedersi subito quando il querelante abbia avuto notizia del fatto. La data può risultare da verbali di assemblea, comunicazioni, relazioni o contabilità. Nelle gestioni condominiali, il passaggio di consegne tra amministratori è spesso il momento in cui emergono le anomalie: è bene ricostruirne la cronologia.",
+    "Ogni vicenda va valutata sui suoi atti e senza previsioni sull'esito. La tardività è una questione di prova della data, che spetta ai documenti: nessuna valutazione è possibile senza leggerli.",
+    "In casi analoghi, è utile anche ricordare che il termine della querela e il termine di prescrizione sono cose diverse. Il primo riguarda la possibilità di avviare il procedimento, il secondo la durata massima del tempo per perseguire il reato. Confonderli porta a conclusioni sbagliate, e per questo ciascuno va calcolato sulle norme proprie, dopo aver letto le date contenute negli atti."
+   ],
+   "elenco": [
+    "querela con data e luogo di presentazione",
+    "verbali delle assemblee e relativi avvisi",
+    "passaggio di consegne tra vecchio e nuovo amministratore",
+    "rendiconti e comunicazioni ai condomini",
+    "documenti da cui risulta quando il querelante è venuto a conoscenza del fatto"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Per chi presenta querela, l'errore da evitare è attendere: i tre mesi decorrono dal giorno in cui si ha notizia del fatto, non da quando si completano gli accertamenti. Per chi la subisce, l'errore è non eccepire la tardività nella prima occasione utile, benché il giudice debba rilevare le cause di improcedibilità anche d'ufficio.",
+    "Va infine ricordato che l'improcedibilità non incide sulle azioni civili: chi ritenga di vantare un credito può valutare, in generale, strade diverse da quella penale. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Entro quanto tempo si deve presentare la querela?",
+   "a": "Il termine ordinario, previsto dall'art. 124 del codice penale, è di tre mesi dal giorno della notizia del fatto che costituisce il reato, salvo che la legge disponga diversamente. Per questo è importante stabilire con precisione quando si è avuta conoscenza della condotta."
+  },
+  {
+   "q": "Che cosa succede se la querela è tardiva?",
+   "a": "Manca una condizione di procedibilità. Il giudice, ai sensi dell'art. 129 del codice di procedura penale, deve dichiarare l'immediata cessazione del processo, e in dibattimento pronuncia sentenza di non doversi procedere. L'accusa non viene esaminata nel merito."
+  },
+  {
+   "q": "Da quando decorre il termine se scopre il nuovo amministratore?",
+   "a": "Dipende dal momento in cui chi propone la querela ha avuto notizia del fatto, che va provato con i documenti, ad esempio con le comunicazioni o i verbali. Nel caso, rilevava la scoperta emersa nell'assemblea del rendiconto. Ogni situazione richiede di leggere gli atti e le date."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 120 e 124 c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "art. 646 c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "artt. 129, 337 e 529 c.p.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+  }
+ ],
+ "parole": 677
+}

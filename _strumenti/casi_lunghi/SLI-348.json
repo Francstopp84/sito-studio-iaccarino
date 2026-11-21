@@ -1,0 +1,89 @@
+{
+ "id": "SLI-348",
+ "seo_title": "Reati informatici e frodi digitali: assoluzione piena",
+ "description": "Accesso abusivo e frode informatica: norme, prova tecnica e indagini difensive in un caso chiuso con assoluzione con formula piena davanti alla Cassazione.",
+ "parole_chiave": [
+  "accesso abusivo a sistema informatico",
+  "frode informatica assoluzione",
+  "art. 615 ter codice penale",
+  "art. 640 ter codice penale",
+  "consulenza tecnica di parte reati informatici"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le norme su accesso abusivo e frode informatica",
+   "paragrafi": [
+    "Il caso riguarda un procedimento per reati informatici e frodi digitali, rientrante nell'area degli articoli 615-ter e 640-ter del codice penale. Conviene partire dal testo delle due norme, perché le accuse di questo genere si reggono o cadono sugli elementi che la legge richiede espressamente.",
+    "L'articolo 615-ter punisce con la reclusione fino a tre anni chiunque abusivamente si introduce in un sistema informatico o telematico protetto da misure di sicurezza, oppure vi si mantiene contro la volontà espressa o tacita di chi ha il diritto di escluderlo. La norma prevede poi un secondo comma, con la reclusione da due a dieci anni, per ipotesi più gravi: fra queste la violazione dei doveri da parte di chi opera con una qualifica particolare, l'uso di minaccia o violenza, il danneggiamento del sistema o la sottrazione dei dati. Nel caso previsto dal primo comma il delitto è punibile a querela della persona offesa; negli altri casi si procede d'ufficio.",
+    "L'articolo 640-ter descrive la frode informatica: chi, alterando in qualsiasi modo il funzionamento di un sistema informatico o telematico, oppure intervenendo senza diritto su dati, informazioni o programmi, procura a sé o ad altri un ingiusto profitto con altrui danno, è punito con la reclusione da sei mesi a tre anni e con la multa. Le pene salgono se il fatto produce un trasferimento di denaro, di valore monetario o di valuta virtuale, e salgono ancora se è commesso con furto o indebito utilizzo dell'identità digitale.",
+    "Già dalla lettura si vede che ogni accusa richiede più elementi insieme: una condotta tecnica precisa (introduzione, permanenza, alterazione, intervento sui dati), l'assenza di diritto e, per la frode, un profitto ingiusto collegato a un danno altrui. Se uno di questi elementi non è provato, la contestazione perde fondamento."
+   ]
+  },
+  {
+   "h2": "Perché il procedimento si è chiuso con assoluzione piena",
+   "paragrafi": [
+    "Nel caso la decisione è stata liberatoria in modo integrale, con la caducazione di ogni vincolo reale e personale. Il fatto, come riportato, è stato ritenuto insussistente oppure privo dell'elemento soggettivo. Sono due strade distinte, ed entrambe discendono dalla struttura delle norme appena viste.",
+    "La difesa, in questa vicenda, ha lavorato su tre piani indicati dal caso: indagini difensive tempestive, consulenza tecnica di parte e memoria ai sensi dell'articolo 415-bis del codice di procedura penale. Quest'ultima norma prevede che, alla conclusione delle indagini, l'indagato e il suo difensore ricevano un avviso che li informa del deposito della documentazione presso la segreteria del pubblico ministero, con la facoltà di prenderne visione ed estrarre copia. È il momento in cui la difesa può leggere ciò che l'accusa ha raccolto e contrapporre una ricostruzione tecnica alternativa.",
+    "Dopo la sentenza liberatoria sono seguite le attività elencate nel caso: notifica della sentenza definitiva, cancellazione delle pendenze e restituzione dei beni in sequestro."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale, chi riceve un'accusa di accesso abusivo o di frode informatica deve ricordare che la prova è quasi sempre tecnica: dipende da registri di accesso, dispositivi, tracce di rete e da come tutto ciò è stato acquisito. Per questo la difesa non può limitarsi a negare: deve capire che cosa dicono davvero i dati e se la loro lettura regge.",
+    "Ogni vicenda va valutata sui suoi atti, e nessun esito può essere promesso in anticipo. Si possono però indicare le verifiche che di solito contano."
+   ],
+   "elenco": [
+    "Capire quale ipotesi è contestata: il primo comma dell'articolo 615-ter, con querela, oppure un'ipotesi aggravata procedibile d'ufficio.",
+    "Verificare se il sistema era davvero protetto da misure di sicurezza e se la persona aveva o non aveva un diritto di accesso.",
+    "Esaminare come sono stati acquisiti e conservati registri, dispositivi e copie dei dati.",
+    "Distinguere l'accesso dalla frode: per la frode serve un profitto ingiusto con altrui danno.",
+    "Chiedere un consulente tecnico di parte che rilegga le tracce in modo indipendente."
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il primo passo è conservare tutto: messaggi, ricevute, cronologie, dispositivi, accessi ai servizi. Non cancellare né modificare nulla, perché ogni alterazione può essere letta contro chi la compie. Se è stata presentata querela, l'articolo 124 del codice penale fissa in tre mesi dalla notizia del fatto il termine per proporla, salvo che la legge disponga altrimenti: è un controllo utile per capire se un'accusa procedibile a querela è stata presentata in tempo.",
+    "Se si procede alla sentenza di merito, ricordare che l'assoluzione per insussistenza del fatto e quella per mancanza di prova non hanno lo stesso significato, e che gli effetti sui beni sequestrati vanno chiesti e verificati con precisione, come è avvenuto nel caso con la restituzione di quanto era stato vincolato. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quando un accesso a un sistema informatico è reato?",
+   "a": "Secondo l'articolo 615-ter del codice penale, quando ci si introduce abusivamente in un sistema protetto da misure di sicurezza, oppure ci si mantiene contro la volontà espressa o tacita di chi può escluderti. Servono quindi sia la protezione del sistema sia la mancanza di diritto di accesso."
+  },
+  {
+   "q": "Che differenza c'è tra accesso abusivo e frode informatica?",
+   "a": "L'accesso abusivo punisce l'introduzione o la permanenza non autorizzata. La frode informatica, articolo 640-ter, richiede in più l'alterazione del sistema o l'intervento senza diritto sui dati, con un ingiusto profitto e un danno altrui."
+  },
+  {
+   "q": "A cosa serve la memoria dopo l'avviso di conclusione delle indagini?",
+   "a": "Dopo l'avviso previsto dall'articolo 415-bis del codice di procedura penale, l'indagato e il difensore possono leggere gli atti depositati ed estrarne copia. La memoria permette di rappresentare al pubblico ministero una lettura diversa degli elementi raccolti."
+  },
+  {
+   "q": "Si può essere assolti se la prova tecnica è dubbia?",
+   "a": "L'articolo 530, comma 2, del codice di procedura penale prevede l'assoluzione quando la prova è mancante, insufficiente o contraddittoria. Ogni caso dipende però dagli atti concreti e nessun esito può essere garantito in anticipo."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 615-ter c.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+  },
+  {
+   "norma": "art. 640-ter c.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+  },
+  {
+   "norma": "art. 124 c.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+  },
+  {
+   "norma": "artt. 129, 415-bis, 530 c.p.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+  }
+ ],
+ "parole": 966
+}

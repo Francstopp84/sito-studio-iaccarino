@@ -1,0 +1,79 @@
+{
+ "id": "SLI-424",
+ "seo_title": "Cartella annullata per vizi dell'atto: nulla da pagare",
+ "description": "Notifica viziata, decadenza e motivazione carente: come si leggono i difetti di una cartella e perché il ricorso in primo grado deve contestarli subito.",
+ "parole_chiave": [
+  "cartella annullata vizio di notifica",
+  "difetto di motivazione cartella",
+  "decadenza iscrizione a ruolo",
+  "statuto del contribuente motivazione",
+  "ricorso cartella CGT Napoli"
+ ],
+ "sezioni": [
+  {
+   "h2": "Tre difetti che possono travolgere una cartella",
+   "paragrafi": [
+    "Una cartella di pagamento può essere contestata per ragioni diverse dal merito del tributo. La prima riguarda la notificazione: l'articolo 26 del D.P.R. 602/1973 indica le forme con cui la cartella va notificata, e lo Statuto del contribuente, all'articolo 7-sexies, distingue la notificazione inesistente, perché priva degli elementi essenziali, da quella nulla, sanabile se l'atto ha raggiunto il suo scopo e l'impugnazione è proposta nel termine di decadenza. La seconda riguarda la decadenza: l'articolo 25 del D.P.R. 602/1973 impone di notificare la cartella, a pena di decadenza, entro termini che dipendono dal tipo di controllo e dall'anno della dichiarazione.",
+    "La terza è la motivazione. L'articolo 7 della legge n. 212 del 2000 prevede che gli atti siano motivati, con l'indicazione dei presupposti di fatto, delle ragioni giuridiche e dei mezzi di prova, a pena di annullabilità. Quando un atto non permette al contribuente di capire che cosa gli si chiede e perché, si pone un problema di difesa che il giudice valuta. L'articolo 7-ter aggiunge che sono nulli gli atti emessi in difetto assoluto di attribuzione."
+   ]
+  },
+  {
+   "h2": "Il caso davanti alla CGT di I grado di Napoli",
+   "paragrafi": [
+    "Nel caso lo studio ha proposto davanti alla CGT di I grado di Napoli il ricorso contro una cartella esattoriale, fondato su tre censure: vizio di notificazione, decadenza dai termini e difetto assoluto di motivazione ai sensi dello Statuto del contribuente. Il ricorso è stato accolto integralmente, con annullamento di imposta, sanzioni e interessi richiesti, e la corte ha condannato l'ente alle spese di giudizio. L'esito, per il contribuente, è stato di non dovere nulla.",
+    "Il caso non entra nel dettaglio dei fatti e non si presta a letture estensive. Mostra però un metodo: prima di discutere se un tributo sia dovuto si controlla se l'atto sia nato e arrivato in modo corretto, perché un vizio formale che non si può sanare porta alla caducazione dell'atto."
+   ]
+  },
+  {
+   "h2": "Come si esamina un atto in una situazione simile",
+   "paragrafi": [
+    "In generale si parte dalla busta o dalla ricevuta di notifica e si leggono la data, il destinatario, il luogo, la persona che ha ritirato l'atto e il modo di consegna. Poi si legge la cartella: cosa indica come tributo, anno, atto presupposto, base di calcolo di sanzioni e interessi. Si confronta la data della notifica con il termine di decadenza dell'articolo 25. Infine si verifica se l'atto contenga le indicazioni richieste dall'articolo 7, comma 2: ufficio presso cui avere informazioni, organo per il riesame in autotutela, termine e organo per impugnare.",
+    "È un lavoro documentale, che richiede l'intero fascicolo e non soltanto l'ultima pagina. L'esito dipende sempre dal confronto tra atti e norme, e non può essere anticipato in astratto."
+   ],
+   "elenco": [
+    "cartella di pagamento completa, con tutte le pagine",
+    "busta, ricevuta o relata di notifica",
+    "atto presupposto indicato in cartella, se presente",
+    "dichiarazioni fiscali dell'anno interessato",
+    "eventuali comunicazioni precedenti dell'ente"
+   ]
+  },
+  {
+   "h2": "Termini e regole del ricorso",
+   "paragrafi": [
+    "L'articolo 19 del D.Lgs. 546/1992 elenca la cartella di pagamento tra gli atti impugnabili, e l'articolo 21 prescrive di proporre il ricorso, a pena di inammissibilità, entro sessanta giorni dalla notificazione. L'articolo 7-bis, comma 2, della legge n. 212 del 2000 impone di dedurre nel ricorso introduttivo tutti i motivi di annullabilità e di infondatezza, a pena di decadenza, e vieta al giudice di rilevarli d'ufficio.",
+    "Ne consegue che tutti i vizi vanno indicati insieme nel primo atto: omettere una censura può significare non poterla più proporre. Per questo la prima lettura dell'atto è decisiva.",
+    "Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Un vizio di notifica basta per annullare la cartella?",
+   "a": "Dipende dalla gravità: secondo l'articolo 7-sexies della legge n. 212 del 2000 la notificazione priva degli elementi essenziali è inesistente, mentre negli altri casi comporta nullità sanabile se l'atto ha raggiunto il suo scopo e l'impugnazione è tempestiva. Va esaminata ogni circostanza concreta."
+  },
+  {
+   "q": "Che cosa significa decadenza di una cartella?",
+   "a": "L'articolo 25 del D.P.R. 602/1973 prevede che la cartella sia notificata, a pena di decadenza, entro termini legati al tipo di controllo e all'anno di riferimento. Una cartella notificata oltre quel termine non può più essere validamente richiesta. I termini si calcolano sulle date dei singoli atti."
+  },
+  {
+   "q": "Posso aggiungere nuovi motivi dopo il ricorso?",
+   "a": "L'articolo 7-bis, comma 2, della legge n. 212 del 2000 impone di dedurre i motivi di annullabilità e infondatezza nel ricorso introduttivo, a pena di decadenza. Per questo conviene indicare fin dall'inizio ogni vizio individuato, anche formale, con i documenti a sostegno."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.P.R. 602/1973 artt. 25, 26",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992 artt. 19, 21",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  },
+  {
+   "norma": "L. 212/2000 artt. 7, 7-bis, 7-ter, 7-sexies",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+  }
+ ],
+ "parole": 742
+}

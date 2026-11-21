@@ -1,0 +1,81 @@
+{
+ "id": "SLI-434",
+ "seo_title": "Cartella prescritta: relate di notifica e debito cancellato",
+ "description": "Debito cancellato per prescrizione dopo l'esame delle relate di notifica in CGT di primo grado a Milano: art. 26 DPR 602, art. 2943 c.c. e documenti utili.",
+ "parole_chiave": [
+  "relata di notifica cartella esattoriale",
+  "debito cancellato per prescrizione",
+  "art. 26 DPR 602 notifica cartella",
+  "controllo estratto di ruolo",
+  "CGT Milano prescrizione cartella"
+ ],
+ "sezioni": [
+  {
+   "h2": "La relata di notifica come prova centrale",
+   "paragrafi": [
+    "Il caso, discusso davanti alla Corte di giustizia tributaria di primo grado di Milano, si è chiuso con l'accertamento della prescrizione e la cancellazione del debito. Il punto di partenza è la prova della notifica. L'art. 26 del DPR 602/1973 disciplina come si notifica la cartella e impone all'agente di conservare per cinque anni la matrice o la copia con la relata, a disposizione del contribuente e dell'amministrazione. Per i casi dell'art. 140 c.p.c. rinvia all'art. 60 del DPR 600/1973, con notifica considerata eseguita il giorno successivo all'affissione dell'avviso di deposito.",
+    "Se l'agente non produce la relata, o la produce incompleta, la prova che l'atto sia arrivato al contribuente diventa fragile. Il caso conferma che, in materia di prescrizione, l'esame documentale delle notifiche è spesso più importante della discussione teorica sul termine."
+   ]
+  },
+  {
+   "h2": "Dalla notifica alla prescrizione",
+   "paragrafi": [
+    "Ogni notifica valida può avere un effetto sulla prescrizione. L'art. 2943 del codice civile attribuisce efficacia interruttiva agli atti di giudizio e a quelli che costituiscono in mora il debitore, e l'art. 2945 fa ripartire il termine dopo l'interruzione. Nel caso è risultato che non esistevano atti interruttivi validi, e perciò la prescrizione è maturata e il debito è stato cancellato.",
+    "Questo ragionamento spiega anche perché la verifica vada fatta su tutta la sequenza e non sulla sola cartella iniziale. Se tra un atto e l'altro trascorre un intervallo pari al termine di prescrizione, l'estinzione si produce, a meno che un atto intermedio non l'abbia interrotta. Perciò conta non soltanto la presenza di una notifica, ma anche la sua regolarità.",
+    "Un'ulteriore cautela riguarda le notifiche eseguite con modalità diverse: a mani, per posta o per via telematica seguono regole proprie, e ciascuna ha elementi che la relata deve riportare. Un errore su un dato essenziale, come l'indirizzo o la qualità del ricevente, può incidere sulla validità dell'atto. L'esame va quindi condotto riga per riga, confrontando la relata con l'atto che essa dovrebbe attestare."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale chi vuole capire se una cartella sia prescritta dovrebbe richiedere l'estratto di ruolo e la copia delle relate, e confrontare le date con il termine applicabile. Se la relata non è reperibile, l'agente è tenuto alla conservazione per cinque anni, ma le conseguenze concrete vanno valutate caso per caso. Ogni posizione si esamina sui propri atti."
+   ],
+   "elenco": [
+    "L'estratto di ruolo aggiornato",
+    "La richiesta all'agente delle copie delle relate",
+    "Gli avvisi di deposito o di giacenza eventualmente ricevuti",
+    "Ricevute di pagamenti o domande di dilazione già presentate",
+    "Un elenco cronologico di tutti gli atti ricevuti"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il ricorso alla Corte di giustizia tributaria si propone entro sessanta giorni dalla notifica dell'atto impugnato, a pena di inammissibilità (art. 21 D.Lgs. 546/1992). Chi attende la scoperta di una cartella antica tramite un atto esecutivo deve ricordare che l'art. 19, comma 3, consente di contestare gli atti precedenti non notificati insieme a quello che arriva dopo. Evitare comportamenti che possano valere come riconoscimento (art. 2944 c.c.). Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Per quanto tempo l'agente deve conservare la relata?",
+   "a": "L'art. 26 del DPR 602/1973 prevede che l'esattore conservi per cinque anni la matrice o la copia della cartella con la relata di notifica, a disposizione del contribuente e dell'amministrazione. Dopo questo periodo la produzione della prova può diventare più difficile."
+  },
+  {
+   "q": "Quando una notifica fatta con l'art. 140 c.p.c. si considera completata?",
+   "a": "Per l'art. 26 del DPR 602/1973, nei casi dell'art. 140 c.p.c. si applica l'art. 60 del DPR 600/1973 e la notifica si ha per eseguita nel giorno successivo a quello dell'affissione dell'avviso di deposito nell'albo del comune."
+  },
+  {
+   "q": "Se manca la relata la cartella è nulla?",
+   "a": "Non è una conclusione automatica. La mancanza di prova della notifica può rendere fragile il credito e la sua efficacia interruttiva, ma l'effetto dipende dagli atti concreti e da cosa produce l'agente in giudizio. Nel caso l'esame delle relate ha mostrato l'assenza di atti interruttivi validi."
+  },
+  {
+   "q": "Posso contestare un atto per una cartella che non conoscevo?",
+   "a": "L'art. 19, comma 3, del D.Lgs. 546/1992 consente di impugnare l'atto notificato facendo valere la mancata notifica degli atti precedenti. Il termine di sessanta giorni decorre dall'atto che si impugna."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 72-bis, 72-ter, 25, 26, 50, 60, 77, 86 DPR 602/1973",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+  },
+  {
+   "norma": "artt. 2934-2953 codice civile",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992, artt. 12, 19, 21, 22, 47",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 640
+}

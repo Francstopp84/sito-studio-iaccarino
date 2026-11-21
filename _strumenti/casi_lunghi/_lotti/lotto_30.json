@@ -1,0 +1,512 @@
+[
+ {
+  "id": "SLI-144",
+  "area": "penale",
+  "court": "Tribunale di Napoli",
+  "title": "Vendita online contestata",
+  "outcome": "Assoluzione piena — Insussistenza del fatto",
+  "fatto": "Piccolo imprenditore denunciato per truffa aggravata dopo aver venduto su un marketplace online un lotto di elettronica di consumo che l’acquirente sosteneva essere difforme dalla descrizione.",
+  "strategia": "Il cliente era stato rinviato a giudizio con l’accusa di aver deliberatamente ingannato la vittima pubblicando fotografie e specifiche tecniche non corrispondenti alla merce spedita.",
+  "decisione": "Assoluzione piena — Insussistenza del fatto",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "truffa",
+  "materia": "Truffa e truffa online",
+  "lawRef_materia": "Art. 640 c.p.",
+  "sintesi_materia": "Difesa per imprenditori e privati in contestazioni di truffa aggravata, contrattuale o telematica.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 61 n. 5, 124, 640, 640-ter c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 124, 131-bis, 162-ter, 168-bis, 640, 640-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 309, 381, 444 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-145",
+  "area": "penale",
+  "court": "Tribunale di Roma",
+  "title": "Truffa assicurativa presunta",
+  "outcome": "Assoluzione piena — Il fatto non sussiste",
+  "fatto": "Automobilista accusato di aver simulato un sinistro stradale per ottenere un risarcimento assicurativo di € 32.000.",
+  "strategia": "L’accusa si fondava sulla relazione di un investigatore privato incaricato dalla compagnia assicurativa, che riteneva incompatibili i danni rilevati sul veicolo con la dinamica dichiarata.",
+  "decisione": "Assoluzione piena — Il fatto non sussiste",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "truffa",
+  "materia": "Truffa e truffa online",
+  "lawRef_materia": "Art. 640 c.p.",
+  "sintesi_materia": "Difesa per imprenditori e privati in contestazioni di truffa aggravata, contrattuale o telematica.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 61 n. 5, 124, 640, 640-ter c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 124, 131-bis, 162-ter, 168-bis, 640, 640-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 309, 381, 444 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-146",
+  "area": "penale",
+  "court": "Tribunale di Milano",
+  "title": "Frode informatica con furto di identità digitale",
+  "outcome": "Assoluzione — Non aver commesso il fatto",
+  "fatto": "Giovane sviluppatore informatico accusato di frode informatica aggravata dal furto di identità digitale per aver presumibilmente utilizzato le credenziali di accesso di un collega per effettuare acquisti online per un totale di € 12.500.",
+  "strategia": "L’accusa si basava sul tracciamento dell’indirizzo IP utilizzato per le transazioni, riconducibile all’utenza domestica dell’imputato.",
+  "decisione": "Assoluzione — Non aver commesso il fatto",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "truffa",
+  "materia": "Truffa e truffa online",
+  "lawRef_materia": "Art. 640 c.p.",
+  "sintesi_materia": "Difesa per imprenditori e privati in contestazioni di truffa aggravata, contrattuale o telematica.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 61 n. 5, 124, 640, 640-ter c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 124, 131-bis, 162-ter, 168-bis, 640, 640-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 309, 381, 444 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-147",
+  "area": "penale",
+  "court": "Tribunale di Napoli Nord",
+  "title": "Truffa contrattuale e remissione di querela",
+  "outcome": "Reato estinto — Remissione di querela — Nessun precedente penale",
+  "fatto": "Artigiano edile denunciato per truffa da un committente che lamentava lavori di ristrutturazione mai completati nonostante il pagamento integrale di € 8.200.",
+  "strategia": "L’imputato aveva effettivamente sospeso i lavori a causa di una grave crisi di liquidità conseguente al mancato pagamento di altri committenti, senza tuttavia comunicare formalmente l’interruzione.",
+  "decisione": "Reato estinto — Remissione di querela — Nessun precedente penale",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "truffa",
+  "materia": "Truffa e truffa online",
+  "lawRef_materia": "Art. 640 c.p.",
+  "sintesi_materia": "Difesa per imprenditori e privati in contestazioni di truffa aggravata, contrattuale o telematica.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 61 n. 5, 124, 640, 640-ter c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 124, 131-bis, 162-ter, 168-bis, 640, 640-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 309, 381, 444 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-148",
+  "area": "penale",
+  "court": "Tribunale di Salerno",
+  "title": "Truffa aggravata e particolare tenuità del fatto",
+  "outcome": "Non punibilità per particolare tenuità — Nessuna condanna",
+  "fatto": "Studente universitario accusato di truffa aggravata per aver venduto su un noto sito di annunci un telefono cellulare usato descritto come “in perfette condizioni” che presentava invece un difetto alla batteria non dichiarato.",
+  "strategia": "L’acquirente, residente in altra regione, aveva sporto denuncia e il PM aveva contestato l’aggravante della minorata difesa derivante dalla distanza fisica e dall’utilizzo del mezzo telematico.",
+  "decisione": "Non punibilità per particolare tenuità — Nessuna condanna",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "truffa",
+  "materia": "Truffa e truffa online",
+  "lawRef_materia": "Art. 640 c.p.",
+  "sintesi_materia": "Difesa per imprenditori e privati in contestazioni di truffa aggravata, contrattuale o telematica.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 61 n. 5, 124, 640, 640-ter c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 124, 131-bis, 162-ter, 168-bis, 640, 640-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 309, 381, 444 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-308",
+  "area": "penale",
+  "subtopic": "truffa",
+  "court": "Corte d’Appello di Napoli",
+  "title": "Truffa e truffa online — Difesa tecnica (Art. 640 c.p.)",
+  "outcome": "Assoluzione con formula piena",
+  "fatto": "Procedimento relativo a truffa e truffa online (Art. 640 c.p.) instaurato dinanzi a Corte d’Appello di Napoli. Archiviazione / proscioglimento integrale per insussistenza del fatto o difetto di elemento soggettivo.",
+  "strategia": "La difesa ha depositato indagini difensive tempestive, consulenza tecnica di parte e memoria ex art. 415-bis c.p.p. demolendo la tenuta dell’ipotesi accusatoria.",
+  "decisione": "Pronuncia integralmente liberatoria con caducazione di ogni vincolo reale e personale.",
+  "attivita": [
+   "Notifica sentenza definitiva",
+   "Cancellazione pendenze",
+   "Restituzione beni in sequestro"
+  ],
+  "materia": "Truffa e truffa online",
+  "lawRef_materia": "Art. 640 c.p.",
+  "sintesi_materia": "Difesa per imprenditori e privati in contestazioni di truffa aggravata, contrattuale o telematica.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 61 n. 5, 124, 640, 640-ter c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 124, 131-bis, 162-ter, 168-bis, 640, 640-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 309, 381, 444 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-309",
+  "area": "penale",
+  "subtopic": "truffa",
+  "court": "Tribunale del Riesame di Napoli",
+  "title": "Truffa e truffa online — Ricorso urgente (Art. 640 c.p.)",
+  "outcome": "Revoca misura cautelare e dissequestro",
+  "fatto": "Procedimento relativo a truffa e truffa online (Art. 640 c.p.) instaurato dinanzi a Tribunale del Riesame di Napoli. Annullamento ordinanza cautelare con immediato ripristino della libertà e sblocco dei conti.",
+  "strategia": "Istanza al Tribunale del Riesame centrata sul difetto di gravità indiziaria, sull’assenza di attualità delle esigenze cautelari e sulla tracciabilità documentale.",
+  "decisione": "Il Collegio ha accolto integralmente il riesame revocando la misura e disponendo il dissequestro.",
+  "attivita": [
+   "Esecuzione immediata provvedimento",
+   "Sblocco rapporti bancari",
+   "Monitoraggio fase dibattimentale"
+  ],
+  "materia": "Truffa e truffa online",
+  "lawRef_materia": "Art. 640 c.p.",
+  "sintesi_materia": "Difesa per imprenditori e privati in contestazioni di truffa aggravata, contrattuale o telematica.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 61 n. 5, 124, 640, 640-ter c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 124, 131-bis, 162-ter, 168-bis, 640, 640-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 309, 381, 444 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-310",
+  "area": "penale",
+  "subtopic": "truffa",
+  "court": "Corte di Cassazione, Sez. Penale",
+  "title": "Truffa e truffa online — Tutela giudiziale (Art. 640 c.p.)",
+  "outcome": "Non punibilità ex art. 131-bis c.p. / Messa alla prova",
+  "fatto": "Procedimento relativo a truffa e truffa online (Art. 640 c.p.) instaurato dinanzi a Corte di Cassazione, Sez. Penale. Estinzione del procedimento senza condanna né iscrizione pregiudizievole nel casellario.",
+  "strategia": "Ricostruzione dell’occasionalità della condotta, integrale riparazione e accesso strategico agli istituti deflattivi prima dell’apertura dibattimentale.",
+  "decisione": "Il Giudice ha dichiarato l’estinzione del reato escludendo sanzioni detentive e pene accessorie.",
+  "attivita": [
+   "Verifica casellario giudiziale",
+   "Chiusura posizione processuale",
+   "Restituzione patente o beni"
+  ],
+  "materia": "Truffa e truffa online",
+  "lawRef_materia": "Art. 640 c.p.",
+  "sintesi_materia": "Difesa per imprenditori e privati in contestazioni di truffa aggravata, contrattuale o telematica.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 61 n. 5, 124, 640, 640-ter c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 124, 131-bis, 162-ter, 168-bis, 640, 640-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 309, 381, 444 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-311",
+  "area": "penale",
+  "subtopic": "truffa",
+  "court": "Tribunale di Torre Annunziata",
+  "title": "Truffa e truffa online — Definizione favorevole (Art. 640 c.p.)",
+  "outcome": "Riqualificazione in appello e riduzione pena",
+  "fatto": "Procedimento relativo a truffa e truffa online (Art. 640 c.p.) instaurato dinanzi a Tribunale di Torre Annunziata. Riforma sostanziale della sentenza di primo grado con esclusione delle aggravanti e sospensione condizionale.",
+  "strategia": "Atto di appello fondato su vizi motivazionali, contestazione dell’attendibilità dichiarativa e perizia tecnico-giuridica di parte.",
+  "decisione": "La Corte d’Appello ha accolto i motivi difensivi rideterminando radicalmente il trattamento sanzionatorio.",
+  "attivita": [
+   "Deposito istanze esecutive",
+   "Verifica sospensione condizionale",
+   "Chiusura giudizio di gravame"
+  ],
+  "materia": "Truffa e truffa online",
+  "lawRef_materia": "Art. 640 c.p.",
+  "sintesi_materia": "Difesa per imprenditori e privati in contestazioni di truffa aggravata, contrattuale o telematica.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 61 n. 5, 124, 640, 640-ter c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 124, 131-bis, 162-ter, 168-bis, 640, 640-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 309, 381, 444 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-548",
+  "area": "penale",
+  "subtopic": "truffa",
+  "court": "Tribunale di Santa Maria Capua Vetere",
+  "title": "Contestazione di circonvenzione di incapace su eredità di anziano",
+  "outcome": "Archiviazione integrale in sede di udienza preliminare",
+  "fatto": "Un collaboratore familiare e un parente venivano indagati per circonvenzione di persona incapace a seguito di esposto di altri eredi che contestavano prelievi e disposizioni patrimoniali effettuate dall’anziano titolare.",
+  "strategia": "La difesa ha depositato perizia geriatrica retrospettiva, atti notarili contemporanei e testimonianze del medico curante attestanti la piena lucidità e autodeterminazione del disponente nel periodo contestato.",
+  "decisione": "Il GUP ha pronunciato sentenza di non luogo a procedere perché il fatto non sussiste, escludendo ogni induzione o abuso.",
+  "attivita": [
+   "Sblocco dei conti correnti cointestati",
+   "Definizione stragiudiziale della successione",
+   "Liquidazione spese a carico del querelante"
+  ],
+  "materia": "Truffa e truffa online",
+  "lawRef_materia": "Art. 640 c.p.",
+  "sintesi_materia": "Difesa per imprenditori e privati in contestazioni di truffa aggravata, contrattuale o telematica.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 61 n. 5, 124, 640, 640-ter c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 124, 131-bis, 162-ter, 168-bis, 640, 640-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 309, 381, 444 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-103",
+  "area": "penale",
+  "court": "Tribunale di Salerno",
+  "title": "Lavori di pubblica utilità",
+  "outcome": "Pena sostituita — Reato estinto — Veicolo restituito",
+  "fatto": "Artigiano fermato dopo un evento conviviale con tasso estremamente elevato di 1,9 g/l (fascia 3 massima). Accertamento regolare, nessun vizio procedurale rilevabile. Il veicolo era strumentale all’attività lavorativa.",
+  "strategia": "La difesa ha negoziato la sostituzione della pena detentiva con lavori di pubblica utilità ex art.",
+  "decisione": "186 comma 9-bis CdS, ottenendo la revoca della confisca del veicolo e il dimezzamento del periodo di sospensione della patente.",
+  "attivita": [
+   "Restituzione patente",
+   "Comunicazione Prefettura",
+   "Estinzione sanzione"
+  ],
+  "subtopic": "violenza-sessuale",
+  "materia": "Violenza sessuale e codice rosso",
+  "lawRef_materia": "Art. 609-bis c.p.",
+  "sintesi_materia": "Difesa rigorosa in incidente probatorio, vaglio di attendibilità e indagini difensive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 124, 609-septies, 609-decies c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 74, 78, 90-bis, 282-ter, 362, 380, 392 co. 1-bis, 408, 410 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 2 L. 69/2019",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   },
+   {
+    "norma": "artt. 609-bis, 609-ter, 609-quater, 609-septies, 609-octies, 165 c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 380, 391-bis, 392 co. 1-bis, 444 co. 1-bis e 1-quater c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 6 L. 69/2019",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-140",
+  "area": "penale",
+  "court": "Tribunale di Roma",
+  "title": "Perquisizione illegittima",
+  "outcome": "Assoluzione piena — Prova dichiarata inutilizzabile",
+  "fatto": "Imprenditore quarantenne sottoposto a perquisizione domiciliare sulla base di una segnalazione anonima.",
+  "strategia": "Gli agenti avevano proceduto senza decreto del PM e in assenza dei presupposti di urgenza previsti dall’art. 352 c.p.p., senza la presenza di almeno due testimoni come richiesto dall’art. 250 c.p.p.",
+  "decisione": "La sostanza, 50 grammi di cocaina, era stata rinvenuta in un armadio della camera da letto.",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "violenza-sessuale",
+  "materia": "Violenza sessuale e codice rosso",
+  "lawRef_materia": "Art. 609-bis c.p.",
+  "sintesi_materia": "Difesa rigorosa in incidente probatorio, vaglio di attendibilità e indagini difensive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 124, 609-septies, 609-decies c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 74, 78, 90-bis, 282-ter, 362, 380, 392 co. 1-bis, 408, 410 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 2 L. 69/2019",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   },
+   {
+    "norma": "artt. 609-bis, 609-ter, 609-quater, 609-septies, 609-octies, 165 c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 380, 391-bis, 392 co. 1-bis, 444 co. 1-bis e 1-quater c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 6 L. 69/2019",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-149",
+  "area": "penale",
+  "court": "Tribunale di Napoli",
+  "title": "Rapporto consensuale e contraddizioni dichiarative",
+  "outcome": "Assoluzione piena — Il fatto non sussiste",
+  "fatto": "Un uomo di 38 anni veniva accusato di violenza sessuale dall’ex compagna, nell’ambito di una separazione altamente conflittuale con contesa sull’affidamento dei figli.",
+  "strategia": "La denuncia era stata sporta a distanza di quattro mesi dai fatti contestati.",
+  "decisione": "La difesa ha acquisito e analizzato oltre 1.200 messaggi WhatsApp scambiati tra le parti nel periodo successivo al presunto episodio, dai quali emergeva inequivocabilmente la prosecuzione di un rapporto affettivo e intimo consensuale.",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "violenza-sessuale",
+  "materia": "Violenza sessuale e codice rosso",
+  "lawRef_materia": "Art. 609-bis c.p.",
+  "sintesi_materia": "Difesa rigorosa in incidente probatorio, vaglio di attendibilità e indagini difensive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 124, 609-septies, 609-decies c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 74, 78, 90-bis, 282-ter, 362, 380, 392 co. 1-bis, 408, 410 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 2 L. 69/2019",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   },
+   {
+    "norma": "artt. 609-bis, 609-ter, 609-quater, 609-septies, 609-octies, 165 c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 380, 391-bis, 392 co. 1-bis, 444 co. 1-bis e 1-quater c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 6 L. 69/2019",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-150",
+  "area": "penale",
+  "court": "Tribunale di Roma",
+  "title": "Insussistenza della condotta costrittiva",
+  "outcome": "Assoluzione — Il fatto non costituisce reato",
+  "fatto": "Un professionista di 45 anni veniva tratto in arresto con ordinanza di custodia cautelare in carcere per violenza sessuale ai danni di una collega.",
+  "strategia": "La difesa ha immediatamente impugnato la misura cautelare dinanzi al Tribunale del Riesame, ottenendo la sostituzione della custodia in carcere con gli arresti domiciliari, evidenziando l’assenza di pericolo di fuga e di reiterazione.",
+  "decisione": "Assoluzione — Il fatto non costituisce reato",
+  "attivita": [
+   "Ordine di scarcerazione eseguito",
+   "Restituzione beni/libertà",
+   "Monitoraggio fase successiva"
+  ],
+  "subtopic": "violenza-sessuale",
+  "materia": "Violenza sessuale e codice rosso",
+  "lawRef_materia": "Art. 609-bis c.p.",
+  "sintesi_materia": "Difesa rigorosa in incidente probatorio, vaglio di attendibilità e indagini difensive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 124, 609-septies, 609-decies c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 74, 78, 90-bis, 282-ter, 362, 380, 392 co. 1-bis, 408, 410 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 2 L. 69/2019",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   },
+   {
+    "norma": "artt. 609-bis, 609-ter, 609-quater, 609-septies, 609-octies, 165 c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 380, 391-bis, 392 co. 1-bis, 444 co. 1-bis e 1-quater c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 6 L. 69/2019",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   }
+  ]
+ }
+]

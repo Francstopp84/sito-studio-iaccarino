@@ -1,0 +1,75 @@
+{
+ "id": "SLI-427",
+ "seo_title": "Perizia contabile e rimborso con interessi: ricorso a Roma",
+ "description": "Quando la pretesa fiscale è sproporzionata la perizia contabile aiuta il giudice a rideterminare l'imposta: come si usa e come si chiede il rimborso.",
+ "parole_chiave": [
+  "perizia contabile ricorso tributario",
+  "rimborso imposta con interessi",
+  "rideterminazione imponibile CGT",
+  "sproporzione pretesa erariale",
+  "consulenza tecnica processo tributario"
+ ],
+ "sezioni": [
+  {
+   "h2": "Contestare i numeri e non solo la forma",
+   "paragrafi": [
+    "Non sempre il problema di una pretesa fiscale è formale. A volte la contestazione riguarda la misura: l'imponibile è calcolato su basi che non corrispondono ai documenti, oppure l'imposta è sproporzionata rispetto alla situazione reale. In questi casi serve un lavoro contabile, che trasformi le contestazioni in cifre confrontabili con quelle dell'ente.",
+    "L'articolo 7 del D.Lgs. 546/1992 attribuisce alle corti poteri istruttori e prevede la possibilità di disporre la consulenza tecnica. Il contribuente può anche produrre una perizia di parte e documenti fiscali, come registri, bilanci e contratti. Il giudice resta libero di valutarli, ma una perizia ordinata e verificabile gli offre una base per scegliere tra due ricostruzioni."
+   ]
+  },
+  {
+   "h2": "Il caso: riduzione e rimborso davanti alla CGT di Roma",
+   "paragrafi": [
+    "Nel caso, davanti alla CGT di I grado di Roma, lo studio ha impostato la difesa su una perizia estimativa e contabile comparativa e sulla produzione di documenti fiscali che attestavano la sproporzione della pretesa. Il ricorso è stato accolto, con rideterminazione dell'imposta e condanna dell'ente al rimborso maggiorato degli interessi. Il titolo del caso riporta una riduzione superiore al 70 per cento.",
+    "Il caso resta sintetico sui dettagli del tributo, e per questo conviene fermarsi sul metodo: una pretesa non si contrasta con la semplice dichiarazione di eccessività, ma con un confronto numerico documentato, tra ciò che l'ente chiede e ciò che risulta dai fatti."
+   ]
+  },
+  {
+   "h2": "Come si prepara un ricorso sui numeri",
+   "paragrafi": [
+    "In generale si raccolgono i documenti che fondano le cifre: dichiarazioni, registri contabili, fatture, atti di acquisto, bilanci. Il perito ricostruisce il calcolo seguito dall'ente e lo confronta con il proprio, indicando una per una le differenze e le ragioni. Il documento deve essere comprensibile a un giudice non contabile, quindi con tabelle chiare e rinvii agli allegati.",
+    "La domanda di rimborso ha regole proprie. L'articolo 19 del D.Lgs. 546/1992 elenca tra gli atti impugnabili il rifiuto espresso o tacito alla restituzione di tributi, sanzioni e interessi o altri accessori non dovuti, e l'articolo 21 prevede che il rifiuto tacito sia impugnabile dopo il novantesimo giorno dalla domanda, mentre in mancanza di disposizioni specifiche la domanda di restituzione non può essere presentata dopo due anni dal pagamento. Il termine esatto per il tributo coinvolto va verificato sulla sua disciplina."
+   ],
+   "elenco": [
+    "atti impugnati con relata di notifica",
+    "dichiarazioni e documenti contabili degli anni contestati",
+    "ricevute dei pagamenti eseguiti",
+    "perizia di parte con tabelle di raffronto",
+    "eventuali istanze di rimborso già presentate"
+   ]
+  },
+  {
+   "h2": "Termini e cautele",
+   "paragrafi": [
+    "Il ricorso va proposto entro sessanta giorni dalla notificazione dell'atto, a pena di inammissibilità (articolo 21 del D.Lgs. 546/1992). Tutti i motivi vanno indicati nel ricorso introduttivo, a pena di decadenza, secondo l'articolo 7-bis, comma 2, della legge n. 212 del 2000, e l'atto deve a sua volta essere motivato ai sensi dell'articolo 7 della stessa legge.",
+    "La perizia va depositata nei termini del processo, e conviene averla pronta fin dal primo atto. Il risultato dipende dalla qualità dei documenti e dalla valutazione del giudice, e non può essere promesso. Anche la scelta del perito conta: deve conoscere la materia fiscale, spiegare ogni passaggio del calcolo e indicare le fonti dei dati, così che la controparte possa discuterne il contenuto e il collegio seguirne il ragionamento senza dover ricostruire da solo i numeri.",
+    "Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "A cosa serve una perizia contabile nel processo tributario?",
+   "a": "A trasformare la contestazione in numeri verificabili: ricostruisce il calcolo dell'ente, lo confronta con i documenti e indica le differenze. L'articolo 7 del D.Lgs. 546/1992 prevede inoltre che la corte possa disporre una consulenza tecnica. La valutazione resta al giudice."
+  },
+  {
+   "q": "Si possono chiedere gli interessi sul rimborso?",
+   "a": "Nel caso il giudice ha disposto il rimborso maggiorato degli interessi. La domanda di restituzione e la sua impugnazione hanno termini specifici: l'articolo 21 del D.Lgs. 546/1992 prevede l'impugnazione del rifiuto tacito dopo il novantesimo giorno dalla domanda."
+  },
+  {
+   "q": "Entro quando si chiede un rimborso?",
+   "a": "L'articolo 21, in mancanza di disposizioni specifiche, prevede che la domanda di restituzione non possa essere presentata dopo due anni dal pagamento. Per alcuni tributi esistono termini speciali, quindi la verifica va fatta sulla disciplina del tributo interessato prima di presentare la domanda."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.Lgs. 546/1992 artt. 7, 19, 21",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  },
+  {
+   "norma": "L. 212/2000 artt. 7, 7-bis",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+  }
+ ],
+ "parole": 697
+}

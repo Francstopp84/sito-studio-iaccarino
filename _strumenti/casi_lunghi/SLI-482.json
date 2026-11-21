@@ -1,0 +1,87 @@
+{
+ "id": "SLI-482",
+ "seo_title": "Prescrizione dei tributi: debito cancellato in appello CGT",
+ "description": "Prescrizione dichiarata dei tributi iscritti a ruolo: ricostruzione delle notifiche, discarico delle cartelle e pulizia della posizione fiscale.",
+ "parole_chiave": [
+  "prescrizione tributi iscritti a ruolo",
+  "atti interruttivi notifica cartella",
+  "discarico cartelle prescritte CGT",
+  "cancellazione vincoli fiscali",
+  "relata di notifica agente riscossione"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il tempo come difesa",
+   "paragrafi": [
+    "Il caso, trattato dalla Corte di Giustizia Tributaria di primo grado di Napoli, riguarda un contribuente coinvolto in vicende di reati fiscali e sequestro preventivo, nel quadro del D.Lgs. n. 74 del 2000. Sul versante della riscossione, il Giudice ha dichiarato estinta l'intera pretesa creditoria per maturata prescrizione, quinquennale o triennale, dei tributi iscritti a ruolo. Da qui il debito cancellato.",
+    "La strategia si basava su un lavoro di archivio: la ricostruzione cronologica integrale delle relate di notifica depositate dall'Agente della Riscossione, per dimostrare l'assenza di atti interruttivi validi. Quando il creditore fa valere un diritto tanto tempo dopo, spetta a lui provare gli atti che hanno interrotto il decorso del termine, e la difesa ha il compito di esaminare ogni data e ogni modalità."
+   ]
+  },
+  {
+   "h2": "Costruire la cronologia degli atti",
+   "paragrafi": [
+    "Una cronologia efficace elenca, per ciascun carico, la data di notifica della cartella, gli eventuali avvisi di intimazione, i preavvisi di fermo o ipoteca e ogni altro atto che la controparte invoca come interruttivo. Per ciascuno vanno controllati il destinatario, il luogo, la forma della notifica e la sua regolarità. Se un atto non risulta validamente notificato, non può produrre l'effetto di interrompere il termine.",
+    "L'art. 50 del D.P.R. n. 602 del 1973 impone l'avviso di intimazione quando l'espropriazione non inizia entro un anno dalla notifica della cartella, e ricollega l'inefficacia dell'avviso all'inerzia di un ulteriore anno. L'art. 19 ricorda poi che dalla presentazione della domanda di dilazione sono sospesi i termini di prescrizione e decadenza: una richiesta di rateazione, quindi, può incidere sul calcolo e va considerata."
+   ]
+  },
+  {
+   "h2": "Prescrizione e profili penali: attenzione ai confini",
+   "paragrafi": [
+    "Un'estinzione del debito per prescrizione davanti al giudice tributario non risolve automaticamente il procedimento penale. Il D.Lgs. n. 74 del 2000 prevede all'art. 14 una circostanza attenuante legata alla riparazione dell'offesa nel caso di estinzione per prescrizione del debito tributario, e conviene leggere la norma per intero prima di ipotizzare effetti: sono dettagli che dipendono dai fatti e dalla fase del procedimento. In generale, si tratta di una conseguenza che il difensore deve valutare sul piano penale e non presumere."
+   ]
+  },
+  {
+   "h2": "Dopo la decisione: discarico, vincoli, posizione fiscale",
+   "paragrafi": [
+    "Le attività elencate dal caso sono il discarico delle cartelle prescritte, la pulizia della posizione fiscale e la cancellazione dei vincoli. Il discarico va richiesto e verificato; la pulizia consiste nel controllare che l'estratto non riporti più i carichi; la cancellazione dei vincoli è la fase che restituisce libertà di disporre di beni e conti. Ogni registro in cui un vincolo era stato annotato va aggiornato separatamente."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale, chi riceve atti su tributi risalenti nel tempo dovrebbe raccogliere tutte le cartelle e le comunicazioni ricevute negli anni, anche quelle che sembrano irrilevanti, e verificare le date. La conservazione dei documenti, spesso trascurata, può essere decisiva. Ogni vicenda va valutata sui suoi atti: quanto scritto qui descrive il funzionamento generale delle norme e non promette alcun esito."
+   ],
+   "elenco": [
+    "le cartelle di pagamento e le relative relate di notifica",
+    "gli avvisi di intimazione e i preavvisi",
+    "le domande di rateazione presentate",
+    "l'estratto di ruolo prima e dopo la decisione"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il ricorso va proposto entro sessanta giorni dalla notificazione dell'atto impugnato e il ricorrente si costituisce entro trenta giorni dalla proposizione, a pena di inammissibilità (artt. 21 e 22 del D.Lgs. n. 546 del 1992). Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Chi deve provare gli atti che interrompono la prescrizione?",
+   "a": "In generale, chi pretende il credito deve dimostrare gli atti che hanno interrotto il termine. Nel caso la difesa ha ricostruito la cronologia delle relate depositate dall'Agente della Riscossione e ha dimostrato l'assenza di atti interruttivi validi, ottenendo la dichiarazione di prescrizione."
+  },
+  {
+   "q": "La domanda di rateizzazione incide sulla prescrizione?",
+   "a": "L'art. 19 del D.P.R. n. 602 del 1973 prevede che la presentazione della domanda di dilazione sospenda i termini di prescrizione e decadenza. Chi valuta una prescrizione deve quindi verificare se in passato sia stata presentata una richiesta di rateazione, perché cambia il calcolo."
+  },
+  {
+   "q": "A cosa serve l'avviso di intimazione?",
+   "a": "L'art. 50 del D.P.R. n. 602 del 1973 lo richiede quando l'espropriazione non inizia entro un anno dalla notifica della cartella di pagamento. È un atto da esaminare nella cronologia, perché la sua regolarità o la sua inefficacia possono incidere sulla pretesa del creditore."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 19, 50 D.P.R. 602/1973",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+  },
+  {
+   "norma": "art. 14 D.Lgs. 74/2000",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 74-2000 reati tributari.md"
+  },
+  {
+   "norma": "artt. 21, 22 D.Lgs. 546/1992",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 722
+}

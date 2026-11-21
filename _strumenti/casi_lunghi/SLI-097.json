@@ -1,0 +1,47 @@
+{
+ "id": "SLI-097",
+ "seo_title": "Furto alimentare e stato di necessità: assoluzione",
+ "description": "Furto di generi alimentari da parte di una persona senza reddito né alloggio: requisiti dello stato di necessità nell'articolo 54 del codice penale e prova dell'indigenza.",
+ "parole_chiave": ["furto alimentare stato di necessità", "art. 54 codice penale", "indigenza prova servizi sociali", "assoluzione fatto non costituisce reato", "furto per fame"],
+ "sezioni": [
+  {"h2": "Quando la fame incontra il diritto penale", "paragrafi": [
+   "Sottrarre generi alimentari da un supermercato è un fatto che l'articolo 624 del codice penale qualifica come furto. Il diritto penale conosce però alcune situazioni in cui un fatto, pur corrispondente alla descrizione del reato, non è punibile perché compiuto in condizioni che la legge considera rilevanti. Una di esse è lo stato di necessità, regolato dall'articolo 54 del codice penale.",
+   "La norma dispone che non è punibile chi ha commesso il fatto per esservi stato costretto dalla necessità di salvare sé o altri dal pericolo attuale di un danno grave alla persona, pericolo da lui non volontariamente causato né altrimenti evitabile, sempre che il fatto sia proporzionato al pericolo."
+  ]},
+  {"h2": "La vicenda riportata", "paragrafi": [
+   "Nel caso pubblicato sul sito, un uomo di 45 anni, disoccupato e senza fissa dimora, era accusato di furto aggravato per aver sottratto generi alimentari per 15 euro da un supermercato. Il procedimento, dinanzi al Tribunale di Milano, si è concluso con l'assoluzione perché il fatto non costituisce reato, in forza dello stato di necessità.",
+   "La difesa ha basato la propria linea sull'indigenza documentata. Sono stati prodotti la certificazione dei servizi sociali e gli elementi che dimostravano l'assenza di reddito e di un alloggio. Su questa base si è sostenuto il bisogno alimentare vitale e impellente, richiesto dall'articolo 54."
+  ]},
+  {"h2": "I requisiti dello stato di necessità, uno per volta", "paragrafi": [
+   "Il primo requisito è il pericolo attuale di un danno grave alla persona. La fame e la privazione di cibo possono configurare un pericolo per la salute, ma occorre dimostrare che il bisogno era presente e urgente nel momento del fatto, non semplicemente una condizione di disagio generale.",
+   "Il secondo è l'involontarietà del pericolo: chi invoca la scriminante non deve averlo causato di proposito. Il terzo è l'inevitabilità altrimenti: la norma presuppone che non vi fossero alternative praticabili, come l'accesso a mense, aiuti di servizi sociali o altre forme di assistenza. È un punto da valutare con cura, perché il giudice può chiedersi se la persona potesse rivolgersi altrove.",
+   "Il quarto è la proporzione: il fatto deve essere commisurato al pericolo. La sottrazione di cibo di modesto valore, nella quantità necessaria a un pasto, è più facilmente proporzionata di una sottrazione di beni diversi o di maggior valore."
+  ], "elenco": [
+   "la certificazione dei servizi sociali sulla condizione personale",
+   "la prova dell'assenza di reddito e di alloggio",
+   "l'elenco e il valore dei generi sottratti, a conferma della natura alimentare",
+   "le circostanze di tempo e di luogo che mostrano l'urgenza del bisogno",
+   "l'eventuale impossibilità di accedere ad altri aiuti in quel momento",
+   "l'assenza di violenza e di altri beni sottratti"
+  ]},
+  {"h2": "Altre vie previste dal codice", "paragrafi": [
+   "L'articolo 626, numero 2, prevede un trattamento più lieve per il furto di cose di tenue valore commesso per grave ed urgente bisogno, se non concorrono le aggravanti indicate nella norma. L'articolo 131-bis considera la non punibilità per particolare tenuità del fatto. Sono strade diverse dallo stato di necessità e hanno ciascuna requisiti propri.",
+   "Sul piano processuale, l'articolo 530 del codice di procedura penale prevede l'assoluzione perché il fatto non costituisce reato quando risulta una causa di giustificazione. L'articolo 273 ricorda che nessuna misura cautelare può essere applicata se il fatto è stato compiuto in presenza di una causa di giustificazione."
+  ]},
+  {"h2": "Che cosa tenere presente", "paragrafi": [
+   "In casi analoghi la prova dell'indigenza è il centro del processo e va raccolta con documenti, non con la sola dichiarazione dell'interessato. Ogni vicenda va valutata sui suoi atti, e l'assoluzione ottenuta nel caso non è replicabile per automatismo.",
+   "Per un esame della situazione e dei documenti disponibili ci si può rivolgere allo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+  ]}
+ ],
+ "faq": [
+  {"q": "Cosa dice l'articolo 54 del codice penale?", "a": "Esclude la punibilità di chi ha commesso il fatto perché costretto dalla necessità di salvare sé o altri dal pericolo attuale di un danno grave alla persona, non volontariamente causato né altrimenti evitabile, se il fatto è proporzionato al pericolo. Tutti i requisiti vanno provati."},
+  {"q": "Rubare del cibo per fame è sempre non punibile?", "a": "No. Il giudice valuta l'attualità del pericolo, l'assenza di alternative, la proporzione e la prova dell'indigenza. Nel caso riportato l'assoluzione è stata resa possibile da una documentazione dei servizi sociali. Ogni situazione ha bisogno del proprio esame."},
+  {"q": "Quale prova serve per dimostrare l'indigenza?", "a": "Servono documenti: certificazioni dei servizi sociali, attestazioni sull'assenza di reddito e di alloggio, eventuali dichiarazioni di enti assistenziali. La sola affermazione dell'imputato di norma non basta a convincere il giudice."},
+  {"q": "Qual è la differenza tra stato di necessità e furto per grave bisogno?", "a": "Lo stato di necessità dell'articolo 54 esclude la punibilità e richiede un pericolo attuale di danno grave alla persona. L'articolo 626, numero 2, prevede invece un trattamento più lieve per il furto di cose di tenue valore commesso per grave ed urgente bisogno, entro i limiti della norma."}
+ ],
+ "norme_verificate": [
+  {"norma": "artt. 54, 131-bis, 624, 626 c.p.", "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"},
+  {"norma": "artt. 273, 530 c.p.p.", "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"}
+ ],
+ "parole": 0
+}

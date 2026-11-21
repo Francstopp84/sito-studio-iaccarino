@@ -1,0 +1,82 @@
+{
+ "id": "SLI-462",
+ "seo_title": "IVA prescritta: relate e atti interruttivi a confronto",
+ "description": "Debito IVA cancellato per prescrizione davanti alla CGT di primo grado di Roma: relate di notifica, atti interruttivi, artt. 2943 e 2946 c.c. e art. 57 DPR 633.",
+ "parole_chiave": [
+  "debito IVA prescritto",
+  "prescrizione imposta sul valore aggiunto",
+  "CGT Roma prescrizione",
+  "relate di notifica atti interruttivi",
+  "cartella IVA estinta"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il caso di Roma e il tempo che estingue",
+   "paragrafi": [
+    "Davanti alla Corte di giustizia tributaria di primo grado di Roma il contribuente ha ottenuto la cancellazione di un debito di imposta sul valore aggiunto, ricostruendo le relate di notifica e dimostrando l'assenza di atti interruttivi della prescrizione. L'esito riferito è la declaratoria di estinzione del debito.",
+    "La particolarità, rispetto ad altre vicende di prescrizione, sta nella natura dell'imposta. L'IVA ha un proprio sistema di termini, che convive con le regole generali del codice civile: capire come si combinino è il primo passo per costruire una difesa credibile."
+   ]
+  },
+  {
+   "h2": "Due orologi: accertamento e riscossione",
+   "paragrafi": [
+    "Il primo orologio è quello dell'accertamento. L'articolo 57 del D.P.R. n. 633 prevede che gli avvisi di rettifica e di accertamento siano notificati a pena di decadenza entro il 31 dicembre del quinto anno successivo a quello di presentazione della dichiarazione, e del settimo in caso di omissione. Una volta che l'ufficio ha accertato e l'atto è divenuto definitivo, o una volta iscritto il debito a ruolo, parte il secondo orologio, quello dell'esazione.",
+    "Per il secondo orologio l'articolo 2946 del codice civile fissa, in via generale, la prescrizione ordinaria in dieci anni, salvo diversa previsione di legge. L'articolo 2943 elenca gli atti che interrompono il termine e l'articolo 2945 chiarisce che dopo l'interruzione comincia a decorrere un nuovo periodo. Serve dunque verificare, per ogni singola posta, quale regime si applichi e da quando."
+   ]
+  },
+  {
+   "h2": "Le relate come mappa della vicenda",
+   "paragrafi": [
+    "La parte più delicata è la prova. Non è sufficiente affermare che il tempo è trascorso: occorre dimostrare che nessun atto valido lo ha interrotto. Ogni notifica dell'ente va esaminata per vedere se sia regolare, se sia stata consegnata al destinatario giusto, se contenga una pretesa chiara e se la data sia certa. Un atto inesistente o nullo non produce effetti interruttivi, mentre un atto valido azzera il tempo trascorso."
+   ],
+   "elenco": [
+    "estratto di ruolo aggiornato, per conoscere le cartelle iscritte e le loro date",
+    "copia di avvisi, intimazioni e solleciti, con le relative buste e ricevute",
+    "eventuali piani di rateizzazione e pagamenti parziali, che possono valere come riconoscimento",
+    "dichiarazione IVA del periodo, per fissare il punto di partenza dei termini",
+    "cronologia redatta in ordine di data, con per ciascun atto l'esito della notifica"
+   ]
+  },
+  {
+   "h2": "Il rischio del riconoscimento del debito",
+   "paragrafi": [
+    "L'articolo 2944 del codice civile stabilisce che la prescrizione è interrotta dal riconoscimento del diritto da parte di chi è tenuto. Una domanda di rateizzazione, un versamento parziale accompagnato da dichiarazioni di impegno, o una comunicazione dal contenuto ambiguo possono quindi rimettere in moto il tempo. Il contribuente che sospetta di avere un debito prescritto deve valutare con attenzione ogni contatto con l'ente."
+   ]
+  },
+  {
+   "h2": "Come procedere in casi simili",
+   "paragrafi": [
+    "In generale si parte dall'estratto di ruolo, si ricostruisce la sequenza degli atti e si individuano i termini applicabili a ciascun credito. Se la prescrizione sembra maturata, il ricorso davanti alla Corte di giustizia tributaria va proposto nel termine di sessanta giorni dalla notificazione dell'atto impugnato (articolo 21 del D.Lgs. n. 546), con la prescrizione eccepita in modo specifico. Nessun esito può essere assicurato prima di avere esaminato la documentazione."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Il debito IVA si prescrive in dieci anni?",
+   "a": "L'articolo 2946 del codice civile indica dieci anni come termine ordinario, salvo diversa previsione di legge. Per ciascun credito tributario occorre però verificare se esistano regole speciali e da quale data decorra il termine. Non esiste una risposta uniforme: serve esaminare la natura del credito e gli atti ricevuti."
+  },
+  {
+   "q": "Quali atti interrompono la prescrizione?",
+   "a": "L'articolo 2943 del codice civile elenca la notificazione dell'atto che inizia un giudizio, ogni altro atto che valga a costituire in mora il debitore e il riconoscimento del diritto da parte di chi vi è tenuto. L'articolo 2945 aggiunge che, dopo l'interruzione, inizia a decorrere un nuovo periodo di prescrizione."
+  },
+  {
+   "q": "Chiedere una rateizzazione fa perdere la prescrizione?",
+   "a": "Può avere questo effetto, perché la domanda di dilazione è spesso interpretata come riconoscimento del debito ai sensi dell'articolo 2944 del codice civile. Prima di presentarla conviene verificare se il credito sia già prescritto, e valutare le conseguenze di ogni comunicazione verso l'ente."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "codice civile artt. 2943, 2944, 2945 e 2946",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "DPR 633/1972 art. 57",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 633-1972 IVA.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992 art. 21",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 628
+}

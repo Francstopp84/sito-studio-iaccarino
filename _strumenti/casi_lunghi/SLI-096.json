@@ -1,0 +1,47 @@
+{
+ "id": "SLI-096",
+ "seo_title": "Furto d'uso di un'auto: riqualificazione e multa",
+ "description": "Auto presa e restituita dopo due ore: differenza tra furto aggravato e furto d'uso dell'articolo 626 del codice penale e come si prova la restituzione immediata.",
+ "parole_chiave": ["furto d'uso veicolo", "art. 626 codice penale", "riqualificazione furto aggravato", "auto restituita nello stesso luogo", "prova dati GPS testimoni"],
+ "sezioni": [
+  {"h2": "Furto, furto aggravato e furto d'uso", "paragrafi": [
+   "Prendere l'auto di un conoscente senza permesso può essere penalmente rilevante, ma la qualificazione giuridica cambia molto a seconda di ciò che accade dopo. L'articolo 624 del codice penale definisce il furto come l'impossessamento della cosa mobile altrui per trarne profitto. L'articolo 625 elenca le circostanze aggravanti, che comportano una pena più alta.",
+   "L'articolo 626 prevede invece i cosiddetti furti minori, con un trattamento più lieve. Il numero 1 riguarda il furto commesso sulla cosa che sia stata sottratta al solo scopo di farne uso momentaneo e che, dopo l'uso momentaneo, sia stata immediatamente restituita. L'ultimo comma esclude l'applicazione della norma quando concorrono alcune circostanze indicate nell'articolo 625, numeri da 1 a 4."
+  ]},
+  {"h2": "La vicenda riportata", "paragrafi": [
+   "Nel caso pubblicato sul sito, uno studente universitario era accusato di furto aggravato per aver preso l'auto di un conoscente parcheggiata con le chiavi inserite. Il veicolo era stato usato per circa due ore e poi restituito nello stesso luogo. Il procedimento, dinanzi al Tribunale di Napoli Nord, si è chiuso con la riqualificazione in furto d'uso e con la sola multa di 200 euro.",
+   "Il dato che ha fatto la differenza è la restituzione. La difesa ha puntato a dimostrare che l'uso era stato momentaneo e che il mezzo era tornato al suo posto senza ritardo."
+  ]},
+  {"h2": "Come si prova l'uso momentaneo e la restituzione immediata", "paragrafi": [
+   "Due requisiti vanno dimostrati: il fine di fare solo un uso momentaneo e la restituzione immediata dopo l'uso. Nel caso riportato la difesa ha prodotto la prova della restituzione immediata attraverso testimonianze e dati GPS, e ha chiesto la riqualificazione come furto d'uso ai sensi dell'articolo 626, primo comma.",
+   "In generale, gli elementi utili sono quelli che fissano nel tempo e nello spazio l'allontanamento e il ritorno del mezzo. I dati di localizzazione, se disponibili, raccontano il percorso e la durata. Le testimonianze di chi ha visto partire e tornare il veicolo confermano la sequenza. Anche lo stato del mezzo al ritorno e l'assenza di danni o di prelievi di oggetti contribuiscono a escludere l'intenzione di appropriarsi della cosa.",
+   "Occorre poi controllare le aggravanti contestate, perché la norma sui furti minori non si applica se concorrono le circostanze richiamate dall'ultimo comma. Per questo l'esame del capo di imputazione è preliminare a ogni strategia."
+  ], "elenco": [
+   "l'orario di allontanamento e quello di ritorno del veicolo",
+   "i dati di localizzazione eventualmente conservati dal mezzo o dal telefono",
+   "le testimonianze di chi ha visto la partenza e la restituzione",
+   "le condizioni in cui il mezzo è stato lasciato e ritrovato",
+   "il rapporto tra l'imputato e il proprietario",
+   "le circostanze aggravanti indicate nel capo di imputazione"
+  ]},
+  {"h2": "Il rilievo della querela e delle riparazioni", "paragrafi": [
+   "Il furto è punibile, di regola, a querela. L'articolo 124 fissa in tre mesi il termine per proporla e l'articolo 152 attribuisce alla remissione l'effetto di estinguere il reato. Per i reati a querela remissibile, l'articolo 162-ter prevede l'estinzione per condotte riparatorie, se prima dell'apertura del dibattimento di primo grado l'imputato ha riparato interamente il danno.",
+   "Anche la competenza è un aspetto da conoscere: l'articolo 4 del decreto legislativo 274 del 2000 attribuisce al giudice di pace i reati dell'articolo 626 elencati nella norma, un dato che incide sull'individuazione dell'ufficio competente in casi analoghi."
+  ]},
+  {"h2": "Una lezione pratica", "paragrafi": [
+   "Chi si trova accusato di furto aggravato per un uso breve di un mezzo dovrebbe fissare subito le prove della restituzione, prima che dati e ricordi si perdano. Ogni vicenda va valutata sui suoi atti, e l'esito del caso non può essere promesso a nessuno.",
+   "Per esaminare imputazione e prove ci si può rivolgere allo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+  ]}
+ ],
+ "faq": [
+  {"q": "Che cos'è il furto d'uso?", "a": "È la figura dell'articolo 626, numero 1, del codice penale: la cosa è sottratta al solo scopo di farne uso momentaneo e, dopo l'uso, è immediatamente restituita. Ha un trattamento più lieve del furto ordinario. Occorre provare il fine e la restituzione."},
+  {"q": "Come si dimostra la restituzione immediata?", "a": "Con elementi che fissano tempi e luoghi: testimonianze, dati di localizzazione, immagini, lo stato del mezzo al ritorno. Nel caso riportato sono stati usati testimonianze e dati GPS. La valutazione spetta al giudice sull'insieme delle prove."},
+  {"q": "Il furto d'uso vale per ogni furto aggravato?", "a": "No. L'articolo 626 non si applica se concorrono le circostanze dell'articolo 625, numeri da 1 a 4. Va quindi esaminato il capo di imputazione per capire quali aggravanti siano contestate e se siano provate."},
+  {"q": "Quale giudice è competente per il furto d'uso?", "a": "L'articolo 4 del decreto legislativo 274 del 2000 elenca tra i reati di competenza del giudice di pace quelli previsti dall'articolo 626 del codice penale. La competenza dipende però dalla qualificazione del fatto e dalle contestazioni nel singolo procedimento."}
+ ],
+ "norme_verificate": [
+  {"norma": "artt. 124, 152, 162-ter, 624, 625, 626 c.p.", "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"},
+  {"norma": "art. 4 D.Lgs. 274/2000", "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\D.Lgs. 274-2000 giudice di pace penale.md"}
+ ],
+ "parole": 0
+}

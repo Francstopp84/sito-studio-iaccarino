@@ -1,0 +1,75 @@
+{
+  "id": "SLI-047",
+  "seo_title": "Recupero del compenso professionale dell'avvocato",
+  "description": "Come si recupera il compenso di un professionista che non viene pagato: ricorso monitorio, competenza, opposizione del cliente, prova dell'attività svolta e appello.",
+  "parole_chiave": [
+    "compenso avvocato",
+    "ricorso per decreto ingiuntivo",
+    "parcella",
+    "opposizione del cliente",
+    "appello"
+  ],
+  "sezioni": [
+    {
+      "h2": "Quando il creditore è un professionista",
+      "paragrafi": [
+        "Il recupero del compenso da parte di un professionista ha una particolarità che lo distingue dal normale recupero crediti: chi agisce conosce bene il rapporto, ma proprio per questo è tenuto a dimostrare con precisione ogni prestazione. Il caso che si analizza riguarda un avvocato che, al termine di una vertenza durata più di quattro anni, non è stato pagato dal cliente per 34.800 euro. Il cliente sosteneva che il patrocinio fosse stato carente.",
+        "In una situazione come questa il rischio non è solo perdere il credito, ma ritrovarsi in un giudizio in cui il proprio operato viene messo sotto esame. Per questo la parte documentale va preparata prima di avviare qualsiasi azione."
+      ]
+    },
+    {
+      "h2": "Il ricorso monitorio e le regole particolari del compenso",
+      "paragrafi": [
+        "Il professionista ha scelto il ricorso per decreto ingiuntivo. L'articolo 636 del codice di procedura civile disciplina il caso in cui il credito riguardi onorari per prestazioni giudiziali e stragiudiziali. La domanda deve essere accompagnata dalla parcella delle spese e prestazioni, sottoscritta dal ricorrente e corredata dal parere della competente associazione professionale, che non occorre quando l'importo è determinato in base a tariffe obbligatorie. Il giudice, se non rigetta il ricorso, deve attenersi al parere nei limiti della somma domandata.",
+        "Anche la competenza ha una regola propria. L'articolo 637 prevede che gli avvocati possano proporre domanda di ingiunzione contro i propri clienti al giudice competente per valore del luogo in cui ha sede il consiglio dell'ordine al cui albo sono iscritti. Sbagliare ufficio comporterebbe un rallentamento evitabile.",
+        "Quanto al tempo, va ricordato che l'articolo 2956 del codice civile prevede che il diritto dei professionisti al compenso per l'opera prestata si prescrive in tre anni. Un professionista che attende troppo rischia di perdere in tutto o in parte il diritto, e a proteggerlo servono richieste di pagamento documentate e, quando è il caso, un'azione tempestiva, perché l'articolo 2943 riconosce effetto interruttivo agli atti che costituiscono in mora il debitore."
+      ]
+    },
+    {
+      "h2": "L'opposizione del cliente e i suoi argomenti",
+      "paragrafi": [
+        "Il cliente ha proposto opposizione, sostenendo la mancanza di un preventivo scritto in base alla legge del 2012 sull'ordinamento forense e contestando l'efficacia probatoria delle parcelle. È opportuno ricordare che la decisione di quel giudizio non può essere letta come un giudizio generale su tali eccezioni, ma solo come l'esito di una specifica vicenda.",
+        "L'opposizione apre un ordinario giudizio di cognizione. L'articolo 645 dispone che l'opposizione si proponga davanti all'ufficio giudiziario che ha emesso il decreto, e nel processo ciascuna parte deve rispettare l'onere previsto dall'articolo 2697 del codice civile, secondo cui chi fa valere un diritto prova i fatti che lo fondano. Il professionista, quindi, deve provare di aver svolto le prestazioni, mentre il cliente che eccepisce un vizio deve provare i fatti su cui l'eccezione si fonda."
+      ]
+    },
+    {
+      "h2": "Il primo grado e il ruolo dell'appello",
+      "paragrafi": [
+        "In primo grado il Tribunale ha ridotto il credito a 18.000 euro, ritenendo che l'attività svolta in udienza non fosse documentata. È un esito che dà un'indicazione concreta: una prestazione reale, ma priva di un riscontro scritto, rischia di non essere riconosciuta.",
+        "L'appello ha ribaltato il quadro. Il credito è stato riconosciuto in misura molto più ampia e il recupero finale è stato di 38.200 euro. Non conviene leggere questo risultato come una regola: la differenza è dipesa dalla documentazione che la Corte ha potuto valutare e dai fatti specifici di quella vicenda. Appellare significa riesaminare l'intera questione davanti a un giudice diverso, e richiede una nuova selezione delle prove."
+      ]
+    },
+    {
+      "h2": "Consigli pratici per non arrivare impreparati",
+      "paragrafi": [
+        "In generale, chi svolge un'attività professionale dovrebbe conservare per ogni incarico una traccia ordinata di ciò che ha fatto: verbali, comunicazioni, atti depositati, appuntamenti, bozze inviate al cliente. È proprio ciò che manca quando un giudice riduce la pretesa perché una parte dell'attività non è dimostrata.",
+        "Va curata anche la comunicazione con il cliente fin dall'inizio, mettendo per iscritto l'oggetto dell'incarico e le sue condizioni economiche. Un accordo chiaro rende molto più difficile, in un secondo momento, contestare il valore della prestazione."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Il professionista può chiedere un decreto ingiuntivo per il compenso?",
+      "a": "Sì, l'articolo 636 del codice di procedura civile disciplina il ricorso per i crediti relativi a onorari. Vanno rispettate le condizioni indicate dalla norma, tra cui la parcella e il parere dell'associazione professionale, quando richiesto."
+    },
+    {
+      "q": "Quale giudice è competente?",
+      "a": "Per l'avvocato, l'articolo 637 indica il giudice competente per valore del luogo in cui ha sede il consiglio dell'ordine al cui albo è iscritto. Per gli altri casi valgono le regole generali, da verificare di volta in volta."
+    },
+    {
+      "q": "Entro quanto tempo si prescrive il compenso?",
+      "a": "L'articolo 2956 del codice civile indica tre anni per il diritto dei professionisti al compenso per l'opera prestata. Gli atti che costituiscono in mora il debitore possono interrompere il termine, secondo l'articolo 2943."
+    }
+  ],
+  "norme_verificate": [
+    {
+      "norma": "Codice di procedura civile, artt. 636, 637, 645",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+    },
+    {
+      "norma": "Codice civile, artt. 2697, 2943, 2956",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+    }
+  ],
+  "parole": 738
+}

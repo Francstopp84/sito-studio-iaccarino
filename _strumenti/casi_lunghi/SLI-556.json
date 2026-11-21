@@ -1,0 +1,74 @@
+{
+ "id": "SLI-556",
+ "seo_title": "Alcoltest senza taratura: assoluzione e restituzione auto",
+ "description": "Etilometro senza verifica periodica: come l'assenza di prova affidabile sul tasso alcolemico porta all'assoluzione e alla restituzione di patente e veicolo.",
+ "parole_chiave": [
+  "alcoltest taratura etilometro assoluzione",
+  "libretto metrologico etilometro",
+  "ebbrezza restituzione patente e auto sequestrata",
+  "art. 186 prova tasso alcolemico",
+  "confisca veicolo ebbrezza assoluzione"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il tasso alcolemico deve essere accertato, non presunto",
+   "paragrafi": [
+    "La struttura dell'art. 186 del codice della strada poggia su un dato misurabile: l'ebbrezza è punita in base al tasso accertato, con valori di riferimento di 0,5, 0,8 e 1,5 grammi per litro. Il comma 4 stabilisce che l'accertamento avviene con strumenti e procedure determinati dal regolamento, e il comma 6 che l'interessato è considerato in stato di ebbrezza se dall'accertamento risulta un valore superiore a 0,5. Il punto, dunque, è che la responsabilità non nasce dall'impressione degli agenti, ma da una misurazione eseguita con strumenti e modalità che la norma rinvia a una fonte regolamentare.",
+    "Ne discende una conseguenza processuale. Se lo strumento non offre garanzie di affidabilità, il valore che ne risulta non può sorreggere da solo la prova del reato. In dibattimento l'art. 530, comma 2, del codice di procedura penale impone di assolvere quando la prova manca, è insufficiente o è contraddittoria."
+   ]
+  },
+  {
+   "h2": "Perché nel caso il test non ha retto",
+   "paragrafi": [
+    "Nel caso un automobilista era stato deferito per guida in stato di ebbrezza in fascia penale, con ritiro della patente e sequestro del mezzo in vista della confisca. La difesa, davanti al Tribunale di Nola, ha chiesto l'esibizione del libretto metrologico dell'etilometro e ha accertato la mancanza della verifica annuale prima dell'accertamento su strada. Il giudice ha ritenuto inattendibile il test, ha assolto l'imputato e ha ordinato la restituzione del veicolo. Il lotto non riporta il valore misurato né altri particolari, e questi non vengono ipotizzati.",
+    "La sequenza è lineare. Il documento sulla storia dello strumento era nella disponibilità degli uffici, bastava chiederlo; la sua lettura ha mostrato una lacuna in un adempimento che il caso descrive come obbligatorio e annuale; senza una misura affidabile è caduto il presupposto del reato. Poiché l'art. 186, comma 2, lettera c, collega la confisca alla sentenza di condanna, l'assoluzione ha fatto venir meno la ragione del vincolo sul veicolo. In termini generali, l'art. 321, comma 3, del codice di procedura penale prevede inoltre la revoca immediata del sequestro preventivo quando risultano mancanti le condizioni di applicabilità."
+   ]
+  },
+  {
+   "h2": "Cosa verificare se hai fatto un alcoltest",
+   "paragrafi": [
+    "Chi si trova in una situazione analoga dovrebbe far acquisire, tramite il difensore, la documentazione dello strumento utilizzato: identificazione dell'apparecchio, storia delle verifiche periodiche, eventuali interventi di manutenzione. In generale vanno poi controllati il numero e la distanza temporale delle misurazioni, il verbale redatto in strada e l'avviso della facoltà di farsi assistere da un difensore. Queste verifiche non garantiscono un esito, ma consentono di sapere se la prova è solida o se presenta lacune sfruttabili.",
+    "Conviene anche capire quale sia la posta in gioco oltre alla pena: la sospensione della patente, il sequestro e la possibile confisca, la visita medica disposta dal prefetto secondo i commi 8 e 9. Ogni vicenda va valutata sui propri atti, e questo caso non promette lo stesso risultato per altre situazioni."
+   ],
+   "elenco": [
+    "verbale di accertamento con ora e luogo della misurazione",
+    "scontrino o stampato dell'etilometro",
+    "libretto metrologico e storia delle verifiche dello strumento",
+    "provvedimenti di ritiro della patente e di sequestro del mezzo",
+    "dati sul veicolo, in particolare la sua proprietà"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Per i provvedimenti reali la sede e i tempi cambiano. Il sequestro del mezzo si impugna con la richiesta di riesame da presentare, secondo l'art. 324 del codice di procedura penale, entro dieci giorni dalla data di esecuzione o dalla diversa data in cui l'interessato ha avuto conoscenza del sequestro. Se la contestazione è stata fatta con decreto penale di condanna, l'opposizione va proposta entro quindici giorni dalla notificazione, art. 461. Il difensore dovrebbe chiedere la documentazione dello strumento il prima possibile, perché l'esibizione e la sua analisi richiedono tempo.",
+    "Dopo l'assoluzione occorre curare la restituzione effettiva del mezzo e della patente, anche sul piano amministrativo. Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, assiste in questi procedimenti."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Un etilometro senza verifica periodica rende nullo l'alcoltest?",
+   "a": "Non esiste una regola uguale per ogni caso. Nel caso descritto il giudice ha considerato inattendibile il test perché mancava la verifica annuale e ha assolto. In generale il difensore chiede il libretto metrologico dello strumento, e il giudice valuta se la prova sul tasso sia affidabile ai sensi dell'art. 530, comma 2, del codice di procedura penale."
+  },
+  {
+   "q": "Se vengo assolto per ebbrezza riavrò l'auto sequestrata?",
+   "a": "L'art. 186 collega la confisca alla sentenza di condanna o di patteggiamento, quindi con l'assoluzione quel presupposto manca. Nel caso il giudice ha ordinato la restituzione del veicolo, insieme alla patente. Gli aspetti amministrativi sulla patente vanno comunque controllati sul provvedimento ricevuto."
+  },
+  {
+   "q": "Entro quanto posso impugnare il sequestro dell'auto?",
+   "a": "Per il sequestro preventivo l'art. 324 del codice di procedura penale prevede la richiesta di riesame entro dieci giorni dalla data di esecuzione del provvedimento, o dalla diversa data in cui l'interessato ne ha avuto conoscenza. Il termine va verificato subito sul provvedimento ricevuto."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 186 D.Lgs. 285/1992",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\D.Lgs. 285-1992 codice della strada (articoli)\\art. 186.md"
+  },
+  {
+   "norma": "artt. 321, 324, 461, 530 c.p.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+  }
+ ],
+ "parole": 812
+}

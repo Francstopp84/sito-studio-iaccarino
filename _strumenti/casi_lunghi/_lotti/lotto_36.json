@@ -1,0 +1,560 @@
+[
+ {
+  "id": "SLI-472",
+  "area": "tributario",
+  "subtopic": "contenzioso-tributario",
+  "court": "CGT di I grado di Milano",
+  "title": "Contenzioso tributario e Cassazione — Difesa tecnica (CGT I e II grado)",
+  "outcome": "Annullamento totale dell’atto — € 0 dovuti",
+  "fatto": "Procedimento relativo a contenzioso tributario e cassazione (CGT I e II grado) instaurato dinanzi a CGT di I grado di Milano. Accoglimento integrale del ricorso con annullamento dell’imposta, sanzioni e interessi richiesti.",
+  "strategia": "Ricorso tributario fondato su vizio di notifica, decadenza dei termini di accertamento e difetto assoluto di motivazione ai sensi dello Statuto del Contribuente.",
+  "decisione": "La Corte di Giustizia Tributaria ha annullato integralmente l’atto condannando l’ente alle spese di giudizio.",
+  "attivita": [
+   "Sgravio integrale del ruolo",
+   "Verifica estratto debitorio",
+   "Incasso spese liquidate"
+  ],
+  "materia": "Contenzioso tributario e Cassazione",
+  "lawRef_materia": "CGT I e II grado",
+  "sintesi_materia": "Patrocinio completo in Corti di Giustizia Tributaria e Sezione Tributaria Cassazione.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 38, 48-bis, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 12, 17-bis, 18, 19, 21, 22, 47 e 48-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-473",
+  "area": "tributario",
+  "subtopic": "contenzioso-tributario",
+  "court": "Corte di Cassazione, Sez. Tributaria",
+  "title": "Contenzioso tributario e Cassazione — Ricorso urgente (CGT I e II grado)",
+  "outcome": "Sospensione cautelare e sblocco in 48 ore",
+  "fatto": "Procedimento relativo a contenzioso tributario e cassazione (CGT I e II grado) instaurato dinanzi a Corte di Cassazione, Sez. Tributaria. Blocco immediato dell’azione esecutiva o cautelare su conto corrente, immobile o veicolo aziendale.",
+  "strategia": "Istanza urgente di sospensione e autotutela qualificata con prova del danno grave e irreparabile e della manifesta illegittimità della pretesa.",
+  "decisione": "Provvedimento di sblocco immediato con cancellazione della misura cautelare e salvaguardia della continuità lavorativa.",
+  "attivita": [
+   "Cancellazione fermo o ipoteca",
+   "Svincolo somme bancarie",
+   "Prosecuzione giudizio di merito"
+  ],
+  "materia": "Contenzioso tributario e Cassazione",
+  "lawRef_materia": "CGT I e II grado",
+  "sintesi_materia": "Patrocinio completo in Corti di Giustizia Tributaria e Sezione Tributaria Cassazione.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 38, 48-bis, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 12, 17-bis, 18, 19, 21, 22, 47 e 48-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-474",
+  "area": "tributario",
+  "subtopic": "contenzioso-tributario",
+  "court": "Agenzia delle Entrate — Autotutela",
+  "title": "Contenzioso tributario e Cassazione — Tutela giudiziale (CGT I e II grado)",
+  "outcome": "Prescrizione accertata — debito cancellato",
+  "fatto": "Procedimento relativo a contenzioso tributario e cassazione (CGT I e II grado) instaurato dinanzi a Agenzia delle Entrate — Autotutela. Dichiarazione giudiziale di intervenuta prescrizione quinquennale/triennale dei tributi iscritti a ruolo.",
+  "strategia": "Ricostruzione cronologica integrale delle relate di notifica depositate dall’Agente della Riscossione con dimostrazione dell’assenza di atti interruttivi validi.",
+  "decisione": "Il Giudice ha dichiarato estinta l’intera pretesa creditoria per maturata prescrizione.",
+  "attivita": [
+   "Discarico cartelle prescritte",
+   "Pulizia posizione fiscale",
+   "Cancellazione vincoli"
+  ],
+  "materia": "Contenzioso tributario e Cassazione",
+  "lawRef_materia": "CGT I e II grado",
+  "sintesi_materia": "Patrocinio completo in Corti di Giustizia Tributaria e Sezione Tributaria Cassazione.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 38, 48-bis, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 12, 17-bis, 18, 19, 21, 22, 47 e 48-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-475",
+  "area": "tributario",
+  "subtopic": "contenzioso-tributario",
+  "court": "Giudice dell’Esecuzione di Napoli",
+  "title": "Contenzioso tributario e Cassazione — Definizione favorevole (CGT I e II grado)",
+  "outcome": "Riduzione oltre il 70% e rimborso + interessi",
+  "fatto": "Procedimento relativo a contenzioso tributario e cassazione (CGT I e II grado) instaurato dinanzi a Giudice dell’Esecuzione di Napoli. Rideterminazione dell’imponibile con consistente risparmio fiscale o riconoscimento integrale del rimborso.",
+  "strategia": "Perizia estimativa / contabile comparativa e produzione di documenti fiscali attestanti la sproporzione della pretesa erariale.",
+  "decisione": "Accoglimento del ricorso con rideterminazione equa dell’imposta e condanna al rimborso maggiorato degli interessi.",
+  "attivita": [
+   "Accredito rimborso fiscale",
+   "Aggiornamento banche dati",
+   "Recupero spese legali"
+  ],
+  "materia": "Contenzioso tributario e Cassazione",
+  "lawRef_materia": "CGT I e II grado",
+  "sintesi_materia": "Patrocinio completo in Corti di Giustizia Tributaria e Sezione Tributaria Cassazione.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 38, 48-bis, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 12, 17-bis, 18, 19, 21, 22, 47 e 48-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-167",
+  "area": "tributario",
+  "court": "CGT Milano",
+  "title": "Veicolo storico: esenzione negata e rimborso anni precedenti",
+  "outcome": "Rimborso € 5.100 + interessi — Esenzione permanente riconosciuta",
+  "fatto": "Un collezionista di Milano possedeva una storica Alfa Romeo 2000 Berlina del 1972, regolarmente iscritta al Registro Storico Alfa Romeo con certificazione ASI.",
+  "strategia": "Nonostante il veicolo avesse quasi cinquant’anni e fosse chiaramente qualificabile come di interesse storico-collezionistico ai sensi della L.",
+  "decisione": "342/2000 e della normativa regionale lombarda, la Regione Lombardia aveva continuato a richiedere il pagamento del bollo ordinario per sei anni, ignorando le ripetute segnalazioni del contribuente.",
+  "attivita": [
+   "Accredito rimborso + interessi",
+   "Chiusura posizione fiscale",
+   "Recupero spese di giudizio"
+  ],
+  "subtopic": "fermo-amministrativo",
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-181",
+  "area": "tributario",
+  "court": "",
+  "title": "Fermo su Auto Cointestata — Terzo Proprietario Tutelato",
+  "outcome": "Risultato: Fermo annullato. Il veicolo è stato liberato dal vincolo. Il debito del coniuge è stato poi oggetto di accordo di rateizzazione separato.",
+  "fatto": "Il fermo veniva iscritto su un’autovettura cointestata tra un soggetto debitore e il proprio coniuge, che nulla aveva a che vedere con i debiti fiscali del marito. Il coniuge co-proprietario, titolare del cinquanta per cento del veicolo, utilizzava l’autovettura per raggiungere il luogo di lavoro come dipendente e non era in alcun modo responsabile delle obbligazioni tributarie del marito. Il fermo, così disposto sull’intera autovettura senza distinzione tra le quote, ledeva in modo evidente i diritti del soggetto estraneo al debito. Abbiamo impugnato il fermo davanti alla CGT, contestando sia la legittimità del provvedimento nella parte relativa alla quota della co-proprietaria estranea al debito, sia l’assenza del requisito della strumentalità al debito dell’intero veicolo.",
+  "strategia": "La difesa ha fatto leva sulla tutela del terzo comproprietario e sul principio per cui il fermo non può estendersi a beni non appartenenti al debitore nella loro integralità senza adeguata motivazione.",
+  "decisione": "La CGT ha sospeso il fermo in via cautelare e in esito al merito ha disposto l’annullamento del provvedimento nella sua integralità, ordinando la cancellazione dal PRA.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "fermo-amministrativo",
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-182",
+  "area": "tributario",
+  "court": "",
+  "title": "Sospensiva Urgente — Venditore Ambulante Bloccato",
+  "outcome": "Risultato: Sospensiva cautelare ottenuta in 5 giorni. Il cliente ha ripreso l’attività ambulante. Giudizio di merito in corso con prospettive favorevoli.",
+  "fatto": "Un commerciante ambulante di frutta e verdura operante nei mercati rionali di Napoli si vedeva notificare un fermo sul proprio furgone-negozio attrezzato, unico mezzo con cui svolgeva la propria attività imprenditoriale. Senza il furgone, che fungeva contemporaneamente da mezzo di trasporto e da banco di vendita ambulante, il cliente era impossibilitato a esercitare qualsiasi attività commerciale e a produrre reddito. Il danno economico immediato era evidente e documentabile.",
+  "strategia": "Abbiamo depositato con la massima urgenza un ricorso alla CGT di Napoli accompagnato da istanza di sospensiva cautelare monocratica, allegando documentazione completa: concessione di posteggio al mercato, dichiarazioni dei redditi degli ultimi tre anni che evidenziavano il furgone come unico bene strumentale, fatture di acquisto di merce presso il mercato ortofrutticolo, e dichiarazione del presidente del mercato attestante la continua presenza del ricorrente.",
+  "decisione": "Il Giudice monocratico, valutata la situazione di urgenza e la natura strumentale del veicolo, ha accordato la sospensiva cautelare del fermo entro cinque giorni dal deposito del ricorso, consentendo al cliente di riprendere immediatamente la propria attività.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "fermo-amministrativo",
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-183",
+  "area": "tributario",
+  "court": "",
+  "title": "Rateizzazione e Sblocco Immediato del Fermo",
+  "outcome": "Risultato: Rateizzazione accordata in 72 rate mensili. Tre fermi sbloccati entro 20 giorni. La società ha onorato regolarmente i propri impegni contrattuali senza danni aggiuntivi.",
+  "fatto": "Una piccola società di autotrasporto campana si trovava nella difficile situazione di aver subito il fermo amministrativo su tre dei propri automezzi da parte di ADER per un debito complessivo di circa 38.000 euro derivante da contributi INPS non versati e IVA relativa a tre periodi di imposta. La società, pur in temporanea difficoltà di liquidità causata da ritardi nei pagamenti da parte di committenti pubblici, disponeva di un portafoglio clienti solido e di un’attività in regolare svolgimento. Il fermo contemporaneo di tre automezzi rendeva impossibile l’esecuzione dei contratti di trasporto già firmati, esponendo la società a responsabilità contrattuale verso i committenti.",
+  "strategia": "Abbiamo proceduto su un doppio binario: da un lato, presentazione urgente di domanda di rateizzazione ordinaria a ADER con documentazione della temporanea difficoltà economica (indici di bilancio, estratti bancari, copia dei crediti verso la PA); dall’altro, ricorso alla CGT con richiesta di sospensiva in ragione della strumentalità degli automezzi e del danno irreparabile derivante dalla loro indisponibilità.",
+  "decisione": "La rateizzazione è stata accordata in tempi brevissimi consentendo lo sblocco automatico dei tre fermi già dal pagamento della prima rata mensile.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "fermo-amministrativo",
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-202",
+  "area": "tributario",
+  "court": "Opposizione esecutiva, Salerno",
+  "title": "Fermo amministrativo su veicolo strumentale: cancellazione e risarcimento",
+  "outcome": "Fermo cancellato + rimborso spese noleggio",
+  "fatto": "Un idraulico titolare di ditta individuale con sede in provincia di Salerno riceveva la notifica di iscrizione di fermo amministrativo ex art. 86 D.P.R. 602/1973 sull’unico furgone intestato alla sua ditta, indispensabile per lo svolgimento dell’attività lavorativa (trasporto degli attrezzi, raggiungimento dei cantieri dei clienti). Il debito per cui era stato iscritto il fermo era di 3.400 euro, relativo a contributi previdenziali INPS anni 2019-2020. Il fermo aveva reso impossibile l’utilizzo del furgone, costringendo il professionista a noleggiare un veicolo sostitutivo a proprie spese. L’analisi della situazione ha individuato due profili di illegittimità: in primo luogo, l’INPS non aveva preceduto il fermo con la necessaria notifica dell’avviso di addebito, saltando una fase procedimentale obbligatoria; in secondo luogo, la giurisprudenza della Cassazione (Cass., Sez. Trib., n.",
+  "strategia": "14701/2019) ha chiarito che il fermo su beni strumentali all’attività lavorativa può essere contestato per sproporzione rispetto all’obiettivo della riscossione, qualora il danno prodotto all’attività economica superi il beneficio per l’Erario.",
+  "decisione": "Il ricorso alla CGT ha ottenuto la sospensiva del fermo in attesa del merito e, nel giudizio di merito, la sua cancellazione. Il contribuente ha altresì ottenuto il rimborso dei costi di noleggio del veicolo sostitutivo come danno da illegittima restrizione.",
+  "attivita": [
+   "Accredito rimborso + interessi",
+   "Chiusura posizione fiscale",
+   "Recupero spese di giudizio"
+  ],
+  "subtopic": "fermo-amministrativo",
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-212",
+  "area": "tributario",
+  "court": "Fermo amministrativo",
+  "title": "Fermo sbloccato in 48 ore grazie alla rateizzazione urgente",
+  "outcome": "Fermo sbloccato in 48 ore",
+  "fatto": "Un rappresentante commerciale si presentava allo studio in preda al panico: il giorno prima aveva scoperto che la propria autovettura aziendale era stata sottoposta a fermo amministrativo per un debito IRPEF di € 38.500 relativo agli anni 2019 e 2020. Senza l’automobile non poteva svolgere la propria attività lavorativa e rischiava di perdere i propri clienti. L’urgenza era assoluta.",
+  "strategia": "Il nostro studio ha predisposto e trasmesso in via telematica, nell’arco della stessa giornata, la domanda di rateizzazione ordinaria per € 38.500 con richiesta di 72 rate mensili. Contestualmente ha comunicato all’Agente della Riscossione la presentazione della domanda, richiedendo la contestuale sospensione del fermo ai sensi dell’art. 19, comma 6, D.P.R. 602/1973, che prevede appunto la sospensione delle azioni esecutive dalla data di presentazione della domanda. Entro 48 ore dall’inoltro della domanda, il cliente ha potuto recarsi agli sportelli dell’Agente della Riscossione per ottenere il provvedimento di sospensione del fermo e il rilascio immediato del veicolo. Il piano di rateizzazione ordinaria è stato poi formalizzato nei giorni successivi con 72 rate mensili da circa € 570 ciascuna.",
+  "decisione": "Il cliente ha ripreso regolarmente la propria attività commerciale.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "fermo-amministrativo",
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-220",
+  "area": "tributario",
+  "court": "Art. 2 D.Lgs. 74/2000",
+  "title": "Dichiarazione fraudolenta: assoluzione per insussistenza del dolo specifico",
+  "outcome": "Assolto — «il fatto non sussiste»",
+  "fatto": "Un commerciante di autoveicoli era imputato per dichiarazione fraudolenta mediante uso di fatture per operazioni soggettivamente inesistenti (c.d.",
+  "strategia": "«frode carosello») relativa agli anni fiscali 2018 e 2019, con imposta evasa contestata di circa 190.000 euro. L’accusa sosteneva che l’imputato avesse consapevolmente acquistato veicoli da società cartiere interposte, beneficiando indebitamente del credito IVA. La difesa ha sistematicamente dimostrato che le transazioni commerciali erano reali — i veicoli erano stati effettivamente acquistati, consegnati e rivenduti — e che l’imputato non era a conoscenza del meccanismo fraudolento organizzato a monte della filiera distributiva dagli organizzatori della frode. Sono stati prodotti tutti i documenti di trasporto, i contratti di acquisto, la corrispondenza con i fornitori e le perizie di stima dei veicoli attestanti la congruità dei prezzi di mercato. La difesa ha richiamato la giurisprudenza della Cassazione (Sez. III, n. 30874/2019) che, per le operazioni soggettivamente inesistenti, richiede la prova specifica della consapevolezza dell’interposizione da parte del cessionario.",
+  "decisione": "Il Tribunale ha assolto l’imputato con la formula «perché il fatto non sussiste», ritenendo non provato il dolo specifico di evasione.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "fermo-amministrativo",
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-444",
+  "area": "tributario",
+  "subtopic": "fermo-amministrativo",
+  "court": "Corte di Cassazione, Sez. Tributaria",
+  "title": "Fermo amministrativo veicoli — Difesa tecnica (Art. 86 DPR 602/73)",
+  "outcome": "Annullamento totale dell’atto — € 0 dovuti",
+  "fatto": "Procedimento relativo a fermo amministrativo veicoli (Art. 86 DPR 602/73) instaurato dinanzi a Corte di Cassazione, Sez. Tributaria. Accoglimento integrale del ricorso con annullamento dell’imposta, sanzioni e interessi richiesti.",
+  "strategia": "Ricorso tributario fondato su vizio di notifica, decadenza dei termini di accertamento e difetto assoluto di motivazione ai sensi dello Statuto del Contribuente.",
+  "decisione": "La Corte di Giustizia Tributaria ha annullato integralmente l’atto condannando l’ente alle spese di giudizio.",
+  "attivita": [
+   "Sgravio integrale del ruolo",
+   "Verifica estratto debitorio",
+   "Incasso spese liquidate"
+  ],
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-445",
+  "area": "tributario",
+  "subtopic": "fermo-amministrativo",
+  "court": "Agenzia delle Entrate — Autotutela",
+  "title": "Fermo amministrativo veicoli — Ricorso urgente (Art. 86 DPR 602/73)",
+  "outcome": "Sospensione cautelare e sblocco in 48 ore",
+  "fatto": "Procedimento relativo a fermo amministrativo veicoli (Art. 86 DPR 602/73) instaurato dinanzi a Agenzia delle Entrate — Autotutela. Blocco immediato dell’azione esecutiva o cautelare su conto corrente, immobile o veicolo aziendale.",
+  "strategia": "Istanza urgente di sospensione e autotutela qualificata con prova del danno grave e irreparabile e della manifesta illegittimità della pretesa.",
+  "decisione": "Provvedimento di sblocco immediato con cancellazione della misura cautelare e salvaguardia della continuità lavorativa.",
+  "attivita": [
+   "Cancellazione fermo o ipoteca",
+   "Svincolo somme bancarie",
+   "Prosecuzione giudizio di merito"
+  ],
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-446",
+  "area": "tributario",
+  "subtopic": "fermo-amministrativo",
+  "court": "Giudice dell’Esecuzione di Napoli",
+  "title": "Fermo amministrativo veicoli — Tutela giudiziale (Art. 86 DPR 602/73)",
+  "outcome": "Prescrizione accertata — debito cancellato",
+  "fatto": "Procedimento relativo a fermo amministrativo veicoli (Art. 86 DPR 602/73) instaurato dinanzi a Giudice dell’Esecuzione di Napoli. Dichiarazione giudiziale di intervenuta prescrizione quinquennale/triennale dei tributi iscritti a ruolo.",
+  "strategia": "Ricostruzione cronologica integrale delle relate di notifica depositate dall’Agente della Riscossione con dimostrazione dell’assenza di atti interruttivi validi.",
+  "decisione": "Il Giudice ha dichiarato estinta l’intera pretesa creditoria per maturata prescrizione.",
+  "attivita": [
+   "Discarico cartelle prescritte",
+   "Pulizia posizione fiscale",
+   "Cancellazione vincoli"
+  ],
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ }
+]

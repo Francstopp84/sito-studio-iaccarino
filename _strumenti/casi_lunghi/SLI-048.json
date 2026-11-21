@@ -1,0 +1,72 @@
+{
+  "id": "SLI-048",
+  "seo_title": "Finanziamento privato non restituito: ipoteca e pignoramento",
+  "description": "Recupero di un finanziamento tra privati garantito da ipoteca: eccezione di usura, vendita dell'immobile a un terzo, esecuzione immobiliare e chiusura con transazione.",
+  "parole_chiave": [
+    "finanziamento privato",
+    "ipoteca",
+    "pignoramento immobiliare",
+    "eccezione di usura",
+    "transazione"
+  ],
+  "sezioni": [
+    {
+      "h2": "Un prestito ben garantito che smette di essere pagato",
+      "paragrafi": [
+        "La vicenda parte da un finanziamento tra privati di 210.000 euro, formalizzato con scrittura privata autenticata, da restituire in trentasei rate e assistito da un'ipoteca su un immobile del debitore. Il debitore ha pagato otto rate e poi si è fermato. La garanzia reale era dunque presente fin dall'inizio, ed è stata proprio questa a determinare la strategia successiva e, alla fine, l'accordo da 195.000 euro che ha chiuso la questione.",
+        "L'ipoteca, secondo l'articolo 2808 del codice civile, attribuisce al creditore il diritto di espropriare, anche in confronto del terzo acquirente, i beni vincolati a garanzia del suo credito e di essere soddisfatto con preferenza sul prezzo ricavato dall'espropriazione. È un diritto che segue il bene, e non soltanto la persona del debitore."
+      ]
+    },
+    {
+      "h2": "Le due mosse del debitore",
+      "paragrafi": [
+        "Di fronte alla richiesta di pagamento il debitore ha reagito in due modi. Ha eccepito la nullità per usura, sostenendo che gli interessi pattuiti fossero illegittimi, e ha avviato trattative per vendere l'immobile ipotecato a un acquirente che lo avrebbe comprato in buona fede.",
+        "L'eccezione di usura è seria perché il codice civile, all'articolo 1815, secondo comma, stabilisce che se sono convenuti interessi usurari la clausola è nulla e non sono dovuti interessi. Nel caso, però, il tasso pattuito era del 6 per cento annuo, valore indicato come ben al di sotto della soglia antiusura. L'eccezione, quindi, non ha scalfito il diritto alla restituzione del capitale, che non dipende dagli interessi.",
+        "La seconda mossa guardava a un altro obiettivo: far uscire il bene dal patrimonio. Ma l'ipoteca, per sua natura, non si perde con la vendita."
+      ]
+    },
+    {
+      "h2": "Perché la vendita non salvava il debitore",
+      "paragrafi": [
+        "L'articolo 2808 consente al creditore ipotecario di procedere all'espropriazione anche nei confronti del terzo acquirente. L'articolo 2910 precisa che possono essere espropriati anche i beni di un terzo quando sono vincolati a garanzia del credito. Il compratore, quindi, avrebbe acquistato un bene gravato, e questa circostanza incide in modo decisivo sul suo prezzo e sulla sua convenienza.",
+        "L'articolo 2911 stabilisce inoltre che il creditore con ipoteca non può pignorare altri immobili se non sottopone a pignoramento anche quelli gravati dall'ipoteca. Per questo la scelta di procedere con il pignoramento immobiliare, direttamente sul bene vincolato, era coerente con la struttura della garanzia.",
+        "Se l'atto di vendita avesse invece avuto lo scopo di sottrarre beni alla garanzia generale, l'articolo 2901 avrebbe offerto lo strumento dell'azione revocatoria. Essa richiede la prova della consapevolezza del pregiudizio da parte del debitore e, per gli atti a titolo oneroso, anche del terzo. Nel caso esaminato non è stato necessario spingersi fin lì."
+      ]
+    },
+    {
+      "h2": "La prova del credito e l'esito transattivo",
+      "paragrafi": [
+        "Secondo l'articolo 2697 del codice civile chi vuol far valere un diritto deve provare i fatti che ne costituiscono il fondamento, mentre chi eccepisce che il diritto si è modificato o estinto deve provare i fatti su cui l'eccezione si fonda. Il creditore aveva una scrittura autenticata, una garanzia ipotecaria e la prova dei pagamenti parziali. Il debitore, che eccepiva l'usura, doveva dimostrarne i presupposti.",
+        "La posizione del creditore, con un'esecuzione immobiliare già impostata e un'eccezione poco solida da fronteggiare, ha reso la trattativa favorevole. L'articolo 1965 definisce la transazione come il contratto con cui le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata, e l'articolo 1966 richiede che le parti abbiano la capacità di disporre dei diritti in lite. Il risultato è stato un pagamento di 195.000 euro, quasi per intero il capitale prestato."
+      ]
+    },
+    {
+      "h2": "Una situazione analoga e i passi da seguire",
+      "paragrafi": [
+        "In casi analoghi, chi concede un finanziamento privato dovrebbe curare tre aspetti: la forma dell'atto, la qualità e l'iscrizione della garanzia, e la tracciabilità dei pagamenti ricevuti. Sono elementi che, al momento dell'inadempimento, consentono di muoversi rapidamente.",
+        "Quando il debitore comincia a trattare la cessione del bene ipotecato, il tempo diventa decisivo. In generale, conviene verificare subito lo stato delle iscrizioni nei registri immobiliari e valutare l'avvio dell'esecuzione, senza lasciare che la situazione si complichi."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "L'ipoteca resta anche se l'immobile viene venduto?",
+      "a": "L'articolo 2808 del codice civile consente al creditore di espropriare il bene vincolato anche in confronto del terzo acquirente. L'ipoteca segue quindi il bene e non la persona che lo possiede."
+    },
+    {
+      "q": "L'usura cancella l'obbligo di restituire il prestito?",
+      "a": "L'articolo 1815 prevede che, se sono convenuti interessi usurari, la clausola sia nulla e non siano dovuti interessi. La norma riguarda gli interessi, mentre la restituzione del capitale resta un'altra questione."
+    },
+    {
+      "q": "Una transazione deve essere scritta?",
+      "a": "Sì. L'articolo 1967 del codice civile prevede che la transazione debba essere provata per iscritto, ed è opportuno redigerla in modo che indichi con chiarezza le somme, i tempi e la rinuncia reciproca alle pretese."
+    }
+  ],
+  "norme_verificate": [
+    {
+      "norma": "Codice civile, artt. 1815, 1965, 1966, 1967, 2697, 2740, 2808, 2901, 2910, 2911",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+    }
+  ],
+  "parole": 725
+}

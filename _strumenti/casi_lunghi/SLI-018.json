@@ -1,0 +1,95 @@
+{
+ "id": "SLI-018",
+ "seo_title": "Covid e locazione commerciale: onerosità respinta",
+ "description": "Il conduttore chiede la risoluzione per eccessiva onerosità dopo il Covid-19: perché la domanda è stata respinta e come si risponde alla richiesta di rimborso.",
+ "parole_chiave": [
+  "eccessiva onerosità sopravvenuta locazione",
+  "Covid-19 canone locale commerciale",
+  "art. 1467 codice civile",
+  "morosità conduttore ristorazione",
+  "rilascio dei locali senza restituzione"
+ ],
+ "sezioni": [
+  {
+   "h2": "L'art. 1467 del codice civile e i suoi limiti",
+   "paragrafi": [
+    "L'art. 1467 consente di chiedere la risoluzione di un contratto a esecuzione continuata, periodica o differita quando la prestazione di una parte è diventata eccessivamente onerosa per avvenimenti straordinari e imprevedibili. La norma aggiunge un limite importante: la risoluzione non può essere domandata se la sopravvenuta onerosità rientra nell'alea normale del contratto. La controparte può evitarla offrendo di modificare equamente le condizioni.",
+    "Non basta quindi che un periodo sia stato difficile: occorre provare l'evento straordinario, il suo nesso con la maggiore onerosità, e che il peso economico sia oltre il rischio che ogni contratto di durata porta con sé. Nella locazione il quadro si completa con gli artt. 1575 e 1576 sugli obblighi del locatore, con l'art. 1218 sulla responsabilità del debitore e con la disciplina del rilascio, tra cui l'art. 1591 sul danno da ritardata restituzione."
+   ]
+  },
+  {
+   "h2": "Il caso: un locale nel centro di Napoli e una catena di ristorazione",
+   "paragrafi": [
+    "Nel caso, una società di ristorazione conduceva un locale commerciale nel centro di Napoli. Con riferimento al Covid-19, il conduttore ha chiesto la risoluzione ai sensi dell'art. 1467. Aveva smesso di pagare dal marzo 2020 e ha lasciato i locali a settembre 2021, senza regolare rilascio. Chiedeva inoltre la restituzione di dodici mensilità, per 48.000 euro.",
+    "La domanda di risoluzione è stata respinta e il conduttore è stato condannato a pagare 72.000 euro. Il percorso difensivo del locatore ha fatto leva su due considerazioni. La prima è che l'interruzione dei pagamenti non era un rimedio previsto dalla legge: chi ritiene eccessivo il canone ha strumenti precisi, ma l'autoriduzione unilaterale non è fra questi. La seconda è che l'abbandono dei locali senza rilascio formale aveva lasciato il locatore senza la disponibilità dell'immobile nei modi regolari.",
+    "Il caso illustra bene l'asimmetria di chi sceglie la via di fatto: smettere di pagare e andare via produce una posizione debitoria, mentre le richieste di restituzione devono essere dimostrate come qualsiasi altra pretesa."
+   ]
+  },
+  {
+   "h2": "Se sei conduttore o locatore in una situazione analoga",
+   "paragrafi": [
+    "Ogni caso va valutato sui suoi atti e non si può promettere alcun esito. Il conduttore che ritenga insostenibile il canone farebbe bene a evitare la sospensione dei pagamenti e a proporre per iscritto una rinegoziazione, documentando la riduzione effettiva dell'attività. Una trattativa tracciata vale più di un silenzio seguito da una domanda giudiziale.",
+    "Il locatore, dal canto suo, deve conservare i conteggi dei canoni, le comunicazioni e il verbale di riconsegna. Il rilascio dei locali va formalizzato con la verifica dello stato dell'immobile: un conduttore che lascia le chiavi senza riconsegna regolare non estingue per ciò solo gli obblighi che derivano dal contratto."
+   ],
+   "elenco": [
+    "contratto di locazione e durata residua",
+    "elenco dei canoni versati e di quelli rimasti scoperti",
+    "comunicazioni con cui si chiedeva riduzione o sospensione",
+    "prova della data di cessazione dell'uso dei locali",
+    "verbale o foto dello stato dell'immobile alla riconsegna"
+   ]
+  },
+  {
+   "h2": "Morosità e onere della prova",
+   "paragrafi": [
+    "L'art. 5 della L. 392/1978 disciplina la morosità del conduttore nelle locazioni di immobili urbani: il mancato pagamento del canone, decorso il termine previsto, costituisce motivo di risoluzione, con possibilità di sanatoria nei casi in cui la legge la ammette. Chi sospende i pagamenti sulla base di una valutazione soggettiva rischia di trovarsi in posizione di inadempimento grave.",
+    "Anche per il conduttore che cerca di recuperare somme già versate vale la regola ordinaria dell'onere della prova: occorre indicare su quale titolo le somme sarebbero dovute indietro. Nel caso la richiesta di restituzione di quarantottomila euro è stata respinta insieme alla risoluzione, e il conduttore è stato anzi chiamato a pagare."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "La pandemia basta per chiedere la risoluzione del contratto di locazione?",
+   "a": "L'art. 1467 richiede un evento straordinario e imprevedibile e una prestazione divenuta eccessivamente onerosa, escludendo la risoluzione se l'onerosità rientra nell'alea normale del contratto. Nel caso la domanda del conduttore, basata sul Covid-19, è stata respinta. Ogni situazione va valutata sui propri atti."
+  },
+  {
+   "q": "Posso smettere di pagare il canone se l'attività è ferma?",
+   "a": "L'autoriduzione unilaterale espone al rischio di morosità e di risoluzione. Nel caso il conduttore aveva cessato di pagare dal marzo 2020 ed è stato condannato a pagare 72.000 euro. Conviene proporre per iscritto una rinegoziazione e conservare le prove delle difficoltà."
+  },
+  {
+   "q": "Che cosa succede se lascio i locali senza rilascio formale?",
+   "a": "Gli obblighi del contratto non cessano per il solo fatto di aver lasciato l'immobile. Nel caso il conduttore ha lasciato i locali a settembre 2021 senza regolare rilascio, e la sua richiesta di restituzione di 48.000 euro è stata respinta. La riconsegna va formalizzata con verbale."
+  },
+  {
+   "q": "Chi risponde del ritardo nella restituzione dell'immobile?",
+   "a": "L'art. 1591 del codice civile prevede che il conduttore in mora nella restituzione sia tenuto a dare al locatore il corrispettivo convenuto fino alla riconsegna, salvo il risarcimento del maggior danno. La disciplina si applica secondo i fatti, e va provata la durata dell'occupazione."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 1467 c.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "art. 1591 c.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "art. 1218 c.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "art. 1575 c.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "art. 1576 c.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "art. 5 L. 392/1978",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 392-1978 locazioni (artt. 5, 6, 55, 56).md"
+  }
+ ],
+ "parole": 770
+}

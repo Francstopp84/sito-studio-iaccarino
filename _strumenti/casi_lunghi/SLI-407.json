@@ -1,0 +1,75 @@
+{
+  "id": "SLI-407",
+  "seo_title": "Decreto ingiuntivo revocato: la prova scritta contestata",
+  "description": "Perché un decreto ingiuntivo può essere revocato quando la prova scritta non regge: art. 633 e 634 c.p.c., perizia contabile, spese e ripristino della situazione patrimoniale.",
+  "parole_chiave": [
+    "revoca decreto ingiuntivo",
+    "prova scritta",
+    "perizia contabile",
+    "art. 633 c.p.c.",
+    "spese di lite"
+  ],
+  "sezioni": [
+    {
+      "h2": "Il punto debole di molti decreti: la prova scritta",
+      "paragrafi": [
+        "Il decreto ingiuntivo nasce da un ricorso esaminato senza ascoltare il debitore. Il giudice decide sulla base dei soli documenti prodotti da chi chiede, ed è proprio qui che il procedimento può mostrare le sue fragilità. Nel caso trattato dal Tribunale di Santa Maria Capua Vetere l'intero decreto è stato revocato perché la difesa dell'ingiunto ha messo in discussione il fondamento documentale della pretesa.",
+        "L'articolo 633 del codice di procedura civile subordina l'emissione del decreto, per i crediti di somme di denaro, alla presenza di una prova scritta del diritto. L'articolo 634 chiarisce quali documenti possono avere questo ruolo, tra cui le scritture contabili e le fatture elettroniche con determinate caratteristiche. Il decreto è quindi forte quanto è forte il documento che lo sorregge."
+      ]
+    },
+    {
+      "h2": "Dal decreto all'opposizione: i tempi",
+      "paragrafi": [
+        "La reazione del debitore passa dall'opposizione. Secondo l'articolo 641 il termine è di quaranta giorni dalla notificazione, e la norma prevede che possa essere ridotto fino a dieci o aumentato a sessanta in relazione alle circostanze, oppure essere più lungo quando l'ingiunto risiede all'estero. L'articolo 645 dispone che l'opposizione si proponga davanti all'ufficio giudiziario che ha emesso il decreto.",
+        "Nella vicenda in esame l'opposizione è stata proposta con tempestività. Può sembrare un dettaglio, ma è la condizione perché il giudice possa entrare nel merito: un'opposizione oltre il termine rende il decreto esecutivo, e le possibilità di intervenire si restringono a casi particolari come quelli dell'articolo 650."
+      ]
+    },
+    {
+      "h2": "Perché la perizia contabile ha fatto la differenza",
+      "paragrafi": [
+        "La difesa ha accompagnato l'atto di opposizione con una perizia contabile e giuridica. Il significato di questo accorgimento è semplice: contestare la prova scritta con affermazioni generiche non basta, mentre un esame tecnico delle registrazioni e dei documenti mostra concretamente dove la ricostruzione di chi ha chiesto il decreto non torna.",
+        "Il giudice, nell'opposizione, valuta il rapporto sostanziale come in un ordinario giudizio. Secondo l'articolo 2697 del codice civile chi vuol far valere un diritto in giudizio deve provare i fatti che ne costituiscono il fondamento. In un'opposizione chi ha chiesto il decreto è, sul piano sostanziale, colui che deve dimostrare il credito, e un documento insufficiente o incoerente non soddisfa quel carico.",
+        "La revoca integrale è la conseguenza di una prova che non ha retto. Non è un effetto automatico dell'opposizione: dipende dal fatto che il materiale portato dal creditore non è stato giudicato idoneo a sostenere la pretesa."
+      ]
+    },
+    {
+      "h2": "Che cosa cambia dopo la revoca",
+      "paragrafi": [
+        "La decisione ha comportato la revoca del provvedimento opposto e la condanna della controparte alle spese. Sono due effetti distinti. Il primo toglie al decreto la sua forza esecutiva, e con essa la possibilità di procedere contro i beni dell'ingiunto. Il secondo sposta sul soccombente il costo che l'ingiunto ha dovuto sostenere per difendersi.",
+        "Dalla revoca discendono attività concrete, che non vanno trascurate. Le iscrizioni pregiudizievoli eventualmente prese sulla base del titolo vanno cancellate. Le somme che fossero state vincolate vanno svincolate. Le spese riconosciute dal giudice vanno recuperate, ricorrendo se serve agli ordinari strumenti di esecuzione."
+      ]
+    },
+    {
+      "h2": "Una situazione simile e gli errori da evitare",
+      "paragrafi": [
+        "In casi analoghi, chi riceve un decreto fondato su fatture o estratti contabili dovrebbe verificare con attenzione se i documenti corrispondono davvero a un rapporto esistente, se i dati coincidono e se la ricostruzione del credito è completa. Spesso la differenza fra un'opposizione che funziona e una che fallisce sta nel tempo dedicato a questo controllo iniziale.",
+        "L'errore più grave resta lasciar decorrere il termine di opposizione. In generale, non va confusa l'urgenza di un esame con la fretta di un atto privo di contenuto: l'opposizione deve essere proposta in tempo e deve essere motivata, perché le ragioni non indicate rischiano poi di non poter essere recuperate."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Un decreto ingiuntivo senza prova scritta può essere annullato?",
+      "a": "L'articolo 633 richiede la prova scritta per i crediti di somme di denaro. Se i documenti non la costituiscono davvero, in sede di opposizione il giudice può revocare il decreto, ma ogni caso va esaminato sui documenti concreti."
+    },
+    {
+      "q": "Dopo la revoca si recuperano anche le spese?",
+      "a": "Nel caso esaminato il giudice ha condannato la controparte alle spese. In generale, la liquidazione dipende dall'esito della causa e dalle valutazioni del giudice sul singolo giudizio."
+    },
+    {
+      "q": "Cosa succede alle iscrizioni già fatte sul decreto?",
+      "a": "Dopo la revoca vanno cancellate le iscrizioni pregiudizievoli prese sulla base del titolo, e vanno svincolate le somme eventualmente bloccate. Sono passaggi da seguire con attenzione, perché non avvengono da soli."
+    }
+  ],
+  "norme_verificate": [
+    {
+      "norma": "Codice di procedura civile, artt. 633, 634, 641, 645, 650",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+    },
+    {
+      "norma": "Codice civile, art. 2697",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+    }
+  ],
+  "parole": 680
+}

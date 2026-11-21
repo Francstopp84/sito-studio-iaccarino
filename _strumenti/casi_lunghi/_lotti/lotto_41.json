@@ -1,0 +1,113 @@
+[
+ {
+  "id": "SLI-437",
+  "area": "tributario",
+  "subtopic": "rottamazione",
+  "court": "CGT di I grado di Milano",
+  "title": "Rottamazione e definizione agevolata — Ricorso urgente (Leggi di Bilancio)",
+  "outcome": "Sospensione cautelare e sblocco in 48 ore",
+  "fatto": "Procedimento relativo a rottamazione e definizione agevolata (Leggi di Bilancio) instaurato dinanzi a CGT di I grado di Milano. Blocco immediato dell’azione esecutiva o cautelare su conto corrente, immobile o veicolo aziendale.",
+  "strategia": "Istanza urgente di sospensione e autotutela qualificata con prova del danno grave e irreparabile e della manifesta illegittimità della pretesa.",
+  "decisione": "Provvedimento di sblocco immediato con cancellazione della misura cautelare e salvaguardia della continuità lavorativa.",
+  "attivita": [
+   "Cancellazione fermo o ipoteca",
+   "Svincolo somme bancarie",
+   "Prosecuzione giudizio di merito"
+  ],
+  "materia": "Rottamazione e definizione agevolata",
+  "lawRef_materia": "Leggi di Bilancio",
+  "sintesi_materia": "Ricalcolo piani definitori, stralcio sanzioni e tutela decadenze rateali.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "L. 199/2025, art. 1, commi 82, 87, 90, 91, 95, 99, 100",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\L. 199-2025 art. 1 commi 82-101 rottamazione quinquies.md"
+   },
+   {
+    "norma": "art. 19 D.P.R. 602/1973",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "L. 199/2025, art. 1, commi 82-101",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\L. 199-2025 art. 1 commi 82-101 rottamazione quinquies.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-438",
+  "area": "tributario",
+  "subtopic": "rottamazione",
+  "court": "Corte di Cassazione, Sez. Tributaria",
+  "title": "Rottamazione e definizione agevolata — Tutela giudiziale (Leggi di Bilancio)",
+  "outcome": "Prescrizione accertata — debito cancellato",
+  "fatto": "Procedimento relativo a rottamazione e definizione agevolata (Leggi di Bilancio) instaurato dinanzi a Corte di Cassazione, Sez. Tributaria. Dichiarazione giudiziale di intervenuta prescrizione quinquennale/triennale dei tributi iscritti a ruolo.",
+  "strategia": "Ricostruzione cronologica integrale delle relate di notifica depositate dall’Agente della Riscossione con dimostrazione dell’assenza di atti interruttivi validi.",
+  "decisione": "Il Giudice ha dichiarato estinta l’intera pretesa creditoria per maturata prescrizione.",
+  "attivita": [
+   "Discarico cartelle prescritte",
+   "Pulizia posizione fiscale",
+   "Cancellazione vincoli"
+  ],
+  "materia": "Rottamazione e definizione agevolata",
+  "lawRef_materia": "Leggi di Bilancio",
+  "sintesi_materia": "Ricalcolo piani definitori, stralcio sanzioni e tutela decadenze rateali.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "L. 199/2025, art. 1, commi 82, 87, 90, 91, 95, 99, 100",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\L. 199-2025 art. 1 commi 82-101 rottamazione quinquies.md"
+   },
+   {
+    "norma": "art. 19 D.P.R. 602/1973",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "L. 199/2025, art. 1, commi 82-101",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\L. 199-2025 art. 1 commi 82-101 rottamazione quinquies.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-439",
+  "area": "tributario",
+  "subtopic": "rottamazione",
+  "court": "Agenzia delle Entrate — Autotutela",
+  "title": "Rottamazione e definizione agevolata — Definizione favorevole (Leggi di Bilancio)",
+  "outcome": "Riduzione oltre il 70% e rimborso + interessi",
+  "fatto": "Procedimento relativo a rottamazione e definizione agevolata (Leggi di Bilancio) instaurato dinanzi a Agenzia delle Entrate — Autotutela. Rideterminazione dell’imponibile con consistente risparmio fiscale o riconoscimento integrale del rimborso.",
+  "strategia": "Perizia estimativa / contabile comparativa e produzione di documenti fiscali attestanti la sproporzione della pretesa erariale.",
+  "decisione": "Accoglimento del ricorso con rideterminazione equa dell’imposta e condanna al rimborso maggiorato degli interessi.",
+  "attivita": [
+   "Accredito rimborso fiscale",
+   "Aggiornamento banche dati",
+   "Recupero spese legali"
+  ],
+  "materia": "Rottamazione e definizione agevolata",
+  "lawRef_materia": "Leggi di Bilancio",
+  "sintesi_materia": "Ricalcolo piani definitori, stralcio sanzioni e tutela decadenze rateali.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "L. 199/2025, art. 1, commi 82, 87, 90, 91, 95, 99, 100",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\L. 199-2025 art. 1 commi 82-101 rottamazione quinquies.md"
+   },
+   {
+    "norma": "art. 19 D.P.R. 602/1973",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "L. 199/2025, art. 1, commi 82-101",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\05 Tributario\\Norme\\L. 199-2025 art. 1 commi 82-101 rottamazione quinquies.md"
+   }
+  ]
+ }
+]

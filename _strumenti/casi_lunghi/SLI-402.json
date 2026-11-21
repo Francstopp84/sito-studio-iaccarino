@@ -1,0 +1,73 @@
+{
+  "id": "SLI-402",
+  "seo_title": "Credito contestato: transazione e conciliazione in appello",
+  "description": "Una lite sul recupero crediti in Corte d'Appello chiusa con un accordo: conteggi contestati, eccezioni di prescrizione, requisiti della transazione e titolo esecutivo.",
+  "parole_chiave": [
+    "transazione",
+    "conciliazione",
+    "negoziazione assistita",
+    "titolo esecutivo",
+    "prescrizione"
+  ],
+  "sezioni": [
+    {
+      "h2": "Chiudere la lite con un accordo invece di attendere la decisione",
+      "paragrafi": [
+        "Il caso si svolge davanti alla Corte d'Appello di Napoli e si conclude con un accordo transattivo che ha ridotto in modo netto la pretesa avversaria. La parte ha scelto di non attendere l'esito del giudizio e di negoziare, partendo da una posizione di forza costruita con due leve: la contestazione analitica dei conteggi della controparte e le eccezioni di prescrizione. L'esito è stato un verbale di conciliazione con valore di titolo esecutivo, la quietanza, l'estinzione del giudizio pendente e l'archiviazione delle posizioni debitorie.",
+        "Una trattativa efficace non nasce dalla buona volontà delle parti, ma dal rischio che ciascuna percepisce nel proseguire. Quando la controparte vede che i suoi numeri non reggono, la proposta di chiudere con uno sconto diventa razionale.",
+        "Per chi si trova nella posizione di debitore contestato, questo schema è istruttivo: la forza contrattuale non dipende dall'entità della somma discussa, ma dalla qualità delle ragioni con cui si dimostra che la pretesa è in parte infondata o estinta."
+      ]
+    },
+    {
+      "h2": "Come si smontano i conteggi dell'avversario",
+      "paragrafi": [
+        "Contestare un conteggio non significa dichiararlo sbagliato in blocco. Significa scomporlo in capitale, interessi, spese e accessori, e verificare per ciascuna voce il titolo, la data di decorrenza e il criterio di calcolo. Spesso gli errori si annidano nel punto da cui si fanno partire gli interessi o nell'applicazione dello stesso tasso a periodi diversi.",
+        "Questo lavoro si presenta alla controparte in forma scritta, con un prospetto alternativo che mostra la differenza. Un documento di questo tipo ha un doppio effetto: sul piano processuale prepara le difese, sul piano negoziale dà un riferimento concreto da cui partire.",
+        "Accanto agli errori aritmetici vanno cercate le questioni di diritto. Una voce può risultare esposta correttamente nell'importo ma riferirsi a un periodo troppo lontano, e in tal caso l'eccezione di prescrizione ne neutralizza il valore. Per questo il controllo dei conteggi e il controllo delle date si fanno insieme, sullo stesso prospetto."
+      ]
+    },
+    {
+      "h2": "Le regole della transazione",
+      "paragrafi": [
+        "L'articolo 1965 del codice civile definisce la transazione come il contratto con il quale le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata o prevengono una lite che può sorgere tra loro. L'articolo 1966 richiede che le parti abbiano la capacità di disporre dei diritti che formano oggetto della lite, e l'articolo 1967 prevede che il contratto debba essere provato per iscritto.",
+        "Ne discende un'indicazione pratica: nell'accordo vanno descritti con precisione i diritti oggetto della lite, le somme, i termini di pagamento e le rinunce reciproche, e deve essere sottoscritto da chi ha il potere di disporre. Una transazione generica o firmata da chi non può obbligare la società apre la strada a nuove contestazioni."
+      ]
+    },
+    {
+      "h2": "Perché il verbale di conciliazione è uno strumento forte",
+      "paragrafi": [
+        "Nel caso l'accordo è stato formalizzato in un verbale con valore di titolo esecutivo. Il vantaggio è evidente: se la controparte non rispetta le scadenze, il creditore può procedere direttamente all'esecuzione senza dover promuovere un nuovo processo. La conciliazione, inoltre, è il momento in cui le parti trovano un'intesa con l'assistenza dei rispettivi difensori e di un terzo, invece di rimettere tutto alla decisione del giudice.",
+        "Occorre comunque attenzione ai passaggi successivi: la quietanza che attesta il pagamento, la dichiarazione di estinzione del giudizio pendente e la sistemazione delle posizioni debitorie devono essere coerenti tra loro, altrimenti restano pendenze che riaprono il contenzioso."
+      ]
+    },
+    {
+      "h2": "Quando negoziare e quando continuare",
+      "paragrafi": [
+        "In casi analoghi, la scelta dipende dal confronto tra il risultato probabile della decisione e il valore certo dell'accordo. Un accordo vantaggioso evita costi, tempi e l'incertezza di un'impugnazione. Ma presuppone che il proprio dossier sia già pronto: chi tratta senza documenti trasmette debolezza.",
+        "In generale è prudente non firmare nulla prima di aver controllato i conteggi, di aver ricostruito le date rilevanti per la prescrizione e di aver fissato per iscritto le conseguenze dell'inadempimento.",
+        "Conviene infine decidere in anticipo la soglia sotto la quale non si è disposti a scendere e quella oltre la quale è preferibile proseguire. Una trattativa condotta senza questi due punti fermi tende a scivolare verso concessioni che il quadro probatorio non giustifica."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Che cos'è una transazione?",
+      "a": "Secondo l'articolo 1965 del codice civile è il contratto con cui le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata o ne prevengono una. Deve essere provata per iscritto, come indica l'articolo 1967."
+    },
+    {
+      "q": "Chi può transigere?",
+      "a": "L'articolo 1966 richiede che le parti abbiano la capacità di disporre dei diritti oggetto della lite. Per una società significa che deve firmare chi ha il potere di obbligarla."
+    },
+    {
+      "q": "Perché è utile contestare i conteggi prima di trattare?",
+      "a": "Perché un prospetto alternativo mostra alla controparte dove i suoi calcoli non reggono e offre una base concreta per negoziare una riduzione della pretesa."
+    }
+  ],
+  "norme_verificate": [
+    {
+      "norma": "Codice civile, artt. 1965, 1966, 1967",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+    }
+  ],
+  "parole": 738
+}

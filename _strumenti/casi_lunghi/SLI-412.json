@@ -1,0 +1,74 @@
+{
+ "id": "SLI-412",
+ "seo_title": "Sovraindebitamento: consumatore o concordato minore",
+ "description": "Sovraindebitamento: chi è consumatore, che cosa contiene il piano di ristrutturazione, quando si ricorre al concordato minore. Le norme del codice della crisi.",
+ "parole_chiave": [
+  "sovraindebitamento consumatore",
+  "piano di ristrutturazione dei debiti",
+  "concordato minore",
+  "OCC sovraindebitamento",
+  "debiti persona fisica soluzione"
+ ],
+ "sezioni": [
+  {
+   "h2": "Che cos'è il sovraindebitamento secondo il codice della crisi",
+   "paragrafi": [
+    "Il codice della crisi d'impresa e dell'insolvenza, decreto legislativo 14 del 2019, definisce all'articolo 2 il sovraindebitamento come lo stato di crisi o di insolvenza del consumatore, del professionista, dell'imprenditore minore, dell'imprenditore agricolo, delle startup innovative e di ogni altro debitore non assoggettabile alla liquidazione giudiziale. Il consumatore è la persona fisica che agisce per scopi estranei all'attività imprenditoriale, commerciale, artigiana o professionale eventualmente svolta.",
+    "La distinzione conta perché cambia lo strumento. Per il consumatore l'articolo 67 disciplina il piano di ristrutturazione dei debiti; per il debitore che non è consumatore l'articolo 74 disciplina il concordato minore. In entrambi i casi un ruolo centrale è svolto dall'organismo di composizione della crisi, l'OCC: l'articolo 65 stabilisce che i compiti del commissario sono svolti dall'OCC."
+   ]
+  },
+  {
+   "h2": "La vicenda decisa dal Tribunale di Salerno",
+   "paragrafi": [
+    "Nel caso, la situazione era di sovraindebitamento e la procedura scelta è stata quella del concordato minore, davanti al Tribunale di Salerno. Lo studio ha assunto la difesa tecnica; la domanda è stata accolta e le spese sono state poste a carico della controparte.",
+    "La lettura del caso alla luce dell'articolo 74 mostra la logica della scelta: il concordato minore è riservato al debitore che non è consumatore, e richiede che la proposta consenta di proseguire l'attività oppure preveda un apporto di risorse esterne. Il caso non consente di sapere di più sul debitore, quindi ogni ulteriore considerazione è generale e non descrive la sua situazione."
+   ]
+  },
+  {
+   "h2": "Se sei una persona fisica sommersa dai debiti",
+   "paragrafi": [
+    "In generale, il primo passo è capire in quale categoria si rientra. Chi ha contratto debiti per scopi personali o familiari, estranei a un'eventuale attività professionale, può rientrare nella nozione di consumatore dell'articolo 2; chi ha debiti legati alla propria attività si colloca di regola fuori da quella nozione, e la scelta dello strumento deve tenerne conto.",
+    "Il piano del consumatore ha, secondo l'articolo 67, contenuto libero, ma deve indicare i dati essenziali: l'elenco dei creditori con le somme dovute, il patrimonio, gli atti di disposizione compiuti negli ultimi cinque anni, le dichiarazioni dei redditi degli ultimi tre anni e le entrate disponibili. Preparare questi elementi per tempo rende molto più rapido il lavoro con l'OCC."
+   ],
+   "elenco": [
+    "elenco di tutti i creditori con importi e titoli",
+    "documenti sui beni mobili e immobili posseduti",
+    "dichiarazioni dei redditi degli ultimi tre anni",
+    "atti di disposizione del patrimonio compiuti negli ultimi cinque anni",
+    "prospetto delle entrate e delle spese familiari"
+   ]
+  },
+  {
+   "h2": "Passi da non sbagliare",
+   "paragrafi": [
+    "Il primo errore da evitare è scegliere lo strumento sbagliato: il concordato minore richiede presupposti diversi dal piano del consumatore, e un'istanza costruita sul modello non adatto non rispetta i presupposti di legge. Va evitato anche l'errore opposto, quello di omettere atti o redditi, perché il piano deve indicarli.",
+    "Se la situazione non consente alcun piano, il codice prevede altre strade, come la liquidazione controllata dell'articolo 268 e le forme di esdebitazione previste dagli articoli 279 e seguenti. Ogni caso va valutato sui propri atti e nessun risultato è prevedibile in astratto. Per una valutazione della propria posizione ci si può rivolgere allo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Chi è il consumatore per la legge sul sovraindebitamento?",
+   "a": "Secondo l'articolo 2 del decreto legislativo 14 del 2019 è la persona fisica che agisce per scopi estranei all'attività imprenditoriale, commerciale, artigiana o professionale eventualmente svolta. Da questa qualifica dipende lo strumento utilizzabile."
+  },
+  {
+   "q": "Che cosa deve contenere il piano di ristrutturazione del consumatore?",
+   "a": "L'articolo 67 lascia libero il contenuto, ma richiede l'elenco dei creditori, la descrizione del patrimonio, gli atti compiuti negli ultimi cinque anni, le dichiarazioni dei redditi degli ultimi tre anni e le entrate disponibili."
+  },
+  {
+   "q": "A chi serve il concordato minore?",
+   "a": "L'articolo 74 lo prevede per il debitore che non è consumatore. La proposta è ammissibile se consente di proseguire l'attività oppure, negli altri casi, se è previsto l'apporto di risorse esterne che incrementino in misura apprezzabile l'attivo disponibile."
+  },
+  {
+   "q": "Che cosa fa l'OCC?",
+   "a": "L'organismo di composizione della crisi assiste il debitore nella predisposizione della domanda e svolge i compiti attribuiti al commissario: lo stabilisce l'articolo 65 del decreto legislativo 14 del 2019. Vigila anche sull'esecuzione del concordato, come prevede l'articolo 81."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 2, 65, 67, 74, 81, 268, 279 CCII",
+   "file": "D:/BIBLIOTECA GIURIDICA/06 Fallimentare e crisi d'impresa/Norme/D.Lgs. 14-2019 codice della crisi d'impresa.md"
+  }
+ ],
+ "parole": 697
+}

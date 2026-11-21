@@ -1,0 +1,79 @@
+{
+ "id": "SLI-162",
+ "seo_title": "Decadenza dell'accertamento: avviso notificato tardi",
+ "description": "Avviso del 2017 notificato a dicembre 2023 a un artigiano: la CGT di Napoli lo annulla per decadenza con spese all'Agenzia. Come si calcola il termine.",
+ "parole_chiave": [
+  "decadenza accertamento fiscale",
+  "termine notifica avviso accertamento",
+  "art 43 DPR 600 1973",
+  "avviso di accertamento tardivo",
+  "decadenza eccezione preliminare"
+ ],
+ "sezioni": [
+  {
+   "h2": "Che cosa dice l'articolo 43 sul termine di notifica",
+   "paragrafi": [
+    "L'articolo 43, primo comma, del decreto del Presidente della Repubblica 600 del 1973 fissa il termine di decadenza dell'azione di accertamento: gli avvisi devono essere notificati, a pena di decadenza, entro il 31 dicembre del quinto anno successivo a quello in cui è stata presentata la dichiarazione. Il riferimento è all'anno di presentazione della dichiarazione, non all'anno di imposta cui l'avviso si riferisce, e questo è il primo punto da controllare ogni volta.",
+    "La decadenza non è una questione di merito. Se il termine è scaduto, l'avviso non può produrre effetti a prescindere dalla fondatezza della pretesa. Per questo l'eccezione si propone come motivo preliminare e, in linea generale, assorbente: se è accolta, non occorre esaminare gli altri motivi."
+   ]
+  },
+  {
+   "h2": "Il caso: un avviso per il 2017 notificato a dicembre 2023",
+   "paragrafi": [
+    "Una piccola impresa artigiana ha ricevuto a dicembre 2023 un avviso relativo all'anno 2017, per 53.800 euro. La dichiarazione era stata presentata nei termini. Il caso indica come termine ultimo per la notifica il 31 dicembre 2022; ci si limita a riferire il dato così com'è scritto, ricordando che il calcolo dipende dall'anno di presentazione della dichiarazione e dalla norma applicabile.",
+    "La difesa ha proposto la decadenza come eccezione preliminare e assorbente, che il giudice può rilevare anche d'ufficio. La Corte di giustizia tributaria di primo grado di Napoli ha annullato l'avviso e ha posto le spese a carico dell'Agenzia. Il testo della decisione non è riprodotto qui."
+   ]
+  },
+  {
+   "h2": "Perché conviene verificare il termine prima di ogni altra cosa",
+   "paragrafi": [
+    "Il controllo del termine è un'operazione semplice, ma richiede tre date: quando la dichiarazione è stata presentata, quale sia il quinto anno successivo e quando l'avviso è stato effettivamente notificato. Contano la data di notifica, che si ricava dalla relata o dal documento telematico di ricezione, e non quella di redazione o di spedizione. Un errore di un giorno può essere decisivo.",
+    "Vi sono poi aspetti che esigono cautela e che non si possono trattare in astratto: la presenza di dichiarazioni omesse o di condotte che la legge considera in modo diverso, o di norme speciali sulle proroghe, modifica il calcolo. Per questo la verifica va sempre fatta sui documenti reali e sul testo vigente al momento dei fatti."
+   ]
+  },
+  {
+   "h2": "Se pensi che l'avviso sia arrivato troppo tardi",
+   "paragrafi": [
+    "In generale, chi sospetta un avviso tardivo dovrebbe raccogliere subito la prova della propria dichiarazione e la prova della notifica. Ogni vicenda va valutata sui suoi atti e qui non si promette alcun esito."
+   ],
+   "elenco": [
+    "ricevuta di presentazione della dichiarazione o copia della stessa con la data",
+    "avviso con relata di notifica o ricevuta PEC",
+    "eventuali atti interruttivi o proroghe invocate dall'ufficio",
+    "calcolo scritto delle scadenze con anno di presentazione e quinto anno successivo",
+    "documentazione sul merito, da conservare in subordine"
+   ]
+  },
+  {
+   "h2": "Passi processuali e spese",
+   "paragrafi": [
+    "Il ricorso va proposto entro sessanta giorni dalla notifica (articolo 21 del decreto legislativo 546 del 1992), con costituzione entro trenta giorni (articolo 22). La decadenza va eccepita subito nel ricorso, accanto agli eventuali motivi di merito in subordine. Sulle spese, l'articolo 15 pone di regola l'onere a carico del soccombente, come è accaduto nel caso. Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, controlla il computo dei termini sui documenti."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Entro quando deve essere notificato un avviso di accertamento?",
+   "a": "Secondo l'articolo 43, primo comma, del decreto 600 del 1973, entro il 31 dicembre del quinto anno successivo a quello di presentazione della dichiarazione, a pena di decadenza. Il computo parte dall'anno di presentazione e non da quello di imposta, quindi va fatto sulle date effettive."
+  },
+  {
+   "q": "La decadenza può essere rilevata dal giudice?",
+   "a": "Nel caso la decadenza è stata eccepita come questione preliminare e assorbente, rilevabile anche d'ufficio. È comunque prudente sollevarla espressamente nel ricorso, indicando le date che permettono di verificarla."
+  },
+  {
+   "q": "Chi paga le spese se l'avviso è annullato per decadenza?",
+   "a": "L'articolo 15 del decreto 546 del 1992 stabilisce che la parte soccombente è condannata al rimborso delle spese, salvo i casi di compensazione. Nel caso le spese sono state poste a carico dell'Agenzia delle entrate."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "DPR 600/1973 art. 43",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 600-1973 accertamento imposte sui redditi.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992 artt. 15, 21 e 22",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 677
+}

@@ -1,0 +1,72 @@
+{
+ "id": "SLI-443",
+ "seo_title": "Riduzione oltre il 70% e rimborso con interessi",
+ "description": "Pretesa fiscale ridotta oltre il 70% con rimborso maggiorato di interessi: rideterminazione dell'imposta, perizia contabile e documenti spiegati con il caso.",
+ "parole_chiave": [
+  "rimborso imposte con interessi",
+  "riduzione pretesa fiscale",
+  "rideterminazione imponibile",
+  "perizia contabile contenzioso tributario",
+  "ricorso rimborso tributario"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il rimborso e la rideterminazione dell'imposta",
+   "paragrafi": [
+    "Il caso, trattato davanti al Giudice dell'Esecuzione di Napoli, ha portato alla rideterminazione dell'imposta dovuta e alla condanna al rimborso di quanto pagato in eccesso, maggiorato di interessi. Il risultato, secondo l'esito riportato, è una riduzione oltre il 70% della pretesa. Il processo tributario conosce questo tipo di tutela: l'art. 19 del D.Lgs. 546/1992 elenca tra gli atti impugnabili anche il rifiuto espresso o tacito della restituzione di tributi, sanzioni e interessi non dovuti.",
+    "Sul piano dei termini, l'art. 21 stabilisce che il ricorso si propone entro sessanta giorni dalla notifica dell'atto e che il rifiuto tacito della restituzione si impugna dopo il novantesimo giorno dalla domanda. È una regola importante perché separa il momento in cui si chiede il rimborso da quello in cui si può andare davanti al giudice."
+   ]
+  },
+  {
+   "h2": "Come la prova contabile ha cambiato il risultato",
+   "paragrafi": [
+    "La strategia riportata nel caso si è basata su una perizia contabile comparativa e sui documenti fiscali che mostravano la sproporzione della pretesa. In pratica si è messo a confronto ciò che l'ufficio chiedeva con ciò che risultava dai documenti, evidenziando la differenza. Il giudice ha accolto il ricorso, ha rideterminato l'imposta e ha condannato al rimborso con gli interessi. Lo studio ha poi curato l'accredito del rimborso, l'aggiornamento delle banche dati e il recupero delle spese legali.",
+    "La lezione generale è che la contestazione di un importo si regge sulla ricostruzione dei numeri: non basta dire che la somma è eccessiva, serve mostrare come si arriva alla somma corretta. Per questo la perizia comparativa, che affianca le due ricostruzioni, rende leggibile al giudice il punto di rottura."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi ritiene di aver pagato più del dovuto, o di dover pagare una somma sproporzionata, dovrebbe in generale raccogliere tutti i documenti da cui si ricavano base imponibile e importi versati. Può essere utile un confronto tra i calcoli dell'ufficio e quelli ricostruiti dai documenti. Una riduzione ottenuta in un caso non indica quale sarà in un altro: ogni posizione si valuta con i suoi atti."
+   ],
+   "elenco": [
+    "Dichiarazioni e documenti contabili dei periodi interessati",
+    "Ricevute dei pagamenti già eseguiti",
+    "L'atto con cui l'ufficio determina la somma richiesta",
+    "Eventuali domande di rimborso già presentate e relative risposte",
+    "Una tabella che affianca importi richiesti e importi risultanti dai documenti"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Nel contenzioso sui rimborsi i termini vanno guardati due volte: quello per impugnare l'atto notificato, sessanta giorni a pena di inammissibilità, e quello per il rifiuto tacito, che si impugna dopo il novantesimo giorno secondo l'art. 21. Dopo il ricorso, il deposito deve avvenire entro trenta giorni (art. 22). Va ricordato inoltre che l'art. 12 consente di stare in giudizio senza difensore solo per le controversie di valore minimo. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Come si chiede il rimborso di un'imposta pagata in più?",
+   "a": "Il caso riguarda una condanna al rimborso ottenuta in giudizio. In generale la richiesta si presenta all'ufficio con la documentazione dei pagamenti e, se arriva un rifiuto, anche tacito, si può ricorrere alla Corte di giustizia tributaria secondo l'art. 19 e l'art. 21 del D.Lgs. 546/1992. Le modalità dipendono dal tributo."
+  },
+  {
+   "q": "Dopo quanto posso ricorrere se l'ufficio non risponde alla richiesta di rimborso?",
+   "a": "L'art. 21 prevede che il rifiuto tacito della restituzione si impugni dopo il novantesimo giorno dalla domanda. Prima di allora il ricorso non è ammesso. Il conteggio parte dalla data della domanda, per cui conviene conservare la prova dell'invio."
+  },
+  {
+   "q": "A cosa serve una perizia contabile comparativa?",
+   "a": "Serve a mostrare al giudice la differenza tra la somma pretesa e quella ricostruita dai documenti. Nel caso è stata il punto centrale della strategia. Non sostituisce la prova documentale, ma la rende comprensibile con un confronto ordinato tra i due calcoli."
+  },
+  {
+   "q": "Gli interessi sul rimborso spettano sempre?",
+   "a": "Nel caso la decisione ha condannato al rimborso maggiorato di interessi. In generale la spettanza e la misura degli interessi dipendono dalla legge applicabile al tributo e dalle richieste formulate, per cui vanno valutate sul singolo atto."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.Lgs. 546/1992, artt. 12, 19, 21, 22, 47",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 612
+}

@@ -1,0 +1,79 @@
+{
+ "id": "SLI-211",
+ "seo_title": "Debito di 127.000 euro: rateizzare una parte, impugnare l'altra",
+ "description": "Società con 127.000 euro a ruolo: perché conviene separare il debito dovuto da quello contestabile, con rateizzazione in 120 rate e ricorso sull'IVA.",
+ "parole_chiave": [
+  "rateizzazione cartelle 120 rate",
+  "ricorso cartella IVA società",
+  "decadenza rateizzazione otto rate",
+  "sospensione prescrizione rateazione",
+  "debito fiscale impresa edile"
+ ],
+ "sezioni": [
+  {
+   "h2": "Due debiti, due strade",
+   "paragrafi": [
+    "Quando una impresa ha a ruolo somme di natura diversa, non è detto che tutte vadano trattate allo stesso modo. Una parte può essere dovuta e da sistemare con un piano di pagamento; un'altra può essere viziata e da contestare. Trattarle insieme obbliga a pagare anche ciò che non si deve, trattarle separatamente consente una difesa più mirata.",
+    "L'articolo 19 del D.P.R. 602/1973 consente di chiedere la ripartizione delle somme iscritte a ruolo in rate mensili. Per richieste di importo fino a 120.000 euro il numero di rate massimo cambia nel tempo, secondo il comma 1. Per chi dimostra una temporanea situazione di obiettiva difficoltà, il comma 1.1 consente di arrivare fino a centoventi rate. Il ricorso davanti alla giustizia tributaria segue un percorso autonomo, regolato dal D.Lgs. 546/1992."
+   ]
+  },
+  {
+   "h2": "Cosa è stato fatto nel caso",
+   "paragrafi": [
+    "Il caso riguardava una società di costruzioni con 127.000 euro iscritti a ruolo. Di questi, 82.000 euro erano riferiti a IRPEF e 45.000 euro a IVA. L'esame dei carichi ha portato a una scelta divisa: per la parte IRPEF è stata chiesta e ottenuta la rateizzazione in 120 rate da 820 euro, mentre per la parte IVA è stato proposto ricorso, che è stato accolto.",
+    "La divisione ha avuto un effetto pratico evidente: l'impresa ha potuto continuare l'attività con una rata sostenibile sul debito riconosciuto, senza pagare i 45.000 euro che il giudice ha ritenuto non dovuti. Nel caso la rateizzazione e il ricorso sono stati condotti in parallelo, e non hanno ostacolato l'uno l'altro."
+   ]
+  },
+  {
+   "h2": "Cosa prevede la norma sulla rateizzazione",
+   "paragrafi": [
+    "L'articolo 19 contiene regole che chi chiede la rateizzazione deve conoscere. Dalla richiesta fino al rigetto o alla decadenza sono sospesi i termini di prescrizione e decadenza, non possono essere iscritti nuovi fermi e ipoteche (salvo quelli già iscritti) e non possono essere avviate nuove procedure esecutive. Il pagamento della prima rata estingue, a certe condizioni, le procedure esecutive precedenti. Il comma 3 stabilisce la decadenza in caso di mancato pagamento di otto rate, anche non consecutive: l'intero debito diventa esigibile in una unica soluzione e il carico non è più rateizzabile.",
+    "Questo ha una conseguenza sulla strategia. La sospensione dei termini di prescrizione durante la rateazione può incidere sulle somme che si vorrebbero contestare come prescritte: per questo la richiesta va formulata con attenzione, indicando le sole cartelle che si intendono rateizzare. Anche gli importi vanno calcolati su una rata che l'impresa è davvero in grado di rispettare, perché otto omissioni fanno perdere il beneficio."
+   ],
+   "elenco": [
+    "elenco delle cartelle con importi, natura del tributo e data di notifica",
+    "bilanci e documenti che dimostrano la situazione di difficoltà",
+    "relate di notifica per le cartelle che si intendono contestare",
+    "eventuali piani di rateazione già in corso",
+    "piano finanziario della società"
+   ]
+  },
+  {
+   "h2": "Il ricorso e la tutela urgente",
+   "paragrafi": [
+    "Per la parte contestata, il ricorso va proposto entro sessanta giorni dalla notificazione dell'atto, a pena di inammissibilità (articolo 21 del D.Lgs. 546/1992), e la cartella è tra gli atti impugnabili ai sensi dell'articolo 19. Se sono già in corso azioni di riscossione, si può chiedere la sospensione prevista dall'articolo 47, quando ricorre un danno grave e irreparabile.",
+    "Va infine ricordato che i motivi dell'impugnazione devono essere dedotti nel ricorso introduttivo a pena di decadenza, ai sensi dell'articolo 7-bis, comma 2, della legge n. 212 del 2000. La scelta fra rateizzare e impugnare va fatta cartella per cartella, dopo avere letto ogni atto, e il risultato dipende dal caso concreto.",
+    "Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Si può rateizzare un carico e impugnarne un altro?",
+   "a": "Il caso mostra che è possibile trattare i carichi in modo distinto: la rateizzazione in 120 rate per l'IRPEF e il ricorso per l'IVA. La richiesta va però costruita con cura, indicando quali cartelle comprende, perché la rateazione sospende i termini di prescrizione dei carichi inclusi."
+  },
+  {
+   "q": "Quando si perde la rateizzazione?",
+   "a": "L'articolo 19, comma 3, del D.P.R. 602/1973 prevede la decadenza dopo il mancato pagamento di otto rate, anche non consecutive. Il debito residuo diventa esigibile in unica soluzione e il carico non è più rateizzabile. Per questo la rata va scelta in modo sostenibile."
+  },
+  {
+   "q": "Che cosa succede alle azioni esecutive quando chiedo la rateizzazione?",
+   "a": "Secondo l'articolo 19, comma 1-quater, dalla richiesta fino al rigetto o alla decadenza non si possono iscrivere nuovi fermi e ipoteche, salvo quelli già iscritti, né avviare nuove procedure esecutive. Il pagamento della prima rata può estinguere le procedure precedenti a determinate condizioni."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.P.R. 602/1973 art. 19",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992 artt. 19, 21, 47",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  },
+  {
+   "norma": "L. 212/2000 art. 7-bis",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+  }
+ ],
+ "parole": 740
+}

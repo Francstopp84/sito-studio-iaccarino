@@ -1,0 +1,576 @@
+[
+ {
+  "id": "SLI-261",
+  "area": "immigrazione",
+  "court": "Fuori quota art. 6 TUI",
+  "title": "Conversione permesso di studio in lavoro",
+  "outcome": "Carta Blu UE rilasciata — Giudice di Pace Napoli",
+  "fatto": "Una cittadina indiana, laureata con lode in Ingegneria Informatica presso l’Università Federico II di Napoli, aveva ricevuto un’offerta di lavoro come sviluppatrice software da un’azienda tech del napoletano, con contratto a tempo indeterminato e retribuzione annua lorda di 38.000 euro.",
+  "strategia": "La Questura di Napoli aveva respinto la domanda di conversione del permesso di studio in permesso di lavoro subordinato, richiamando l’esaurimento delle quote nel decreto flussi vigente.",
+  "decisione": "Carta Blu UE rilasciata — Giudice di Pace Napoli",
+  "attivita": [
+   "Rilascio titolo di soggiorno",
+   "Iscrizione anagrafica",
+   "Avvio iter cittadinanza"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-264",
+  "area": "immigrazione",
+  "court": "Tribunale di Napoli",
+  "title": "Espulsione annullata per violazione art. 8 CEDU: padre di minori italiani",
+  "outcome": "Espulsione annullata — Inespellibilità assoluta dichiarata — Permesso rinnovato",
+  "fatto": "Un cittadino tunisino, padre di tre figli minori di età (cinque, sette e dieci anni) tutti nati in Italia e cittadini italiani, aveva ricevuto un decreto di espulsione prefettizia ai sensi dell’art.",
+  "strategia": "13 co. 2 lett.",
+  "decisione": "b) TUI per mancato rinnovo nei termini del permesso di soggiorno per lavoro subordinato. La scadenza del permesso era avvenuta durante un periodo di ricovero ospedaliero per un intervento chirurgico urgente, circostanza che aveva impedito la presentazione della domanda di rinnovo nei termini. La moglie del nostro assistito era cittadina italiana. L’intera vita familiare del nostro cliente si svolgeva in Italia: tre figli minorenni cittadini italiani che frequentavano le scuole del territorio, una rete familiare consolidata, un rapporto di lavoro dipendente a tempo indeterminato durato sette anni presso la stessa azienda, che aveva anche offerto di riassumerlo. Il decreto di espulsione non conteneva alcuna valutazione della situazione familiare del richiedente né del superiore interesse dei figli minori italiani.",
+  "attivita": [
+   "Annullamento espulsione",
+   "Cancellazione segnalazione SIS",
+   "Regolarizzazione posizione"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-265",
+  "area": "immigrazione",
+  "court": "Corte d’Appello di Napoli",
+  "title": "Trattenimento in CPR illegittimo: assenza di pericolo di fuga",
+  "outcome": "Trattenimento dichiarato illegittimo — Rimesso in libertà — Permesso rilasciato",
+  "fatto": "Un cittadino marocchino era stato trattenuto nel Centro di Permanenza per il Rimpatrio di Palazzo San Gervasio in seguito all’adozione di un decreto di espulsione prefettizia per soggiorno irregolare.",
+  "strategia": "Il Giudice di Pace aveva convalidato il trattenimento in un’udienza durata pochi minuti, senza sentire il trattenuto (al quale non era stato assicurato un difensore), senza che questi avesse potuto produrre alcuna documentazione, e senza che il provvedimento di convalida contenesse alcuna motivazione specifica sul requisito del «pericolo di fuga» o dell’esistenza di ostacoli al rimpatrio immediato. Il nostro assistito, in realtà, aveva un indirizzo di residenza stabile e documentato, un datore di lavoro che aveva offerto di assisterlo, e un fascicolo di richiesta di permesso di soggiorno pendente che la Questura non aveva ancora definito.",
+  "decisione": "Non aveva mai violato nessun obbligo connesso a precedenti procedimenti amministrativi.",
+  "attivita": [
+   "Annullamento espulsione",
+   "Cancellazione segnalazione SIS",
+   "Regolarizzazione posizione"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-269",
+  "area": "immigrazione",
+  "court": "Napoli",
+  "title": "Nulla osta camerale ottenuto per ristoratore egiziano",
+  "outcome": "Nulla osta ottenuto — Permesso convertito — Attività avviata",
+  "fatto": "Un cittadino egiziano, residente in Italia da otto anni con permesso per lavoro subordinato come aiuto cuoco, desiderava aprire un proprio ristorante specializzato in cucina mediorientale nel quartiere Pignasecca di Napoli.",
+  "strategia": "Aveva già individuato i locali e raggiunto un accordo di affitto con il proprietario, ma si trovava bloccato nella fase del nulla osta camerale: la Camera di Commercio aveva sollevato dubbi sulla qualificazione professionale richiesta dalla normativa regionale campana per la somministrazione di alimenti e bevande (art. 64 D.Lgs.",
+  "decisione": "59/2010) e sulla sufficienza dei requisiti morali certificati dalla documentazione straniera prodotta.",
+  "attivita": [
+   "Rilascio titolo di soggiorno",
+   "Iscrizione anagrafica",
+   "Avvio iter cittadinanza"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-270",
+  "area": "immigrazione",
+  "court": "Tribunale di Napoli",
+  "title": "Ricorso contro diniego permesso lavoro autonomo per ingegnere pakistano",
+  "outcome": "Ricorso accolto — Diniego annullato — Permesso ottenuto",
+  "fatto": "Un ingegnere civile pakistano con laurea conseguita al Politecnico di Lahore (Pakistan Engineering Council) aveva presentato istanza per il permesso di soggiorno per lavoro autonomo come consulente in progettazione strutturale.",
+  "strategia": "La Questura di Napoli aveva rigettato l’istanza con un provvedimento che motivava il diniego con la mancata iscrizione all’Ordine degli Ingegneri italiano, che la Questura considerava requisito indispensabile per qualunque attività ingegneristica, inclusa quella di mera consulenza non soggetta a firma professionale.",
+  "decisione": "Ricorso accolto — Diniego annullato — Permesso ottenuto",
+  "attivita": [
+   "Rilascio titolo di soggiorno",
+   "Iscrizione anagrafica",
+   "Avvio iter cittadinanza"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-271",
+  "area": "immigrazione",
+  "court": "Procedura ministeriale",
+  "title": "Startup Visa per sviluppatore software ucraino",
+  "outcome": "Startup Visa approvata — Prima sessione valutazione — Azienda costituita",
+  "fatto": "Un programmatore ucraino con dieci anni di esperienza nello sviluppo di software per l’intelligenza artificiale applicata al settore sanitario voleva trasferirsi in Italia per fondare la sua startup, avendo già stretto accordi preliminari con un fondo di venture capital italiano interessato al suo progetto.",
+  "strategia": "Il progetto riguardava una piattaforma SaaS per l’analisi predittiva di dati clinici destinata alle strutture ospedaliere, con brevetto depositato in corso di esame all’EPO (European Patent Office).",
+  "decisione": "Il cliente aveva cercato di avviare autonomamente la procedura Italia Startup Visa ma si era bloccato nella fase di compilazione del dossier tecnico richiesto dal Comitato.",
+  "attivita": [
+   "Rilascio titolo di soggiorno",
+   "Iscrizione anagrafica",
+   "Avvio iter cittadinanza"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-272",
+  "area": "immigrazione",
+  "court": "Napoli",
+  "title": "Conversione da permesso studio a lavoro autonomo per consulente marocchina",
+  "outcome": "Conversione ottenuta — Continuità garantita — P.IVA attiva",
+  "fatto": "Una cittadina marocchina, laureata in lingue e mediazione linguistica presso l’Università Orientale di Napoli, aveva terminato gli studi e si trovava in prossimità della scadenza del permesso per motivi di studio.",
+  "strategia": "Aveva ricevuto diverse proposte di lavoro autonomo come traduttrice-interprete di arabo, francese e italiano da studi legali, ospedali e istituzioni pubbliche campane, e aveva già un portfolio di clienti consolidato.",
+  "decisione": "Tuttavia, non essendoci in Italia un albo delle professioni di traduttore e interprete, non sapeva quale documentazione presentare per il nulla osta camerale e per la conversione del permesso.",
+  "attivita": [
+   "Rilascio titolo di soggiorno",
+   "Iscrizione anagrafica",
+   "Avvio iter cittadinanza"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-273",
+  "area": "immigrazione",
+  "court": "Tribunale di Napoli",
+  "title": "Imprenditore cinese: ricorso contro rigetto per insufficienza delle risorse economiche",
+  "outcome": "Rinnovo ottenuto — Principio favorevole stabilito — Ricorso accolto",
+  "fatto": "Un imprenditore cinese già titolare di un’impresa di importazione e distribuzione all’ingrosso di articoli da regalo aveva presentato istanza per il rinnovo del permesso di soggiorno per lavoro autonomo.",
+  "strategia": "La Questura aveva rigettato il rinnovo adducendo che il fatturato dell’impresa negli ultimi due anni era inferiore alla soglia minima di reddito richiesta, basandosi esclusivamente sulle dichiarazioni dei redditi IRPEF individuali dell’imprenditore senza considerare i dati economici dell’impresa nel suo complesso.",
+  "decisione": "L’imprenditore, nel periodo in questione, aveva reinvestito utili nell’impresa e aveva percepito un reddito personale inferiore alla soglia, pur avendo un’impresa economicamente sana e in crescita.",
+  "attivita": [
+   "Rilascio titolo di soggiorno",
+   "Iscrizione anagrafica",
+   "Avvio iter cittadinanza"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-274",
+  "area": "immigrazione",
+  "court": "TAR Campania",
+  "title": "Diniego rinnovo per precedente penale estinto",
+  "outcome": "Diniego annullato — Permesso rinnovato — Espulsione scongiurata",
+  "fatto": "Un cittadino bangladese, residente regolarmente in Italia da undici anni con permesso di soggiorno per lavoro subordinato, si era visto opporre dalla Questura di Napoli il diniego di rinnovo del proprio permesso. La motivazione adottata dalla Questura faceva esclusivo riferimento a una condanna per ricettazione risalente a dieci anni prima, scontata con affidamento in prova ai servizi sociali e il cui reato era nel frattempo andato in prescrizione per quanto riguardava le conseguenze giuridiche accessorie.",
+  "strategia": "L’istanza di rinnovo era documentata da un contratto di lavoro a tempo indeterminato con regolare busta paga, un alloggio autonomo in locazione registrata e un nucleo familiare regolarmente soggiornante in Italia composto dalla moglie e da due figli minori in età scolare, entrambi nati in Italia.",
+  "decisione": "Diniego annullato — Permesso rinnovato — Espulsione scongiurata",
+  "attivita": [
+   "Annullamento espulsione",
+   "Cancellazione segnalazione SIS",
+   "Regolarizzazione posizione"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-275",
+  "area": "immigrazione",
+  "court": "Tribunale di Napoli",
+  "title": "Conversione permesso da studio a lavoro al di fuori delle quote",
+  "outcome": "Conversione ottenuta fuori quota — Permesso lavoro rilasciato",
+  "fatto": "Una giovane cittadina nigeriana, entrata in Italia a 17 anni con permesso per studio e rimasta regolarmente soggiornante per sei anni durante i quali aveva completato la scuola secondaria superiore e si era iscritta all’Università Federico II di Napoli, aveva trovato impiego a tempo indeterminato come operatrice socio-sanitaria presso una casa di cura convenzionata.",
+  "strategia": "La Questura di Napoli aveva rigettato la sua istanza di conversione del permesso da studio a lavoro, ritenendo che la conversione fosse subordinata al rispetto delle quote del decreto flussi vigente, che per quella categoria era già esaurita.",
+  "decisione": "Conversione ottenuta fuori quota — Permesso lavoro rilasciato",
+  "attivita": [
+   "Rilascio titolo di soggiorno",
+   "Iscrizione anagrafica",
+   "Avvio iter cittadinanza"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-276",
+  "area": "immigrazione",
+  "court": "TAR Lazio",
+  "title": "Rinnovo tardivo per malfunzionamento sistema informatico",
+  "outcome": "Diniego annullato — Rinnovo tardivo giustificato — Revoca scongiurata",
+  "fatto": "Un cittadino marocchino titolare di permesso per motivi familiari, coniuge di cittadina italiana, aveva tentato di presentare la domanda di rinnovo tramite il portale informatico delle Poste Italiane nei tempi previsti, ma il sistema aveva restituito ripetuti errori tecnici che avevano impedito la trasmissione dell’istanza.",
+  "strategia": "Il malfunzionamento era documentato da screenshot con le schermate di errore, da email di supporto tecnico senza risposta e da un ticket aperto al servizio clienti di Poste Italiane.",
+  "decisione": "La Questura di Roma, pur informata del problema tecnico tramite documentazione prodotta dal cliente, aveva rigettato il rinnovo ritenendo la domanda tardiva e avviato un procedimento di revoca del permesso scaduto.",
+  "attivita": [
+   "Rilascio titolo di soggiorno",
+   "Iscrizione anagrafica",
+   "Avvio iter cittadinanza"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-277",
+  "area": "immigrazione",
+  "court": "Tribunale di Napoli",
+  "title": "Permesso per salute e inespellibilità assoluta",
+  "outcome": "Espulsione annullata — Permesso cure mediche rilasciato — Trattamento completato",
+  "fatto": "Un cittadino senegalese era entrato in Italia con visto turistico e, alla scadenza, era rimasto sul territorio senza titolo di soggiorno.",
+  "strategia": "Durante questo periodo aveva ricevuto la diagnosi di una grave patologia oncologica — un linfoma di Hodgkin in stadio avanzato — per la quale aveva intrapreso un percorso di chemioterapia presso l’Azienda Ospedaliero-Universitaria Federico II di Napoli. La Questura aveva emesso nei suoi confronti un decreto di espulsione ai sensi dell’art. 13 TUI per ingresso e soggiorno irregolare.",
+  "decisione": "Il nostro assistito, incapace di viaggiare e in trattamento chemioterapico attivo, rischiava di essere allontanato verso un Paese in cui la stessa terapia non era disponibile né accessibile economicamente.",
+  "attivita": [
+   "Annullamento espulsione",
+   "Cancellazione segnalazione SIS",
+   "Regolarizzazione posizione"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-278",
+  "area": "immigrazione",
+  "court": "TAR Campania",
+  "title": "Diniego rinnovo per perdita del lavoro: periodo di tolleranza riconosciuto",
+  "outcome": "Periodo tolleranza riconosciuto — Rinnovo concesso — Nuova occupazione trovata",
+  "fatto": "Un cittadino ucraino, in Italia da sette anni con permesso di soggiorno per lavoro subordinato, aveva perso il lavoro a seguito della chiusura dell’impresa datrice di lavoro dichiarata insolvente.",
+  "strategia": "Nei mesi successivi aveva presentato domanda di rinnovo del permesso, producendo la documentazione relativa all’iscrizione al Centro per l’Impiego, la percezione dell’indennità di disoccupazione (NASpI) e vari colloqui di lavoro in corso. La Questura aveva rigettato il rinnovo sul presupposto che, venuta meno la causa giustificativa del permesso — il contratto di lavoro —, non vi fossero più presupposti per il rinnovo. Il diniego non aveva tenuto conto delle modifiche introdotte dal D.Lgs.",
+  "decisione": "3/2018 in recepimento della Direttiva 2011/98/UE, che riconoscono al lavoratore straniero che perde il lavoro involontariamente un periodo di soggiorno per la ricerca di nuova occupazione della durata minima di tre mesi, estendibile fino a sei mesi se il permesso aveva durata superiore ad un anno.",
+  "attivita": [
+   "Rilascio titolo di soggiorno",
+   "Iscrizione anagrafica",
+   "Avvio iter cittadinanza"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-279",
+  "area": "immigrazione",
+  "court": "Tribunale di Napoli",
+  "title": "Status di rifugiato riconosciuto dopo diniego per inattendibilità",
+  "outcome": "Status di rifugiato riconosciuto — Permesso 5 anni rilasciato",
+  "fatto": "Un giovane cittadino nigeriano aveva presentato domanda di protezione internazionale dopo essere fuggito dalla Nigeria in seguito a gravi minacce da parte di un’organizzazione criminale locale che lo aveva ingaggiato come corriere per il traffico di droga e che, avendo egli rifiutato di continuare la collaborazione, aveva ucciso il suo fratello minore come avvertimento.",
+  "strategia": "La Commissione Territoriale di Napoli aveva rigettato la domanda con una motivazione sintetica che giudicava le dichiarazioni del richiedente «non credibili» in quanto contenevano «incongruenze temporali» e «mancanza di dettagli specifici».",
+  "decisione": "La Commissione non aveva tenuto conto che il richiedente aveva subito un grave trauma (l’uccisione del fratello) e che le imprecisioni temporali erano compatibili con la risposta psicologica al trauma, né aveva esaminato le fonti COI sulla situazione della criminalità organizzata nelle aree rurali della Nigeria meridionale.",
+  "attivita": [
+   "Rilascio titolo di soggiorno",
+   "Iscrizione anagrafica",
+   "Avvio iter cittadinanza"
+  ],
+  "subtopic": "permesso-soggiorno",
+  "materia": "Permesso di soggiorno e rinnovi",
+  "lawRef_materia": "D.Lgs. 286/1998 (TUI)",
+  "sintesi_materia": "Ricorsi al TAR e Questura contro dinieghi di rilascio o rinnovo del titolo.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 5, 6 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   },
+   {
+    "norma": "artt. 13, 14 D.P.R. 394/1999",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\DPR 394-1999 regolamento immigrazione.md"
+   },
+   {
+    "norma": "art. 29 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 29.md"
+   },
+   {
+    "norma": "art. 31 D.Lgs. 104/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 104-2010 CPA art. 31.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 286/1998",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 286-1998 testo unico immigrazione.md"
+   }
+  ]
+ }
+]

@@ -1,0 +1,71 @@
+{
+ "id": "SLI-425",
+ "seo_title": "Conto bloccato o ipoteca: sospensione urgente in appello",
+ "description": "Pignoramento del conto, ipoteca o fermo del veicolo aziendale: come si chiede la sospensione cautelare in secondo grado e cosa va provato.",
+ "parole_chiave": [
+  "sospensione cautelare cartella",
+  "blocco conto corrente azienda",
+  "danno grave e irreparabile tributario",
+  "istanza urgente CGT secondo grado",
+  "veicolo aziendale fermo amministrativo"
+ ],
+ "sezioni": [
+  {
+   "h2": "Quando serve fermare l'esecuzione prima della decisione",
+   "paragrafi": [
+    "Il processo tributario può durare mesi, mentre una misura esecutiva produce effetti immediati: un conto bloccato impedisce di pagare fornitori e stipendi, un'ipoteca ostacola operazioni sull'immobile, un fermo toglie il veicolo all'attività. Per questo l'articolo 47 del D.Lgs. 546/1992 prevede che il ricorrente possa chiedere la sospensione dell'esecuzione dell'atto impugnato quando da esso può derivargli un danno grave e irreparabile.",
+    "La disciplina prevede una trattazione celere: la camera di consiglio per la decisione sulla sospensione è fissata per una data non oltre il trentesimo giorno, e nei casi di eccezionale urgenza il presidente può provvedere con decreto motivato, in attesa della trattazione collegiale. L'ordinanza di sospensione è reclamabile entro quindici giorni. In appello l'articolo 52 consente di chiedere la sospensione dell'esecutività della sentenza impugnata per gravi e fondati motivi."
+   ]
+  },
+  {
+   "h2": "Il caso: l'istanza urgente davanti alla CGT di II grado",
+   "paragrafi": [
+    "Nel caso si trattava di un'azione esecutiva o cautelare su conto corrente, immobile o veicolo aziendale. Lo studio ha presentato davanti alla CGT di II grado della Campania una istanza urgente di sospensione, qualificata dalla prova del danno grave e irreparabile e della manifesta illegittimità della pretesa. Il provvedimento ha disposto lo sblocco immediato, con cancellazione della misura cautelare, a salvaguardia della continuità dell'attività. Il titolo del caso riferisce uno sblocco in quarantotto ore.",
+    "Il caso è sintetico, e non va letto come una regola: i tempi dipendono dal giudice e dall'urgenza provata. Quello che emerge è l'impostazione: due piani paralleli, il danno concreto per l'impresa e la fragilità della pretesa."
+   ]
+  },
+  {
+   "h2": "Che cosa va provato in una situazione simile",
+   "paragrafi": [
+    "In generale l'istanza vive di documenti. Per il danno si allegano estratti conto, scadenze di pagamento, contratti di lavoro e di fornitura, elementi che mostrano quali effetti produce la misura e perché non siano risarcibili in seguito. Per la fondatezza si indicano i vizi dell'atto con riferimenti precisi: notifica, decadenza, prescrizione, motivazione.",
+    "Un'istanza generica, che parla di difficoltà senza numeri, difficilmente convince. Va scelta con cura anche la misura da sospendere: l'atto impugnato, non ogni atto collegato. L'effetto concreto dipende dalla valutazione del collegio, e l'esito non è prevedibile in astratto."
+   ],
+   "elenco": [
+    "atto impugnato e atti esecutivi collegati",
+    "estratti conto e scadenze che mostrano l'effetto del blocco",
+    "contratti, buste paga e fatture in scadenza",
+    "prova dei vizi dell'atto, con relate e piano estratto di ruolo",
+    "eventuale sentenza di primo grado e sua notifica"
+   ]
+  },
+  {
+   "h2": "Termini e passi pratici",
+   "paragrafi": [
+    "L'istanza cautelare accompagna il ricorso o l'appello, e questi hanno termini propri: sessanta giorni dalla notificazione dell'atto per il ricorso (articolo 21), sessanta giorni dalla notificazione della sentenza per l'appello (articolo 51). Il tempo per chiedere la sospensione si perde se il ricorso non è proposto in tempo, per cui il primo passo è controllare la data di notifica.",
+    "Se la misura è già eseguita, occorre pensare a come far arrivare il provvedimento di sospensione al soggetto che detiene le somme o al conservatore. È una fase pratica, da concordare con il difensore, che dipende dalla natura del bene colpito.",
+    "Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Che cosa significa danno grave e irreparabile?",
+   "a": "È il presupposto dell'articolo 47 del D.Lgs. 546/1992 per sospendere l'esecuzione dell'atto impugnato. Va dimostrato con documenti concreti sugli effetti della misura, come conto bloccato o ipoteca. Nel caso l'istanza ha unito la prova del danno a quella della manifesta illegittimità della pretesa."
+  },
+  {
+   "q": "Quanto tempo serve per ottenere la sospensione?",
+   "a": "L'articolo 47 prevede la trattazione dell'istanza entro il trentesimo giorno e, in caso di eccezionale urgenza, un decreto motivato del presidente. Nel caso il titolo parla di sblocco in quarantotto ore, ma i tempi concreti dipendono dal giudice e dall'urgenza provata."
+  },
+  {
+   "q": "Si può chiedere la sospensione anche in appello?",
+   "a": "Sì, l'articolo 52 del D.Lgs. 546/1992 consente di chiedere alla corte di sospendere l'esecutività della sentenza impugnata in presenza di gravi e fondati motivi. L'appello va proposto entro sessanta giorni dalla notificazione della sentenza, secondo l'articolo 51."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.Lgs. 546/1992 artt. 21, 47, 51, 52",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 653
+}

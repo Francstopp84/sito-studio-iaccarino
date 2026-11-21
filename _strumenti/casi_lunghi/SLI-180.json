@@ -1,0 +1,84 @@
+{
+ "id": "SLI-180",
+ "seo_title": "Preavviso di fermo impugnato: debito prescritto",
+ "description": "Preavviso di fermo su un debito IRPEF prescritto: notifica per deposito senza avviso, art. 140 c.p.c., prescrizione e ricorso in CGT spiegati con il caso.",
+ "parole_chiave": [
+  "preavviso di fermo amministrativo prescritto",
+  "notifica art. 140 cpc nulla",
+  "intimazione di pagamento nulla",
+  "prescrizione cartella IRPEF",
+  "ricorso contro preavviso di fermo"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il preavviso di fermo e le norme che lo regolano",
+   "paragrafi": [
+    "Nel caso, un pensionato riceve un preavviso di fermo su un debito IRPEF e sostiene di non aver avuto comunicazioni precedenti. Il fermo di beni mobili registrati è disciplinato dall'art. 86 del DPR 602/1973, che richiede una comunicazione preventiva con un termine di trenta giorni. Il preavviso non è un semplice avviso: l'art. 19 del D.Lgs. 546/1992 colloca il fermo tra gli atti impugnabili davanti alla Corte di giustizia tributaria, e per questo il contribuente può difendersi prima che il fermo venga iscritto.",
+    "La chiave del caso, però, è la catena di atti che regge il preavviso. Se la cartella o l'intimazione non sono state validamente notificate, l'atto finale poggia su un presupposto fragile, e l'art. 19, comma 3, consente di impugnare l'atto notificato facendo valere la mancata o irregolare notifica di quelli precedenti."
+   ]
+  },
+  {
+   "h2": "Notifica per deposito e prescrizione: il ragionamento del caso",
+   "paragrafi": [
+    "Lo studio ha verificato la catena notificatoria e ha rilevato una cartella del 2011 e un'intimazione del 2014. L'intimazione era stata notificata per deposito in municipio senza l'avviso di deposito. L'art. 140 del codice di procedura civile prevede che, nei casi di irreperibilità o rifiuto, la copia sia depositata nella casa del comune, che si affigga l'avviso in busta chiusa alla porta e che si invii una raccomandata con avviso di ricevimento. Nel caso la mancanza dell'avviso ha reso nulla la notifica, che quindi non ha avuto efficacia interruttiva.",
+    "Senza atti interruttivi validi, la prescrizione, ricostruita secondo gli artt. 2943 e 2945 del codice civile, ha fatto il suo corso: il debito, relativo all'anno di imposta 2009, risultava prescritto dal 2016. Il ricorso è stato proposto in via principale per la prescrizione e in subordine per la nullità della notifica. La Corte ha accolto e dichiarato sia la prescrizione sia l'illegittimità del fermo, con condanna dell'agente alle spese, e il veicolo non è mai stato sottoposto a fermo."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi riceve un preavviso di fermo per un debito molto risalente dovrebbe in generale controllare tre cose: la data dell'ultimo atto notificato, la regolarità di quella notifica e il termine di prescrizione applicabile al tributo. Ogni caso va valutato sui suoi atti. Una notifica per deposito è valida solo se il procedimento è stato seguito per intero, e solo il confronto con la relata permette di dirlo."
+   ],
+   "elenco": [
+    "Il preavviso ricevuto e la data di consegna",
+    "Copia di cartella e intimazioni con le relate di notifica",
+    "Eventuali avvisi di giacenza o raccomandate ricevute",
+    "L'estratto di ruolo con le date di iscrizione",
+    "La prova della proprietà e dell'uso del veicolo"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il ricorso contro il preavviso si propone entro sessanta giorni dalla notifica a pena di inammissibilità (art. 21 D.Lgs. 546/1992) e si deposita entro trenta giorni (art. 22). Il termine di trenta giorni dell'art. 86 non va confuso con quello processuale: il primo serve a evitare l'iscrizione del fermo, il secondo a impugnare. Pagare o chiedere una dilazione senza aver controllato la prescrizione può essere un errore, perché l'art. 2944 c.c. considera il riconoscimento del debito un atto interruttivo. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Un debito di dieci anni fa può essere ancora richiesto?",
+   "a": "Dipende dalla natura del credito e dalla presenza di atti interruttivi validi. Il codice civile prevede dieci anni come prescrizione ordinaria (art. 2946) e cinque per i crediti periodici (art. 2948), ma ogni atto valido di interruzione fa ripartire il termine. Nel caso mancavano atti validi dopo la cartella."
+  },
+  {
+   "q": "Cosa succede se la notifica per deposito manca dell'avviso?",
+   "a": "L'art. 140 c.p.c. richiede il deposito della copia presso il comune, l'affissione dell'avviso in busta chiusa alla porta e la raccomandata con avviso di ricevimento. Nel caso la mancanza dell'avviso ha reso nulla la notifica dell'intimazione, che non ha interrotto la prescrizione."
+  },
+  {
+   "q": "Si può impugnare un preavviso di fermo prima che il fermo sia iscritto?",
+   "a": "L'art. 19 del D.Lgs. 546/1992 elenca il fermo tra gli atti impugnabili e, nel caso, il ricorso contro il preavviso ha evitato che il veicolo venisse bloccato. La tempestività è decisiva, perché il termine è di sessanta giorni dalla notifica."
+  },
+  {
+   "q": "Posso chiedere la prescrizione anche se ho già pagato una rata?",
+   "a": "In generale un pagamento parziale può essere letto come riconoscimento del debito, che interrompe la prescrizione secondo l'art. 2944 c.c. Dipende dalle circostanze concrete, per questo conviene valutare la propria posizione prima di versare somme."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 72-bis, 72-ter, 25, 26, 50, 60, 77, 86 DPR 602/1973",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992, artt. 12, 19, 21, 22, 47",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  },
+  {
+   "norma": "artt. 2934-2953 codice civile",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "art. 140 c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  }
+ ],
+ "parole": 664
+}

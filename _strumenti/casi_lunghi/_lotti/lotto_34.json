@@ -1,0 +1,776 @@
+[
+ {
+  "id": "SLI-466",
+  "area": "tributario",
+  "subtopic": "bollo-auto",
+  "court": "CGT di I grado di Milano",
+  "title": "Bollo auto e prescrizione triennale — Tutela giudiziale (Art. 5 DL 953/1982)",
+  "outcome": "Prescrizione accertata — debito cancellato",
+  "fatto": "Procedimento relativo a bollo auto e prescrizione triennale (Art. 5 DL 953/1982) instaurato dinanzi a CGT di I grado di Milano. Dichiarazione giudiziale di intervenuta prescrizione quinquennale/triennale dei tributi iscritti a ruolo.",
+  "strategia": "Ricostruzione cronologica integrale delle relate di notifica depositate dall’Agente della Riscossione con dimostrazione dell’assenza di atti interruttivi validi.",
+  "decisione": "Il Giudice ha dichiarato estinta l’intera pretesa creditoria per maturata prescrizione.",
+  "attivita": [
+   "Discarico cartelle prescritte",
+   "Pulizia posizione fiscale",
+   "Cancellazione vincoli"
+  ],
+  "materia": "Bollo auto e prescrizione triennale",
+  "lawRef_materia": "Art. 5 DL 953/1982",
+  "sintesi_materia": "Annullamento ingiunzioni e cartelle per tassa automobilistica prescritta in 3 anni.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "art. 5 D.L. 953/1982",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DL 953-1982 art 5 tasse automobilistiche.md"
+   },
+   {
+    "norma": "artt. 38, 48-bis, 51, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 7 e 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 26 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 12, 19, 21 e 22 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-467",
+  "area": "tributario",
+  "subtopic": "bollo-auto",
+  "court": "Corte di Cassazione, Sez. Tributaria",
+  "title": "Bollo auto e prescrizione triennale — Definizione favorevole (Art. 5 DL 953/1982)",
+  "outcome": "Riduzione oltre il 70% e rimborso + interessi",
+  "fatto": "Procedimento relativo a bollo auto e prescrizione triennale (Art. 5 DL 953/1982) instaurato dinanzi a Corte di Cassazione, Sez. Tributaria. Rideterminazione dell’imponibile con consistente risparmio fiscale o riconoscimento integrale del rimborso.",
+  "strategia": "Perizia estimativa / contabile comparativa e produzione di documenti fiscali attestanti la sproporzione della pretesa erariale.",
+  "decisione": "Accoglimento del ricorso con rideterminazione equa dell’imposta e condanna al rimborso maggiorato degli interessi.",
+  "attivita": [
+   "Accredito rimborso fiscale",
+   "Aggiornamento banche dati",
+   "Recupero spese legali"
+  ],
+  "materia": "Bollo auto e prescrizione triennale",
+  "lawRef_materia": "Art. 5 DL 953/1982",
+  "sintesi_materia": "Annullamento ingiunzioni e cartelle per tassa automobilistica prescritta in 3 anni.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "art. 5 D.L. 953/1982",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DL 953-1982 art 5 tasse automobilistiche.md"
+   },
+   {
+    "norma": "artt. 38, 48-bis, 51, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 7 e 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 26 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 12, 19, 21 e 22 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-164",
+  "area": "tributario",
+  "court": "Regione Campania",
+  "title": "Prescrizione triennale su 7 annualità di bollo",
+  "outcome": "Cartella ridotta del 71% — Fermo revocato",
+  "fatto": "Un artigiano di Napoli aveva ricevuto una cartella esattoriale dell’Agenzia delle Entrate-Riscossione per sette annualità di bollo auto non pagato, con importo complessivo di € 4.240 più sanzioni e interessi, per un totale di € 6.800. Contestualmente era stata emessa una preavviso di fermo amministrativo sul furgone aziendale, indispensabile per la sua attività.",
+  "strategia": "Il cliente si era presentato in studio convinto di dover pagare tutto.",
+  "decisione": "Cartella ridotta del 71% — Fermo revocato",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-166",
+  "area": "tributario",
+  "court": "Tribunale competente Campania",
+  "title": "Bollo su veicolo radiato",
+  "outcome": "Cartella annullata — Sgravio integrale — Via amministrativa",
+  "fatto": "Un imprenditore aveva ceduto e fatto radiare un veicolo aziendale dal PRA nel 2017.",
+  "strategia": "Cinque anni dopo, nel 2022, aveva ricevuto una cartella esattoriale per bollo auto relativa alle annualità 2018-2021, per un importo di € 2.900.",
+  "decisione": "L’Agenzia delle Entrate-Riscossione aveva emesso la cartella perché nei propri archivi il veicolo risultava ancora intestato all’imprenditore a causa di un disallineamento tra le banche dati PRA e l’Anagrafe Tributaria.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-168",
+  "area": "tributario",
+  "court": "CGT Salerno",
+  "title": "Fermo su autocaravan — Difetto di notifica + prescrizione",
+  "outcome": "Cartella annullata integralmente — Fermo revocato in 15 giorni",
+  "fatto": "Un agente di commercio di Salerno aveva scoperto per caso, cercando di vendere il proprio autocaravan da € 65.000, che sull’automezzo gravava un fermo amministrativo iscritto dall’Agenzia delle Entrate-Riscossione per mancato pagamento di bollo auto per undici annualità, per un importo complessivo di € 8.400 comprensivo di sanzioni e interessi.",
+  "strategia": "Il cliente non aveva mai ricevuto alcuna comunicazione preventiva né la cartella esattoriale.",
+  "decisione": "Cartella annullata integralmente — Fermo revocato in 15 giorni",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-169",
+  "area": "tributario",
+  "court": "CGT I grado",
+  "title": "Prescrizione quinquennale: cartella INPS annullata per € 38.400",
+  "outcome": "Annullamento totale — € 38.400",
+  "fatto": "Un artigiano napoletano riceveva dall’Agenzia delle Entrate–Riscossione una cartella esattoriale per contributi previdenziali INPS non versati per gli anni 2016 e 2017, con interessi e sanzioni, per un importo complessivo di 38.400 euro. La cartella era stata notificata a maggio 2024, vale a dire oltre sette anni dopo la maturazione delle obbligazioni contributive.",
+  "strategia": "La difesa ha immediatamente eccepito l’intervenuta prescrizione quinquennale dei crediti contributivi ai sensi dell’art. 3, comma 9, L. 335/1995 e dell’art. 2948 c.c., richiamando la consolidata giurisprudenza della Cassazione (Sez. Lav., n. 14498/2020) che fissa in cinque anni il termine prescrizionale per i contributi previdenziali. L’Agente della Riscossione non ha prodotto alcun atto interruttivo della prescrizione notificato nel quinquennio precedente.",
+  "decisione": "La Corte di Giustizia Tributaria di I grado di Napoli, con sentenza depositata a settembre 2024, ha accolto integralmente il ricorso, dichiarato prescritta la pretesa e condannato l’INPS alle spese di lite.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-170",
+  "area": "tributario",
+  "court": "CGT II grado",
+  "title": "Notifica inesistente: cartella per IVA di € 61.200 dichiarata nulla",
+  "outcome": "Cartella annullata in appello — € 61.200",
+  "fatto": "Una società a responsabilità limitata riceveva una cartella esattoriale per presunte omissioni IVA per gli anni 2017 e 2018, per un totale di 61.200 euro. Dall’analisi della documentazione emergeva che la cartella era stata notificata esclusivamente in busta chiusa a persona (una guardia giurata dello stabile) del tutto priva di qualsiasi rapporto con la società, ne’ come dipendente ne’ come convivente dell’amministratore. La relata di notifica risultava lacunosa e contraddittoria in più punti.",
+  "strategia": "La difesa ha proposto ricorso avanti alla CGT di I grado eccependo la nullità assoluta della notifica per inosservanza delle formalità previste dall’art. 26 D.P.R. 602/1973 e dall’art. 60 D.P.R. 600/1973, con conseguente mancata conoscenza legale dell’atto da parte della società. Il giudice di prime cure ha respinto il ricorso per motivi procedurali.",
+  "decisione": "In secondo grado, la Corte di Giustizia Tributaria della Campania ha ribaltato la decisione, dichiarando la notifica giuridicamente inesistente, con effetto di rendere la cartella mai validamente portata a conoscenza della contribuente e quindi non ancora definitiva. La pretesa dell’Erario è stata integralmente rigettata.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-171",
+  "area": "tributario",
+  "court": "Autotutela + CGT I grado",
+  "title": "Doppio pagamento: rimborso ottenuto per € 14.750",
+  "outcome": "Cartella annullata + rimborso — € 14.750",
+  "fatto": "Un professionista (commercialista) riceveva una cartella esattoriale relativa a IRPEF 2019 per 14.750 euro, comprensiva di sanzioni e interessi. L’analisi della documentazione fiscale del cliente rivelava che il debito era già stato interamente onorato a seguito di una precedente rateizzazione, con ricevute di pagamento regolarmente conservate. Si trattava dunque di una duplicazione dell’iscrizione a ruolo, probabilmente determinata da un errore informatico nell’imputazione dei pagamenti ricevuti.",
+  "strategia": "Il nostro studio ha dapprima proposto istanza di autotutela all’Agenzia delle Entrate, allegando la documentazione dei pagamenti effettuati e la corrispondenza bancaria attestante i bonifici. Decorsi i termini senza riscontro e con l’Agente della Riscossione che nel frattempo aveva notificato un sollecito, è stato proposto ricorso alla CGT di I grado.",
+  "decisione": "Nel corso dell’udienza cautelare l’Ente ha riconosciuto l’errore, proceduto all’annullamento in autotutela della cartella e restituito le somme eventualmente già trattenute a titolo di acconti sull’esecuzione. Spese di giudizio compensate.",
+  "attivita": [
+   "Accredito rimborso + interessi",
+   "Chiusura posizione fiscale",
+   "Recupero spese di giudizio"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-172",
+  "area": "tributario",
+  "court": "CGT I grado",
+  "title": "Cartella senza atto presupposto: annullamento per mancata notifica dell’avviso di accertamento",
+  "outcome": "Annullamento totale — € 27.600",
+  "fatto": "Un contribuente riceveva inaspettatamente una cartella esattoriale per IRPEF anni 2018 e 2019, per l’importo complessivo di 27.600 euro, senza mai aver ricevuto in precedenza alcun avviso di accertamento che giustificasse l’iscrizione a ruolo. Dall’analisi della posizione fiscale del cliente emergeva che l’Agenzia delle Entrate aveva emesso un avviso di accertamento analitico per quegli anni, ma la notifica era stata tentata all’indirizzo dell’ex residenza del contribuente, da lui abbandonata e regolarmente comunicata all’Anagrafe nel 2016. L’avviso non era mai pervenuto al legittimo destinatario.",
+  "strategia": "Il ricorso ha eccepito la nullità della notifica dell’atto presupposto, con conseguente illegittimità dell’iscrizione a ruolo e della cartella emessa sulla base di un atto mai validamente portato a conoscenza del contribuente. Contestualmente è stata chiesta la sospensiva cautelare, prontamente concessa dal giudice.",
+  "decisione": "La CGT di I grado di Salerno ha accolto il ricorso nel merito, dichiarando l’illegittimità della cartella per mancata conoscenza legale dell’atto presupposto e annullando integralmente la pretesa.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-173",
+  "area": "tributario",
+  "court": "Reclamo-mediazione",
+  "title": "Mancata motivazione: riduzione dell’80% attraverso mediazione tributaria",
+  "outcome": "Mediazione: risparmio 80% — da € 9.800 a € 1.900",
+  "fatto": "Una piccola imprenditrice del commercio riceveva una cartella esattoriale relativa a TARI e addizionale comunale non versate per gli anni 2019, 2020 e 2021, per un importo complessivo di 9.800 euro, di cui oltre 4.000 euro di sanzioni e interessi.",
+  "strategia": "La cartella non riportava alcuna motivazione sulle modalità di calcolo della TARI applicata, sui criteri di determinazione della superficie tassabile né sulle aliquote applicate per ciascuna annualità. Costituiva pertanto una violazione manifesta dell’obbligo di motivazione previsto dall’art. 7 della L. 212/2000 (Statuto del Contribuente), che impone all’Ente impositore di indicare i presupposti di fatto e le ragioni giuridiche della pretesa. Poiché il valore era inferiore a 50.000 euro, è stata avviata la procedura di reclamo-mediazione presso il Comune.",
+  "decisione": "Nel corso della fase mediazione, l’Ente ha riconosciuto i vizi della cartella e proposto una definizione agevolata con eliminazione delle sanzioni e degli interessi di mora, limitando la pretesa alla sola imposta originariamente dovuta di 1.900 euro, con un risparmio netto dell’80% rispetto alla pretesa originaria. La cliente ha accettato la proposta di mediazione, definendo la controversia in fase stragiudiziale.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-179",
+  "area": "tributario",
+  "court": "",
+  "title": "Fermo su Furgone Artigiano — Annullato per Strumentalità",
+  "outcome": "Risultato: Fermo annullato in toto. Il veicolo è stato liberato e il cliente ha continuato a svolgere la propria attività senza interruzioni. Il debito è stato successivamente oggetto di rateizzazione.",
+  "fatto": "Un artigiano idraulico con partita IVA riceveva il preavviso di fermo sul proprio furgone Fiat Ducato, unico mezzo con cui trasportava materiali e raggiungeva i cantieri. Il debito, pari a circa 8.400 euro, derivava da una cartella esattoriale notificata in epoca risalente per imposte non versate.",
+  "strategia": "Il cliente si era rivolto allo studio dopo aver tentato inutilmente di accordarsi direttamente con ADER senza riuscire a ottenere informazioni chiare sui propri diritti. L’analisi del fascicolo ha immediatamente evidenziato due profili critici: in primo luogo la strumentalità assoluta del veicolo, che risultava essere l’unico mezzo intestato all’impresa e abitualmente utilizzato per lo svolgimento dell’attività lavorativa, documentata da fatture e dichiarazioni fiscali; in secondo luogo la notifica irregolare della cartella presupposta, effettuata a un indirizzo non più corrispondente alla residenza del contribuente. Abbiamo proposto ricorso alla CGT di Napoli con contestuale richiesta di sospensiva cautelare, documentando la strumentalità con visura camerale aggiornata, estratto fatture degli ultimi tre anni e dichiarazione del commercialista.",
+  "decisione": "La CGT ha accordato la sospensiva in udienza monocratica urgente dopo soli sette giorni dal deposito del ricorso, e in esito all’udienza di merito ha annullato il fermo.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-190",
+  "area": "tributario",
+  "court": "Autotutela",
+  "title": "Debito sotto soglia: cancellazione in autotutela per € 14.200",
+  "outcome": "Cancellazione in autotutela — 15 giorni",
+  "fatto": "Una piccola imprenditrice nel settore della ristorazione riceveva la comunicazione di avvenuta iscrizione ipotecaria sul proprio immobile commerciale per un debito fiscale complessivo iscritto a ruolo di € 14.200, composto da IMU arretrata, TARI e sanzioni per gli anni 2020–2021. La somma era evidentemente inferiore alla soglia legale di € 20.000 prevista dall’art. 77 D.P.R. 602/1973, al di sotto della quale l’iscrizione ipotecaria è categoricamente vietata.",
+  "strategia": "Il nostro studio ha predisposto e inviato un’istanza formale di autotutela all’Agenzia delle Entrate–Riscossione, corredata dal calcolo dettagliato del debito e dalle evidenze documentali che dimostravano l’infrazione del limite legale. Nell’istanza è stato esplicitamente richiamato il costante orientamento della Cassazione (Cass. n. 13458/2020) che qualifica come illegittima, e non meramente irregolare, l’ipoteca iscritta sotto soglia.",
+  "decisione": "L’Agenzia delle Entrate–Riscossione ha riconosciuto il vizio in autotutela e ha proceduto alla cancellazione dell’ipoteca entro quindici giorni dall’invio dell’istanza, senza necessità di ricorrere al giudice tributario. La cliente ha potuto proseguire normalmente l’attività commerciale e il finanziamento bancario precedentemente bloccato dal gravame ipotecario.",
+  "attivita": [
+   "Ripristino rendita originaria",
+   "Ricalcolo IMU/tributi",
+   "Aggiornamento visura catastale"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-201",
+  "area": "tributario",
+  "court": "CGT I grado, Napoli",
+  "title": "Prima casa: blocco del pignoramento immobiliare illegittimo",
+  "outcome": "Pignoramento immobiliare annullato — prima casa liberata",
+  "fatto": "Una pensionata napoletana riceveva la notifica di un atto di pignoramento immobiliare da parte dell’Agenzia delle Entrate–Riscossione avente ad oggetto la sua unica abitazione, un appartamento di 80 mq in categoria catastale A/3, dove la signora risiedeva anagraficamente da oltre 20 anni. Il debito complessivo iscritto a ruolo era di 86.000 euro, riferito a IRPEF e contributi previdenziali. Il pignoramento era doppiamente illegittimo: in primo luogo, il debito era inferiore alla soglia di 120.000 euro prevista dall’art. 76, c. 2, lett. a), D.P.R. 602/1973 come presupposto per il pignoramento immobiliare; in secondo luogo, l’immobile era l’unica abitazione di proprietà del contribuente, adibita ad abitazione principale e di categoria catastale non di lusso, rientrante pertanto nella protezione dell’art. 76, c. 1, D.P.R. 602/1973. Il pignoramento era pertanto nullo per duplice violazione di legge.",
+  "strategia": "Il nostro studio ha depositato in regime di urgenza un ricorso con contestuale istanza di sospensiva cautelare davanti alla CGT di I grado di Napoli. La sospensiva è stata concessa inaudita altera parte nel giro di 48 ore, sospendendo immediatamente la procedura di espropriazione.",
+  "decisione": "Nel merito, la CGT ha poi accolto il ricorso e dichiarato la nullità del pignoramento immobiliare, ordinando la cancellazione dell’atto dai registri immobiliari.",
+  "attivita": [
+   "Ripristino rendita originaria",
+   "Ricalcolo IMU/tributi",
+   "Aggiornamento visura catastale"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-203",
+  "area": "tributario",
+  "court": "CGT I grado, Napoli",
+  "title": "Pignoramento senza preavviso: nullità procedurale e restituzione € 18.600",
+  "outcome": "Pignoramento nullo per vizio procedurale — € 18.600 restituiti",
+  "fatto": "Una società commerciale napoletana scopriva che l’Agente della Riscossione aveva pignorato presso la propria banca l’importo di 18.600 euro su un conto corrente aziendale, senza che fosse stato precedentemente notificato alla società alcun avviso di intimazione di pagamento. La cartella originaria era stata notificata nel 2021, e il pignoramento era intervenuto nel 2024, ovvero oltre 365 giorni dopo la notifica della cartella. In base all’art. 50, c. 2, D.P.R. 602/1973, se dall’ultima notifica valida è trascorso più di un anno, l’Agente della Riscossione deve precedere l’esecuzione forzata con la notifica di un avviso di intimazione di pagamento. L’omissione di questo atto rende il successivo pignoramento nullo per violazione del procedimento legalmente prescritto.",
+  "strategia": "Il nostro studio ha depositato ricorso avanti alla CGT di I grado di Napoli eccependo in via principale la nullità del pignoramento per mancato preavviso ex art. 50, c. 2, D.P.R. 602/1973. Il giudice ha concesso la sospensiva cautelare nell’udienza presidenziale, bloccando il trasferimento delle somme ancora giacenti sul conto.",
+  "decisione": "Nel merito, la CGT ha dichiarato la nullità del pignoramento e ordinato la restituzione dell’intero importo di 18.600 euro già versato dalla banca all’Agente prima della sospensiva, oltre alle spese di giudizio. L’Agente della Riscossione può ripetere la procedura esecutiva, questa volta nel rispetto delle formalità di legge.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "cartella-esattoriale",
+  "materia": "Ricorso cartella esattoriale",
+  "lawRef_materia": "D.Lgs. 546/1992",
+  "sintesi_materia": "Verifica vizi di notifica, decadenza, motivazione e annullamento dinanzi alla CGT.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 25, 26 e 50 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 7 e 7-sexies L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 19, 21 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 38, 51, 52, 61, 62 e 62-bis D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 325, 327 e 360 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 25 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 25, 26, 50 e 86 D.P.R. 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 7-bis L. 212/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+   },
+   {
+    "norma": "artt. 12, 18, 19, 21, 22 e 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ }
+]

@@ -1,0 +1,87 @@
+{
+ "id": "SLI-323",
+ "seo_title": "Furto in appello: pena ridotta e sospensione",
+ "description": "Furto condannato in primo grado: come l'appello può escludere le aggravanti, ridurre la pena e ottenere la sospensione condizionale. Norme e termini.",
+ "parole_chiave": [
+  "furto appello riduzione pena",
+  "appello furto aggravanti escluse",
+  "sospensione condizionale appello",
+  "termini appello sentenza penale",
+  "vizi di motivazione sentenza penale"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le norme applicate al caso",
+   "paragrafi": [
+    "Il caso riguarda un furto in cui la sentenza di primo grado è stata riformata in appello. Le norme di partenza sono quelle del furto: l'art. 624 del codice penale, con la reclusione da sei mesi a tre anni, e l'art. 625, che prevede una pena da due a sei anni quando ricorrono le circostanze aggravanti. La differenza tra le due cornici spiega perché l'esclusione di un'aggravante pesi tanto sull'esito finale: cambia il minimo e il massimo della pena e cambia lo spazio per i benefici.",
+    "Sul versante del processo, l'art. 597 del codice di procedura penale stabilisce che l'appello attribuisce al giudice di secondo grado la cognizione del procedimento limitatamente ai punti della decisione ai quali si riferiscono i motivi proposti. È una regola che obbliga a scrivere i motivi con precisione. Il beneficio finale, la sospensione condizionale, è regolato dall'art. 163 del codice penale: può essere ordinata quando la condanna alla reclusione o all'arresto non supera i due anni, per cinque anni se la condanna è per delitto."
+   ]
+  },
+  {
+   "h2": "Perché la Corte d'Appello ha accolto i motivi",
+   "paragrafi": [
+    "Nel caso la difesa ha impugnato la sentenza di primo grado, pronunciata dal Tribunale di Roma, concentrandosi su tre aspetti: i vizi di motivazione, l'attendibilità delle dichiarazioni su cui la condanna si fondava e il contributo di una perizia di parte. Ciascuno di questi punti ha funzione diversa. Il vizio di motivazione contesta il ragionamento della sentenza, cioè il percorso logico con cui il giudice è arrivato alla conclusione. La critica all'attendibilità delle dichiarazioni mette in discussione la prova stessa. La perizia di parte offre una lettura tecnica alternativa dei dati.",
+    "La Corte d'Appello ha accolto i motivi e ha riformato la decisione: sono state escluse le aggravanti, il fatto è stato riqualificato, la pena è stata ridotta ed è stata concessa la sospensione condizionale. Questa sequenza è coerente: tolte le aggravanti, la condanna scende entro il limite che consente la sospensione. In una vicenda come questa l'appello non è una semplice replica del primo grado, ma un controllo mirato sui punti impugnati."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi è stato condannato per furto e si chiede se valga la pena di impugnare dovrebbe guardare anzitutto alla motivazione della sentenza. Ci sono passaggi in cui il giudice dà per scontato un fatto senza spiegarlo? Le dichiarazioni sono valutate in modo coerente con il resto delle prove? Le aggravanti sono state accertate elemento per elemento? In casi analoghi sono proprio questi i punti che consentono di costruire motivi concreti, mentre le critiche generiche, non collegate agli atti, hanno poche possibilità di essere accolte.",
+    "Ogni vicenda va valutata sui suoi atti e nessun risultato può essere dato per certo: l'appello può anche non portare alcun miglioramento."
+   ],
+   "elenco": [
+    "la sentenza di primo grado con la motivazione depositata",
+    "i verbali delle dichiarazioni contestate",
+    "le eventuali relazioni tecniche o perizie di parte",
+    "il certificato del casellario per valutare i benefici",
+    "l'elenco delle aggravanti applicate e degli elementi che le sostengono"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il termine per impugnare dipende dal modo in cui è stata depositata la motivazione. L'art. 585 del codice di procedura penale prevede quindici giorni nel caso dell'art. 544, comma 1, trenta giorni nel caso del comma 2 e quarantacinque giorni nel caso del comma 3, con le decorrenze indicate dalla stessa norma. Il difensore deve quindi controllare con la massima attenzione la data di lettura e di deposito della sentenza, perché un errore sul termine rende l'impugnazione inammissibile.",
+    "Il secondo passo è la selezione dei motivi: poiché l'art. 597 limita la cognizione ai punti impugnati, ciò che non è contestato resta fuori dalla riforma. Conviene quindi elencare tutte le questioni utili, dalla ricostruzione del fatto al trattamento sanzionatorio, e indicare con chiarezza che cosa si chiede al giudice.",
+    "Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Entro quanto tempo si può fare appello contro una sentenza di condanna?",
+   "a": "L'art. 585 del codice di procedura penale fissa quindici, trenta o quarantacinque giorni, a seconda del caso previsto dall'art. 544, commi 1, 2 e 3, con decorrenze particolari. Il calcolo dipende dalla data di lettura e di deposito della motivazione, per cui va fatto sempre con il difensore."
+  },
+  {
+   "q": "L'appello può far ridurre la pena?",
+   "a": "Può accadere se i motivi proposti sono fondati, perché l'art. 597 del codice di procedura penale riconosce al giudice di secondo grado la cognizione dei punti impugnati. Nel caso trattato dallo studio la riforma ha escluso le aggravanti, ridotto la pena e concesso la sospensione condizionale."
+  },
+  {
+   "q": "Quando si può ottenere la sospensione condizionale della pena?",
+   "a": "L'art. 163 del codice penale consente di sospendere l'esecuzione quando la condanna alla reclusione o all'arresto non supera due anni. La sospensione dura cinque anni per i delitti e due per le contravvenzioni. La decisione spetta al giudice sulla base delle condizioni richieste."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 624 c.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+  },
+  {
+   "norma": "art. 625 c.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+  },
+  {
+   "norma": "art. 163 c.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+  },
+  {
+   "norma": "art. 597 c.p.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+  },
+  {
+   "norma": "art. 585 c.p.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+  }
+ ],
+ "parole": 780
+}

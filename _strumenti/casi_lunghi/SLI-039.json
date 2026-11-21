@@ -1,0 +1,79 @@
+{
+  "id": "SLI-039",
+  "seo_title": "Decreto ingiuntivo notificato male: cosa si può fare",
+  "description": "Notifica del decreto ingiuntivo per irreperibilità presso un indirizzo errato: art. 140 c.p.c., opposizione tardiva ex art. 650 e verifiche sulla relata di notifica.",
+  "parole_chiave": [
+    "notifica decreto ingiuntivo",
+    "opposizione tardiva",
+    "art. 650 c.p.c.",
+    "irreperibilità",
+    "relata di notifica"
+  ],
+  "sezioni": [
+    {
+      "h2": "Il momento in cui si scopre il decreto",
+      "paragrafi": [
+        "Capita che un imprenditore venga a sapere di un decreto ingiuntivo non da una notifica ricevuta in mano, ma da un colloquio con il commercialista. È quello che è accaduto a un artigiano, a cui è stato mostrato un decreto da 48.700 euro per forniture che sosteneva di non aver mai ordinato, già dichiarato esecutivo. La prima reazione, comprensibile, è pensare che sia troppo tardi, perché il termine di quaranta giorni previsto per l'opposizione sembra ormai scaduto da tempo.",
+        "Il termine, in realtà, decorre dalla notificazione, e una notificazione irregolare non fa decorrere nulla in modo valido. Prima di arrendersi, quindi, conviene fare una cosa sola: ottenere la copia degli atti di notifica e leggere la relata, cioè la relazione con cui l'ufficiale giudiziario descrive come e a chi ha consegnato il documento."
+      ]
+    },
+    {
+      "h2": "Le regole della notifica per irreperibilità",
+      "paragrafi": [
+        "Il codice di procedura civile regola con precisione il caso in cui il destinatario non si trovi. L'articolo 140 prevede che, se non è possibile consegnare l'atto per irreperibilità o per rifiuto di ricevere la copia, l'ufficiale giudiziario depositi la copia nella casa del comune dove la notificazione deve eseguirsi, affigga un avviso e dia notizia al destinatario con raccomandata. La notifica si perfeziona, per il destinatario, con il ricevimento della raccomandata o, in mancanza, decorsi dieci giorni dalla spedizione.",
+        "Questa procedura presuppone che il luogo dove si tenta la notifica sia davvero quello giusto. Se l'indirizzo è sbagliato, il meccanismo si regge su una premessa falsa: la raccomandata parte verso un luogo in cui il destinatario non si trova, e la presunzione di conoscenza non ha più fondamento."
+      ]
+    },
+    {
+      "h2": "Che cosa mostrava la relata in questo caso",
+      "paragrafi": [
+        "Dalla relata risultava che la notifica era stata eseguita con deposito in cancelleria per irreperibilità. L'ufficiale giudiziario aveva però indicato come sede della ditta un indirizzo errato, relativo a un locale ceduto tre anni prima, e non risultava alcun accertamento presso la Camera di Commercio per verificare dove la ditta si trovasse davvero.",
+        "Il documento diventava così la prova di un vizio: l'atto non era stato indirizzato dove il destinatario poteva averne notizia. La difesa ha costruito su questo dato l'intera impostazione, perché l'irregolarità riguardava il modo in cui il destinatario era stato cercato e non il merito della pretesa."
+      ],
+      "elenco": [
+        "Verificare l'indirizzo indicato nella relata e confrontarlo con quello risultante dai registri.",
+        "Controllare se compaiono accertamenti sul luogo di residenza o di sede.",
+        "Controllare se la raccomandata prevista dall'articolo 140 risulta effettivamente spedita e a quale indirizzo."
+      ]
+    },
+    {
+      "h2": "Le strade processuali e le loro condizioni",
+      "paragrafi": [
+        "L'ordinamento offre rimedi per chi non ha avuto conoscenza del decreto. L'articolo 647 prevede che il decreto acquisti efficacia esecutiva per mancata opposizione, ma disciplina anche il caso in cui l'intimato non abbia avuto conoscenza dell'atto, con la possibilità di rinnovare la notifica. L'articolo 650 consente l'opposizione tardiva quando la notificazione è irregolare oppure quando l'intimato dimostra di non aver avuto conoscenza del decreto per caso fortuito o forza maggiore.",
+        "L'articolo 650 pone però un limite temporale: l'opposizione non è più ammessa decorsi dieci giorni dal primo atto di esecuzione. Chi scopre il decreto deve quindi muoversi subito, senza lasciar trascorrere settimane in valutazioni. Nel caso esaminato, la contestazione dell'irregolarità della notifica ha aperto la strada al giudizio sul merito."
+      ]
+    },
+    {
+      "h2": "L'esito e ciò che ne deriva",
+      "paragrafi": [
+        "Il decreto è stato revocato e il credito è stato dichiarato inesistente. Sul merito la difesa ha potuto sostenere che le forniture non erano mai state ordinate, e secondo l'articolo 2697 del codice civile chi vuol far valere un diritto in giudizio deve provare i fatti che ne costituiscono il fondamento. Quando il documento che sorregge la pretesa non dimostra un ordine, quel carico non è soddisfatto.",
+        "Dopo la decisione sono seguite attività di chiusura: la notifica della decisione esecutiva, la verifica dell'adempimento e la liquidazione delle spese. In casi analoghi, sono questi i passaggi che trasformano un esito favorevole in un risultato reale, cioè la fine delle azioni esecutive e il recupero di quanto speso per difendersi."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Il termine di quaranta giorni decorre sempre dalla data del deposito?",
+      "a": "Il termine previsto dall'articolo 641 decorre dalla notificazione del decreto. Se la notifica è irregolare, si può valutare l'opposizione tardiva secondo l'articolo 650, rispettando però il limite dei dieci giorni dal primo atto di esecuzione."
+    },
+    {
+      "q": "Dove si controlla se l'indirizzo era quello giusto?",
+      "a": "Si parte dalla relata di notifica e si confronta l'indirizzo indicato con quello risultante dai registri, in particolare quelli della Camera di Commercio per le imprese. L'esito del confronto aiuta a capire se la notifica è regolare."
+    },
+    {
+      "q": "Se la notifica è nulla il debito sparisce?",
+      "a": "No. La nullità consente di aprire o riaprire il giudizio di opposizione, nel quale si discute poi anche del credito. Nel caso esaminato l'esito favorevole è venuto dall'esame del merito."
+    }
+  ],
+  "norme_verificate": [
+    {
+      "norma": "Codice di procedura civile, artt. 140, 641, 647, 650",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+    },
+    {
+      "norma": "Codice civile, art. 2697",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+    }
+  ],
+  "parole": 739
+}

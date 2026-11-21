@@ -1,0 +1,116 @@
+{
+ "id": "SLI-040",
+ "seo_title": "Decreto ingiuntivo esecutivo: sospensione e scrittura falsa",
+ "description": "Decreto ingiuntivo provvisoriamente esecutivo su una scrittura privata mai firmata: opposizione, sospensione ex articolo 649 e disconoscimento della firma.",
+ "parole_chiave": [
+  "decreto ingiuntivo provvisoriamente esecutivo",
+  "opposizione decreto ingiuntivo",
+  "sospensione esecutorietà articolo 649",
+  "disconoscimento firma scrittura privata",
+  "pignoramento conto stipendio"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il decreto già esecutivo e il precetto in arrivo",
+   "paragrafi": [
+    "Una donna aveva ricevuto un decreto ingiuntivo provvisoriamente esecutivo per 31.500 euro. A chiederlo era un ex partner, che sosteneva di averle prestato quella somma in contanti durante la relazione. Il creditore aveva già notificato il precetto e si preparava a pignorare il conto sul quale la donna, dipendente pubblica, accreditava lo stipendio. Si era rivolta allo studio tre giorni prima della scadenza del termine per proporre opposizione.",
+    "Il quadro è tipico di una difesa urgente: il decreto è un provvedimento ottenuto senza sentire il debitore, e la provvisoria esecuzione permette al creditore di procedere subito. Per questo il tempo, più del merito, decide da dove si parte."
+   ]
+  },
+  {
+   "h2": "Il termine e l'atto di opposizione",
+   "paragrafi": [
+    "L'articolo 641 del codice di procedura civile fissa il termine entro cui il debitore deve adempiere, non superiore a quaranta giorni, e avverte che in mancanza si può fare opposizione. L'articolo 645 disciplina l'opposizione, che si propone con citazione davanti all'ufficio giudiziario al quale appartiene il giudice che ha emesso il decreto. Ogni termine va ricavato dal decreto e dalla data di notifica, senza fidarsi della memoria.",
+    "L'opposizione apre un giudizio ordinario nel quale il creditore è attore in senso sostanziale: deve provare i fatti su cui fonda la domanda, in base all'articolo 2697 del codice civile. Il decreto, da solo, non dimostra nulla di più di ciò che il ricorrente ha prodotto."
+   ]
+  },
+  {
+   "h2": "La sospensione ai sensi dell'articolo 649",
+   "paragrafi": [
+    "Con l'opposizione si può chiedere la sospensione dell'esecuzione. L'articolo 649 consente al giudice dell'opposizione, quando ricorrono gravi motivi, di sospendere l'esecuzione provvisoria concessa. Nel caso la sospensione è stata ottenuta già alla prima udienza, e il decreto è stato poi revocato.",
+    "Chi sta per subire un pignoramento ha un interesse immediato a bloccarlo. La domanda di sospensione serve proprio a dare tempo al merito. Se il precetto è già stato notificato, esiste anche l'opposizione all'esecuzione prevista dall'articolo 615, con cui si contesta il diritto del creditore di procedere."
+   ]
+  },
+  {
+   "h2": "La scrittura privata e il disconoscimento",
+   "paragrafi": [
+    "Il decreto era stato emesso sulla base di una scrittura privata prodotta dal ricorrente, che la donna non ricordava di aver firmato. L'articolo 2702 del codice civile attribuisce alla scrittura privata piena prova della provenienza delle dichiarazioni da chi l'ha sottoscritta, ma solo se la sottoscrizione è riconosciuta o legalmente considerata come riconosciuta. Il disconoscimento della firma, disciplinato dagli articoli 214 e 215 del codice di procedura civile, toglie quel valore e sposta l'onere su chi ha prodotto il documento.",
+    "L'articolo 216 prevede la richiesta di verificazione, con cui la parte che ha prodotto la scrittura chiede di accertarne l'autenticità, e l'articolo 221 disciplina la querela di falso. Nel caso l'esito è stato il rilievo del falso. Il percorso è sempre tecnico, e dipende da perizie e atti."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale, chi riceve un decreto ingiuntivo non dovrebbe attendere. Ogni vicenda va valutata sui suoi atti."
+   ],
+   "elenco": [
+    "controllare subito la data di notifica e il termine indicato nel decreto",
+    "non ignorare il precetto, che apre la strada al pignoramento",
+    "conservare estratti conto e ogni documento che smentisca il prestito",
+    "non riconoscere né firmare nulla senza aver letto il documento prodotto dal creditore",
+    "valutare con un difensore l'opposizione e la richiesta di sospensione"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto tempo c'è per opporsi a un decreto ingiuntivo?",
+   "a": "Il termine si ricava dal decreto e dalla sua notifica. L'articolo 641 del codice di procedura civile indica un termine per adempiere non superiore a quaranta giorni e prevede l'opposizione davanti al giudice che ha emesso il decreto. Conviene contare subito, perché ogni giorno può essere decisivo."
+  },
+  {
+   "q": "Si può fermare il pignoramento mentre si discute l'opposizione?",
+   "a": "Sì, chiedendo la sospensione dell'esecuzione provvisoria. L'articolo 649 del codice di procedura civile la consente quando ricorrono gravi motivi. Nel caso la sospensione è stata ottenuta alla prima udienza."
+  },
+  {
+   "q": "Che cosa succede se la firma sulla scrittura non è mia?",
+   "a": "Si può disconoscere la sottoscrizione. Gli articoli 214 e 215 del codice di procedura civile disciplinano il disconoscimento, e l'articolo 216 la verificazione. L'articolo 2702 del codice civile dà valore di prova alla scrittura solo se la firma è riconosciuta."
+  },
+  {
+   "q": "Chi deve provare il prestito?",
+   "a": "Chi lo afferma. L'articolo 2697 del codice civile pone a carico di chi agisce la prova dei fatti su cui fonda la domanda. Nel caso il decreto è stato revocato e il giudice ha rilevato il falso."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 641 c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  },
+  {
+   "norma": "art. 645 c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  },
+  {
+   "norma": "art. 649 c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  },
+  {
+   "norma": "art. 214 c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  },
+  {
+   "norma": "art. 215 c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  },
+  {
+   "norma": "art. 216 c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  },
+  {
+   "norma": "art. 221 c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  },
+  {
+   "norma": "art. 615 c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  },
+  {
+   "norma": "art. 2697 c.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "art. 2702 c.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  }
+ ],
+ "parole": 730
+}

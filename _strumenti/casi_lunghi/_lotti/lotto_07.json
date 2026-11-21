@@ -1,0 +1,640 @@
+[
+ {
+  "id": "SLI-405",
+  "area": "civile",
+  "subtopic": "opposizione-decreto-ingiuntivo",
+  "court": "Corte d’Appello di Napoli",
+  "title": "Opposizione a decreto ingiuntivo — Ricorso urgente (Art. 645 c.p.c.)",
+  "outcome": "Provvedimento d’urgenza ex art. 700 c.p.c.",
+  "fatto": "Procedimento relativo a opposizione a decreto ingiuntivo (Art. 645 c.p.c.) instaurato dinanzi a Corte d’Appello di Napoli. Tutela cautelare immediata ottenuta in tempi brevi per bloccare il pregiudizio grave e irreparabile.",
+  "strategia": "Ricorso cautelare documentato con perizia asseverata, rilievi fotografici e diffide pregresse per dimostrare fumus boni iuris e periculum in mora.",
+  "decisione": "Il Giudice ha ordinato l’esecuzione immediata degli interventi e fissato penale giornaliera per ogni ritardo.",
+  "attivita": [
+   "Notifica ordinanza cautelare",
+   "Verifica adempimento",
+   "Definizione giudizio di merito"
+  ],
+  "materia": "Opposizione a decreto ingiuntivo",
+  "lawRef_materia": "Art. 645 c.p.c.",
+  "sintesi_materia": "Sospensione provvisoria esecutorietà entro 40 giorni e revoca ingiunzioni infondate.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 633, 645, 648, 649 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1218, 1219, 2947, 2948 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 633, 641, 643, 644, 645, 647, 648, 649, 650, 654 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-406",
+  "area": "civile",
+  "subtopic": "opposizione-decreto-ingiuntivo",
+  "court": "Tribunale di Salerno",
+  "title": "Opposizione a decreto ingiuntivo — Tutela giudiziale (Art. 645 c.p.c.)",
+  "outcome": "Accordo transattivo ad alto risparmio",
+  "fatto": "Procedimento relativo a opposizione a decreto ingiuntivo (Art. 645 c.p.c.) instaurato dinanzi a Tribunale di Salerno. Definizione stragiudiziale / in mediazione con riduzione drastica della pretesa avversaria o incasso rapido.",
+  "strategia": "Contestazione analitica dei conteggi avversari, eccezioni di prescrizione e negoziazione assistita supportata da solida base giurisprudenziale.",
+  "decisione": "Sottoscrizione verbale di conciliazione con valore di titolo esecutivo e chiusura definitiva della lite.",
+  "attivita": [
+   "Sottoscrizione quietanza",
+   "Estinzione giudizio pendente",
+   "Archiviazione posizioni debitorie"
+  ],
+  "materia": "Opposizione a decreto ingiuntivo",
+  "lawRef_materia": "Art. 645 c.p.c.",
+  "sintesi_materia": "Sospensione provvisoria esecutorietà entro 40 giorni e revoca ingiunzioni infondate.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 633, 645, 648, 649 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1218, 1219, 2947, 2948 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 633, 641, 643, 644, 645, 647, 648, 649, 650, 654 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-407",
+  "area": "civile",
+  "subtopic": "opposizione-decreto-ingiuntivo",
+  "court": "Tribunale di Santa Maria Capua Vetere",
+  "title": "Opposizione a decreto ingiuntivo — Definizione favorevole (Art. 645 c.p.c.)",
+  "outcome": "Riforma in appello / revoca titolo esecutivo",
+  "fatto": "Procedimento relativo a opposizione a decreto ingiuntivo (Art. 645 c.p.c.) instaurato dinanzi a Tribunale di Santa Maria Capua Vetere. Revoca integrale del provvedimento impugnato con liberazione del patrimonio del cliente.",
+  "strategia": "Opposizione tempestiva corredata da perizia contabile-giuridica e contestazione della prova scritta prodotta dalla controparte.",
+  "decisione": "Il Giudice ha revocato integralmente il provvedimento opposto ponendo le spese a carico della controparte.",
+  "attivita": [
+   "Cancellazione iscrizioni pregiudizievoli",
+   "Svincolo somme",
+   "Recupero spese di lite"
+  ],
+  "materia": "Opposizione a decreto ingiuntivo",
+  "lawRef_materia": "Art. 645 c.p.c.",
+  "sintesi_materia": "Sospensione provvisoria esecutorietà entro 40 giorni e revoca ingiunzioni infondate.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 633, 645, 648, 649 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1218, 1219, 2947, 2948 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 633, 641, 643, 644, 645, 647, 648, 649, 650, 654 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-039",
+  "area": "civile",
+  "court": "Decreto revocato per vizio procedurale",
+  "title": "Opposizione per nullità della notifica",
+  "outcome": "Decreto revocato per nullità notifica — Credito dichiarato inesistente",
+  "fatto": "Un artigiano aveva ricevuto una telefonata dal proprio commercialista informandolo che un creditore aveva ottenuto un decreto ingiuntivo per € 48.700 relativo a forniture di materiali mai ordinati dal cliente, e che il decreto era stato dichiarato esecutivo.",
+  "strategia": "L’artigiano era convinto di non aver mai ricevuto la notifica del decreto originario, e il termine di quaranta giorni sembrava abbondantemente scaduto.",
+  "decisione": "Al primo colloquio, abbiamo esaminato con attenzione la relata di notifica: risultava che il decreto era stato notificato mediante deposito in cancelleria per irreperibilità del destinatario, ma l’ufficiale giudiziario non aveva verificato correttamente il domicilio e aveva annotato come sede della ditta un indirizzo errato — un locale commerciale ceduto tre anni prima, senza che alcun accertamento presso la Camera di Commercio fosse stato effettuato.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "recupero-crediti",
+  "materia": "Recupero crediti per imprese e privati",
+  "lawRef_materia": "Art. 633 c.p.c.",
+  "sintesi_materia": "Decreti ingiuntivi immediatamente esecutivi, pignoramenti presso terzi e accordi transattivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 480, 481, 545, 633, 634, 637, 640, 644, 648, 650 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5-bis D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   },
+   {
+    "norma": "artt. 474, 480, 481, 482, 543, 545, 633, 634, 637, 640, 641, 643, 644, 645, 647, 650, 655 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 1224, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 4, 5, 6 D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-044",
+  "area": "civile",
+  "court": "Decreto ingiuntivo con provvisoria esecuzione",
+  "title": "Credito commerciale da forniture",
+  "outcome": "Credito integralmente recuperato — € 91.000 in 45 giorni",
+  "fatto": "Un’impresa fornitrice di componenti industriali si è rivolta allo studio dopo oltre un anno di tentativi stragiudiziali infruttuosi: il debitore, una società a responsabilità limitata operante nel settore metalmeccanico, non aveva onorato quattordici fatture per un totale di € 78.400, adducendo generiche contestazioni sulla qualità della fornitura mai formalizzate per iscritto.",
+  "strategia": "Il rischio concreto era la prescrizione quinquennale dei crediti commerciali e la progressiva erosione della garanzia patrimoniale della debitrice, che aveva iniziato a trasferire macchinari a un’altra società dello stesso gruppo.",
+  "decisione": "Credito integralmente recuperato — € 91.000 in 45 giorni",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "recupero-crediti",
+  "materia": "Recupero crediti per imprese e privati",
+  "lawRef_materia": "Art. 633 c.p.c.",
+  "sintesi_materia": "Decreti ingiuntivi immediatamente esecutivi, pignoramenti presso terzi e accordi transattivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 480, 481, 545, 633, 634, 637, 640, 644, 648, 650 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5-bis D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   },
+   {
+    "norma": "artt. 474, 480, 481, 482, 543, 545, 633, 634, 637, 640, 641, 643, 644, 645, 647, 650, 655 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 1224, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 4, 5, 6 D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-047",
+  "area": "civile",
+  "court": "Avvocato contro ex cliente",
+  "title": "Recupero credito professionale impagato",
+  "outcome": "Appello accolto — € 38.200 recuperati integralmente",
+  "fatto": "Un avvocato aveva assistito un cliente in una complessa vertenza civile durata oltre quattro anni, ottenendo risultati significativi. A conclusione del mandato, il cliente aveva corrisposto solo una parte degli onorari, rifiutandosi di pagare i restanti € 34.800 e sostenendo che il patrocinio fosse stato carente.",
+  "strategia": "L’avvocato aveva presentato il ricorso per decreto ingiuntivo al Consiglio dell’Ordine competente ex art. 636 c.p.c. Il cliente aveva proposto opposizione, impugnando sia la liquidazione degli onorari (eccependo la mancanza di preventivo scritto ai sensi della L. 247/2012) sia l’efficacia probatoria delle parcelle.",
+  "decisione": "In primo grado il Tribunale aveva ridotto il credito a € 18.000, ritenendo non adeguatamente documentata l’attività svolta nelle udienze.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "recupero-crediti",
+  "materia": "Recupero crediti per imprese e privati",
+  "lawRef_materia": "Art. 633 c.p.c.",
+  "sintesi_materia": "Decreti ingiuntivi immediatamente esecutivi, pignoramenti presso terzi e accordi transattivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 480, 481, 545, 633, 634, 637, 640, 644, 648, 650 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5-bis D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   },
+   {
+    "norma": "artt. 474, 480, 481, 482, 543, 545, 633, 634, 637, 640, 641, 643, 644, 645, 647, 650, 655 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 1224, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 4, 5, 6 D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-048",
+  "area": "civile",
+  "court": "Finanziamento privato inadempiuto",
+  "title": "Recupero credito con pignoramento immobiliare",
+  "outcome": "Credito integralmente recuperato — Transazione € 195.000",
+  "fatto": "Un imprenditore aveva concesso un finanziamento privato di € 210.000 a un socio d’affari, formalizzato con scrittura privata autenticata, con piano di rientro in trentasei rate mensili e garanzia ipotecaria su un immobile residenziale del debitore.",
+  "strategia": "Dopo il pagamento regolare delle prime otto rate, il debitore aveva cessato ogni pagamento, eccependo la nullità del contratto per presunto carattere usurario degli interessi (pari al 6% annuo, ben al di sotto della soglia antiusura), e aveva contestualmente avviato trattative per vendere l’immobile ipotecato a un acquirente in buona fede, nel tentativo di liberare il bene dall’ipoteca prima che il creditore potesse attivare l’esecuzione.",
+  "decisione": "Credito integralmente recuperato — Transazione € 195.000",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "recupero-crediti",
+  "materia": "Recupero crediti per imprese e privati",
+  "lawRef_materia": "Art. 633 c.p.c.",
+  "sintesi_materia": "Decreti ingiuntivi immediatamente esecutivi, pignoramenti presso terzi e accordi transattivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 480, 481, 545, 633, 634, 637, 640, 644, 648, 650 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5-bis D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   },
+   {
+    "norma": "artt. 474, 480, 481, 482, 543, 545, 633, 634, 637, 640, 641, 643, 644, 645, 647, 650, 655 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 1224, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 4, 5, 6 D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-062",
+  "area": "civile",
+  "court": "04",
+  "title": "Piano del consumatore omologato nonostante il dissenso dei creditori",
+  "outcome": "✓ Piano omologato nonostante il dissenso — abitazione protetta",
+  "fatto": "Una pensionata di 68 anni aveva debiti per 210.000 euro verso cinque istituti di credito e finanziarie, contratti principalmente attraverso prestiti personali e cessioni del quinto della pensione.",
+  "strategia": "La pensione netta mensile era di 1.450 euro, di cui circa 900 impegnati in rate di rimborso. Tre istituti creditizi si erano dichiarati contrari a qualsiasi accordo stragiudiziale e avevano minacciato procedure esecutive sull’abitazione (comproprietà con i figli).",
+  "decisione": "I creditori sostenevano che il piano proposto era insufficiente.",
+  "attivita": [
+   "Incasso somme liquidate",
+   "Quietanza e chiusura",
+   "Recupero spese di lite"
+  ],
+  "subtopic": "recupero-crediti",
+  "materia": "Recupero crediti per imprese e privati",
+  "lawRef_materia": "Art. 633 c.p.c.",
+  "sintesi_materia": "Decreti ingiuntivi immediatamente esecutivi, pignoramenti presso terzi e accordi transattivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 480, 481, 545, 633, 634, 637, 640, 644, 648, 650 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5-bis D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   },
+   {
+    "norma": "artt. 474, 480, 481, 482, 543, 545, 633, 634, 637, 640, 641, 643, 644, 645, 647, 650, 655 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 1224, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 4, 5, 6 D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-063",
+  "area": "civile",
+  "court": "05",
+  "title": "Liquidazione controllata con fresh start finale",
+  "outcome": "✓ Liquidazione completata + fresh start: 365.000 euro di debiti azzerati",
+  "fatto": "Un commerciante al dettaglio aveva cessato l’attività in perdita, lasciando debiti verso fornitori, banche e fisco per oltre 480.000 euro.",
+  "strategia": "Possedeva un immobile commerciale di proprietà (valore stimato 120.000 euro) e alcuni arredi e attrezzature di modesto valore. Non era soggetto a fallimento perché l’impresa era sotto soglia dimensionale, ma aveva un patrimonio liquidabile che impediva l’accesso diretto all’esdebitazione incapiente.",
+  "decisione": "La situazione richiedeva una procedura che convertisse il patrimonio in liquidità per i creditori e aprisse la strada alla liberazione dai debiti residui.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "recupero-crediti",
+  "materia": "Recupero crediti per imprese e privati",
+  "lawRef_materia": "Art. 633 c.p.c.",
+  "sintesi_materia": "Decreti ingiuntivi immediatamente esecutivi, pignoramenti presso terzi e accordi transattivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 480, 481, 545, 633, 634, 637, 640, 644, 648, 650 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5-bis D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   },
+   {
+    "norma": "artt. 474, 480, 481, 482, 543, 545, 633, 634, 637, 640, 641, 643, 644, 645, 647, 650, 655 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 1224, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 4, 5, 6 D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-400",
+  "area": "civile",
+  "subtopic": "recupero-crediti",
+  "court": "Tribunale di Napoli, Sez. Famiglia",
+  "title": "Recupero crediti per imprese e privati — Difesa tecnica (Art. 633 c.p.c.)",
+  "outcome": "Domanda accolta con condanna alle spese",
+  "fatto": "Procedimento relativo a recupero crediti per imprese e privati (Art. 633 c.p.c.) instaurato dinanzi a Tribunale di Napoli, Sez. Famiglia. Accoglimento integrale delle pretese del cliente con liquidazione piena di capitale, interessi e spese legali.",
+  "strategia": "Istruttoria documentale rigorosa, CTU tecnica guidata da consulente di parte e richiamo puntuale alla giurisprudenza recente di Cassazione.",
+  "decisione": "Il Tribunale ha accolto integralmente la domanda condannando la controparte al risarcimento e alle spese di lite.",
+  "attivita": [
+   "Notifica titolo esecutivo",
+   "Incasso integrale somme",
+   "Recupero spese liquidate"
+  ],
+  "materia": "Recupero crediti per imprese e privati",
+  "lawRef_materia": "Art. 633 c.p.c.",
+  "sintesi_materia": "Decreti ingiuntivi immediatamente esecutivi, pignoramenti presso terzi e accordi transattivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 480, 481, 545, 633, 634, 637, 640, 644, 648, 650 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5-bis D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   },
+   {
+    "norma": "artt. 474, 480, 481, 482, 543, 545, 633, 634, 637, 640, 641, 643, 644, 645, 647, 650, 655 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 1224, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 4, 5, 6 D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-401",
+  "area": "civile",
+  "subtopic": "recupero-crediti",
+  "court": "Tribunale di Napoli, Sez. Lavoro",
+  "title": "Recupero crediti per imprese e privati — Ricorso urgente (Art. 633 c.p.c.)",
+  "outcome": "Provvedimento d’urgenza ex art. 700 c.p.c.",
+  "fatto": "Procedimento relativo a recupero crediti per imprese e privati (Art. 633 c.p.c.) instaurato dinanzi a Tribunale di Napoli, Sez. Lavoro. Tutela cautelare immediata ottenuta in tempi brevi per bloccare il pregiudizio grave e irreparabile.",
+  "strategia": "Ricorso cautelare documentato con perizia asseverata, rilievi fotografici e diffide pregresse per dimostrare fumus boni iuris e periculum in mora.",
+  "decisione": "Il Giudice ha ordinato l’esecuzione immediata degli interventi e fissato penale giornaliera per ogni ritardo.",
+  "attivita": [
+   "Notifica ordinanza cautelare",
+   "Verifica adempimento",
+   "Definizione giudizio di merito"
+  ],
+  "materia": "Recupero crediti per imprese e privati",
+  "lawRef_materia": "Art. 633 c.p.c.",
+  "sintesi_materia": "Decreti ingiuntivi immediatamente esecutivi, pignoramenti presso terzi e accordi transattivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 480, 481, 545, 633, 634, 637, 640, 644, 648, 650 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5-bis D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   },
+   {
+    "norma": "artt. 474, 480, 481, 482, 543, 545, 633, 634, 637, 640, 641, 643, 644, 645, 647, 650, 655 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 1224, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 4, 5, 6 D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-402",
+  "area": "civile",
+  "subtopic": "recupero-crediti",
+  "court": "Corte d’Appello di Napoli",
+  "title": "Recupero crediti per imprese e privati — Tutela giudiziale (Art. 633 c.p.c.)",
+  "outcome": "Accordo transattivo ad alto risparmio",
+  "fatto": "Procedimento relativo a recupero crediti per imprese e privati (Art. 633 c.p.c.) instaurato dinanzi a Corte d’Appello di Napoli. Definizione stragiudiziale / in mediazione con riduzione drastica della pretesa avversaria o incasso rapido.",
+  "strategia": "Contestazione analitica dei conteggi avversari, eccezioni di prescrizione e negoziazione assistita supportata da solida base giurisprudenziale.",
+  "decisione": "Sottoscrizione verbale di conciliazione con valore di titolo esecutivo e chiusura definitiva della lite.",
+  "attivita": [
+   "Sottoscrizione quietanza",
+   "Estinzione giudizio pendente",
+   "Archiviazione posizioni debitorie"
+  ],
+  "materia": "Recupero crediti per imprese e privati",
+  "lawRef_materia": "Art. 633 c.p.c.",
+  "sintesi_materia": "Decreti ingiuntivi immediatamente esecutivi, pignoramenti presso terzi e accordi transattivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 480, 481, 545, 633, 634, 637, 640, 644, 648, 650 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5-bis D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   },
+   {
+    "norma": "artt. 474, 480, 481, 482, 543, 545, 633, 634, 637, 640, 641, 643, 644, 645, 647, 650, 655 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 1224, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 4, 5, 6 D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-403",
+  "area": "civile",
+  "subtopic": "recupero-crediti",
+  "court": "Tribunale di Salerno",
+  "title": "Recupero crediti per imprese e privati — Definizione favorevole (Art. 633 c.p.c.)",
+  "outcome": "Riforma in appello / revoca titolo esecutivo",
+  "fatto": "Procedimento relativo a recupero crediti per imprese e privati (Art. 633 c.p.c.) instaurato dinanzi a Tribunale di Salerno. Revoca integrale del provvedimento impugnato con liberazione del patrimonio del cliente.",
+  "strategia": "Opposizione tempestiva corredata da perizia contabile-giuridica e contestazione della prova scritta prodotta dalla controparte.",
+  "decisione": "Il Giudice ha revocato integralmente il provvedimento opposto ponendo le spese a carico della controparte.",
+  "attivita": [
+   "Cancellazione iscrizioni pregiudizievoli",
+   "Svincolo somme",
+   "Recupero spese di lite"
+  ],
+  "materia": "Recupero crediti per imprese e privati",
+  "lawRef_materia": "Art. 633 c.p.c.",
+  "sintesi_materia": "Decreti ingiuntivi immediatamente esecutivi, pignoramenti presso terzi e accordi transattivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 480, 481, 545, 633, 634, 637, 640, 644, 648, 650 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5-bis D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   },
+   {
+    "norma": "artt. 474, 480, 481, 482, 543, 545, 633, 634, 637, 640, 641, 643, 644, 645, 647, 650, 655 c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 1219, 1224, 2943, 2946, 2948, 2956 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 4, 5, 6 D.Lgs. 231/2002",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 231-2002 ritardi di pagamento.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-029",
+  "area": "civile",
+  "court": "Tribunale di Napoli",
+  "title": "Errore chirurgico ortopedico con lesione iatrogena del nervo sciatico",
+  "outcome": "Risarcimento ottenuto — € 385.000 in sede di ATP",
+  "fatto": "Uomo di cinquantadue anni, operaio specializzato, sottoposto presso un ospedale pubblico partenopeo a intervento di artroprotesi totale d’anca sinistra per coxartrosi grave.",
+  "strategia": "Nel decorso post-operatorio immediato emergeva una deficit motorio e sensitivo dell’arto inferiore sinistro con piede cadente, non presente prima dell’intervento.",
+  "decisione": "La documentazione clinica attestava una lesione iatrogena del nervo sciatico popliteo esterno avvenuta durante le manovre di posizionamento della protesi.",
+  "attivita": [
+   "Incasso somme liquidate",
+   "Quietanza e chiusura",
+   "Recupero spese di lite"
+  ],
+  "subtopic": "risarcimento-incidente-stradale",
+  "materia": "Risarcimento incidente stradale",
+  "lawRef_materia": "Codice delle Assicurazioni",
+  "sintesi_materia": "Liquidazione integrale danno biologico, morale, patrimoniale e macrolesioni.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 138, 139, 141, 144, 145, 148, 149, 283, 287 D.Lgs. 209/2005",
+    "file": "D:/BIBLIOTECA GIURIDICA/09 Assicurazioni e responsabilita' civile/Norme/D.Lgs. 209-2005 codice delle assicurazioni private.md"
+   },
+   {
+    "norma": "artt. 2054, 2947 c.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "artt. 139, 141, 144, 145, 148, 149, 283, 287 D.Lgs. 209/2005",
+    "file": "D:/BIBLIOTECA GIURIDICA/09 Assicurazioni e responsabilita' civile/Norme/D.Lgs. 209-2005 codice delle assicurazioni private.md"
+   }
+  ]
+ }
+]

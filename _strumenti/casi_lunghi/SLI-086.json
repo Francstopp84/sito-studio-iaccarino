@@ -1,0 +1,75 @@
+{
+ "id": "SLI-086",
+ "seo_title": "Messaggi in un gruppo WhatsApp condominiale: querela tardiva",
+ "description": "Accuse all'amministratore in un gruppo WhatsApp condominiale: non luogo a procedere per querela tardiva, tra mezzo di pubblicità e fatto determinato.",
+ "parole_chiave": [
+  "diffamazione gruppo WhatsApp condominio",
+  "querela diffamazione tardiva",
+  "messaggi offensivi chat condominiale",
+  "non luogo a procedere diffamazione",
+  "mezzo di pubblicità diffamazione"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le norme sulla diffamazione e sul termine della querela",
+   "paragrafi": [
+    "L'art. 595 del codice penale punisce chi, comunicando con più persone, offende l'altrui reputazione. Il comma 2 prevede un aumento se l'offesa consiste nell'attribuzione di un fatto determinato, e il comma 3 se è recata con un mezzo di pubblicità. Il reato è punibile a querela, e l'art. 124 fissa il termine di tre mesi dal giorno della notizia del fatto.",
+    "Sul versante processuale, l'art. 425 del codice di procedura penale tratta la sentenza di non luogo a procedere nell'udienza preliminare, da pronunciare tra l'altro quando manca una condizione di procedibilità. L'art. 129 impone al giudice di dichiarare in ogni stato e grado la causa di non punibilità o di improcedibilità."
+   ]
+  },
+  {
+   "h2": "Perché è stato dichiarato il non luogo a procedere",
+   "paragrafi": [
+    "Nel caso, un condomino, dopo anni di controversie condominiali, aveva scritto in un gruppo WhatsApp di 47 partecipanti messaggi in cui accusava l'amministratore di gestione opaca dei fondi condominiali e di favorire alcuni condomini a danno di altri. L'amministratore aveva sporto querela per diffamazione aggravata, sostenendo che il gruppo integrasse il mezzo di pubblicità.",
+    "Il Tribunale di Napoli Nord ha dichiarato il non luogo a procedere per querela tardiva. Questo significa che, prima di discutere se il gruppo costituisse davvero pubblicità o se le frasi fossero lesive, è bastato rilevare che la querela era stata proposta fuori dal termine dell'art. 124, con la conseguente mancanza della condizione di procedibilità."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale, quando si riceve una querela per messaggi in una chat, conviene distinguere tre profili: la data in cui il querelante li ha letti o ne ha avuto notizia, il contenuto delle frasi e il numero e la qualità dei destinatari. Il terzo profilo incide sull'aggravante del mezzo di pubblicità, mentre il primo può rendere la querela tardiva.",
+    "Ogni vicenda va valutata sui suoi atti e senza previsioni sull'esito. Va evitato di cancellare i messaggi, perché la chat è il documento che consente di ricostruire date e parole.",
+    "Per analogia, anche chi si sente offeso da un messaggio dovrebbe annotare subito quando l'ha letto: la data della prima notizia è il punto da cui si conta il termine, e una ricostruzione tardiva rischia di essere contestata. Chi scrive in un gruppo, a sua volta, dovrebbe sapere che il numero dei destinatari conta per la diffusione del messaggio."
+   ],
+   "elenco": [
+    "schermate integrali della chat con date e partecipanti",
+    "querela con la data di presentazione",
+    "prova di quando il querelante ha ricevuto notizia dei messaggi",
+    "elenco dei partecipanti al gruppo",
+    "verbali di assemblea collegati alle contestazioni"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "L'errore principale è considerare la lite pregressa come attenuazione automatica del reato: l'esasperazione per anni di controversie può contare nella valutazione complessiva, ma non sostituisce le condizioni di procedibilità. Il primo controllo è sempre la tempestività della querela.",
+    "Un secondo errore è confondere il grado di diffusione con l'aggravante: l'art. 595 distingue il fatto determinato dal mezzo di pubblicità, e ciascuna aggravante va dimostrata. In udienza preliminare, la questione di procedibilità può essere sollevata e decisa prima di entrare nel merito. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Scrivere offese in un gruppo WhatsApp è diffamazione?",
+   "a": "Può esserlo, se le frasi offendono la reputazione di una persona e sono comunicate a più persone, come prevede l'art. 595 del codice penale. La valutazione dipende dalle parole usate, dai destinatari e dal contesto. Il reato è perseguibile solo con querela presentata nei termini."
+  },
+  {
+   "q": "Il gruppo WhatsApp è un mezzo di pubblicità?",
+   "a": "Lo stabilisce il giudice caso per caso. L'art. 595, comma 3, prevede l'aggravante per l'offesa recata con un mezzo di pubblicità. Nel caso la questione è stata superata, perché la querela era tardiva, ma in altre vicende il numero dei partecipanti e la natura del gruppo possono essere esaminati."
+  },
+  {
+   "q": "Quando termina il processo per querela tardiva?",
+   "a": "Quando il giudice rileva la tardività, manca una condizione di procedibilità. In udienza preliminare può essere pronunciata sentenza di non luogo a procedere ai sensi dell'art. 425 del codice di procedura penale. Il giudice ne dà atto senza valutare la fondatezza dell'accusa."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 124 e 595 c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "artt. 129 e 425 c.p.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+  }
+ ],
+ "parole": 683
+}

@@ -1,0 +1,476 @@
+[
+ {
+  "id": "SLI-348",
+  "area": "penale",
+  "subtopic": "reati-informatici",
+  "court": "Corte di Cassazione, Sez. Penale",
+  "title": "Reati informatici e frodi digitali — Difesa tecnica (Artt. 615-ter–640-ter c.p.)",
+  "outcome": "Assoluzione con formula piena",
+  "fatto": "Procedimento relativo a reati informatici e frodi digitali (Artt. 615-ter–640-ter c.p.) instaurato dinanzi a Corte di Cassazione, Sez. Penale. Archiviazione / proscioglimento integrale per insussistenza del fatto o difetto di elemento soggettivo.",
+  "strategia": "La difesa ha depositato indagini difensive tempestive, consulenza tecnica di parte e memoria ex art. 415-bis c.p.p. demolendo la tenuta dell’ipotesi accusatoria.",
+  "decisione": "Pronuncia integralmente liberatoria con caducazione di ogni vincolo reale e personale.",
+  "attivita": [
+   "Notifica sentenza definitiva",
+   "Cancellazione pendenze",
+   "Restituzione beni in sequestro"
+  ],
+  "materia": "Reati informatici e frodi digitali",
+  "lawRef_materia": "Artt. 615-ter–640-ter c.p.",
+  "sintesi_materia": "Accesso abusivo, frode informatica, perizie forensi su log e dispositivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-349",
+  "area": "penale",
+  "subtopic": "reati-informatici",
+  "court": "Tribunale di Torre Annunziata",
+  "title": "Reati informatici e frodi digitali — Ricorso urgente (Artt. 615-ter–640-ter c.p.)",
+  "outcome": "Revoca misura cautelare e dissequestro",
+  "fatto": "Procedimento relativo a reati informatici e frodi digitali (Artt. 615-ter–640-ter c.p.) instaurato dinanzi a Tribunale di Torre Annunziata. Annullamento ordinanza cautelare con immediato ripristino della libertà e sblocco dei conti.",
+  "strategia": "Istanza al Tribunale del Riesame centrata sul difetto di gravità indiziaria, sull’assenza di attualità delle esigenze cautelari e sulla tracciabilità documentale.",
+  "decisione": "Il Collegio ha accolto integralmente il riesame revocando la misura e disponendo il dissequestro.",
+  "attivita": [
+   "Esecuzione immediata provvedimento",
+   "Sblocco rapporti bancari",
+   "Monitoraggio fase dibattimentale"
+  ],
+  "materia": "Reati informatici e frodi digitali",
+  "lawRef_materia": "Artt. 615-ter–640-ter c.p.",
+  "sintesi_materia": "Accesso abusivo, frode informatica, perizie forensi su log e dispositivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-350",
+  "area": "penale",
+  "subtopic": "reati-informatici",
+  "court": "Tribunale di Napoli Nord",
+  "title": "Reati informatici e frodi digitali — Tutela giudiziale (Artt. 615-ter–640-ter c.p.)",
+  "outcome": "Non punibilità ex art. 131-bis c.p. / Messa alla prova",
+  "fatto": "Procedimento relativo a reati informatici e frodi digitali (Artt. 615-ter–640-ter c.p.) instaurato dinanzi a Tribunale di Napoli Nord. Estinzione del procedimento senza condanna né iscrizione pregiudizievole nel casellario.",
+  "strategia": "Ricostruzione dell’occasionalità della condotta, integrale riparazione e accesso strategico agli istituti deflattivi prima dell’apertura dibattimentale.",
+  "decisione": "Il Giudice ha dichiarato l’estinzione del reato escludendo sanzioni detentive e pene accessorie.",
+  "attivita": [
+   "Verifica casellario giudiziale",
+   "Chiusura posizione processuale",
+   "Restituzione patente o beni"
+  ],
+  "materia": "Reati informatici e frodi digitali",
+  "lawRef_materia": "Artt. 615-ter–640-ter c.p.",
+  "sintesi_materia": "Accesso abusivo, frode informatica, perizie forensi su log e dispositivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-351",
+  "area": "penale",
+  "subtopic": "reati-informatici",
+  "court": "Tribunale di Salerno",
+  "title": "Reati informatici e frodi digitali — Definizione favorevole (Artt. 615-ter–640-ter c.p.)",
+  "outcome": "Riqualificazione in appello e riduzione pena",
+  "fatto": "Procedimento relativo a reati informatici e frodi digitali (Artt. 615-ter–640-ter c.p.) instaurato dinanzi a Tribunale di Salerno. Riforma sostanziale della sentenza di primo grado con esclusione delle aggravanti e sospensione condizionale.",
+  "strategia": "Atto di appello fondato su vizi motivazionali, contestazione dell’attendibilità dichiarativa e perizia tecnico-giuridica di parte.",
+  "decisione": "La Corte d’Appello ha accolto i motivi difensivi rideterminando radicalmente il trattamento sanzionatorio.",
+  "attivita": [
+   "Deposito istanze esecutive",
+   "Verifica sospensione condizionale",
+   "Chiusura giudizio di gravame"
+  ],
+  "materia": "Reati informatici e frodi digitali",
+  "lawRef_materia": "Artt. 615-ter–640-ter c.p.",
+  "sintesi_materia": "Accesso abusivo, frode informatica, perizie forensi su log e dispositivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-546",
+  "area": "penale",
+  "subtopic": "reati-informatici",
+  "court": "Tribunale del Riesame di Napoli",
+  "title": "Indagine su messaggistica criptata (Sky ECC): inutilizzabilità e scarcerazione",
+  "outcome": "Ordinanza cautelare annullata — Inutilizzabilità delle chat acquisite senza OEI",
+  "fatto": "Un imprenditore veniva sottoposto a custodia cautelare sulla base di presunte conversazioni estratte da server esteri di messaggistica cifrata, attribuite all’indagato tramite un nickname non verificato.",
+  "strategia": "La difesa ha eccepito dinanzi al Riesame la violazione dei principi stabiliti dalle Sezioni Unite della Cassazione in materia di Ordine Europeo di Indagine, integrità della catena di custodia forense e assenza di prova certa dell’identità dell’utilizzatore del terminale.",
+  "decisione": "Il Tribunale del Riesame ha dichiarato l’inutilizzabilità del compendio digitale estero e disposto l’immediata rimessione in libertà dell’assistito.",
+  "attivita": [
+   "Esecuzione ordine di liberazione",
+   "Restituzione dispositivi sequestrati",
+   "Deposito memoria difensiva per archiviazione"
+  ],
+  "materia": "Reati informatici e frodi digitali",
+  "lawRef_materia": "Artt. 615-ter–640-ter c.p.",
+  "sintesi_materia": "Accesso abusivo, frode informatica, perizie forensi su log e dispositivi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "Codice penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-118",
+  "area": "penale",
+  "court": "Tribunale di Torre Annunziata",
+  "title": "Particolare tenuità del fatto",
+  "outcome": "Non punibilità per tenuità del fatto — Art. 131-bis c.p.",
+  "fatto": "Pensionato denunciato dalla vicina di casa per averle detto, in due distinte occasioni durante discussioni sull’utilizzo del giardino condominiale, “stai attenta a te” e “non ti conviene continuare così”.",
+  "strategia": "La prova consisteva nella sola dichiarazione della persona offesa, senza riscontri esterni.",
+  "decisione": "Non punibilità per tenuità del fatto — Art. 131-bis c.p.",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "reati-tributari",
+  "materia": "Reati tributari e bancarotta",
+  "lawRef_materia": "D.Lgs. 74/2000 · CCII",
+  "sintesi_materia": "Difesa di amministratori in liquidazione giudiziale, bancarotta fraudolenta e omessi versamenti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "D.Lgs. 14/2019 (codice della crisi d'impresa)",
+    "file": "D:/BIBLIOTECA GIURIDICA/06 Fallimentare e crisi d'impresa/Norme/D.Lgs. 14-2019 codice della crisi d'impresa.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "D.Lgs. 74/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 74-2000 reati tributari.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-133",
+  "area": "penale",
+  "court": "Tribunale del Riesame di Napoli",
+  "title": "Emissione fatture false: revoca del sequestro",
+  "outcome": "Sequestro ridotto dell’80% — Conti e immobile dissequestrati",
+  "fatto": "Amministratore di una società di consulenza accusato di aver emesso fatture per operazioni inesistenti a favore di società terze. La Procura aveva disposto il sequestro preventivo di € 850.000, bloccando i conti correnti aziendali e personali, un immobile adibito a sede operativa e due autovetture. L’attività imprenditoriale era paralizzata.",
+  "strategia": "La difesa ha immediatamente impugnato il sequestro dinanzi al Tribunale del Riesame.",
+  "decisione": "Sequestro ridotto dell’80% — Conti e immobile dissequestrati",
+  "attivita": [
+   "Dissequestro eseguito",
+   "Sblocco conti e beni",
+   "Cancellazione vincoli"
+  ],
+  "subtopic": "reati-tributari",
+  "materia": "Reati tributari e bancarotta",
+  "lawRef_materia": "D.Lgs. 74/2000 · CCII",
+  "sintesi_materia": "Difesa di amministratori in liquidazione giudiziale, bancarotta fraudolenta e omessi versamenti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "D.Lgs. 14/2019 (codice della crisi d'impresa)",
+    "file": "D:/BIBLIOTECA GIURIDICA/06 Fallimentare e crisi d'impresa/Norme/D.Lgs. 14-2019 codice della crisi d'impresa.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "D.Lgs. 74/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 74-2000 reati tributari.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-352",
+  "area": "penale",
+  "subtopic": "reati-tributari",
+  "court": "Tribunale di Torre Annunziata",
+  "title": "Reati tributari e bancarotta — Difesa tecnica (D.Lgs. 74/2000 · CCII)",
+  "outcome": "Assoluzione con formula piena",
+  "fatto": "Procedimento relativo a reati tributari e bancarotta (D.Lgs. 74/2000 · CCII) instaurato dinanzi a Tribunale di Torre Annunziata. Archiviazione / proscioglimento integrale per insussistenza del fatto o difetto di elemento soggettivo.",
+  "strategia": "La difesa ha depositato indagini difensive tempestive, consulenza tecnica di parte e memoria ex art. 415-bis c.p.p. demolendo la tenuta dell’ipotesi accusatoria.",
+  "decisione": "Pronuncia integralmente liberatoria con caducazione di ogni vincolo reale e personale.",
+  "attivita": [
+   "Notifica sentenza definitiva",
+   "Cancellazione pendenze",
+   "Restituzione beni in sequestro"
+  ],
+  "materia": "Reati tributari e bancarotta",
+  "lawRef_materia": "D.Lgs. 74/2000 · CCII",
+  "sintesi_materia": "Difesa di amministratori in liquidazione giudiziale, bancarotta fraudolenta e omessi versamenti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "D.Lgs. 14/2019 (codice della crisi d'impresa)",
+    "file": "D:/BIBLIOTECA GIURIDICA/06 Fallimentare e crisi d'impresa/Norme/D.Lgs. 14-2019 codice della crisi d'impresa.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "D.Lgs. 74/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 74-2000 reati tributari.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-353",
+  "area": "penale",
+  "subtopic": "reati-tributari",
+  "court": "Tribunale di Napoli Nord",
+  "title": "Reati tributari e bancarotta — Ricorso urgente (D.Lgs. 74/2000 · CCII)",
+  "outcome": "Revoca misura cautelare e dissequestro",
+  "fatto": "Procedimento relativo a reati tributari e bancarotta (D.Lgs. 74/2000 · CCII) instaurato dinanzi a Tribunale di Napoli Nord. Annullamento ordinanza cautelare con immediato ripristino della libertà e sblocco dei conti.",
+  "strategia": "Istanza al Tribunale del Riesame centrata sul difetto di gravità indiziaria, sull’assenza di attualità delle esigenze cautelari e sulla tracciabilità documentale.",
+  "decisione": "Il Collegio ha accolto integralmente il riesame revocando la misura e disponendo il dissequestro.",
+  "attivita": [
+   "Esecuzione immediata provvedimento",
+   "Sblocco rapporti bancari",
+   "Monitoraggio fase dibattimentale"
+  ],
+  "materia": "Reati tributari e bancarotta",
+  "lawRef_materia": "D.Lgs. 74/2000 · CCII",
+  "sintesi_materia": "Difesa di amministratori in liquidazione giudiziale, bancarotta fraudolenta e omessi versamenti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "D.Lgs. 14/2019 (codice della crisi d'impresa)",
+    "file": "D:/BIBLIOTECA GIURIDICA/06 Fallimentare e crisi d'impresa/Norme/D.Lgs. 14-2019 codice della crisi d'impresa.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "D.Lgs. 74/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 74-2000 reati tributari.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-354",
+  "area": "penale",
+  "subtopic": "reati-tributari",
+  "court": "Tribunale di Salerno",
+  "title": "Reati tributari e bancarotta — Tutela giudiziale (D.Lgs. 74/2000 · CCII)",
+  "outcome": "Non punibilità ex art. 131-bis c.p. / Messa alla prova",
+  "fatto": "Procedimento relativo a reati tributari e bancarotta (D.Lgs. 74/2000 · CCII) instaurato dinanzi a Tribunale di Salerno. Estinzione del procedimento senza condanna né iscrizione pregiudizievole nel casellario.",
+  "strategia": "Ricostruzione dell’occasionalità della condotta, integrale riparazione e accesso strategico agli istituti deflattivi prima dell’apertura dibattimentale.",
+  "decisione": "Il Giudice ha dichiarato l’estinzione del reato escludendo sanzioni detentive e pene accessorie.",
+  "attivita": [
+   "Verifica casellario giudiziale",
+   "Chiusura posizione processuale",
+   "Restituzione patente o beni"
+  ],
+  "materia": "Reati tributari e bancarotta",
+  "lawRef_materia": "D.Lgs. 74/2000 · CCII",
+  "sintesi_materia": "Difesa di amministratori in liquidazione giudiziale, bancarotta fraudolenta e omessi versamenti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "D.Lgs. 14/2019 (codice della crisi d'impresa)",
+    "file": "D:/BIBLIOTECA GIURIDICA/06 Fallimentare e crisi d'impresa/Norme/D.Lgs. 14-2019 codice della crisi d'impresa.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "D.Lgs. 74/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 74-2000 reati tributari.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-355",
+  "area": "penale",
+  "subtopic": "reati-tributari",
+  "court": "Tribunale di Roma",
+  "title": "Reati tributari e bancarotta — Definizione favorevole (D.Lgs. 74/2000 · CCII)",
+  "outcome": "Riqualificazione in appello e riduzione pena",
+  "fatto": "Procedimento relativo a reati tributari e bancarotta (D.Lgs. 74/2000 · CCII) instaurato dinanzi a Tribunale di Roma. Riforma sostanziale della sentenza di primo grado con esclusione delle aggravanti e sospensione condizionale.",
+  "strategia": "Atto di appello fondato su vizi motivazionali, contestazione dell’attendibilità dichiarativa e perizia tecnico-giuridica di parte.",
+  "decisione": "La Corte d’Appello ha accolto i motivi difensivi rideterminando radicalmente il trattamento sanzionatorio.",
+  "attivita": [
+   "Deposito istanze esecutive",
+   "Verifica sospensione condizionale",
+   "Chiusura giudizio di gravame"
+  ],
+  "materia": "Reati tributari e bancarotta",
+  "lawRef_materia": "D.Lgs. 74/2000 · CCII",
+  "sintesi_materia": "Difesa di amministratori in liquidazione giudiziale, bancarotta fraudolenta e omessi versamenti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "D.Lgs. 14/2019 (codice della crisi d'impresa)",
+    "file": "D:/BIBLIOTECA GIURIDICA/06 Fallimentare e crisi d'impresa/Norme/D.Lgs. 14-2019 codice della crisi d'impresa.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "D.Lgs. 74/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 74-2000 reati tributari.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-547",
+  "area": "penale",
+  "subtopic": "reati-tributari",
+  "court": "Corte di Cassazione · Sez. V Penale",
+  "title": "Bancarotta fraudolenta per distrazione: annullamento senza rinvio",
+  "outcome": "Sentenza annullata in Cassazione — Insussistenza del dolo distrattivo",
+  "fatto": "Amministratore di società dichiarata insolvente condannato nei gradi di merito per presunta distrazione di liquidità aziendale destinata al pagamento di fornitori strategici e compensi di gestione.",
+  "strategia": "Il ricorso per Cassazione ha dimostrato il vizio di motivazione della Corte territoriale rispetto alla perizia contabile di parte, evidenziando la piena tracciabilità bancaria e l’inerenza economica delle uscite alla continuità dell’impresa.",
+  "decisione": "La Suprema Corte ha annullato la condanna riconoscendo che l’operazione rispondeva a una scelta gestionale lecita priva di volontà depauperatoria.",
+  "attivita": [
+   "Chiusura definitiva del procedimento",
+   "Dissequestro beni immobili",
+   "Riabilitazione commerciale dell’amministratore"
+  ],
+  "materia": "Reati tributari e bancarotta",
+  "lawRef_materia": "D.Lgs. 74/2000 · CCII",
+  "sintesi_materia": "Difesa di amministratori in liquidazione giudiziale, bancarotta fraudolenta e omessi versamenti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "D.Lgs. 14/2019 (codice della crisi d'impresa)",
+    "file": "D:/BIBLIOTECA GIURIDICA/06 Fallimentare e crisi d'impresa/Norme/D.Lgs. 14-2019 codice della crisi d'impresa.md"
+   },
+   {
+    "norma": "Codice di procedura penale",
+    "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+   },
+   {
+    "norma": "D.Lgs. 74/2000",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 74-2000 reati tributari.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-087",
+  "area": "penale",
+  "court": "Tribunale di Milano",
+  "title": "Commento su Instagram contro un influencer",
+  "outcome": "Assoluzione — Fatto non costituisce reato",
+  "fatto": "Utente che aveva commentato sotto il post di un noto influencer scrivendo che questi «promuoveva prodotti scadenti in cambio di soldi, ingannando migliaia di follower», dopo aver acquistato un prodotto sponsorizzato rivelatosi di qualità inferiore a quanto pubblicizzato.",
+  "strategia": "L’influencer aveva sporto querela e si era costituito parte civile chiedendo un risarcimento di € 80.000 per danno all’immagine professionale.",
+  "decisione": "Assoluzione — Fatto non costituisce reato",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "stalking",
+  "materia": "Stalking e atti persecutori",
+  "lawRef_materia": "Art. 612-bis c.p.",
+  "sintesi_materia": "Tutela cautelare urgente, revoca divieti di avvicinamento e difesa dibattimentale.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 124, 612, 612-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "art. 387-bis c.p., L. 69/2019 (codice rosso)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   },
+   {
+    "norma": "artt. 282-ter, 282-quater, 347, 362, 370, 392 co. 1-bis, 415-bis c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 612-bis c.p. (atti persecutori)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "art. 162-ter c.p. (condotte riparatorie, esclusione 612-bis)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "art. 387-bis c.p. (violazione allontanamento e divieto di avvicinamento), introdotto da art. 4 L. 69/2019",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   },
+   {
+    "norma": "artt. 274, 282-ter, 309, 380, 391-bis, 415-bis c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-110",
+  "area": "penale",
+  "court": "Tribunale di Roma",
+  "title": "Denuncia strumentale in sede di separazione",
+  "outcome": "Assoluzione piena — Affidamento condiviso confermato",
+  "fatto": "Un padre veniva denunciato dalla ex compagna per maltrattamenti e atti persecutori tre giorni dopo aver depositato ricorso per l’affidamento condiviso dei figli.",
+  "strategia": "La donna riferiva episodi di violenza fisica e psicologica protratti per anni, senza aver mai prodotto referti medici o denunciato in precedenza.",
+  "decisione": "Assoluzione piena — Affidamento condiviso confermato",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "stalking",
+  "materia": "Stalking e atti persecutori",
+  "lawRef_materia": "Art. 612-bis c.p.",
+  "sintesi_materia": "Tutela cautelare urgente, revoca divieti di avvicinamento e difesa dibattimentale.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 124, 612, 612-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "art. 387-bis c.p., L. 69/2019 (codice rosso)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   },
+   {
+    "norma": "artt. 282-ter, 282-quater, 347, 362, 370, 392 co. 1-bis, 415-bis c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 612-bis c.p. (atti persecutori)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "art. 162-ter c.p. (condotte riparatorie, esclusione 612-bis)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "art. 387-bis c.p. (violazione allontanamento e divieto di avvicinamento), introdotto da art. 4 L. 69/2019",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\L. 69-2019 codice rosso.md"
+   },
+   {
+    "norma": "artt. 274, 282-ter, 309, 380, 391-bis, 415-bis c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ }
+]

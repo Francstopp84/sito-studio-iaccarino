@@ -1,0 +1,70 @@
+{
+ "id": "SLI-420",
+ "seo_title": "Vizi della casa comprata: denuncia e garanzia del venditore",
+ "description": "Vizi dell'immobile acquistato: garanzia degli artt. 1490-1495 c.c., denuncia in otto giorni, risoluzione o riduzione del prezzo, risarcimento e prescrizione.",
+ "parole_chiave": [
+  "vizi casa acquistata garanzia",
+  "denuncia vizi otto giorni",
+  "riduzione del prezzo vizi",
+  "risoluzione compravendita immobile",
+  "prescrizione garanzia vizi un anno"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le norme applicate al caso",
+   "paragrafi": [
+    "Nel caso, deciso dal Tribunale di Milano, la domanda è stata accolta con condanna alle spese. Il testo non descrive i vizi né il bene, e per questo il taglio è quello dei termini e dei rimedi della compravendita. L'art. 1490 c.c. obbliga il venditore a garantire che la cosa venduta sia immune da vizi che la rendano inidonea all'uso a cui è destinata o ne diminuiscano in modo apprezzabile il valore; il patto che esclude o limita la garanzia non ha effetto se il venditore ha in mala fede taciuto i vizi.",
+    "L'art. 1491 c.c. esclude la garanzia se il compratore conosceva i vizi o se erano facilmente riconoscibili, salvo che il venditore abbia dichiarato che la cosa ne era esente. L'art. 1492 c.c. consente al compratore di scegliere tra la risoluzione del contratto e la riduzione del prezzo, e la scelta diventa irrevocabile quando è fatta con la domanda giudiziale. L'art. 1494 c.c. prevede il risarcimento del danno, salvo la prova dell'ignoranza incolpevole dei vizi da parte del venditore."
+   ]
+  },
+  {
+   "h2": "Perché la decisione è arrivata a questo esito",
+   "paragrafi": [
+    "Il caso riferisce l'accoglimento della domanda e la condanna alle spese, con istruttoria documentale e consulenza tecnica d'ufficio guidata da un consulente di parte. Non è possibile dire quale rimedio sia stato scelto tra risoluzione e riduzione del prezzo, né quale sia stata la somma. È però ragionevole osservare, in generale, che nelle liti sui vizi la consulenza tecnica ha un ruolo centrale, perché solo un tecnico può dire se un difetto esista, quando si sia manifestato e quanto incida sul valore.",
+    "La condanna alle spese segue l'esito favorevole del giudizio. Le attività successive indicate nel caso sono la notifica del titolo esecutivo, l'incasso e il recupero delle spese: la decisione deve essere portata a esecuzione con i passaggi ordinari."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi scopre un difetto in un immobile acquistato, in casi analoghi, deve agire subito su due fronti: raccogliere le prove e rispettare i termini. L'art. 1495 c.c. impone di denunciare i vizi al venditore entro otto giorni dalla scoperta, salvo che il venditore li abbia riconosciuti o occultati, e fissa la prescrizione dell'azione in un anno dalla consegna. Chi è convenuto in giudizio per il pagamento può comunque far valere la garanzia.",
+    "Va controllato inoltre che il difetto non fosse conosciuto o facilmente riconoscibile all'acquisto, perché in tal caso l'art. 1491 c.c. esclude la garanzia. Ogni vicenda va valutata sui suoi atti."
+   ],
+   "elenco": [
+    "Atto di acquisto e documenti del venditore, comprese le dichiarazioni sullo stato del bene",
+    "Fotografie datate e relazione di un tecnico sul difetto",
+    "Prova della data di consegna e della data di scoperta del vizio",
+    "Denuncia scritta al venditore con prova di ricezione",
+    "Preventivi o fatture dei lavori per eliminare il difetto"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il passo da non saltare è la denuncia. L'art. 1495 c.c. dice che il compratore decade dal diritto di garanzia se non denuncia i vizi entro otto giorni dalla scoperta, e che la denuncia non è necessaria se il venditore ha riconosciuto l'esistenza del vizio o l'ha occultato. Va conservata la prova dell'invio. Il termine di un anno dalla consegna per agire si interrompe con gli atti previsti per la prescrizione.",
+    "Dopo la decisione favorevole il titolo si notifica prima di avviare l'esecuzione. Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, tratta controversie sui vizi delle compravendite immobiliari."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Entro quanto devo denunciare i vizi di una casa comprata?",
+   "a": "L'art. 1495 c.c. prevede la denuncia al venditore entro otto giorni dalla scoperta, a pena di decadenza, tranne che il venditore abbia riconosciuto o occultato il vizio. L'azione si prescrive in un anno dalla consegna."
+  },
+  {
+   "q": "Posso chiedere la riduzione del prezzo invece della risoluzione?",
+   "a": "Sì, l'art. 1492 c.c. lascia la scelta al compratore tra risoluzione e riduzione, salvo che gli usi dispongano diversamente. La scelta diventa irrevocabile quando è fatta con la domanda giudiziale."
+  },
+  {
+   "q": "Se il vizio era visibile, c'è garanzia?",
+   "a": "L'art. 1491 c.c. esclude la garanzia quando il compratore conosceva i vizi o questi erano facilmente riconoscibili, salvo che il venditore abbia dichiarato la cosa esente da vizi."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 1490, 1491, 1492, 1494, 1495 c.c.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+  }
+ ],
+ "parole": 690
+}

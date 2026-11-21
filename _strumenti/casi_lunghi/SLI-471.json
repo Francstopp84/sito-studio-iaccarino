@@ -1,0 +1,87 @@
+{
+ "id": "SLI-471",
+ "seo_title": "Riclassamento ridotto oltre il settanta per cento e rimborso",
+ "description": "Riclassamento catastale riesaminato: perizia estimativa, riduzione oltre il 70% e rimborso con interessi. Norme su rimborso, silenzio e autotutela.",
+ "parole_chiave": [
+  "rimborso imposta catastale",
+  "riclassamento catastale riduzione",
+  "perizia estimativa comparativa",
+  "istanza di rimborso silenzio",
+  "interessi sul rimborso tributario"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il rimborso e i suoi termini",
+   "paragrafi": [
+    "Quando un contribuente ha pagato più del dovuto, la restituzione non è automatica. L'articolo 21, comma 2, del decreto legislativo 546 del 1992 indica che la domanda di restituzione, in mancanza di disposizioni specifiche, non può essere presentata dopo due anni dal pagamento, ovvero dal giorno in cui si è verificato il presupposto per la restituzione. Il ricorso avverso il rifiuto espresso va proposto entro sessanta giorni dalla notificazione; contro il silenzio può essere proposto dopo novanta giorni dalla domanda, finché il diritto non si prescrive.",
+    "L'articolo 19, alla lettera g, comprende fra gli atti impugnabili il rifiuto espresso o tacito della restituzione di tributi. È la norma che apre la strada al giudice quando l'ufficio non risponde."
+   ]
+  },
+  {
+   "h2": "Come è stato ottenuto il risultato",
+   "paragrafi": [
+    "Il caso riguardava un riclassamento catastale con una pretesa fiscale giudicata sproporzionata. La difesa ha prodotto una perizia estimativa e contabile comparativa e i documenti fiscali che attestavano la sproporzione. L'esito è stato una riduzione oltre il 70% e il rimborso maggiorato degli interessi, con accoglimento della domanda e rideterminazione equa dell'imposta.",
+    "Il riassunto non precisa l'ammontare, il tipo di immobile né il momento in cui l'ufficio ha deciso. Si può dire che la combinazione tra perizia comparativa e documentazione ha spostato il confronto su dati verificabili: valori, caratteristiche, rendite di unità paragonabili."
+   ]
+  },
+  {
+   "h2": "Autotutela e ricorso: come si combinano",
+   "paragrafi": [
+    "L'articolo 10-quater dello Statuto del contribuente prevede che l'amministrazione annulli o riduca l'atto, anche senza istanza, nei casi di manifesta illegittimità come l'errore sul presupposto d'imposta o l'errore di calcolo. Se l'atto è divenuto definitivo, l'obbligo non sussiste dopo un anno dalla definitività per mancata impugnazione.",
+    "La via dell'autotutela, quindi, è utile ma ha limiti, e non può sostituire il ricorso. In casi analoghi la scelta tra istanza all'ufficio e giudizio dipende dal tempo residuo, dalla qualità delle prove e dalla natura dell'errore."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In casi analoghi, il primo controllo riguarda le date: quando è stato pagato, quando è stata notificata la nuova rendita, quando scadono i due anni per chiedere il rimborso. Poi serve una perizia che metta a confronto l'immobile con unità analoghe della stessa zona e categoria, perché la sproporzione si dimostra con i numeri.",
+    "Conviene conservare ogni ricevuta di versamento e ogni comunicazione dell'ufficio. Una domanda di rimborso senza prova del pagamento è fragile. Ogni vicenda va valutata sui suoi atti."
+   ],
+   "elenco": [
+    "le ricevute di pagamento delle imposte",
+    "l'atto di riclassamento e la nuova rendita",
+    "la perizia estimativa comparativa",
+    "la domanda di rimborso e la prova dell'invio"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "L'errore più frequente è lasciare scadere il termine di due anni, perché la domanda tardiva viene respinta. Un secondo errore è attendere il silenzio senza ricordare che il ricorso contro il rifiuto espresso ha il termine di sessanta giorni dalla notificazione, previsto dall'articolo 21, a pena di inammissibilità. Per non perdere diritti conviene presentare la domanda con prova della data di invio e annotare subito le scadenze."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Entro quando si può chiedere il rimborso di un'imposta?",
+   "a": "In mancanza di norme specifiche, l'articolo 21, comma 2, del decreto legislativo 546 del 1992 indica due anni dal pagamento o dal giorno in cui è sorto il diritto alla restituzione. Il termine va controllato sulla singola imposta."
+  },
+  {
+   "q": "Se l'ufficio non risponde cosa si può fare?",
+   "a": "Il silenzio può essere impugnato dopo novanta giorni dalla domanda, come indica l'articolo 21, comma 2. L'articolo 19, lettera g, include il rifiuto tacito tra gli atti impugnabili davanti al giudice tributario."
+  },
+  {
+   "q": "A cosa serve la perizia comparativa?",
+   "a": "Serve a dimostrare con dati verificabili che la rendita o l'imposta pretesa è sproporzionata rispetto a immobili simili. Nel caso descritto ha contribuito alla riduzione oltre il 70% e al rimborso con interessi."
+  },
+  {
+   "q": "L'autotutela può sostituire il ricorso?",
+   "a": "No. L'articolo 10-quater dello Statuto del contribuente prevede l'annullamento nei casi di manifesta illegittimità, ma l'obbligo non sussiste dopo un anno dalla definitività dell'atto. Il ricorso resta lo strumento principale."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 21 D.Lgs. 546/1992",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  },
+  {
+   "norma": "art. 19 D.Lgs. 546/1992",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  },
+  {
+   "norma": "art. 10-quater L. 212/2000",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+  }
+ ],
+ "parole": 696
+}

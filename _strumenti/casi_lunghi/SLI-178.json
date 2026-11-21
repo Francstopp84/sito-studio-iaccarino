@@ -1,0 +1,76 @@
+{
+ "id": "SLI-178",
+ "seo_title": "IVA su acquisti dall'estero: da 318.000 a 98.000 euro",
+ "description": "Avviso IVA da 318.000 euro su acquisti dall'estero: annullata la quota del 40%, conciliazione in appello e pagamento finale di 98.000 euro. Il percorso.",
+ "parole_chiave": [
+  "accertamento IVA acquisti intracomunitari",
+  "conciliazione in appello tributario",
+  "art 48-bis conciliazione",
+  "importazioni moda avviso IVA",
+  "annullamento parziale avviso"
+ ],
+ "sezioni": [
+  {
+   "h2": "Un avviso che si contesta a pezzi",
+   "paragrafi": [
+    "Quando una pretesa fiscale riguarda un numero elevato di operazioni, può accadere che non tutte siano contestabili allo stesso modo. Una parte può essere infondata in modo chiaro e documentabile, un'altra più incerta. In questi casi la difesa non punta a un esito unico, ma costruisce un percorso che isoli le operazioni difendibili e prepari, per le altre, una sede di definizione.",
+    "Il caso che segue mostra questa sequenza: un annullamento parziale in primo grado, un appello dell'ufficio con appello incidentale della società e una conciliazione finale in secondo grado, che ha chiuso la controversia con un pagamento molto inferiore alla pretesa iniziale."
+   ]
+  },
+  {
+   "h2": "Il caso: 318.000 euro e un tema di fornitori esteri",
+   "paragrafi": [
+    "Una società di importazione del settore moda aveva ricevuto un avviso di accertamento IVA per gli anni 2018 e 2019, con una pretesa complessiva di 318.000 euro. L'Agenzia delle Entrate sosteneva che alcune importazioni di merce, trattate come acquisti intracomunitari esenti, fossero in realtà acquisti soggetti a imposta in Italia, perché il fornitore estero non aveva i requisiti soggettivi, essendo inserito nella banca dati VIES.",
+    "La difesa ha dimostrato che circa il 40% dell'imponibile contestato riguardava fornitori regolarmente iscritti al VIES al momento delle operazioni e cancellati solo in seguito. Le prove erano documentali: certificati di iscrizione dell'epoca, corrispondenza con i fornitori e documentazione del trasporto internazionale. La Corte di giustizia tributaria di primo grado ha accolto in parte il ricorso, annullando l'accertamento per quel 40% e confermando la pretesa per il 60% residuo, pari a circa 190.000 euro."
+   ]
+  },
+  {
+   "h2": "L'appello e la conciliazione",
+   "paragrafi": [
+    "L'Agenzia ha appellato il parziale accoglimento e la società, costituendosi, ha proposto appello incidentale sulla quota residua. In appello le parti hanno trovato un accordo di conciliazione giudiziale, previsto dall'articolo 48-bis del decreto legislativo 546 del 1992: le sanzioni sono state ridotte al 50% del minimo e l'imposta è stata pagata su una base imponibile ridotta, negoziata. L'esborso finale è stato di 98.000 euro, a fronte di 318.000 iniziali, con un risparmio del 69%.",
+    "L'articolo 48-ter del decreto 546 collega la conciliazione in secondo grado alla misura del cinquanta per cento del minimo, e prevede il pagamento delle somme entro venti giorni. La percentuale del caso coincide con quella legale per questa fase."
+   ]
+  },
+  {
+   "h2": "Che cosa insegna sulla strategia",
+   "paragrafi": [
+    "Il percorso a due tempi ha un vantaggio evidente: ciò che è documentato si chiude in sentenza, ciò che resta incerto si negozia da una posizione già rafforzata. Prove chiare sul 40% hanno ridotto la base su cui trattare e ciò ha inciso sul prezzo finale dell'accordo.",
+    "In generale, per avvisi di questo tipo conviene distinguere le operazioni per fornitore e per periodo, raccogliere la documentazione di ciascuna e solo dopo decidere dove difendersi e dove proporre un accordo. Ogni vicenda va valutata sui suoi atti e qui non si promette alcun esito."
+   ],
+   "elenco": [
+    "avviso con elenco delle operazioni contestate e dei fornitori",
+    "documenti di trasporto e corrispondenza commerciale",
+    "verifiche sulla posizione dei fornitori all'epoca delle operazioni",
+    "fatture e registri IVA degli anni contestati",
+    "sentenza di primo grado e atti di appello"
+   ]
+  },
+  {
+   "h2": "Termini da non perdere",
+   "paragrafi": [
+    "Il ricorso di primo grado si notifica entro sessanta giorni dalla notifica dell'avviso (articolo 21 del decreto 546 del 1992) e si deposita entro trenta giorni (articolo 22). Le spese sono disciplinate dall'articolo 15. I termini d'appello vanno controllati sul testo vigente al momento. Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, esamina avvisi con più operazioni e più annualità."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Si può vincere solo una parte di un avviso?",
+   "a": "Sì. Nel caso il ricorso è stato accolto per circa il 40% dell'imponibile, grazie a prove documentali sui fornitori, e respinto per il resto. Un annullamento parziale è un risultato frequente quando le operazioni contestate hanno situazioni diverse."
+  },
+  {
+   "q": "Come si riducono le sanzioni con la conciliazione in appello?",
+   "a": "L'articolo 48-ter del decreto 546 del 1992 prevede, per la conciliazione in secondo grado, sanzioni nella misura del cinquanta per cento del minimo, con versamento entro venti giorni. Nel caso il pagamento finale è stato di 98.000 euro."
+  },
+  {
+   "q": "Che cos'è l'appello incidentale?",
+   "a": "È l'impugnazione proposta dalla parte che si costituisce in un appello già avviato dalla controparte, per contestare a sua volta la parte di sentenza a sé sfavorevole. Nel caso la società l'ha usato sulla quota residua confermata in primo grado."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.Lgs. 546/1992 artt. 15, 21, 22, 48-bis e 48-ter",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 717
+}

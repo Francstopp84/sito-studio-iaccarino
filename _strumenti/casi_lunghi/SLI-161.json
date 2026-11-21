@@ -1,0 +1,83 @@
+{
+ "id": "SLI-161",
+ "seo_title": "Compensi dichiarati l'anno dopo: principio di cassa",
+ "description": "Avviso su 48.600 euro di compensi di un ingegnere: 41.200 erano già dichiarati nel 2020 per cassa. Annullamento parziale e sanzioni ridotte a Caserta.",
+ "parole_chiave": [
+  "compensi lavoratore autonomo principio di cassa",
+  "avviso accertamento analitico professionista",
+  "dati IVA compensi accertamento",
+  "art 54 TUIR cassa",
+  "annullamento parziale avviso accertamento"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il principio di cassa del lavoratore autonomo",
+   "paragrafi": [
+    "Per chi esercita arti e professioni il reddito si determina in modo diverso da quello dell'impresa. L'articolo 54 del testo unico delle imposte sui redditi, decreto del Presidente della Repubblica 917 del 1986, stabilisce che il reddito di lavoro autonomo è costituito dalla differenza tra l'ammontare dei compensi in denaro o in natura percepiti nel periodo di imposta e quello delle spese sostenute nel periodo stesso. Rileva, dunque, il momento dell'incasso e non quello in cui la prestazione è eseguita o la fattura è emessa.",
+    "La conseguenza pratica è importante. Un compenso fatturato in un anno ma incassato nell'anno successivo appartiene, ai fini delle imposte sui redditi, al secondo periodo. Un avviso che confronti i dati IVA di un anno con i compensi dichiarati nello stesso anno può quindi attribuire al contribuente un presunto ricavo omesso che, in realtà, è stato dichiarato nell'anno di incasso."
+   ]
+  },
+  {
+   "h2": "Che cosa è successo nel caso",
+   "paragrafi": [
+    "Un ingegnere si era visto notificare un avviso analitico relativo al 2019 per 48.600 euro di compensi, ricavati dai dati comunicati ai fini IVA. La difesa ha dimostrato che 41.200 euro erano già stati dichiarati, ma nel 2020, perché incassati in quell'anno. Per i restanti 7.400 euro non esisteva documentazione.",
+    "La Corte di giustizia tributaria di primo grado di Caserta ha annullato l'avviso in parte, con riduzione delle sanzioni di conseguenza. La vicenda è esemplare del modo in cui un confronto tra dati può essere corretto: la parte dimostrabile è stata riconosciuta, la parte priva di documenti è rimasta. Il testo della decisione non è riprodotto e non se ne ricostruisce il ragionamento oltre ciò che l'esito consente di dire."
+   ]
+  },
+  {
+   "h2": "Dimostrare la data di incasso: i documenti che contano",
+   "paragrafi": [
+    "La prova dell'incasso passa dai documenti bancari e contabili: estratti conto con la data dell'accredito, ricevute, registro dei compensi percepiti, eventuali note di pagamento del committente. In presenza di fatture emesse in un anno e pagate nell'altro, la difesa si costruisce abbinando ciascuna fattura al relativo accredito e mostrando in quale dichiarazione il compenso è stato poi inserito.",
+    "Una parte della somma contestata, invece, può non essere giustificabile: nel caso, 7.400 euro sono rimasti senza supporto. Anche questo è un dato da affrontare con realismo, perché una difesa credibile separa ciò che si può dimostrare da ciò che non si può, e non rischia di perdere l'intera posizione per difendere l'indifendibile."
+   ]
+  },
+  {
+   "h2": "Se la tua contestazione nasce da un confronto di dati",
+   "paragrafi": [
+    "In generale, quando l'avviso nasce dal raffronto tra dati comunicati e dichiarazione, conviene fare una riconciliazione ordinata, fattura per fattura, indicando per ognuna l'anno di emissione, la data di incasso e l'anno di dichiarazione. Ogni vicenda va valutata sui suoi atti e qui non si promette alcun esito."
+   ],
+   "elenco": [
+    "elenco delle fatture dell'anno contestato con importi e date",
+    "estratti conto e ricevute che provano la data di incasso",
+    "dichiarazioni dei redditi dell'anno contestato e di quello successivo",
+    "registri IVA e comunicazioni dei dati fatture",
+    "avviso, motivazione e prospetti allegati dall'ufficio"
+   ]
+  },
+  {
+   "h2": "Scadenze e rito",
+   "paragrafi": [
+    "Il ricorso va notificato entro sessanta giorni dalla ricezione dell'avviso (articolo 21 del decreto legislativo 546 del 1992) e la costituzione avviene entro trenta giorni (articolo 22). Sul tema della spesa processuale, l'articolo 15 attribuisce di regola le spese al soccombente, ma ne consente la compensazione: in un annullamento parziale è un punto che merita di essere discusso. Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, esamina riconciliazioni e avvisi di questo tipo."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Un compenso fatturato un anno e incassato l'altro in quale anno si dichiara?",
+   "a": "Per il lavoratore autonomo vale il principio di cassa dell'articolo 54 del testo unico: rileva l'ammontare dei compensi percepiti nel periodo di imposta. Il compenso incassato l'anno successivo si dichiara, quindi, nell'anno dell'incasso. Serve però la prova della data di incasso."
+  },
+  {
+   "q": "Posso contestare solo una parte dell'avviso?",
+   "a": "Sì, il ricorso può riguardare tutta la pretesa o solo alcune voci. Nel caso la difesa ha dimostrato la dichiarazione di una parte dei compensi, mentre per un'altra parte mancava documentazione. Le sanzioni, in generale, seguono la sorte dell'imposta ridotta."
+  },
+  {
+   "q": "I dati IVA bastano a dimostrare un ricavo omesso?",
+   "a": "I dati IVA sono un elemento di partenza che l'ufficio può utilizzare, ma il contribuente può contrapporre i documenti che spiegano la competenza e l'incasso dei compensi. Ogni caso dipende dagli atti prodotti e dalla motivazione dell'avviso."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "DPR 917/1986 art. 54",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 917-1986 TUIR.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992 artt. 15, 21 e 22",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  },
+  {
+   "norma": "L. 212/2000 art. 7",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+  }
+ ],
+ "parole": 721
+}

@@ -1,0 +1,74 @@
+{
+ "id": "SLI-563",
+ "seo_title": "Casa all'asta e sovraindebitamento: sospendere la vendita",
+ "description": "Immobile in vendita all'asta e debiti con banca e fisco: come il piano del consumatore con misure protettive può sospendere la vendita e tutelare la casa.",
+ "parole_chiave": [
+  "casa all'asta sovraindebitamento",
+  "sospendere vendita immobile pignorato",
+  "piano del consumatore stralcio debiti",
+  "debiti banca e fisco famiglia",
+  "cancellazione segnalazioni CRIF"
+ ],
+ "sezioni": [
+  {
+   "h2": "Una famiglia, l'immobile pignorato e la data della vendita",
+   "paragrafi": [
+    "Il caso riguarda una famiglia con debiti verso banche e fisco, rimasti dopo la chiusura di un'attività commerciale. Sulla casa era in corso un'esecuzione immobiliare e la vendita all'incanto era già fissata. Davanti al Tribunale di Napoli, sezione crisi d'impresa, è stato depositato in via urgente un piano di ristrutturazione dei debiti con richiesta di misure protettive.",
+    "Il risultato descritto nei dati del caso è che l'asta è stata sospesa e che il piano è stato poi omologato con uno stralcio dell'82 per cento dei debiti, con continuità abitativa per la famiglia. Sono seguite l'estinzione della procedura esecutiva, la cancellazione delle segnalazioni nelle banche dati CRIF e Centrale Rischi e l'avvio di un piano sostenibile. Il caso non dice altro, e non si può dedurre che lo stesso esito valga per altre situazioni."
+   ]
+  },
+  {
+   "h2": "Come funziona la sospensione prevista dalla legge",
+   "paragrafi": [
+    "L'articolo 70, comma 4, del decreto legislativo 14 del 2019 consente al giudice, con il decreto che dispone la pubblicazione del piano e su istanza del debitore, di sospendere le esecuzioni forzate che potrebbero pregiudicare la fattibilità del piano e di vietare azioni esecutive e cautelari sul patrimonio del consumatore. La richiesta deve essere dunque ancorata al piano: la vendita va fermata perché, se si compisse, renderebbe impossibile quanto il piano propone.",
+    "Il giudice ha poi la possibilità di revocare le misure su istanza dei creditori o d'ufficio, in caso di atti in frode (comma 5). Dopo il decreto l'OCC comunica ai creditori, che hanno venti giorni per presentare osservazioni, e riferisce al giudice entro dieci giorni dalla scadenza di quel termine (commi 3 e 6). Con l'omologazione il giudice chiude la procedura con decisione (comma 7)."
+   ]
+  },
+  {
+   "h2": "Che cosa deve contenere il piano per chi rischia l'asta",
+   "paragrafi": [
+    "L'articolo 67 lascia libero il contenuto del piano, ma richiede l'elenco dei creditori con le somme dovute, la consistenza del patrimonio, gli atti di disposizione degli ultimi cinque anni, le dichiarazioni dei redditi degli ultimi tre anni e le entrate. Per chi vuole mantenere la casa, il piano deve indicare in modo credibile con quali risorse si pagheranno le rate e perché è più conveniente della vendita forzata.",
+    "Il criterio con cui il giudice valuta l'opposizione dei creditori è la convenienza: se un creditore la contesta, il giudice omologa se il credito può essere soddisfatto in misura non inferiore a quella della liquidazione controllata (articolo 70, comma 7). Per questo il piano dovrebbe mettere a confronto ciò che i creditori ricaverebbero dalla vendita e ciò che ricevono secondo la proposta."
+   ],
+   "elenco": [
+    "atto di pignoramento, avviso di vendita e data fissata",
+    "estratti dei debiti verso banche e agente della riscossione",
+    "documenti sulla chiusura dell'attività commerciale",
+    "redditi del nucleo familiare degli ultimi tre anni",
+    "atti di disposizione patrimoniale degli ultimi cinque anni"
+   ]
+  },
+  {
+   "h2": "Dopo l'omologazione e passi da non sbagliare",
+   "paragrafi": [
+    "Con l'omologazione e la chiusura della procedura esecutiva si può chiedere ai creditori la correzione delle segnalazioni, sulla base del nuovo assetto dei debiti. È essenziale poi rispettare il piano, perché le rate programmate sono la ragione per cui il giudice lo ha approvato.",
+    "Va agito prima della data di vendita, perché il giudice può sospendere solo un'esecuzione ancora in corso. Ogni situazione dipende dagli atti e nessun risultato è garantito. Per un esame della propria posizione ci si può rivolgere allo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Si può fermare la vendita all'asta della prima casa con il sovraindebitamento?",
+   "a": "L'articolo 70, comma 4, del decreto legislativo 14 del 2019 consente al giudice, su istanza del debitore, di sospendere le esecuzioni forzate che potrebbero pregiudicare la fattibilità del piano e di vietare nuove azioni esecutive sul patrimonio del consumatore."
+  },
+  {
+   "q": "Che cosa deve contenere il piano del consumatore?",
+   "a": "Secondo l'articolo 67 il contenuto è libero, ma devono essere indicati creditori e somme dovute, patrimonio, atti degli ultimi cinque anni, dichiarazioni dei redditi degli ultimi tre anni ed entrate."
+  },
+  {
+   "q": "Che cosa succede se un creditore contesta la convenienza del piano?",
+   "a": "Il giudice, secondo l'articolo 70, comma 7, omologa se il credito dell'opponente può essere soddisfatto in misura non inferiore a quella della liquidazione controllata."
+  },
+  {
+   "q": "Le misure protettive possono essere tolte?",
+   "a": "Sì, in caso di atti in frode, su istanza dei creditori o d'ufficio (articolo 70, comma 5), e diventano inefficaci se l'omologazione è negata (comma 10)."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 67, 70 CCII",
+   "file": "D:/BIBLIOTECA GIURIDICA/06 Fallimentare e crisi d'impresa/Norme/D.Lgs. 14-2019 codice della crisi d'impresa.md"
+  }
+ ],
+ "parole": 719
+}

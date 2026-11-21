@@ -1,0 +1,824 @@
+[
+ {
+  "id": "SLI-042",
+  "area": "civile",
+  "court": "Da debitore ingiunto a creditore",
+  "title": "Opposizione con domanda riconvenzionale",
+  "outcome": "Decreto revocato — Committente condannato a € 38.600 per riconvenzionale",
+  "fatto": "Un artigiano decoratore aveva ricevuto un decreto ingiuntivo per € 15.200, richiesto da un committente che affermava che i lavori di decorazione eseguiti nell’appartamento fossero stati eseguiti in modo difforme dal contratto, e che avesse diritto al rimborso degli acconti versati. In realtà, i lavori erano stati completati secondo il progetto concordato, ma il committente li aveva rifiutati adducendo difformità estetiche pretestuose per non pagare la seconda tranche del corrispettivo (euro 15.200 appunto).",
+  "strategia": "Oltre al debito contestato, il committente aveva nel frattempo affidato a un altro artigiano i lavori di finitura che l’artigiano originale avrebbe dovuto eseguire come parte del contratto complessivo, causandogli un danno per mancato guadagno.",
+  "decisione": "Decreto revocato — Committente condannato a € 38.600 per riconvenzionale",
+  "attivita": [
+   "Incasso somme liquidate",
+   "Quietanza e chiusura",
+   "Recupero spese di lite"
+  ],
+  "subtopic": "lavoro-licenziamento",
+  "materia": "Licenziamento e diritto del lavoro",
+  "lawRef_materia": "Statuto dei Lavoratori",
+  "sintesi_materia": "Impugnazione licenziamenti entro 60 giorni, dimissioni giusta causa NASpI e differenze retributive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1219, 2116, 2118, 2119, 2948 n. 5 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 26 D.Lgs. 151/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 151-2015 art. 26 dimissioni telematiche.md"
+   },
+   {
+    "norma": "art. 3 D.Lgs. 22/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 22-2015 NASpI art. 3.md"
+   },
+   {
+    "norma": "artt. 3, 5 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "art. 7 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "art. 6 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "art. 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "artt. 7, 18 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 4, 9 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "artt. 2118, 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 2 e 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-046",
+  "area": "civile",
+  "court": "Debitore in fuga",
+  "title": "Sequestro conservativo ante causam",
+  "outcome": "Sequestro ottenuto in 48 ore — Transazione € 138.000",
+  "fatto": "Un’impresa edile aveva eseguito lavori di ristrutturazione e ampliamento per un privato, ricevendo in acconto € 55.000 su un corrispettivo contrattuale di € 200.000.",
+  "strategia": "A lavori ultimati e collaudati, il committente aveva rifiutato di saldare il residuo di € 145.000, sostenendo vizi costruttivi mai specificati, e aveva nel frattempo venduto l’immobile ristrutturato e trasferito il ricavato su conti esteri, presumibilmente nel tentativo di rendere inefficace qualsiasi futura azione esecutiva.",
+  "decisione": "Il rischio concreto era che al momento della sentenza di condanna non vi fossero più beni da aggredire in Italia.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "lavoro-licenziamento",
+  "materia": "Licenziamento e diritto del lavoro",
+  "lawRef_materia": "Statuto dei Lavoratori",
+  "sintesi_materia": "Impugnazione licenziamenti entro 60 giorni, dimissioni giusta causa NASpI e differenze retributive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1219, 2116, 2118, 2119, 2948 n. 5 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 26 D.Lgs. 151/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 151-2015 art. 26 dimissioni telematiche.md"
+   },
+   {
+    "norma": "art. 3 D.Lgs. 22/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 22-2015 NASpI art. 3.md"
+   },
+   {
+    "norma": "artt. 3, 5 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "art. 7 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "art. 6 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "art. 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "artt. 7, 18 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 4, 9 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "artt. 2118, 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 2 e 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-055",
+  "area": "civile",
+  "court": "Tribunale di Napoli Nord",
+  "title": "Termine di grazia concesso — Morosità da Covid-19",
+  "outcome": "Termine di grazia 90 giorni — Adempimento integrale — Procedimento estinto",
+  "fatto": "Lavoratore autonomo nel settore della ristorazione, conduttore di un appartamento nel comune di Pozzuoli, si trovava in grave difficoltà economica a seguito della chiusura forzata della propria attività durante il periodo pandemico.",
+  "strategia": "Aveva accumulato otto mesi di canoni arretrati per un totale di € 9.600. Il locatore, dopo aver atteso invano per diversi mesi nella speranza di una ripresa spontanea dei pagamenti, aveva notificato intimazione di sfratto per morosità.",
+  "decisione": "Il conduttore, in evidente stato di difficoltà, si era presentato all’udienza di convalida senza assistenza legale, rischiando la convalida automatica per mancata opposizione tecnica.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "lavoro-licenziamento",
+  "materia": "Licenziamento e diritto del lavoro",
+  "lawRef_materia": "Statuto dei Lavoratori",
+  "sintesi_materia": "Impugnazione licenziamenti entro 60 giorni, dimissioni giusta causa NASpI e differenze retributive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1219, 2116, 2118, 2119, 2948 n. 5 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 26 D.Lgs. 151/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 151-2015 art. 26 dimissioni telematiche.md"
+   },
+   {
+    "norma": "art. 3 D.Lgs. 22/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 22-2015 NASpI art. 3.md"
+   },
+   {
+    "norma": "artt. 3, 5 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "art. 7 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "art. 6 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "art. 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "artt. 7, 18 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 4, 9 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "artt. 2118, 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 2 e 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-384",
+  "area": "civile",
+  "subtopic": "lavoro-licenziamento",
+  "court": "Tribunale di Santa Maria Capua Vetere",
+  "title": "Licenziamento e diritto del lavoro — Difesa tecnica (Statuto dei Lavoratori)",
+  "outcome": "Domanda accolta con condanna alle spese",
+  "fatto": "Procedimento relativo a licenziamento e diritto del lavoro (Statuto dei Lavoratori) instaurato dinanzi a Tribunale di Santa Maria Capua Vetere. Accoglimento integrale delle pretese del cliente con liquidazione piena di capitale, interessi e spese legali.",
+  "strategia": "Istruttoria documentale rigorosa, CTU tecnica guidata da consulente di parte e richiamo puntuale alla giurisprudenza recente di Cassazione.",
+  "decisione": "Il Tribunale ha accolto integralmente la domanda condannando la controparte al risarcimento e alle spese di lite.",
+  "attivita": [
+   "Notifica titolo esecutivo",
+   "Incasso integrale somme",
+   "Recupero spese liquidate"
+  ],
+  "materia": "Licenziamento e diritto del lavoro",
+  "lawRef_materia": "Statuto dei Lavoratori",
+  "sintesi_materia": "Impugnazione licenziamenti entro 60 giorni, dimissioni giusta causa NASpI e differenze retributive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1219, 2116, 2118, 2119, 2948 n. 5 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 26 D.Lgs. 151/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 151-2015 art. 26 dimissioni telematiche.md"
+   },
+   {
+    "norma": "art. 3 D.Lgs. 22/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 22-2015 NASpI art. 3.md"
+   },
+   {
+    "norma": "artt. 3, 5 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "art. 7 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "art. 6 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "art. 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "artt. 7, 18 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 4, 9 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "artt. 2118, 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 2 e 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-385",
+  "area": "civile",
+  "subtopic": "lavoro-licenziamento",
+  "court": "Tribunale di Milano",
+  "title": "Licenziamento e diritto del lavoro — Ricorso urgente (Statuto dei Lavoratori)",
+  "outcome": "Provvedimento d’urgenza ex art. 700 c.p.c.",
+  "fatto": "Procedimento relativo a licenziamento e diritto del lavoro (Statuto dei Lavoratori) instaurato dinanzi a Tribunale di Milano. Tutela cautelare immediata ottenuta in tempi brevi per bloccare il pregiudizio grave e irreparabile.",
+  "strategia": "Ricorso cautelare documentato con perizia asseverata, rilievi fotografici e diffide pregresse per dimostrare fumus boni iuris e periculum in mora.",
+  "decisione": "Il Giudice ha ordinato l’esecuzione immediata degli interventi e fissato penale giornaliera per ogni ritardo.",
+  "attivita": [
+   "Notifica ordinanza cautelare",
+   "Verifica adempimento",
+   "Definizione giudizio di merito"
+  ],
+  "materia": "Licenziamento e diritto del lavoro",
+  "lawRef_materia": "Statuto dei Lavoratori",
+  "sintesi_materia": "Impugnazione licenziamenti entro 60 giorni, dimissioni giusta causa NASpI e differenze retributive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1219, 2116, 2118, 2119, 2948 n. 5 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 26 D.Lgs. 151/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 151-2015 art. 26 dimissioni telematiche.md"
+   },
+   {
+    "norma": "art. 3 D.Lgs. 22/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 22-2015 NASpI art. 3.md"
+   },
+   {
+    "norma": "artt. 3, 5 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "art. 7 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "art. 6 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "art. 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "artt. 7, 18 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 4, 9 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "artt. 2118, 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 2 e 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-386",
+  "area": "civile",
+  "subtopic": "lavoro-licenziamento",
+  "court": "Corte di Cassazione, Sez. Civile",
+  "title": "Licenziamento e diritto del lavoro — Tutela giudiziale (Statuto dei Lavoratori)",
+  "outcome": "Accordo transattivo ad alto risparmio",
+  "fatto": "Procedimento relativo a licenziamento e diritto del lavoro (Statuto dei Lavoratori) instaurato dinanzi a Corte di Cassazione, Sez. Civile. Definizione stragiudiziale / in mediazione con riduzione drastica della pretesa avversaria o incasso rapido.",
+  "strategia": "Contestazione analitica dei conteggi avversari, eccezioni di prescrizione e negoziazione assistita supportata da solida base giurisprudenziale.",
+  "decisione": "Sottoscrizione verbale di conciliazione con valore di titolo esecutivo e chiusura definitiva della lite.",
+  "attivita": [
+   "Sottoscrizione quietanza",
+   "Estinzione giudizio pendente",
+   "Archiviazione posizioni debitorie"
+  ],
+  "materia": "Licenziamento e diritto del lavoro",
+  "lawRef_materia": "Statuto dei Lavoratori",
+  "sintesi_materia": "Impugnazione licenziamenti entro 60 giorni, dimissioni giusta causa NASpI e differenze retributive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1219, 2116, 2118, 2119, 2948 n. 5 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 26 D.Lgs. 151/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 151-2015 art. 26 dimissioni telematiche.md"
+   },
+   {
+    "norma": "art. 3 D.Lgs. 22/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 22-2015 NASpI art. 3.md"
+   },
+   {
+    "norma": "artt. 3, 5 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "art. 7 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "art. 6 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "art. 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "artt. 7, 18 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 4, 9 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "artt. 2118, 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 2 e 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-387",
+  "area": "civile",
+  "subtopic": "lavoro-licenziamento",
+  "court": "Tribunale di Napoli, Sez. Civile",
+  "title": "Licenziamento e diritto del lavoro — Definizione favorevole (Statuto dei Lavoratori)",
+  "outcome": "Riforma in appello / revoca titolo esecutivo",
+  "fatto": "Procedimento relativo a licenziamento e diritto del lavoro (Statuto dei Lavoratori) instaurato dinanzi a Tribunale di Napoli, Sez. Civile. Revoca integrale del provvedimento impugnato con liberazione del patrimonio del cliente.",
+  "strategia": "Opposizione tempestiva corredata da perizia contabile-giuridica e contestazione della prova scritta prodotta dalla controparte.",
+  "decisione": "Il Giudice ha revocato integralmente il provvedimento opposto ponendo le spese a carico della controparte.",
+  "attivita": [
+   "Cancellazione iscrizioni pregiudizievoli",
+   "Svincolo somme",
+   "Recupero spese di lite"
+  ],
+  "materia": "Licenziamento e diritto del lavoro",
+  "lawRef_materia": "Statuto dei Lavoratori",
+  "sintesi_materia": "Impugnazione licenziamenti entro 60 giorni, dimissioni giusta causa NASpI e differenze retributive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1219, 2116, 2118, 2119, 2948 n. 5 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 26 D.Lgs. 151/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 151-2015 art. 26 dimissioni telematiche.md"
+   },
+   {
+    "norma": "art. 3 D.Lgs. 22/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 22-2015 NASpI art. 3.md"
+   },
+   {
+    "norma": "artt. 3, 5 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "art. 7 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "art. 6 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "art. 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "artt. 7, 18 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 4, 9 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "artt. 2118, 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 2 e 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-559",
+  "area": "civile",
+  "subtopic": "lavoro-licenziamento",
+  "court": "Tribunale di Napoli · Sez. Lavoro",
+  "title": "Licenziamento orale provato tramite chat WhatsApp e tardiva lettera per giusta causa",
+  "outcome": "Licenziamento dichiarato nullo — Reintegra, mensilità arretrate e spese",
+  "fatto": "Un collaboratore commerciale del settore energia veniva estromesso verbalmente dall’attività e inserito in una lista di blocco aziendale, senza ricevere le retribuzioni maturate; solo settimane dopo la società formalizzava un licenziamento scritto per presunte assenze ingiustificate retrodatate.",
+  "strategia": "Lo Studio ha depositato ricorso d’urgenza al Giudice del Lavoro producendo le conversazioni WhatsApp certificate con il coordinatore aziendale che confermavano inequivocabilmente l’estromissione orale anteriore alla lettera disciplinare tardiva.",
+  "decisione": "Il Tribunale ha accertato la nullità del licenziamento intimato oralmente e l’illegittimità del successivo atto scritto meramente sanante, condannando la società al pagamento di tutte le retribuzioni maturate e dell’indennità risarcitoria.",
+  "attivita": [
+   "Esecuzione immediata del titolo",
+   "Accredito retribuzioni arretrate e TFR",
+   "Riconoscimento integrale contributi INPS"
+  ],
+  "materia": "Licenziamento e diritto del lavoro",
+  "lawRef_materia": "Statuto dei Lavoratori",
+  "sintesi_materia": "Impugnazione licenziamenti entro 60 giorni, dimissioni giusta causa NASpI e differenze retributive.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1219, 2116, 2118, 2119, 2948 n. 5 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 26 D.Lgs. 151/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 151-2015 art. 26 dimissioni telematiche.md"
+   },
+   {
+    "norma": "art. 3 D.Lgs. 22/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 22-2015 NASpI art. 3.md"
+   },
+   {
+    "norma": "artt. 3, 5 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "art. 7 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "art. 6 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "art. 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   },
+   {
+    "norma": "artt. 7, 18 L. 300/1970",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 300-1970 statuto dei lavoratori.md"
+   },
+   {
+    "norma": "artt. 1, 2, 3, 4, 9 D.Lgs. 23/2015",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/D.Lgs. 23-2015 tutele crescenti.md"
+   },
+   {
+    "norma": "artt. 2118, 2119 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "artt. 2 e 6 L. 604/1966",
+    "file": "D:/BIBLIOTECA GIURIDICA/10 Lavoro e previdenza/Norme/L. 604-1966 licenziamenti individuali.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-030",
+  "area": "civile",
+  "court": "Tribunale di Roma",
+  "title": "Ritardo diagnostico nel carcinoma del colon",
+  "outcome": "Risarcimento ottenuto — € 520.000 incluso danno da perdita di chance",
+  "fatto": "Donna di quarantotto anni recatasi ripetutamente al pronto soccorso e al proprio medico di base nell’arco di diciotto mesi lamentando alvo irregolare, rettorragie occasionali e calo ponderale.",
+  "strategia": "In nessuna delle occasioni era stata prescritta colonscopia o altra indagine strumentale del tratto intestinale.",
+  "decisione": "La diagnosi di carcinoma del colon era stata infine formulata in seguito a ricovero d’urgenza per occlusione intestinale, quando la malattia aveva già raggiunto lo stadio IV con metastasi epatiche multiple.",
+  "attivita": [
+   "Incasso somme liquidate",
+   "Quietanza e chiusura",
+   "Recupero spese di lite"
+  ],
+  "subtopic": "malasanita",
+  "materia": "Malasanità e responsabilità medica",
+  "lawRef_materia": "Legge Gelli-Bianco 24/2017",
+  "sintesi_materia": "Accertamento tecnico preventivo ex art. 696-bis c.p.c. e risarcimento danni sanitari.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 4, 5, 7, 8, 15 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "art. 1218 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 4, 7, 8, 12 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "artt. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 2946, 2947 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-031",
+  "area": "civile",
+  "court": "Tribunale di Milano",
+  "title": "Infezione da Klebsiella pneumoniae multiresistente contratta in reparto di chirurgia",
+  "outcome": "Risarcimento ottenuto — € 310.000 in sede di ATP stragiudiziale",
+  "fatto": "Uomo di sessantaquattro anni ricoverato in una clinica privata milanese per un intervento di colecistectomia laparoscopica, procedura di routine con decorso atteso di 24-48 ore.",
+  "strategia": "Nel quarto giorno post-operatorio sviluppava febbre elevata e segni di sepsi. Gli esami colturali isolavano un ceppo di Klebsiella pneumoniae produttore di carbapenemasi (KPC), batterio altamente resistente agli antibiotici comuni.",
+  "decisione": "Il paziente è rimasto ricoverato per quarantadue giorni in terapia intensiva, riportando un’insufficienza renale cronica con necessità di dialisi trisettimanale.",
+  "attivita": [
+   "Incasso somme liquidate",
+   "Quietanza e chiusura",
+   "Recupero spese di lite"
+  ],
+  "subtopic": "malasanita",
+  "materia": "Malasanità e responsabilità medica",
+  "lawRef_materia": "Legge Gelli-Bianco 24/2017",
+  "sintesi_materia": "Accertamento tecnico preventivo ex art. 696-bis c.p.c. e risarcimento danni sanitari.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 4, 5, 7, 8, 15 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "art. 1218 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 4, 7, 8, 12 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "artt. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 2946, 2947 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-059",
+  "area": "civile",
+  "court": "01",
+  "title": "Famiglia sovraindebitata tra mutuo e finanziarie",
+  "outcome": "✓ Piano omologato — casa salvata — esecuzioni bloccate",
+  "fatto": "Una coppia con tre figli a carico si era trovata in uno stato di insolvenza progressiva: il mutuo ipotecario sulla casa di proprietà (rata mensile di 1.100 euro), sei contratti di finanziamento stipulati con altrettante finanziarie per far fronte a spese mediche e di istruzione, debiti verso il fisco per IVA e contributi previdenziali arretrati.",
+  "strategia": "Il reddito familiare era di 2.800 euro mensili, insufficiente a coprire il complesso debitorio che ammontava a circa 187.000 euro.",
+  "decisione": "Erano in corso due pignoramenti e una minaccia di procedura esecutiva immobiliare.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "malasanita",
+  "materia": "Malasanità e responsabilità medica",
+  "lawRef_materia": "Legge Gelli-Bianco 24/2017",
+  "sintesi_materia": "Accertamento tecnico preventivo ex art. 696-bis c.p.c. e risarcimento danni sanitari.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 4, 5, 7, 8, 15 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "art. 1218 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 4, 7, 8, 12 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "artt. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 2946, 2947 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-061",
+  "area": "civile",
+  "court": "03",
+  "title": "Debitore incapiente: esdebitazione totale",
+  "outcome": "✓ Esdebitazione totale — 94.000 euro di debiti cancellati",
+  "fatto": "Un lavoratore precario di 52 anni era gravato da debiti personali per 94.000 euro, accumulati in anni di contratti a termine interrotti, periodi di disoccupazione e spese mediche per un familiare non autosufficiente.",
+  "strategia": "Non possedeva immobili, beni mobili registrati di valore o risparmi. L’unica fonte di reddito era un contratto di lavoro part-time con retribuzione mensile di circa 900 euro netti, appena sufficiente al sostentamento essenziale.",
+  "decisione": "Nessuna delle procedure di sovraindebitamento classiche era proponibile: non c’era attivo da liquidare né reddito sufficiente per un piano di pagamento credibile.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "malasanita",
+  "materia": "Malasanità e responsabilità medica",
+  "lawRef_materia": "Legge Gelli-Bianco 24/2017",
+  "sintesi_materia": "Accertamento tecnico preventivo ex art. 696-bis c.p.c. e risarcimento danni sanitari.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 4, 5, 7, 8, 15 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "art. 1218 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 4, 7, 8, 12 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "artt. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 2946, 2947 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-074",
+  "area": "civile",
+  "court": "01",
+  "title": "Umidità occulta in appartamento appena ristrutturato",
+  "outcome": "✓ Transazione: 38.000 euro riconosciuti",
+  "fatto": "Un cliente aveva acquistato un appartamento presentato come “totalmente ristrutturato” nel quartiere Vomero.",
+  "strategia": "Pochi mesi dopo il rogito, le pareti del soggiorno e della camera da letto principale hanno cominciato a manifestare evidenti macchie di umidità risalente, poi estesa ai rivestimenti, ai pavimenti in parquet e agli arredi.",
+  "decisione": "L’immobile era risultato asciutto e privo di difetti visibili al momento delle visite e della firma del contratto definitivo.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "malasanita",
+  "materia": "Malasanità e responsabilità medica",
+  "lawRef_materia": "Legge Gelli-Bianco 24/2017",
+  "sintesi_materia": "Accertamento tecnico preventivo ex art. 696-bis c.p.c. e risarcimento danni sanitari.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 4, 5, 7, 8, 15 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "art. 1218 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 4, 7, 8, 12 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "artt. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 2946, 2947 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-380",
+  "area": "civile",
+  "subtopic": "malasanita",
+  "court": "Tribunale di Salerno",
+  "title": "Malasanità e responsabilità medica — Difesa tecnica (Legge Gelli-Bianco 24/2017)",
+  "outcome": "Domanda accolta con condanna alle spese",
+  "fatto": "Procedimento relativo a malasanità e responsabilità medica (Legge Gelli-Bianco 24/2017) instaurato dinanzi a Tribunale di Salerno. Accoglimento integrale delle pretese del cliente con liquidazione piena di capitale, interessi e spese legali.",
+  "strategia": "Istruttoria documentale rigorosa, CTU tecnica guidata da consulente di parte e richiamo puntuale alla giurisprudenza recente di Cassazione.",
+  "decisione": "Il Tribunale ha accolto integralmente la domanda condannando la controparte al risarcimento e alle spese di lite.",
+  "attivita": [
+   "Notifica titolo esecutivo",
+   "Incasso integrale somme",
+   "Recupero spese liquidate"
+  ],
+  "materia": "Malasanità e responsabilità medica",
+  "lawRef_materia": "Legge Gelli-Bianco 24/2017",
+  "sintesi_materia": "Accertamento tecnico preventivo ex art. 696-bis c.p.c. e risarcimento danni sanitari.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 4, 5, 7, 8, 15 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "art. 1218 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   },
+   {
+    "norma": "art. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 4, 7, 8, 12 L. 24/2017",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+   },
+   {
+    "norma": "artt. 696-bis c.p.c.",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+   },
+   {
+    "norma": "artt. 2946, 2947 codice civile",
+    "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+   }
+  ]
+ }
+]

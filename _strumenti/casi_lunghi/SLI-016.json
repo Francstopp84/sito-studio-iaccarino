@@ -1,0 +1,54 @@
+{
+ "id": "SLI-016",
+ "seo_title": "Software difettoso: sospendere i canoni con l'art. 1460",
+ "description": "Il fornitore chiede i canoni, ma il software gestionale non funziona: l'eccezione di inadempimento dell'articolo 1460 del codice civile, la prova dei difetti e la domanda riconvenzionale.",
+ "parole_chiave": ["eccezione di inadempimento art. 1460", "software gestionale difettoso", "sospendere pagamento canoni", "domanda riconvenzionale fornitore", "malfunzionamento magazzino fatturazione", "contratto di licenza software inadempimento"],
+ "sezioni": [
+  {
+   "h2": "Rifiutarsi di pagare quando l'altro non adempie",
+   "paragrafi": [
+    "L'articolo 1460 del codice civile permette a ciascun contraente, nei contratti con prestazioni corrispettive, di rifiutarsi di adempiere la propria obbligazione se l'altro non adempie o non offre di adempiere contemporaneamente la propria. Fanno eccezione i casi in cui le parti abbiano stabilito termini diversi o questi risultino dalla natura del contratto. La norma ha un limite scritto nel secondo comma: non ci si può rifiutare se, avuto riguardo alle circostanze, il rifiuto è contrario alla buona fede.",
+    "In termini pratici, chi paga un canone per un servizio che non funziona può sospendere il pagamento, ma non può farlo a cuor leggero. Il rifiuto deve essere proporzionato al difetto e deve potersi spiegare: se il programma funziona quasi del tutto, sospendere ogni pagamento può essere considerato contrario alla buona fede, mentre se il difetto rende il programma inutilizzabile nelle funzioni essenziali la sospensione è difficile da contestare."
+   ]
+  },
+  {
+   "h2": "Il caso: una richiesta di canoni respinta con un contrattacco",
+   "paragrafi": [
+    "Una società di distribuzione alimentare era stata citata da un fornitore di software gestionale, che chiedeva 28.600 euro di canoni arretrati. La società aveva sospeso i pagamenti perché il programma presentava gravi malfunzionamenti: errori nella sincronizzazione dell'inventario, blocchi frequenti nelle ore di maggiore attività, mancata integrazione con il sistema di cassa già in uso. Il fornitore replicava che la colpa fosse dell'hardware e della rete del cliente.",
+    "L'esito riportato è l'accoglimento dell'eccezione di inadempimento e, nella domanda riconvenzionale, l'incasso di 14.200 euro. Quindi il cliente non si è limitato a difendersi, ma ha trasformato la difesa in una richiesta propria, ottenendo un riconoscimento economico. La scheda non precisa a quale titolo siano stati liquidati quei 14.200 euro, e non va ipotizzato.",
+    "La difesa del fornitore, che attribuiva il problema all'infrastruttura del cliente, è tipica in queste cause e spiega perché la prova tecnica sia decisiva. Occorre dimostrare che i malfunzionamenti si verificano a prescindere dall'ambiente in cui il programma gira e che riguardano le funzioni per le quali è stato acquistato."
+   ]
+  },
+  {
+   "h2": "Come si costruisce la prova",
+   "paragrafi": [
+    "Chi invoca l'eccezione di inadempimento deve in sostanza mostrare che l'altra parte non ha eseguito, o ha eseguito male, la propria prestazione. Per un software le prove utili sono i registri degli errori, le segnalazioni di assistenza inviate con la loro data, le risposte del fornitore, le relazioni di un tecnico indipendente e i riscontri sulle perdite operative, come ordini non evasi o fatture emesse a mano. Chi lamenta il difetto deve anche dimostrare di aver dato al fornitore l'occasione di rimediare.",
+    "Sul piano giuridico, accanto all'articolo 1460 conta l'articolo 1453, che nei contratti a prestazioni corrispettive consente a chi subisce l'inadempimento di chiedere adempimento o risoluzione, salvo il risarcimento del danno. L'eccezione è lo scudo, ma la domanda riconvenzionale può essere la spada: consente di ottenere indietro quanto già pagato o il ristoro dei danni, se provati. L'articolo 1218 ricorda poi che il debitore che non esegue esattamente la prestazione dovuta è tenuto al risarcimento, se non prova che l'inadempimento è dipeso da impossibilità non a lui imputabile."
+   ]
+  },
+  {
+   "h2": "Se il software che hai comprato non funziona",
+   "paragrafi": [
+    "In casi analoghi il rischio maggiore è sospendere i pagamenti senza aver costruito il fascicolo. Prima di fermare i canoni conviene segnalare i difetti per iscritto con prove di invio, concedere un termine ragionevole per rimediare e far verificare la situazione da un tecnico di fiducia. Un comportamento ordinato aiuta anche a non cadere nel limite della buona fede. Ogni vicenda va valutata sul contratto e sui documenti, e nessun esito può essere promesso."
+   ],
+   "elenco": [
+    "contratto di licenza o di servizio con le specifiche funzionali promesse",
+    "segnalazioni di errore e ticket di assistenza con le relative date",
+    "risposte del fornitore e verbali di eventuali interventi",
+    "relazione di un tecnico indipendente su software e infrastruttura",
+    "documenti che mostrano le perdite operative causate dai blocchi",
+    "fatture e pagamenti già effettuati"
+   ]
+  }
+ ],
+ "faq": [
+  {"q": "Posso smettere di pagare se il software non funziona?", "a": "L'articolo 1460 del codice civile lo consente nei contratti a prestazioni corrispettive se l'altra parte non adempie, ma il rifiuto non deve essere contrario alla buona fede. Conviene documentare i difetti e dare al fornitore la possibilità di rimediare prima di sospendere."},
+  {"q": "Che differenza c'è tra eccezione di inadempimento e domanda riconvenzionale?", "a": "L'eccezione serve a difendersi dalla richiesta di pagamento, la domanda riconvenzionale a chiedere qualcosa a propria volta, per esempio una restituzione o un risarcimento. Nel caso esaminato la società ha ottenuto l'accoglimento dell'eccezione e 14.200 euro in via riconvenzionale."},
+  {"q": "E se il fornitore dice che il problema è nel mio hardware?", "a": "È una difesa frequente. Si risponde con una perizia tecnica che escluda l'infrastruttura del cliente come causa e che colleghi i blocchi al programma. Spetta a chi lamenta l'inadempimento portare gli elementi per dimostrarlo."},
+  {"q": "Quali norme valgono per chiedere la risoluzione del contratto?", "a": "L'articolo 1453 del codice civile consente a chi subisce l'inadempimento di chiedere adempimento o risoluzione, salvo il risarcimento del danno. L'articolo 1218 disciplina la responsabilità del debitore inadempiente, che può liberarsi provando l'impossibilità non imputabile."}
+ ],
+ "norme_verificate": [
+  {"norma": "artt. 1218, 1453 e 1460 c.c.", "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"}
+ ],
+ "parole": 0
+}

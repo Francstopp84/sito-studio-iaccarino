@@ -1,0 +1,47 @@
+{
+ "id": "SLI-361",
+ "seo_title": "Estorsione: riesame, misura revocata e dissequestro",
+ "description": "Ordinanza cautelare per estorsione e conti bloccati: come funziona il riesame, quali requisiti contano e come si arriva a revoca della misura e dissequestro.",
+ "parole_chiave": ["riesame ordinanza cautelare estorsione", "dissequestro conti bancari", "revoca misura cautelare", "riesame sequestro dieci giorni", "gravità indiziaria estorsione"],
+ "sezioni": [
+  {"h2": "Libertà personale e beni: due fronti cautelari", "paragrafi": [
+   "Un'accusa di estorsione, punita dall'articolo 629 del codice penale con la reclusione da cinque a dieci anni, può portare a due tipi di misure prima della sentenza. Le prime incidono sulla libertà personale, come la custodia cautelare o gli arresti domiciliari. Le seconde riguardano i beni, con sequestri che possono arrivare a bloccare i conti correnti e a paralizzare l'attività economica di chi ne è colpito.",
+   "Nel caso riportato sul sito, l'ordinanza cautelare è stata annullata con ripristino immediato della libertà e sblocco dei conti. Il procedimento si è svolto dinanzi al Tribunale di Roma, e la difesa ha agito con un ricorso urgente."
+  ]},
+  {"h2": "I requisiti della misura personale", "paragrafi": [
+   "Per applicare una misura personale servono due condizioni. La prima, fissata dall'articolo 273 del codice di procedura penale, è l'esistenza di gravi indizi di colpevolezza. La seconda è la presenza di un'esigenza cautelare tra quelle dell'articolo 274: il pericolo per la genuinità della prova, il pericolo di fuga o il pericolo di reiterazione di reati della stessa specie, sempre concreti e attuali.",
+   "L'articolo 275 impone di scegliere la misura adeguata e proporzionata alla gravità del fatto e alla sanzione che si ritiene possa essere irrogata. Il carcere è residuale. Se anche una sola di queste condizioni manca, la misura è contestabile."
+  ]},
+  {"h2": "Cosa ha sostenuto la difesa nel riesame", "paragrafi": [
+   "La difesa ha proposto istanza al Tribunale del Riesame su tre fronti: il difetto di gravità indiziaria, l'assenza di attualità delle esigenze cautelari e la tracciabilità documentale dei rapporti. Su quest'ultimo punto, in generale, i movimenti di denaro tracciati e i documenti contrattuali possono mostrare che un trasferimento ha una causa economica verificabile e non è il frutto di una costrizione.",
+   "Il Collegio ha accolto il riesame, revocando la misura e disponendo il dissequestro. Dopo la decisione sono seguiti l'esecuzione immediata, lo sblocco dei rapporti bancari e il monitoraggio della fase dibattimentale. Non risultano altri dettagli nel caso e non se ne aggiungono."
+  ]},
+  {"h2": "I termini del riesame personale e del riesame reale", "paragrafi": [
+   "L'articolo 309 del codice di procedura penale prevede per il riesame delle misure coercitive personali il termine di dieci giorni dall'esecuzione o dalla notificazione. Il tribunale decide entro dieci giorni dalla ricezione degli atti, e se le scadenze previste non sono rispettate l'ordinanza perde efficacia.",
+   "Per i sequestri, l'articolo 324 disciplina il riesame del provvedimento di sequestro, che va chiesto anch'esso entro dieci giorni dalla data del provvedimento o, se successiva, da quella in cui l'interessato ha avuto conoscenza dell'avvenuto sequestro. Il rimedio consente di discutere sia i presupposti del vincolo sia la sua estensione.",
+   "È utile distinguere i due percorsi: un conto è la libertà della persona, un altro la disponibilità dei beni. Possono andare di pari passo oppure separarsi, a seconda di come sono stati disposti i provvedimenti."
+  ], "elenco": [
+   "la data di esecuzione o notificazione di ciascun provvedimento",
+   "l'elenco dei beni e dei rapporti bancari colpiti dal vincolo",
+   "i documenti che attestano l'origine e la causa dei movimenti di denaro",
+   "gli atti su cui si fonda la gravità indiziaria",
+   "gli elementi che mostrano l'assenza di rischi attuali di fuga, inquinamento o reiterazione",
+   "l'eventuale richiesta subordinata di una misura meno afflittiva"
+  ]},
+  {"h2": "La revoca come strumento successivo", "paragrafi": [
+   "Se il riesame non viene proposto o non basta, l'articolo 299 permette di chiedere la revoca o la sostituzione della misura quando mutano le condizioni, ad esempio perché sono venute meno le esigenze o perché nuovi elementi hanno indebolito il quadro indiziario. È un percorso diverso dal riesame e può essere attivato più volte.",
+   "Ogni vicenda va valutata sui suoi atti e l'esito del caso non può essere promesso a chi si trova in una situazione simile. Per un esame dei provvedimenti e dei termini ci si può rivolgere allo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+  ]}
+ ],
+ "faq": [
+  {"q": "Entro quanto si propone il riesame di un sequestro?", "a": "L'articolo 324 del codice di procedura penale indica dieci giorni dalla data di esecuzione del provvedimento che ha disposto il sequestro, o dal momento in cui l'interessato ne ha avuto conoscenza. Il termine è perentorio, e la data va ricostruita con precisione dagli atti ricevuti."},
+  {"q": "Il riesame personale e quello sul sequestro sono la stessa cosa?", "a": "No. Il primo riguarda le misure sulla libertà personale ed è disciplinato dall'articolo 309, il secondo riguarda il sequestro di beni ed è disciplinato dall'articolo 324. Hanno presupposti, atti e tempi propri e possono essere proposti in modo separato."},
+  {"q": "Che differenza c'è tra riesame e revoca della misura?", "a": "Il riesame contesta l'ordinanza applicativa entro dieci giorni. La revoca dell'articolo 299 si chiede quando le condizioni di applicabilità o le esigenze cautelari vengono meno. Il primo ha termini brevi e il secondo può essere chiesto in momenti successivi."},
+  {"q": "Cosa succede ai conti bancari dopo il dissequestro?", "a": "Con il dissequestro il vincolo cade e i rapporti tornano nella disponibilità del titolare. Nel caso riportato, lo sblocco dei rapporti bancari è seguito alla decisione del Collegio, con esecuzione immediata. I tempi pratici dipendono dalla comunicazione ai soggetti interessati."}
+ ],
+ "norme_verificate": [
+  {"norma": "art. 629 c.p.", "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"},
+  {"norma": "artt. 273, 274, 275, 299, 309, 324 c.p.p.", "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"}
+ ],
+ "parole": 0
+}

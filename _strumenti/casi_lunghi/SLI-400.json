@@ -1,0 +1,80 @@
+{
+  "id": "SLI-400",
+  "seo_title": "Recupero crediti: domanda accolta per intero con le spese",
+  "description": "Come si arriva all'accoglimento integrale di un credito: prova scritta, consulenza tecnica con consulente di parte, interessi, spese di lite e notifica del titolo.",
+  "parole_chiave": [
+    "recupero crediti",
+    "prova scritta",
+    "consulenza tecnica",
+    "spese di lite",
+    "precetto"
+  ],
+  "sezioni": [
+    {
+      "h2": "Un credito documentato e una domanda accolta per intero",
+      "paragrafi": [
+        "Nel caso esaminato il Tribunale di Napoli ha accolto integralmente la domanda di un cliente che chiedeva il pagamento di una somma di denaro. L'accoglimento integrale è la formula che indica un risultato pieno: il giudice ha riconosciuto il capitale, ha liquidato gli interessi e ha posto a carico della controparte anche le spese legali. Non è l'esito più frequente nelle controversie sui crediti, e per questo vale la pena capire che cosa lo ha reso possibile.",
+        "La risposta sta quasi sempre nella fase che precede la decisione. Chi pretende un pagamento deve costruire, prima ancora di scrivere la domanda, un fascicolo in cui ogni passaggio del rapporto sia dimostrabile con un documento. Nel caso la difesa ha puntato su un'istruttoria documentale rigorosa e su una verifica tecnica guidata da un consulente di parte, in modo che il giudice avesse davanti numeri controllabili e non semplici affermazioni."
+      ]
+    },
+    {
+      "h2": "La prova scritta, punto di partenza di ogni pretesa",
+      "paragrafi": [
+        "L'articolo 633 del codice di procedura civile individua i crediti per i quali si può chiedere l'ingiunzione di pagamento e li lega all'esistenza di una prova scritta. L'articolo 634 chiarisce quali documenti possano valere come tali, comprese le scritture contabili tenute da imprenditori nei rapporti con altri imprenditori, purché regolarmente tenute e vidimate. Anche quando poi la lite prosegue con il rito ordinario, il ragionamento resta lo stesso: ciò che si può provare con un documento si deve provare con un documento.",
+        "In concreto significa ordinare contratti, fatture, bolle di consegna, estratti conto, corrispondenza e quietanze parziali in una sequenza che racconti il rapporto dall'origine all'inadempimento. Un fascicolo ordinato riduce lo spazio delle contestazioni generiche e obbliga la controparte a indicare con precisione che cosa non riconosce."
+      ],
+      "elenco": [
+        "Il titolo da cui nasce il credito, con data e importo.",
+        "La prova della prestazione eseguita o della merce consegnata.",
+        "La richiesta scritta di pagamento rimasta senza esito.",
+        "Il conteggio analitico di capitale, interessi e accessori."
+      ]
+    },
+    {
+      "h2": "La consulenza tecnica e il consulente di parte",
+      "paragrafi": [
+        "Quando il credito dipende da conteggi complessi, il giudice può disporre una consulenza tecnica d'ufficio. In casi analoghi la parte può farsi assistere da un proprio consulente, che segue le operazioni, formula osservazioni scritte e contesta le impostazioni errate prima che entrino nella relazione finale. Nel caso trattato la presenza di un consulente di parte ha avuto un effetto concreto: i conteggi del perito d'ufficio sono stati verificati voce per voce.",
+        "Il valore di questo presidio non sta nella polemica, ma nella precisione. Una relazione tecnica che recepisce già le osservazioni della parte diventa un tassello difficile da scalfire in sede di decisione, e rende più solida la liquidazione finale."
+      ]
+    },
+    {
+      "h2": "Capitale, interessi e spese: che cosa comprende il risultato pieno",
+      "paragrafi": [
+        "Gli interessi decorrono dal momento in cui il debitore è costituito in mora. L'articolo 1219 del codice civile prevede che la costituzione in mora avvenga mediante intimazione o richiesta fatta per iscritto, e indica i casi in cui non è necessaria. Una diffida inviata in tempo e conservata con la prova della ricezione può quindi spostare il decorso degli interessi, con effetti sulla somma finale.",
+        "Quanto alle spese, l'articolo 91 stabilisce che il giudice, con la decisione che chiude il processo, condanna la parte soccombente al rimborso delle spese a favore dell'altra parte e ne liquida l'ammontare insieme con gli onorari di difesa. Chi vince integralmente ottiene dunque anche il ristoro dei costi sostenuti, ma la liquidazione dipende dall'attività svolta e documentata."
+      ]
+    },
+    {
+      "h2": "Dopo la decisione: notifica del titolo e incasso",
+      "paragrafi": [
+        "La decisione favorevole non basta a far arrivare il denaro: occorre notificarla alla controparte insieme al precetto. L'articolo 480 disciplina la forma del precetto e l'articolo 481 ne limita l'efficacia nel tempo, perché se l'esecuzione non è iniziata entro novanta giorni dalla notificazione il precetto perde efficacia e va rinnovato. Nel caso le attività successive sono state la notifica del titolo, l'incasso integrale delle somme e il recupero delle spese liquidate.",
+        "In generale, chi ottiene una condanna dovrebbe predisporre il precetto subito dopo aver verificato quali beni o crediti del debitore possano essere aggredibili, così da non lasciar decorrere inutilmente i termini."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Che cosa vuol dire accoglimento integrale della domanda?",
+      "a": "Il giudice riconosce tutto ciò che era stato chiesto: capitale, interessi e spese di lite. Il caso esaminato è andato in questa direzione grazie a una documentazione ordinata e a una verifica tecnica dei conteggi."
+    },
+    {
+      "q": "Serve un consulente di parte quando il giudice nomina il perito?",
+      "a": "Non è obbligatorio, ma in casi analoghi permette di seguire le operazioni e di contestare gli errori di calcolo prima del deposito della relazione, con un vantaggio concreto sulla liquidazione finale."
+    },
+    {
+      "q": "Per quanto tempo vale il precetto?",
+      "a": "Secondo l'articolo 481 del codice di procedura civile il precetto perde efficacia se, entro novanta giorni dalla notificazione, non è iniziata l'esecuzione. In quel caso va rinnovato."
+    }
+  ],
+  "norme_verificate": [
+    {
+      "norma": "Codice di procedura civile, artt. 91, 480, 481, 633, 634",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+    },
+    {
+      "norma": "Codice civile, art. 1219",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+    }
+  ],
+  "parole": 737
+}

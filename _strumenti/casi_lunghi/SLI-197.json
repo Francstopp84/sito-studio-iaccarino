@@ -1,0 +1,86 @@
+{
+ "id": "SLI-197",
+ "seo_title": "Rimborso credito IVA su cessioni intracomunitarie",
+ "description": "Credito IVA negato per acquirenti non iscritti al VIES: come si prova la cessione intracomunitaria, cosa dice il DPR 633/1972 e come ricorrere in appello.",
+ "parole_chiave": [
+  "rimborso iva cessioni intracomunitarie",
+  "vies acquirente non iscritto",
+  "diniego rimborso iva",
+  "prova cessione intracomunitaria cmr",
+  "credito iva rimborso agenzia entrate",
+  "appello cgt rimborso iva"
+ ],
+ "sezioni": [
+  {
+   "h2": "La cessione intracomunitaria e il credito IVA",
+   "paragrafi": [
+    "Nel caso una società che vende prodotti chimici ad acquirenti tedeschi e olandesi aveva maturato un credito IVA di € 93.600. Le cessioni verso altri Stati dell'Unione sono disciplinate dal DPR 633 del 1972, che all'art. 8 tratta le cessioni all'esportazione non imponibili e agli artt. 30 e 30-ter il diritto al rimborso dell'eccedenza detraibile e le relative condizioni. L'art. 38-bis regola l'esecuzione dei rimborsi.",
+    "Il punto di diritto è il collegamento tra la non imponibilità della cessione e la prova che i beni abbiano lasciato il territorio nazionale verso un acquirente identificato. Il testo del decreto sul tema delle cessioni intracomunitarie non è tra le norme lette per questo lavoro, e per questo non si indicano qui le sue disposizioni."
+   ]
+  },
+  {
+   "h2": "Il diniego e la sua logica",
+   "paragrafi": [
+    "L'Agenzia aveva negato il rimborso perché gli acquirenti non risultavano iscritti al VIES, il sistema di identificazione dei soggetti passivi europei, al momento delle cessioni. Il primo grado di giudizio aveva respinto il ricorso della società. Il nodo, in situazioni di questo tipo, è la differenza tra una irregolarità formale dell'acquirente e la prova sostanziale che l'operazione si è realmente svolta tra soggetti passivi.",
+    "La difesa, in appello, ha spostato il discorso sulla prova. Ha prodotto estratti VIES con data e ora certe, documenti di trasporto CMR firmati, bonifici internazionali tracciabili e le dichiarazioni IVA presentate dagli acquirenti esteri. Ogni documento risponde a una domanda: chi ha comprato, dove sono andate le merci, chi ha pagato, come l'operazione è stata dichiarata dall'altra parte."
+   ]
+  },
+  {
+   "h2": "L'esito in appello",
+   "paragrafi": [
+    "La CGT di II grado della Campania ha riformato la decisione di primo grado e ha riconosciuto il rimborso di € 93.600, con circa € 5.600 di interessi riferiti al quadriennio, oltre alle spese di entrambi i gradi. L'esito sintetico è il rimborso integrale con gli interessi.",
+    "Dai dati disponibili non si conoscono altri elementi del ragionamento del giudice. Si può osservare, restando ai fatti del lotto, che nella fase d'appello la prova è stata arricchita e organizzata per documenti provenienti da fonti diverse, tra cui soggetti esteri. Quando una pretesa fiscale si fonda su un dato formale, la catena documentale completa può cambiare il quadro."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi effettua cessioni verso altri Paesi dell'Unione dovrebbe costruire il fascicolo prova al momento dell'operazione, e non dopo la contestazione. Il controllo dell'identificazione dell'acquirente va datato e conservato; i documenti di trasporto vanno firmati dal ricevente; i pagamenti devono essere tracciabili e riferibili alla fattura.",
+    "In caso di diniego il rimedio è il ricorso alla corte tributaria nei termini di legge. In appello si possono portare nuovi documenti solo nei limiti e con le regole del processo, e per questo conviene conservare tutto fin dall'inizio. Ogni vicenda va valutata sui suoi atti."
+   ],
+   "elenco": [
+    "estratti di verifica dell'identificativo IVA dell'acquirente con data e ora",
+    "documenti di trasporto firmati dal destinatario",
+    "bonifici o altri pagamenti tracciabili",
+    "fatture e registri IVA relativi alle cessioni",
+    "dichiarazioni o conferme degli acquirenti esteri"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il ricorso contro il diniego va proposto entro sessanta giorni, a pena di inammissibilità, secondo l'art. 21 del D.Lgs. 546/1992, e la costituzione avviene entro trenta giorni ai sensi dell'art. 22. Chi ha ottenuto una sentenza sfavorevole deve rispettare i termini di impugnazione, che il caso non indica e che non si possono ricostruire.",
+    "L'errore più comune è presentare la documentazione tardi o incompleta, supponendo che basti la fattura. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Perché l'Agenzia nega il rimborso per un acquirente non iscritto al VIES?",
+   "a": "Nel caso il diniego si basava sull'assenza di iscrizione degli acquirenti al momento della cessione. La società ha poi provato con estratti datati, documenti di trasporto, pagamenti e dichiarazioni degli acquirenti che l'operazione era reale e dichiarata. La verifica va fatta sulle regole del tributo e sui documenti."
+  },
+  {
+   "q": "Quali documenti provano una cessione verso un altro Paese UE?",
+   "a": "Nel caso sono stati prodotti estratti VIES con data e ora certe, CMR firmati, bonifici internazionali tracciabili e dichiarazioni IVA degli acquirenti. Nessun documento è sufficiente da solo: contano la coerenza e la reciproca conferma. Conviene conservarli al momento dell'operazione."
+  },
+  {
+   "q": "Si possono avere gli interessi sul rimborso IVA?",
+   "a": "Nel caso la decisione ha riconosciuto circa € 5.600 di interessi riferiti al quadriennio, oltre al capitale. La misura e la decorrenza dipendono dalle norme applicabili al tributo e dalla decisione del giudice. Non sono quindi automatiche e vanno calcolate sui singoli documenti."
+  },
+  {
+   "q": "Entro quanto si impugna il diniego di rimborso?",
+   "a": "L'art. 21 del D.Lgs. 546/1992 prevede il termine di sessanta giorni dalla notifica del rifiuto, a pena di inammissibilità. Se manca risposta, il ricorso può essere proposto dopo il novantesimo giorno dalla domanda. La domanda di restituzione, senza termini specifici, non può superare due anni dal pagamento."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "DPR 633/1972",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 633-1972 IVA.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 799
+}

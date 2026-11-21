@@ -1,0 +1,60 @@
+{
+ "id": "SLI-395",
+ "seo_title": "Opposizione a decreto ingiuntivo del condominio: revoca e spese",
+ "description": "Opposizione a un decreto ingiuntivo condominiale: termini, prova scritta, perizia contabile, mediazione a carico di chi ha chiesto l'ingiunzione e revoca con spese.",
+ "parole_chiave": ["opposizione decreto ingiuntivo condominio", "revoca decreto ingiuntivo", "prova scritta decreto ingiuntivo", "perizia contabile condominio", "mediazione opposizione decreto ingiuntivo", "spese di lite condominio"],
+ "sezioni": [
+  {
+   "h2": "Il decreto ingiuntivo e il tempo per reagire",
+   "paragrafi": [
+    "Il condominio che vuole recuperare spese non pagate può chiedere un decreto ingiuntivo senza passare da una causa ordinaria. L'articolo 633 del codice di procedura civile lo consente a chi è creditore di una somma liquida di denaro e ne dà prova scritta. Il giudice decide sul solo ricorso, senza sentire l'altra parte, e proprio per questo il destinatario ha uno strumento per farsi ascoltare: l'opposizione dell'articolo 645, che si propone con atto di citazione davanti all'ufficio giudiziario che ha emesso il decreto.",
+    "L'opposizione non è un semplice ricorso contro un errore: apre un giudizio ordinario in cui il creditore torna a essere attore in senso sostanziale e deve provare il proprio credito. Il tempo concesso per proporla è breve e va letto sul decreto notificato, perché dal suo rispetto dipende la possibilità di discutere nel merito."
+   ]
+  },
+  {
+   "h2": "La linea difensiva seguita nel caso",
+   "paragrafi": [
+    "La scheda riporta una opposizione tempestiva, corredata da una perizia contabile e giuridica e da una contestazione puntuale della prova scritta prodotta dal creditore. Il provvedimento è stato revocato integralmente, con spese a carico della controparte. Ne sono derivati la cancellazione delle iscrizioni pregiudizievoli, lo svincolo delle somme e il recupero delle spese di lite.",
+    "La contestazione della prova scritta è il punto che spesso decide. Nei decreti chiesti da un condominio la prova è di solito formata dal verbale di assemblea, dal rendiconto e dal prospetto di ripartizione. Se il documento non corrisponde alla delibera, se i millesimi applicati sono sbagliati o se le voci non sono riconducibili alle spese approvate, il credito non è provato e il decreto cade. La perizia contabile serve a tradurre questi difetti in cifre che il giudice può verificare.",
+    "Il caso non indica gli importi né gli anni contestati, e non è corretto ricostruirli. Si può osservare soltanto il risultato: una revoca totale, non una riduzione, con effetti concreti sul patrimonio di chi era stato colpito."
+   ]
+  },
+  {
+   "h2": "Chi deve avviare la mediazione",
+   "paragrafi": [
+    "Un aspetto che sorprende molti riguarda la mediazione. Per le controversie in materia di condominio essa è condizione di procedibilità, ma nell'opposizione a decreto ingiuntivo l'articolo 5-bis del decreto legislativo 28 del 2010 pone l'onere di presentare la domanda su chi ha proposto il ricorso per decreto, quindi sul creditore. Alla prima udienza il giudice provvede sulle istanze di provvisoria esecuzione e, accertato che la mediazione non è stata esperita, fissa una nuova udienza dopo la scadenza del termine di sei mesi previsto dall'articolo 6.",
+    "Se anche a quella udienza il tentativo manca, il giudice dichiara l'improcedibilità della domanda proposta con il ricorso, revoca il decreto opposto e provvede sulle spese. Chi si oppone non deve quindi farsi carico di un adempimento che non è suo, ma deve verificare che la questione sia stata sollevata, e non lasciarla al caso."
+   ]
+  },
+  {
+   "h2": "Dopo la revoca: cosa accade ai pagamenti e alle iscrizioni",
+   "paragrafi": [
+    "Se il decreto era stato dichiarato provvisoriamente esecutivo o se erano state iscritte ipoteche, la revoca apre una fase pratica. Le iscrizioni pregiudizievoli vanno cancellate sulla base del provvedimento, le somme eventualmente vincolate vanno liberate e le spese di lite liquidate dal giudice possono essere recuperate dalla parte vittoriosa. Sono passaggi che richiedono attenzione ai tempi e ai documenti, perché una volta revocato il decreto la parte deve chiedere in modo ordinato ciò che le spetta."
+   ]
+  },
+  {
+   "h2": "Se ricevi un decreto ingiuntivo dal tuo condominio",
+   "paragrafi": [
+    "In casi analoghi la prima cosa è guardare la data di notifica e contare il termine, prima ancora di discutere se la somma sia dovuta. Poi si ricostruisce la prova del condominio, confrontando il decreto con le delibere e i conteggi. Ogni vicenda va valutata sui suoi atti, e un esito favorevole non può essere promesso."
+   ],
+   "elenco": [
+    "decreto ingiuntivo con la relata di notifica",
+    "ricorso del condominio e documenti allegati",
+    "verbali di assemblea e rendiconti degli anni indicati",
+    "tabelle millesimali e prospetto di ripartizione",
+    "ricevute dei pagamenti già eseguiti"
+   ]
+  }
+ ],
+ "faq": [
+  {"q": "Come ci si oppone a un decreto ingiuntivo?", "a": "Con atto di citazione, secondo l'articolo 645 del codice di procedura civile, davanti all'ufficio giudiziario che ha emesso il decreto. Il termine è breve e decorre dalla notifica, quindi va verificato subito sul decreto ricevuto."},
+  {"q": "Che cosa deve provare il condominio per ottenere il decreto?", "a": "L'articolo 633 del codice di procedura civile richiede un credito di somma liquida di denaro provato per iscritto. Nel condominio la prova è di norma composta da verbale di assemblea, rendiconto e prospetto di ripartizione, che possono essere contestati nell'opposizione."},
+  {"q": "Chi deve proporre la mediazione nell'opposizione a decreto ingiuntivo?", "a": "L'articolo 5-bis del decreto legislativo 28 del 2010 pone l'onere sulla parte che ha chiesto il decreto. Se il tentativo non è esperito, il giudice dichiara l'improcedibilità della domanda, revoca il decreto opposto e decide sulle spese."},
+  {"q": "La revoca del decreto comporta anche il recupero delle spese?", "a": "Il giudice provvede sulle spese con il provvedimento che definisce l'opposizione, e nel caso esaminato sono state poste a carico della controparte. La liquidazione dipende comunque dall'esito e dalle valutazioni del giudice nel singolo giudizio."}
+ ],
+ "norme_verificate": [
+  {"norma": "artt. 633 e 645 c.p.c.", "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice di procedura civile.md"},
+  {"norma": "artt. 5-bis e 6 D.Lgs. 28/2010", "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"}
+ ],
+ "parole": 0
+}

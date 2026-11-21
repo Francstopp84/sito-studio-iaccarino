@@ -1,0 +1,80 @@
+{
+ "id": "SLI-146",
+ "seo_title": "Frode informatica e furto d'identità digitale: assoluzione",
+ "description": "Accusati di frode informatica per acquisti con le credenziali di un altro? Perché l'indirizzo IP da solo non prova chi ha agito e cosa dice l'articolo 640-ter.",
+ "parole_chiave": [
+  "frode informatica furto identità digitale",
+  "indirizzo IP prova reato informatico",
+  "acquisti online con credenziali altrui",
+  "articolo 640 ter codice penale",
+  "accusato di frode informatica difesa"
+ ],
+ "sezioni": [
+  {
+   "h2": "Che cos'è la frode informatica secondo il codice penale",
+   "paragrafi": [
+    "L'articolo 640-ter del codice penale punisce chi, alterando in qualsiasi modo il funzionamento di un sistema informatico o telematico, o intervenendo senza diritto con qualsiasi modalità su dati, informazioni o programmi contenuti in un sistema informatico, procura a sé o ad altri un ingiusto profitto con altrui danno. La pena base è la reclusione da sei mesi a tre anni. Il testo vigente prevede poi una pena più grave, la reclusione da due a sei anni, quando il fatto è commesso con furto o indebito utilizzo dell'identità digitale.",
+    "Nel caso, un giovane sviluppatore era accusato di frode informatica aggravata dal furto di identità digitale per avere presumibilmente utilizzato le credenziali di accesso di un collega per effettuare acquisti online. Il Tribunale di Milano lo ha assolto con la formula non aver commesso il fatto, quella che l'articolo 530 del codice di procedura penale riserva ai casi in cui l'imputato non risulta l'autore della condotta."
+   ]
+  },
+  {
+   "h2": "L'indirizzo IP e il problema dell'attribuzione",
+   "paragrafi": [
+    "L'accusa si basava sul tracciamento dell'indirizzo IP utilizzato per le transazioni, riconducibile all'utenza domestica dell'imputato. È un tipico caso in cui il dato tecnico indica un collegamento a una linea, ma non dice, di per sé, chi si trovasse al computer in quel momento. Il giudice, secondo l'articolo 192 del codice di procedura penale, deve valutare la prova dando conto dei risultati acquisiti e dei criteri adottati, e l'esistenza di un fatto non può essere desunta da indizi a meno che siano gravi, precisi e concordanti.",
+    "Questo passaggio è decisivo nei procedimenti informatici: collegare un indirizzo a un abbonamento è un tassello, mentre attribuire l'azione a una persona richiede altri elementi che confermino la riconducibilità. Quando il quadro resta incerto, l'articolo 530, comma 2, impone l'assoluzione anche per prova insufficiente o contraddittoria. Il caso mostra come la difesa possa concentrarsi sulla distanza tra la riconducibilità tecnica e la responsabilità penale personale."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi viene accusato di avere usato le credenziali di altri per fare acquisti spesso scopre di essere indagato per un dato tecnico che sembra inequivocabile. In casi analoghi conviene non fermarsi alla prima lettura del tabulato o del rapporto: occorre chiedersi come è stato ottenuto il dato, quale periodo copre, quali altre persone o dispositivi avevano accesso alla stessa rete e che cosa dicono gli altri log della piattaforma.",
+    "La difesa può avvalersi di una consulenza tecnica di parte, come previsto in via generale dall'articolo 233 del codice di procedura penale, e, durante le indagini, delle investigazioni difensive disciplinate dagli articoli 327-bis e 391-bis. Ogni vicenda va valutata sui suoi atti, e nessuna regola generale permette di prevedere l'esito. Alcune verifiche, tuttavia, tornano spesso."
+   ],
+   "elenco": [
+    "l'elenco dei dispositivi collegati alla rete domestica e di chi poteva accedervi",
+    "la configurazione del router e la presenza di reti aperte o condivise",
+    "gli orari delle transazioni confrontati con la presenza effettiva dell'indagato nel luogo di connessione",
+    "i rapporti tra la persona indicata come titolare delle credenziali e chi è accusato, per capire come le credenziali potevano circolare",
+    "le comunicazioni della piattaforma di acquisto e dell'istituto di pagamento, con i dettagli di consegna delle merci",
+    "ogni elemento che consenta di collocare la persona altrove nell'orario contestato"
+   ]
+  },
+  {
+   "h2": "Passi e cautele nelle prime fasi",
+   "paragrafi": [
+    "Il punto di partenza è la lettura accurata dell'imputazione, perché la presenza o meno dell'aggravante del furto di identità digitale cambia la cornice sanzionatoria. Alla conclusione delle indagini, l'articolo 415-bis del codice di procedura penale prevede l'avviso al difensore e all'indagato, momento in cui si ha accesso agli atti e si può decidere come orientare la difesa. Non va trascurato nemmeno il profilo della conservazione dei dati: i fornitori di servizi conservano i log per periodi limitati, e chiedere tempestivamente la conservazione o l'acquisizione di dati utili può fare la differenza.",
+    "Evitare di cancellare account, dispositivi o cronologie dopo la notizia dell'indagine è un'altra regola di prudenza: la cancellazione può essere letta come un tentativo di occultamento e priva la difesa di elementi utili. Meglio consegnare tutto al difensore e lasciare che sia lui a decidere come tutelare la documentazione.",
+    "Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "L'indirizzo IP basta per essere condannati?",
+   "a": "Di per sé indica il collegamento a una linea, non la persona fisica che ha agito. Il giudice valuta ogni indizio secondo l'articolo 192 del codice di procedura penale, che richiede indizi gravi, precisi e concordanti. In casi analoghi servono altri elementi che colleghino l'azione all'imputato."
+  },
+  {
+   "q": "Che pena prevede il furto di identità digitale nella frode informatica?",
+   "a": "Il testo vigente dell'articolo 640-ter del codice penale prevede la reclusione da due a sei anni, con multa, quando il fatto è commesso con furto o indebito utilizzo dell'identità digitale. Per questo l'imputazione va letta con grande attenzione fin dall'inizio."
+  },
+  {
+   "q": "Posso far fare una perizia a un tecnico di fiducia?",
+   "a": "Sì, la difesa può nominare un consulente tecnico di parte, come previsto in generale dall'articolo 233 del codice di procedura penale, e il difensore può svolgere investigazioni ai sensi degli articoli 327-bis e 391-bis. Il tecnico può esaminare log, dispositivi e configurazioni di rete."
+  },
+  {
+   "q": "Cosa significa assolto per non aver commesso il fatto?",
+   "a": "È una formula dell'articolo 530 del codice di procedura penale: il reato può anche essere stato commesso da qualcuno, ma non dall'imputato. È diversa dall'insussistenza del fatto, che nega l'esistenza stessa dell'episodio contestato."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 640-ter c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "artt. 192, 233, 327-bis, 391-bis, 415-bis, 530 c.p.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+  }
+ ],
+ "parole": 828
+}

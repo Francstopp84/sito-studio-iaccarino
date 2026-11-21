@@ -1,0 +1,73 @@
+{
+ "id": "SLI-435",
+ "seo_title": "Rimborso e riduzione oltre il 70% in Cassazione tributaria",
+ "description": "Pretesa fiscale ridotta oltre il 70% con rimborso e interessi davanti alla Corte di Cassazione, Sezione Tributaria: impugnabilità del rifiuto e termini.",
+ "parole_chiave": [
+  "rimborso tributario con interessi",
+  "riduzione pretesa fiscale oltre 70%",
+  "rifiuto tacito di rimborso",
+  "ricorso tributario Cassazione",
+  "restituzione imposte non dovute"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il rifiuto di rimborso come atto impugnabile",
+   "paragrafi": [
+    "Il caso, trattato davanti alla Corte di Cassazione, Sezione Tributaria, ha avuto come esito una riduzione della pretesa oltre il 70% e un rimborso con interessi. Il punto normativo da cui partire è l'art. 19 del D.Lgs. 546/1992, che include tra gli atti impugnabili il rifiuto, espresso o tacito, della restituzione di tributi, sanzioni pecuniarie e interessi o altri accessori non dovuti. Chi ha pagato più del dovuto non è quindi senza strumenti.",
+    "L'art. 21 distingue due situazioni. Se l'atto è notificato, il ricorso si propone entro sessanta giorni, a pena di inammissibilità. Se invece manca la risposta dell'ufficio alla domanda di rimborso, il rifiuto tacito si impugna dopo il novantesimo giorno dalla domanda. Capire in quale delle due situazioni ci si trovi è il primo passo."
+   ]
+  },
+  {
+   "h2": "Il lavoro che ha portato alla rideterminazione",
+   "paragrafi": [
+    "Nel caso la strategia è stata costruita su una perizia contabile comparativa e sui documenti fiscali, per mostrare la sproporzione della pretesa. La decisione ha accolto il ricorso, rideterminato l'imposta e condannato al rimborso maggiorato di interessi. Il lavoro si è poi spostato sull'esecuzione del risultato: accredito del rimborso, aggiornamento delle banche dati e recupero delle spese legali.",
+    "È un percorso che vale la pena osservare dal lato pratico. Il giudice può ridurre soltanto ciò che risulta eccessivo sulla base di dati controllabili; per questo la parte deve portare i documenti e un calcolo alternativo comprensibile. La riduzione non è l'esito di una trattativa, ma di un accertamento sulle cifre.",
+    "Occorre considerare anche gli interessi: la restituzione di una somma non dovuta può comprendere gli accessori, e la loro misura dipende dalle regole del singolo tributo. Nel caso la condanna ha riguardato sia l'importo versato in eccesso sia gli interessi, ma il calcolo va sempre verificato sui documenti. Conservare le ricevute con le date esatte rende il calcolo preciso e riduce le contestazioni sull'importo finale."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi sospetta di aver versato una somma non dovuta dovrebbe in generale rimettere in ordine le proprie carte: atto di richiesta, dichiarazioni, versamenti, comunicazioni. Poi occorre capire se esista un atto da impugnare o se serva prima una domanda di rimborso. Ogni caso dipende dai propri documenti, e un risultato favorevole altrove non si estende in modo automatico."
+   ],
+   "elenco": [
+    "Atto o comunicazione con cui l'ufficio chiede la somma",
+    "Ricevute dei versamenti con le date",
+    "Dichiarazioni e documenti contabili collegati",
+    "Eventuale domanda di rimborso e prova di invio",
+    "Un prospetto che confronta pretesa e importo ricostruito"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il termine di sessanta giorni dalla notifica dell'atto e il deposito entro trenta giorni sono a pena di inammissibilità (artt. 21 e 22 D.Lgs. 546/1992). Per il rifiuto tacito, il ricorso non può essere proposto prima del novantesimo giorno dalla domanda. Per le controversie di valore minimo l'art. 12 consente di stare in giudizio senza difensore, ma per le altre l'assistenza tecnica è necessaria. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso chiedere indietro quanto pagato in più al fisco?",
+   "a": "Il caso si è chiuso con rimborso e interessi. L'art. 19 del D.Lgs. 546/1992 elenca tra gli atti impugnabili il rifiuto, anche tacito, della restituzione di somme non dovute. In generale i termini e le modalità dipendono dal tributo e dalla situazione specifica."
+  },
+  {
+   "q": "Quando posso ricorrere se l'ufficio tace?",
+   "a": "L'art. 21 stabilisce che il rifiuto tacito della restituzione si impugni dopo il novantesimo giorno dalla domanda di rimborso. Prima di questo termine il ricorso non è ammesso, quindi conviene conservare la prova della data della domanda."
+  },
+  {
+   "q": "Serve sempre un avvocato nel ricorso tributario?",
+   "a": "L'art. 12 del D.Lgs. 546/1992 richiede l'assistenza tecnica, con l'eccezione delle controversie di valore minimo, per le quali si può stare in giudizio senza difensore. La valutazione del valore e della natura della lite va fatta sul caso concreto."
+  },
+  {
+   "q": "La perizia contabile è obbligatoria?",
+   "a": "Non è un obbligo, ma nel caso è stata il cuore della strategia: ha confrontato la somma pretesa con quella ricostruita dai documenti. In generale serve quando la contestazione riguarda un calcolo e occorre renderlo comprensibile al giudice."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.Lgs. 546/1992, artt. 12, 19, 21, 22, 47",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 626
+}

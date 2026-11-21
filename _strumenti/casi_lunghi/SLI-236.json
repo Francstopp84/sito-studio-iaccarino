@@ -1,0 +1,77 @@
+{
+ "id": "SLI-236",
+ "seo_title": "Rifugiato per persecuzione politica: ricorso dopo il diniego",
+ "description": "Status di rifugiato negato dalla Commissione Territoriale: come si impugna, i trenta giorni, la prova della persecuzione e il peso della documentazione medica.",
+ "parole_chiave": [
+  "status di rifugiato",
+  "ricorso diniego commissione territoriale",
+  "persecuzione politica",
+  "protezione internazionale giornalista",
+  "documentazione medica tortura"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il caso: un giornalista e il rigetto della Commissione",
+   "paragrafi": [
+    "Il caso riguarda un giornalista pakistano, collaboratore di una testata online di opposizione, che aveva denunciato episodi di corruzione nelle forze armate. Secondo il suo racconto, è stato arrestato, detenuto e torturato dai servizi di sicurezza, ed è poi fuggito in Italia. La Commissione Territoriale di Roma ha respinto la domanda, ritenendo che l'attività svolta non avesse un carattere abbastanza politico e che le violenze fossero riconducibili a iniziative individuali di agenti corrotti. Davanti al Tribunale di Roma l'esito è stato il riconoscimento dello status di rifugiato, con accertamento della persecuzione politica.",
+    "Il rifiuto della Commissione, come descritto, non aveva considerato la documentazione medica sui segni di tortura né le minacce successive al rilascio. Sono due elementi che hanno inciso sul riesame: è un esempio di come un diniego possa reggere solo se tiene conto di tutto ciò che il richiedente ha portato."
+   ]
+  },
+  {
+   "h2": "Come si impugna un diniego di protezione",
+   "paragrafi": [
+    "L'articolo 35-bis del decreto legislativo 25 del 2008 regola le controversie contro le decisioni della Commissione. Si applica il procedimento camerale degli articoli 737 e seguenti del codice di procedura civile. Il ricorso va proposto entro trenta giorni dalla notificazione del provvedimento, oppure entro sessanta giorni se il ricorrente si trova all'estero, a pena di inammissibilità. In generale la proposizione del ricorso sospende l'efficacia esecutiva del provvedimento impugnato, salvo le eccezioni previste dalla stessa norma.",
+    "La cancelleria notifica il ricorso al Ministero dell'interno e comunica il decreto di fissazione al pubblico ministero, che può depositare conclusioni entro venti giorni. La Commissione deve depositare entro lo stesso termine copia della domanda, il verbale dell'audizione e la documentazione acquisita. Per questo, già nel ricorso conviene indicare con precisione quali elementi la decisione ha trascurato."
+   ]
+  },
+  {
+   "h2": "Che cosa deve dimostrare chi chiede lo status",
+   "paragrafi": [
+    "Il decreto legislativo 251 del 2007 definisce i presupposti. L'articolo 7 descrive gli atti di persecuzione, l'articolo 8 i motivi, tra i quali le opinioni politiche, e l'articolo 5 indica i possibili responsabili, compresi in certi casi soggetti diversi dallo Stato. L'articolo 11 disciplina il riconoscimento dello status di rifugiato. L'articolo 3 pone a carico del richiedente un onere di cooperazione: presentare, in modo tempestivo, tutti gli elementi per motivare la domanda.",
+    "In casi analoghi diventa decisiva la coerenza tra racconto e documenti. Referti medici, articoli scritti, messaggi di minaccia, atti di arresto, quando esistono, vanno conservati e tradotti. Un racconto privo di riscontri è più fragile, anche se vero."
+   ],
+   "elenco": [
+    "referti e relazioni mediche sui segni di violenza",
+    "pubblicazioni, articoli o attestazioni dell'attività svolta",
+    "atti o notizie sull'arresto e sulla detenzione",
+    "messaggi, telefonate o testimonianze di minacce",
+    "la decisione della Commissione e la data di notifica"
+   ]
+  },
+  {
+   "h2": "Che cosa fare appena arriva il diniego",
+   "paragrafi": [
+    "Per prima cosa si controlla la data di notifica e si calcolano i trenta giorni. Poi si legge con attenzione la motivazione, per capire quali fatti sono stati ritenuti non credibili o non rilevanti. Si raccolgono documenti nuovi o non valorizzati e si prepara un racconto ordinato, con date e luoghi. Ogni vicenda ha elementi propri e nessun risultato si può promettere. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Entro quanto tempo si impugna il diniego della Commissione Territoriale?",
+   "a": "L'articolo 35-bis del decreto legislativo 25 del 2008 prevede trenta giorni dalla notificazione, o sessanta se il ricorrente è all'estero, a pena di inammissibilità. Il termine è breve e va calcolato subito sulla data di notifica."
+  },
+  {
+   "q": "Il ricorso sospende l'obbligo di lasciare il Paese?",
+   "a": "In generale la proposizione del ricorso sospende l'efficacia esecutiva del provvedimento impugnato, salvo le eccezioni previste dalla stessa norma. Conviene verificare sul provvedimento ricevuto se una di quelle eccezioni si applica."
+  },
+  {
+   "q": "Le opinioni politiche contano per lo status di rifugiato?",
+   "a": "Il decreto legislativo 251 del 2007 elenca le opinioni politiche tra i motivi di persecuzione rilevanti. Nel caso descritto la persecuzione politica è stata accertata. Ogni domanda va comunque valutata sui fatti e sulle prove di quella persona."
+  },
+  {
+   "q": "Serve una documentazione medica?",
+   "a": "Se la persona dichiara di aver subito violenze, i referti sui segni fisici possono essere un riscontro importante. Nel caso descritto il diniego non li aveva considerati. In generale vanno prodotti con la data e le informazioni sull'origine delle lesioni."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 35-bis D.Lgs. 25/2008",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 25-2008 procedure protezione internazionale.md"
+  },
+  {
+   "norma": "D.Lgs. 251/2007",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\08 Immigrazione\\Norme\\D.Lgs. 251-2007 qualifiche protezione internazionale.md"
+  }
+ ],
+ "parole": 668
+}

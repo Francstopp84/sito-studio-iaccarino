@@ -1,0 +1,81 @@
+{
+ "id": "SLI-351",
+ "seo_title": "Appello reati informatici: riduzione della pena",
+ "description": "Come si ottiene in appello la riqualificazione del reato informatico, l'esclusione delle aggravanti e la riduzione della pena: norme, motivi e limiti.",
+ "parole_chiave": [
+  "appello riduzione della pena",
+  "riqualificazione del reato in appello",
+  "esclusione aggravanti",
+  "sospensione condizionale della pena",
+  "divieto di reformatio in peius"
+ ],
+ "sezioni": [
+  {
+   "h2": "Che cosa si può ottenere in appello",
+   "paragrafi": [
+    "Il caso riguarda un procedimento per reati informatici deciso dal Tribunale di Salerno, in cui l'appello ha portato alla riqualificazione del fatto, alla riduzione della pena, all'esclusione delle aggravanti e alla sospensione condizionale. Sono quattro effetti diversi, che nascono da motivi di impugnazione distinti.",
+    "La riqualificazione significa che il fatto viene ricondotto a una fattispecie meno grave. Nei reati informatici la differenza può essere netta: l'articolo 615-ter del codice penale prevede una pena fino a tre anni nell'ipotesi base e da due a dieci anni nelle ipotesi aggravate, mentre l'articolo 640-ter prevede da sei mesi a tre anni, con pene più alte quando ricorrono le circostanze indicate. Escludere un'aggravante può quindi cambiare davvero la cornice di pena.",
+    "La sospensione condizionale è disciplinata dall'articolo 163 del codice penale: può essere concessa quando la condanna è alla reclusione o all'arresto per un tempo non superiore a due anni; l'esecuzione resta sospesa per cinque anni se la condanna riguarda un delitto e per due se riguarda una contravvenzione."
+   ]
+  },
+  {
+   "h2": "Su che cosa ha lavorato la difesa",
+   "paragrafi": [
+    "Nel caso l'appello è stato costruito su vizi motivazionali, attendibilità delle dichiarazioni e perizia di parte. Sono i tre punti in cui la sentenza di primo grado, secondo la difesa, non reggeva.",
+    "Il vizio di motivazione è il terreno classico delle impugnazioni: l'articolo 606 del codice di procedura penale, tra i motivi di ricorso, indica alla lettera e) la mancanza, la contraddittorietà o la manifesta illogicità della motivazione. L'attendibilità di chi accusa si valuta confrontando le dichiarazioni con i riscontri, e la perizia di parte offre una lettura tecnica alternativa dei dati informatici.",
+    "Quando a impugnare è il solo imputato, vale una garanzia: l'articolo 597, comma 3, del codice di procedura penale vieta al giudice dell'impugnazione di irrogare una pena più grave per specie o quantità, di applicare una misura di sicurezza nuova o più grave e di revocare benefici. È ciò che rende l'appello dell'imputato un rimedio a rischio contenuto sotto il profilo della pena."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale, chi è stato condannato per un reato informatico dovrebbe leggere la sentenza chiedendosi quali parti della motivazione siano deboli e quali conseguenze di pena dipendano da singole aggravanti. Ogni caso va valutato sugli atti e nessun esito è prevedibile in astratto.",
+    "Ecco i punti che di solito meritano un controllo."
+   ],
+   "elenco": [
+    "Verificare se l'aggravante contestata risulta davvero dal fatto accertato.",
+    "Leggere come la sentenza giustifica l'attendibilità delle dichiarazioni a carico.",
+    "Chiedere a un tecnico di rileggere i dati informatici e di indicarne i limiti.",
+    "Controllare se la pena finale rientra nei limiti per la sospensione condizionale.",
+    "Evitare motivi generici: ogni censura deve indicare il passaggio contestato."
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il primo passo è ottenere subito la motivazione e contare i termini per impugnare, che il difensore deve ricavare dal tipo di sentenza e dal momento del deposito. Un appello fuori termine non produce nessun effetto, qualunque sia la qualità dei motivi.",
+    "Il secondo passo è dare all'appello una struttura chiara: prima la riqualificazione, poi le aggravanti, poi il trattamento sanzionatorio e i benefici. Così il giudice vede la gradazione delle richieste e può accoglierne almeno una parte.",
+    "Infine, se la pena scende sotto la soglia di legge, la sospensione condizionale va chiesta espressamente. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quando si può ottenere la sospensione condizionale?",
+   "a": "L'articolo 163 del codice penale prevede che possa essere concessa quando la condanna è alla reclusione o all'arresto per un tempo non superiore a due anni. La sospensione dura cinque anni per i delitti e due anni per le contravvenzioni."
+  },
+  {
+   "q": "Se appello solo io, la pena può peggiorare?",
+   "a": "Se appella il solo imputato, l'articolo 597, comma 3, del codice di procedura penale vieta al giudice di applicare una pena più grave o di revocare benefici. Restano possibili ulteriori valutazioni sul merito, ma senza peggiorare il trattamento sanzionatorio."
+  },
+  {
+   "q": "Che cosa significa riqualificare il reato?",
+   "a": "Significa ricondurre il fatto a una fattispecie diversa e meno grave. Nei reati informatici può incidere sulla cornice di pena, come mostrano le differenze tra l'ipotesi base e quelle aggravate degli articoli 615-ter e 640-ter del codice penale."
+  },
+  {
+   "q": "Il vizio di motivazione è un motivo valido?",
+   "a": "L'articolo 606 del codice di procedura penale, alla lettera e), indica come motivo di ricorso la mancanza, la contraddittorietà o la manifesta illogicità della motivazione. In appello la critica alla motivazione si affianca alla rivalutazione dei fatti."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 163, 615-ter, 640-ter c.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+  },
+  {
+   "norma": "artt. 597, 606 c.p.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+  }
+ ],
+ "parole": 741
+}

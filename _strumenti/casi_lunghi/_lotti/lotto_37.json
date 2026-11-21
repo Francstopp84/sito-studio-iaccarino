@@ -1,0 +1,656 @@
+[
+ {
+  "id": "SLI-447",
+  "area": "tributario",
+  "subtopic": "fermo-amministrativo",
+  "court": "CGT di I grado di Napoli",
+  "title": "Fermo amministrativo veicoli — Definizione favorevole (Art. 86 DPR 602/73)",
+  "outcome": "Riduzione oltre il 70% e rimborso + interessi",
+  "fatto": "Procedimento relativo a fermo amministrativo veicoli (Art. 86 DPR 602/73) instaurato dinanzi a CGT di I grado di Napoli. Rideterminazione dell’imponibile con consistente risparmio fiscale o riconoscimento integrale del rimborso.",
+  "strategia": "Perizia estimativa / contabile comparativa e produzione di documenti fiscali attestanti la sproporzione della pretesa erariale.",
+  "decisione": "Accoglimento del ricorso con rideterminazione equa dell’imposta e condanna al rimborso maggiorato degli interessi.",
+  "attivita": [
+   "Accredito rimborso fiscale",
+   "Aggiornamento banche dati",
+   "Recupero spese legali"
+  ],
+  "materia": "Fermo amministrativo veicoli",
+  "lawRef_materia": "Art. 86 DPR 602/73",
+  "sintesi_materia": "Cancellazione urgente fermo su auto aziendali o beni strumentali in 48 ore.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 50, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 25, 86 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "art. 19 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 2, 12, 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-156",
+  "area": "tributario",
+  "court": "CGT Milano",
+  "title": "Immobile storico: rendita ridotta al 50% non applicata",
+  "outcome": "Rimborso € 34.000 + interessi — Agevolazione riconosciuta in perpetuo",
+  "fatto": "Una società immobiliare milanese era proprietaria di un palazzo del XVIII secolo vincolato dalla Soprintendenza ai sensi del D.Lgs.",
+  "strategia": "42/2004 (Codice dei Beni Culturali). L’immobile, sebbene vincolato, non godeva dell’agevolazione IMU per gli immobili di interesse storico e artistico (riduzione del 50% della rendita catastale ex art. 2, co. 5, D.L. 102/2013), non essendosi mai avanzata richiesta in tal senso.",
+  "decisione": "Il Comune di Milano, d’altro canto, aveva continuato per cinque anni a applicare la rendita piena, anche dopo che il vincolo era stato comunicato agli uffici.",
+  "attivita": [
+   "Accredito rimborso + interessi",
+   "Chiusura posizione fiscale",
+   "Recupero spese di giudizio"
+  ],
+  "subtopic": "imu-tari",
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-185",
+  "area": "tributario",
+  "court": "Autotutela",
+  "title": "TARI su superfici non tassabili: rimborso € 4.800 in autotutela",
+  "outcome": "Rimborso € 4.800 in autotutela",
+  "fatto": "Un laboratorio artigianale di ceramica riceveva avvisi TARI per tre annualità consecutive (2020–2022) calcolati su una superficie complessiva di 380 mq. L’analisi delle planimetrie catastali e dei contratti di locazione ha rivelato che il Comune aveva incluso nel calcolo della superficie tassabile: un deposito di 45 mq destinato esclusivamente allo stoccaggio di materiali di scarto (rifiuti speciali non assimilabili agli urbani, per i quali il laboratorio aveva un contratto con una ditta specializzata per il ritiro e lo smaltimento) e una pertinenza scoperta di 35 mq, costituita da un cortile accessorio non utilizzato. Entrambe le superfici sono espressamente escluse dalla tassazione TARI in forza dell’art. 1, comma 649, L. 147/2013 e della giurisprudenza della Cassazione (Cass. n. 18022/2021).",
+  "strategia": "Il nostro studio ha predisposto un’istanza di autotutela corredata da planimetrie, contratto di smaltimento rifiuti speciali, documentazione fotografica e calcolo del rimborso.",
+  "decisione": "Il Comune di Napoli ha riconosciuto il vizio in via di autotutela, rettificato le superfici tassabili per tutte e tre le annualità e rimborsato € 4.800 tramite compensazione con tributi futuri.",
+  "attivita": [
+   "Accredito rimborso + interessi",
+   "Chiusura posizione fiscale",
+   "Recupero spese di giudizio"
+  ],
+  "subtopic": "imu-tari",
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-188",
+  "area": "tributario",
+  "court": "Rimborso + CGT",
+  "title": "IMU versata in eccesso per 4 anni: rimborso € 7.200 ottenuto in giudizio",
+  "outcome": "Rimborso € 7.200 + interessi",
+  "fatto": "Un proprietario di un appartamento a destinazione B/2 (civile abitazione di lusso) aveva versato l’IMU per gli anni 2018–2021 applicando il coefficiente moltiplicatore di 160 (proprio delle abitazioni ordinarie di categoria A), quando in realtà il coefficiente corretto per la categoria catastale B/2 è di 140, come chiaramente indicato dall’art. 13 D.L. 201/2011. L’errore nel calcolo del coefficiente moltiplicatore aveva determinato un versamento in eccesso di circa € 1.800 per ciascuna annualità, per un totale di € 7.200 nel quadriennio.",
+  "strategia": "Il contribuente aveva presentato istanza di rimborso al Comune di Napoli entro i cinque anni dal pagamento, ma il Comune non aveva risposto nel termine di novanta giorni, dando luogo al silenzio-rifiuto impugnabile davanti alla Corte di Giustizia Tributaria. Il ricorso avverso il silenzio-rifiuto ha chiesto il rimborso dell’intero importo versato in eccesso, maggiorato degli interessi di legge decorrenti dalla data di ciascun versamento.",
+  "decisione": "La CGT di I grado di Napoli ha accolto il ricorso, ordinando al Comune il rimborso di € 7.200 oltre interessi e spese processuali. Il rimborso è stato eseguito entro quattro mesi dalla sentenza.",
+  "attivita": [
+   "Accredito rimborso + interessi",
+   "Chiusura posizione fiscale",
+   "Recupero spese di giudizio"
+  ],
+  "subtopic": "imu-tari",
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-197",
+  "area": "tributario",
+  "court": "CGT II grado",
+  "title": "IVA intracomunitaria: rimborso credito IVA € 93.600 dopo 4 anni di contenzioso",
+  "outcome": "Rimborso € 93.600 + interessi € 5.600",
+  "fatto": "Una società che effettuava cessioni intracomunitarie di prodotti chimici verso acquirenti tedeschi e olandesi aveva accumulato un significativo credito IVA per € 93.600, derivante dalla non imponibilità delle cessioni intracomunitarie a fronte degli acquisti nazionali imponibili.",
+  "strategia": "La società aveva presentato istanza di rimborso del credito IVA all’Agenzia delle Entrate, che aveva opposto diniego contestando la regolarità delle cessioni intracomunitarie: secondo l’Ufficio, alcune cessioni sarebbero state effettuate verso acquirenti non iscritti al VIES al momento della cessione, circostanza che avrebbe escluso la non imponibilità dell’operazione. Il ricorso di primo grado era stato respinto dalla CGT di I grado. In secondo grado, la difesa ha prodotto: (i) estratti delle verifiche VIES effettuate dalla società prima di ciascuna spedizione, con data e ora certa; (ii) documentazione di trasporto CMR con firme degli autisti; (iii) prova dei pagamenti con bonifici internazionali tracciabili; (iv) le dichiarazioni IVA degli acquirenti esteri che confermavano il ricevimento delle merci.",
+  "decisione": "La CGT di II grado della Campania ha ribaltato la sentenza di primo grado, ordinando il rimborso del credito IVA di € 93.600 maggiorato degli interessi maturati nel quadriennio di contenzioso (ulteriori € 5.600 circa) e con condanna alle spese di entrambi i gradi.",
+  "attivita": [
+   "Accredito rimborso + interessi",
+   "Chiusura posizione fiscale",
+   "Recupero spese di giudizio"
+  ],
+  "subtopic": "imu-tari",
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-219",
+  "area": "tributario",
+  "court": "Art. 10-bis D.Lgs. 74/2000",
+  "title": "Omesso versamento IVA: non punibilità per € 680.000 con rateizzazione pre-dibattimentale",
+  "outcome": "Non punibilità dichiarata — pena evitata",
+  "fatto": "Un imprenditore del settore manifatturiero era stato rinviato a giudizio per omesso versamento IVA relativo agli anni 2020 e 2021, con un debito tributario complessivo (imposta, sanzioni e interessi) di circa 680.000 euro. La crisi di liquidità del settore durante la pandemia aveva reso impossibile il versamento nei termini.",
+  "strategia": "Il cliente si è presentato al nostro studio sei mesi prima della prima udienza dibattimentale. La strategia adottata ha previsto la presentazione immediata di una domanda di rateizzazione straordinaria all’Agenzia delle Entrate-Riscossione, ai sensi dell’art. 19 D.P.R. 602/1973 (proroga della dilazione per comprovata difficoltà finanziaria), ottenendo un piano in 72 rate mensili. Nei mesi successivi l’imprenditore ha effettuato i versamenti delle prime dodici rate, portando la situazione debitoria a essere «in corso di estinzione» con rateizzazione formalmente accordata dall’Erario. Prima della dichiarazione di apertura del dibattimento, il difensore ha depositato documentazione attestante l’integrale estinzione programmata e la regolarità dei versamenti effettuati.",
+  "decisione": "Il Tribunale di Napoli, riconoscendo l’applicazione dell’art. 13 D.Lgs. 74/2000 nella versione applicabile ratione temporis e la giurisprudenza della Cassazione che ammette la rateizzazione in corso come presupposto della non punibilità (Cass. Sez. III, n. 14595/2022), ha dichiarato non doversi procedere per intervenuta causa di non punibilità.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "imu-tari",
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-221",
+  "area": "tributario",
+  "court": "Art. 4 D.Lgs. 74/2000",
+  "title": "Dichiarazione infedele: patteggiamento con attenuante, pena sospesa condizionalmente",
+  "outcome": "Patteggiamento — pena sospesa — nessun effetto detentivo",
+  "fatto": "Un professionista del settore sanitario era indagato per dichiarazione infedele per gli anni 2019, 2020 e 2021, con un’imposta evasa complessiva di circa 215.000 euro.",
+  "strategia": "L’Agenzia delle Entrate aveva emesso avvisi di accertamento analitici fondati sulla ricostruzione induttiva del reddito mediante il redditometro e sui dati bancari acquisiti ex art. 32 D.P.R. 600/1973. La Procura aveva iscritto l’indagato nel registro degli indagati ex art. 335 c.p.p. e la fase preliminare si era conclusa con la richiesta di rinvio a giudizio. La strategia ha previsto l’apertura contestuale di un procedimento di accertamento con adesione davanti all’Ufficio dell’Agenzia delle Entrate, nel corso del quale è stata ridotta l’imposta accertata a 142.000 euro, versata integralmente (comprese sanzioni e interessi ridotti) prima dell’udienza preliminare. Questo ha consentito di invocare l’attenuante speciale di cui all’art. 13, co. 2, D.Lgs. 74/2000, che riduce la pena fino alla metà.",
+  "decisione": "La pena concordata in sede di patteggiamento è stata di un anno e quattro mesi di reclusione, sospesa condizionalmente, con conseguente esclusione di qualsiasi effetto detentivo e delle pene accessorie (interdizione dai pubblici uffici).",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "imu-tari",
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-226",
+  "area": "tributario",
+  "court": "Definizione liti tributarie",
+  "title": "Lite tributaria in Cassazione definita al 5%: risparmio di € 124.000",
+  "outcome": "Definita in Cassazione al 5% — risparmio € 124.000",
+  "fatto": "Una società a responsabilità limitata operante nella grande distribuzione aveva in corso un ricorso per Cassazione avverso una sentenza della CGT di II grado favorevole alla contribuente, in una controversia relativa a IRES e IVA per gli anni 2015 e 2016, per un valore complessivo della controversia di 138.000 euro (di cui quasi 40.000 di sole sanzioni).",
+  "strategia": "La controversia riguardava una complessa questione di deducibilità di costi infragruppo, su cui la giurisprudenza di Cassazione non era univoca al momento della proposizione del ricorso. La L. 197/2022 ha offerto la possibilità di definire le controversie pendenti in Cassazione che riguardano esclusivamente sanzioni collegabili all’imposta, pagando solo il 5% del valore. Poiché la controversia pendente riguardava proprio l’applicabilità delle sanzioni su un accertamento per il quale le imposte erano già state definite in adesione, il nostro studio ha presentato domanda di definizione agevolata, versando il 5% del valore della controversia, pari a 6.900 euro. L’alternativa era attendere la decisione della Cassazione, con esito incerto su un importo di 138.000 euro.",
+  "decisione": "Il risparmio rispetto alla possibile soccombenza ha superato i 124.000 euro.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "imu-tari",
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-452",
+  "area": "tributario",
+  "subtopic": "imu-tari",
+  "court": "Giudice dell’Esecuzione di Napoli",
+  "title": "IMU, TARI e tributi locali — Difesa tecnica (D.Lgs. 504/1992)",
+  "outcome": "Annullamento totale dell’atto — € 0 dovuti",
+  "fatto": "Procedimento relativo a imu, tari e tributi locali (D.Lgs. 504/1992) instaurato dinanzi a Giudice dell’Esecuzione di Napoli. Accoglimento integrale del ricorso con annullamento dell’imposta, sanzioni e interessi richiesti.",
+  "strategia": "Ricorso tributario fondato su vizio di notifica, decadenza dei termini di accertamento e difetto assoluto di motivazione ai sensi dello Statuto del Contribuente.",
+  "decisione": "La Corte di Giustizia Tributaria ha annullato integralmente l’atto condannando l’ente alle spese di giudizio.",
+  "attivita": [
+   "Sgravio integrale del ruolo",
+   "Verifica estratto debitorio",
+   "Incasso spese liquidate"
+  ],
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-453",
+  "area": "tributario",
+  "subtopic": "imu-tari",
+  "court": "CGT di I grado di Napoli",
+  "title": "IMU, TARI e tributi locali — Ricorso urgente (D.Lgs. 504/1992)",
+  "outcome": "Sospensione cautelare e sblocco in 48 ore",
+  "fatto": "Procedimento relativo a imu, tari e tributi locali (D.Lgs. 504/1992) instaurato dinanzi a CGT di I grado di Napoli. Blocco immediato dell’azione esecutiva o cautelare su conto corrente, immobile o veicolo aziendale.",
+  "strategia": "Istanza urgente di sospensione e autotutela qualificata con prova del danno grave e irreparabile e della manifesta illegittimità della pretesa.",
+  "decisione": "Provvedimento di sblocco immediato con cancellazione della misura cautelare e salvaguardia della continuità lavorativa.",
+  "attivita": [
+   "Cancellazione fermo o ipoteca",
+   "Svincolo somme bancarie",
+   "Prosecuzione giudizio di merito"
+  ],
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-454",
+  "area": "tributario",
+  "subtopic": "imu-tari",
+  "court": "CGT di II grado della Campania",
+  "title": "IMU, TARI e tributi locali — Tutela giudiziale (D.Lgs. 504/1992)",
+  "outcome": "Prescrizione accertata — debito cancellato",
+  "fatto": "Procedimento relativo a imu, tari e tributi locali (D.Lgs. 504/1992) instaurato dinanzi a CGT di II grado della Campania. Dichiarazione giudiziale di intervenuta prescrizione quinquennale/triennale dei tributi iscritti a ruolo.",
+  "strategia": "Ricostruzione cronologica integrale delle relate di notifica depositate dall’Agente della Riscossione con dimostrazione dell’assenza di atti interruttivi validi.",
+  "decisione": "Il Giudice ha dichiarato estinta l’intera pretesa creditoria per maturata prescrizione.",
+  "attivita": [
+   "Discarico cartelle prescritte",
+   "Pulizia posizione fiscale",
+   "Cancellazione vincoli"
+  ],
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-455",
+  "area": "tributario",
+  "subtopic": "imu-tari",
+  "court": "CGT di I grado di Salerno",
+  "title": "IMU, TARI e tributi locali — Definizione favorevole (D.Lgs. 504/1992)",
+  "outcome": "Riduzione oltre il 70% e rimborso + interessi",
+  "fatto": "Procedimento relativo a imu, tari e tributi locali (D.Lgs. 504/1992) instaurato dinanzi a CGT di I grado di Salerno. Rideterminazione dell’imponibile con consistente risparmio fiscale o riconoscimento integrale del rimborso.",
+  "strategia": "Perizia estimativa / contabile comparativa e produzione di documenti fiscali attestanti la sproporzione della pretesa erariale.",
+  "decisione": "Accoglimento del ricorso con rideterminazione equa dell’imposta e condanna al rimborso maggiorato degli interessi.",
+  "attivita": [
+   "Accredito rimborso fiscale",
+   "Aggiornamento banche dati",
+   "Recupero spese legali"
+  ],
+  "materia": "IMU, TARI e tributi locali",
+  "lawRef_materia": "D.Lgs. 504/1992",
+  "sintesi_materia": "Ricorsi contro accertamenti comunali, esenzioni abitazione principale e rimborsi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "commi 761, 774-776, 792 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 161-165 art. 1 L. 296/2006",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+   },
+   {
+    "norma": "commi 641, 642, 650 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "commi 740, 761, 762, 774-776, 792, 794-800 art. 1 L. 160/2019",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+   },
+   {
+    "norma": "commi 641, 642, 650, 695-699 art. 1 L. 147/2013",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 147-2013 art. 1 TARI commi 639-704.md"
+   },
+   {
+    "norma": "artt. 2, 12, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-189",
+  "area": "tributario",
+  "court": "CGT I grado",
+  "title": "Prima casa: cancellazione ipoteca esattoriale per € 87.300",
+  "outcome": "Ipoteca cancellata — Prima casa tutelata",
+  "fatto": "Un pensionato napoletano scopriva, nel corso di una trattativa per la vendita del proprio appartamento, che l’Agenzia delle Entrate–Riscossione aveva iscritto un’ipoteca esattoriale sull’immobile per un debito tributario di € 87.300, relativo a IRPEF e contributi non versati negli anni 2017–2019. L’immobile è l’unico bene di proprietà del contribuente, nel quale egli risiede anagraficamente dal 1988. Il consulente dell’acquirente aveva rilevato il gravame ipotecario dall’ispezione ipotecaria, bloccando la trattativa.",
+  "strategia": "La difesa ha immediatamente proposto ricorso alla CGT di I grado di Napoli, eccependo che l’immobile costituisce abitazione principale e unico bene di proprietà del debitore, circostanza che ai sensi dell’art. 76 D.P.R. 602/1973 vieta ogni procedura di espropriazione e rende l’ipoteca strumentalmente inutile e lesiva. È stata contestualmente richiesta la sospensione cautelare urgente per consentire la prosecuzione della trattativa di vendita.",
+  "decisione": "Il giudice ha concesso la sospensiva in camera di consiglio e, nel merito, ha accolto il ricorso ordinando la cancellazione dell’ipoteca e condannando l’Agenzia delle Entrate-Riscossione alle spese. La vendita è stata conclusa.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "ipoteca-esattoriale",
+  "materia": "Ipoteca esattoriale sugli immobili",
+  "lawRef_materia": "Art. 77 DPR 602/73",
+  "sintesi_materia": "Annullamento ipoteche illegittime per difetto di preavviso o soglia inferiore a € 20.000.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 76, 77 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 50, 76, 77 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-191",
+  "area": "tributario",
+  "court": "CGT I grado + Sospensiva",
+  "title": "Mancanza comunicazione preventiva: ipoteca annullata su capannone industriale",
+  "outcome": "Ipoteca annullata — Finanziamento sbloccato",
+  "fatto": "Una società a responsabilità limitata operante nel settore della logistica apprendeva dell’avvenuta iscrizione di un’ipoteca esattoriale sul proprio capannone industriale — il principale bene patrimoniale dell’azienda — per un debito IRES di € 145.000 relativo agli anni 2018 e 2019. La società era in trattativa avanzata con una banca per l’ottenimento di un finanziamento garantito proprio da quell’immobile: l’ipoteca esattoriale aveva bloccato l’operazione. L’analisi della documentazione ha rivelato che l’Agenzia delle Entrate–Riscossione aveva iscritto l’ipoteca senza inviare la preventiva comunicazione formale obbligatoria ai sensi dell’art. 77, comma 1-bis, D.P.R. 602/1973. La società non aveva mai ricevuto alcun preavviso e non aveva avuto la possibilità di adempiere o di proporre rateizzazione prima della trascrizione del gravame nei registri immobiliari.",
+  "strategia": "Il ricorso ha eccepito la nullità della procedura ipotecaria per violazione del contraddittorio preventivo, richiamando la copiosa giurisprudenza della Cassazione sul punto (Cass. n. 19667/2014; Cass. n. 24840/2015).",
+  "decisione": "La CGT di I grado di Caserta ha concesso la sospensiva in pochi giorni e ha accolto il ricorso nel merito, ordinando la cancellazione dell’ipoteca e la condanna alle spese. Il finanziamento bancario è stato perfezionato.",
+  "attivita": [
+   "Sgravio ruolo esattoriale",
+   "Cancellazione ipoteca/fermo",
+   "Recupero spese liquidate"
+  ],
+  "subtopic": "ipoteca-esattoriale",
+  "materia": "Ipoteca esattoriale sugli immobili",
+  "lawRef_materia": "Art. 77 DPR 602/73",
+  "sintesi_materia": "Annullamento ipoteche illegittime per difetto di preavviso o soglia inferiore a € 20.000.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 19, 76, 77 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   },
+   {
+    "norma": "artt. 19, 50, 76, 77 DPR 602/1973",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+   },
+   {
+    "norma": "artt. 19, 21, 47 D.Lgs. 546/1992",
+    "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+   }
+  ]
+ }
+]

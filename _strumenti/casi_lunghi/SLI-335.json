@@ -1,0 +1,75 @@
+{
+ "id": "SLI-335",
+ "seo_title": "Lesioni: riforma in appello, aggravanti escluse",
+ "description": "Condanna per lesioni riformata in appello: come l'esclusione delle aggravanti e la sospensione condizionale cambiano il trattamento sanzionatorio.",
+ "parole_chiave": [
+  "appello lesioni personali aggravanti",
+  "esclusione aggravanti lesioni",
+  "sospensione condizionale appello",
+  "reformatio in peius appello imputato",
+  "motivazione sentenza lesioni vizi"
+ ],
+ "sezioni": [
+  {
+   "h2": "Perché in appello si lavora sulle aggravanti",
+   "paragrafi": [
+    "Nelle lesioni personali il trattamento sanzionatorio cambia in modo sensibile con le circostanze. L'art. 582 del codice penale prevede la reclusione da sei mesi a tre anni e il procedimento a querela, ma il richiamo alle aggravanti dell'art. 583 e ad altre ipotesi rende il reato procedibile d'ufficio; l'art. 583 considera grave la lesione da cui deriva malattia oltre quaranta giorni o pericolo di vita, con reclusione da tre a sette anni. Escludere un'aggravante significa quindi riportare la vicenda in una cornice più bassa.",
+    "L'appello è la sede in cui questo può avvenire, perché consente di sottoporre al giudice di secondo grado i punti della sentenza che si ritengono errati, indicati nei motivi, secondo l'art. 597, comma 1, del codice di procedura penale."
+   ]
+  },
+  {
+   "h2": "L'esito nel caso",
+   "paragrafi": [
+    "Nel caso la sentenza di primo grado, relativa a lesioni, è stata riformata in modo sostanziale: sono state escluse le aggravanti ed è stata concessa la sospensione condizionale. La decisione è del Tribunale del Riesame di Napoli secondo i dati del lotto. La strategia difensiva si fondava su vizi motivazionali, contestazione dell'attendibilità dichiarativa e perizia tecnico-giuridica di parte, e il giudice ha accolto i motivi e ridefinito la sanzione.",
+    "Il lotto non indica quali aggravanti fossero contestate né i fatti, e non sono ipotizzati. Il nesso con la sospensione è comunque lineare: l'art. 163 del codice penale ammette la sospensione condizionale per condanne fino a due anni, con un termine di cinque anni per i delitti e di due per le contravvenzioni; abbassata la pena sotto quella soglia, la sospensione diventa possibile. L'art. 597, comma 5, consente al giudice di appello di concederla anche d'ufficio. Quando il giudice ritiene la prova contraddittoria o insufficiente, l'art. 530, comma 2, impone di non fondare su di essa la condanna."
+   ]
+  },
+  {
+   "h2": "Se vuoi impugnare una condanna per lesioni",
+   "paragrafi": [
+    "In generale è utile leggere la motivazione della sentenza cercando tre debolezze: ragionamenti che non spiegano perché si sia ritenuta provata un'aggravante, dichiarazioni valorizzate senza riscontri, conclusioni mediche non verificate. La perizia di parte aiuta a mostrare che la valutazione tecnica è discutibile. L'impugnazione deve contestare in modo puntuale questi passaggi, non limitarsi a ripetere la tesi difensiva.",
+    "Sul rischio: se appella il solo imputato, l'art. 597, comma 3, vieta una pena più grave per specie o quantità, e vieta la revoca di benefici. Se invece impugna anche il pubblico ministero il giudice ha poteri più ampi. Ogni vicenda va valutata sugli atti, senza promesse sull'esito.",
+    "Resta infine da considerare l'effetto concreto dell'esclusione di un'aggravante sul piano pratico. Oltre alla pena, essa può incidere sulla procedibilità, sul regime di sospensione e sulle conseguenze accessorie della condanna. Per questo, prima di impugnare, vale la pena di costruire una tabella dei punti che la sentenza lega a ciascuna aggravante, così da sapere quali motivi, se accolti, producono davvero un cambiamento rilevante."
+   ],
+   "elenco": [
+    "sentenza di primo grado completa",
+    "atti medici e ricostruzione della durata della malattia",
+    "verbali delle dichiarazioni valorizzate dal giudice",
+    "eventuali perizie o consulenze",
+    "certificato penale per la sospensione condizionale"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il termine per appellare decorre dal deposito della sentenza o dalla sua notifica e va controllato sul provvedimento; se scade, la condanna diviene definitiva. I motivi vanno elaborati con cura, collegati alla motivazione, perché la cognizione del giudice è limitata ai punti dei motivi. Dopo la riforma conviene verificare che l'esclusione delle aggravanti e la sospensione condizionale siano state recepite correttamente nell'esecuzione.",
+    "Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, assiste nei giudizi di appello per lesioni personali."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Cosa comporta l'esclusione di un'aggravante in appello?",
+   "a": "Comporta il ricalcolo della pena su una cornice più bassa e, se la condanna scende entro i limiti dell'art. 163 del codice penale, può rendere possibile la sospensione condizionale. Nel caso la Corte ha escluso le aggravanti e ha rideterminato il trattamento sanzionatorio."
+  },
+  {
+   "q": "Se appello rischio di peggiorare la mia situazione?",
+   "a": "Se appella il solo imputato, l'art. 597, comma 3, del codice di procedura penale vieta di irrogare una pena più grave per specie o quantità e di revocare benefici. Se appella anche il pubblico ministero, il divieto non opera nello stesso modo, e il rischio va valutato."
+  },
+  {
+   "q": "La sospensione condizionale può essere concessa in appello?",
+   "a": "Sì: l'art. 597, comma 5, del codice di procedura penale prevede che il giudice di appello possa applicarla anche d'ufficio. I limiti sostanziali sono quelli dell'art. 163 del codice penale, cioè condanne non superiori a due anni, e la concessione resta discrezionale."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 163, 582, 583 c.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+  },
+  {
+   "norma": "artt. 530, 597 c.p.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+  }
+ ],
+ "parole": 746
+}

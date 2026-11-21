@@ -1,0 +1,78 @@
+{
+ "id": "SLI-463",
+ "seo_title": "IVA ridotta oltre il 70% con perizia contabile: rimborso",
+ "description": "Riduzione di un accertamento IVA e rimborso con interessi grazie a una perizia contabile davanti alla CGT di Milano: artt. 54 e 19 DPR 633, art. 68 D.Lgs. 546.",
+ "parole_chiave": [
+  "perizia contabile IVA",
+  "riduzione accertamento IVA",
+  "rimborso IVA con interessi",
+  "CGT Milano IVA",
+  "detrazione IVA contestata"
+ ],
+ "sezioni": [
+  {
+   "h2": "Quando si contesta il quanto e non il se",
+   "paragrafi": [
+    "Nel caso discusso dalla Corte di giustizia tributaria di primo grado di Milano, la controversia riguardava l'imposta sul valore aggiunto e la difesa ha scelto di non attaccare la forma dell'atto, ma di contestarne i numeri. Con una perizia contabile il contribuente ha ottenuto una riduzione superiore al 70% della pretesa e il rimborso di quanto versato, con interessi.",
+    "Questa linea ha una logica precisa: quando l'atto è formalmente corretto, la partita si gioca sulla ricostruzione dell'imponibile e delle detrazioni. È un lavoro tecnico, che richiede metodo e pazienza, e che si presta male alle scorciatoie."
+   ]
+  },
+  {
+   "h2": "Rettifica dell'imposta e detrazione",
+   "paragrafi": [
+    "L'articolo 54 del D.P.R. n. 633 regola la rettifica delle dichiarazioni: l'ufficio può correggere l'imposta quando rileva omissioni, inesattezze o infedeltà. L'articolo 19 disciplina il diritto alla detrazione dell'imposta assolta sugli acquisti, collegandola all'esercizio dell'attività e alle operazioni effettuate. Molte contestazioni IVA nascono qui: un'operazione ritenuta non inerente, una fattura giudicata irregolare, una registrazione tardiva.",
+    "La perizia contabile serve a rispondere in modo ordinato a ciascun rilievo, ricollegando ogni fattura al suo contesto economico e mostrando, passo per passo, dove i calcoli dell'ufficio divergono dalla realtà documentata."
+   ]
+  },
+  {
+   "h2": "Come si costruisce una perizia che regge",
+   "paragrafi": [
+    "Una buona perizia comincia dal quesito: che cosa si chiede di dimostrare. Poi indica i documenti esaminati, il metodo seguito e le conclusioni, in modo che il collegio possa seguire ogni passaggio e, se vuole, ripetere il calcolo. La perizia non è una prova nel senso tecnico, ma organizza le prove documentali e le rende leggibili; il giudice resta libero di valutarla e, quando occorrono elementi di particolare complessità, può disporre una consulenza tecnica (articolo 7 del D.Lgs. n. 546)."
+   ],
+   "elenco": [
+    "registri IVA, fatture di acquisto e di vendita del periodo",
+    "estratti bancari che mostrino pagamenti e incassi collegati alle operazioni",
+    "contratti, ordini e documenti di trasporto a supporto delle fatture contestate",
+    "dichiarazioni e liquidazioni periodiche presentate",
+    "prospetto dell'ufficio con il dettaglio dei rilievi, da controdedurre punto per punto"
+   ]
+  },
+  {
+   "h2": "Il rimborso con gli interessi",
+   "paragrafi": [
+    "Se il contribuente ha pagato in pendenza di giudizio, l'articolo 68 del D.Lgs. n. 546 prevede che, quando il ricorso è accolto, il tributo corrisposto in eccedenza rispetto a quanto statuito dalla sentenza sia rimborsato d'ufficio, con gli interessi. Per le somme versate fuori dal giudizio e non dovute, l'articolo 30-ter del D.P.R. n. 633 impone la domanda di restituzione a pena di decadenza entro due anni dal versamento: un termine da annotare subito."
+   ]
+  },
+  {
+   "h2": "Prudenza sulle aspettative",
+   "paragrafi": [
+    "Una riduzione ampia, come quella riferita, dipende dalla qualità delle prove e dalla natura dei rilievi, e non può essere promessa in altri casi. Ogni vicenda richiede un esame dei documenti, e solo dopo si può dire se la strada sia la contestazione del merito, la contestazione formale o una combinazione delle due. Il ricorso, in ogni caso, va proposto entro sessanta giorni dalla notificazione dell'atto, a pena di inammissibilità (articolo 21)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Una perizia contabile può bastare da sola a vincere?",
+   "a": "Di regola non basta da sola. Organizza e spiega i documenti, ma il collegio la valuta liberamente insieme alle altre prove. Funziona quando è fondata su documenti completi, dichiara il metodo e risponde punto per punto ai rilievi dell'ufficio. Se i documenti mancano, la perizia perde la sua forza."
+  },
+  {
+   "q": "Cosa succede se ho già pagato e poi il ricorso viene accolto?",
+   "a": "L'articolo 68 del D.Lgs. n. 546 prevede il rimborso del tributo corrisposto in eccedenza rispetto a quanto statuito dalla sentenza, con gli interessi. Se il pagamento è stato fatto fuori dal giudizio, conviene verificare il termine di due anni dell'articolo 30-ter del D.P.R. n. 633 per la domanda di restituzione."
+  },
+  {
+   "q": "La detrazione dell'IVA può essere negata dall'ufficio?",
+   "a": "L'ufficio può rettificare la dichiarazione ai sensi dell'articolo 54 del D.P.R. n. 633 quando ritiene l'imposta non detraibile o i dati inesatti. Il contribuente può contestare il rilievo dimostrando, con documenti, che l'operazione esiste, è inerente all'attività ed è stata correttamente registrata."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "DPR 633/1972 artt. 19, 30-ter e 54",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 633-1972 IVA.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992 artt. 7, 21 e 68",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 598
+}

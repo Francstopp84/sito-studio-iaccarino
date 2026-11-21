@@ -1,0 +1,91 @@
+{
+ "id": "SLI-124",
+ "seo_title": "Accesso abusivo dopo il licenziamento: assoluzione per dolo",
+ "description": "Accesso al sistema aziendale con credenziali non disattivate dopo il licenziamento: cosa richiede l'art. 615-ter c.p., il ruolo del dolo e come difendersi.",
+ "parole_chiave": [
+  "accesso abusivo sistema informatico",
+  "art. 615-ter codice penale",
+  "credenziali non disattivate",
+  "licenziamento dati aziendali",
+  "dolo accesso abusivo"
+ ],
+ "sezioni": [
+  {
+   "h2": "Che cosa punisce l'articolo 615-ter",
+   "paragrafi": [
+    "L'articolo 615-ter del codice penale punisce con la reclusione fino a tre anni chiunque abusivamente si introduce in un sistema informatico o telematico protetto da misure di sicurezza, ovvero vi si mantiene contro la volontà espressa o tacita di chi ha il diritto di escluderlo. Le condotte sono dunque due: l'introduzione abusiva e il mantenimento nel sistema contro la volontà del titolare. Per il primo comma la norma prevede la procedibilità a querela della persona offesa; la pena sale, da due a dieci anni, nelle ipotesi aggravate del secondo comma, e si procede d'ufficio negli altri casi.",
+    "Il tema riguarda spesso persone che hanno lavorato per anni dentro un sistema e che, finito il rapporto, si trovano accusate di essere rientrate. Nel caso un dipendente era stato accusato di accesso abusivo dopo il licenziamento: l'accusa sosteneva che avesse scaricato dati riservati dei clienti accedendo con le proprie credenziali, non ancora disattivate dall'ufficio informatico aziendale, nei giorni successivi alla cessazione del rapporto."
+   ]
+  },
+  {
+   "h2": "Perché le credenziali ancora attive non bastano a dimostrare il reato",
+   "paragrafi": [
+    "Il punto che interessa è la differenza fra ciò che il sistema consente tecnicamente e ciò che il titolare ha voluto. Se il tecnico dell'azienda non ha spento le credenziali, la porta restava materialmente aperta; ma la norma richiede un accesso abusivo o un mantenimento contro la volontà espressa o tacita di chi ha il diritto di escluderlo, e quindi occorre capire quale fosse, in concreto, la volontà dell'azienda e quale consapevolezza avesse chi entrava. L'abusività non è un dato che si legge dai log: è una qualità della condotta, da provare.",
+    "Qui entra la struttura dell'illecito penale. Secondo l'articolo 42 nessuno può essere punito per un fatto preveduto dalla legge come delitto se non l'ha commesso con dolo, salvi i casi di delitto preterintenzionale o colposo espressamente preveduti, e l'articolo 43 definisce doloso il delitto quando l'evento dannoso o pericoloso è dall'agente preveduto e voluto come conseguenza della propria azione. Il reato dell'articolo 615-ter non è previsto in forma colposa: se manca la prova che l'imputato sapesse di non essere più autorizzato e volesse comunque entrare, l'elemento soggettivo non c'è."
+   ]
+  },
+  {
+   "h2": "L'esito del caso: assoluzione per insussistenza del dolo",
+   "paragrafi": [
+    "Il Tribunale di Napoli ha pronunciato assoluzione piena per insussistenza del dolo. Il dato che emerge dal caso è che il processo non si è giocato sul fatto materiale, cioè sull'avvenuto accesso con le credenziali, ma sulla consapevolezza: la difesa ha lavorato per dimostrare che mancava la volontà di violare un divieto, nel contesto di credenziali rimaste attive per una dimenticanza dell'azienda.",
+    "È utile ricordare la regola di giudizio. L'articolo 530, comma 2, del codice di procedura penale prescrive l'assoluzione anche quando manca, è insufficiente o è contraddittoria la prova che il fatto sussista o che l'imputato lo abbia commesso. Per i reati dolosi questo significa che il dubbio sull'elemento psicologico pesa a favore dell'imputato: l'accusa non può limitarsi a dimostrare che l'accesso c'è stato, deve provare che era voluto contro la volontà dell'avente diritto."
+   ]
+  },
+  {
+   "h2": "Se sei accusato di essere rientrato nel sistema dell'ex datore",
+   "paragrafi": [
+    "In casi analoghi la difesa parte dalle comunicazioni: che cosa è stato detto al lavoratore alla cessazione del rapporto? Gli sono state richieste la restituzione di dispositivi e credenziali, o la disattivazione era un passaggio previsto e non eseguito? Esistono policy aziendali scritte sull'uso degli account dopo la fine del contratto, e il dipendente le aveva ricevute? Sono documenti che si acquisiscono e che spesso decidono la valutazione dell'elemento soggettivo.",
+    "Parallelamente si studiano i log di accesso: quando, da dove, per quanto tempo, con quali operazioni. Il solo fatto che ci sia stato un download non dice se fosse una attività ordinaria, una dimenticanza o una condotta voluta. Ogni vicenda va valutata sui suoi atti, e un'assoluzione per mancanza di dolo non è un esito che si possa dare per acquisito."
+   ],
+   "elenco": [
+    "la lettera di licenziamento e le comunicazioni sulla consegna delle credenziali",
+    "le policy aziendali sull'uso degli account",
+    "i log di accesso con data, ora e operazioni compiute",
+    "la querela dell'azienda con la data della notizia del fatto"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Per il primo comma dell'articolo 615-ter il reato è punibile a querela, e il diritto di querela, secondo l'articolo 124, non può essere esercitato decorsi tre mesi dal giorno della notizia del fatto: la data in cui l'azienda ha avuto conoscenza dell'accesso va quindi controllata con attenzione. Chi riceve un'accusa di questo genere non deve cancellare nulla né ripetere l'accesso per verificare. Nel caso gli adempimenti finali sono stati la notifica del provvedimento, l'aggiornamento del casellario e la chiusura della posizione processuale. Per una valutazione della propria posizione sugli atti, è possibile rivolgersi allo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Accedere con credenziali ancora attive è sempre reato?",
+   "a": "No. L'articolo 615-ter del codice penale punisce l'introduzione abusiva o il mantenimento nel sistema contro la volontà espressa o tacita di chi ha il diritto di escluderlo. Il reato è doloso: occorre provare che l'agente fosse consapevole di non essere autorizzato e volesse comunque accedere."
+  },
+  {
+   "q": "Perché il dolo è così importante in questo reato?",
+   "a": "Perché, secondo gli articoli 42 e 43 del codice penale, un delitto è punibile solo se commesso con dolo, salvo i casi di colpa espressamente previsti. L'articolo 615-ter non prevede la colpa. Senza prova della consapevolezza e della volontà, il reato non sussiste e l'imputato va assolto."
+  },
+  {
+   "q": "L'azienda può denunciare quando vuole?",
+   "a": "No. Nel caso del primo comma dell'articolo 615-ter il delitto è punibile a querela, e per l'articolo 124 del codice penale il diritto di querela non può essere esercitato dopo tre mesi dal giorno della notizia del fatto. Il calcolo del termine va verificato sugli atti."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 615-ter c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "art. 42 c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "art. 43 c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "art. 530 c.p.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+  },
+  {
+   "norma": "art. 124 c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  }
+ ],
+ "parole": 948
+}

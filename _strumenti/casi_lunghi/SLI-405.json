@@ -1,0 +1,81 @@
+{
+  "id": "SLI-405",
+  "seo_title": "Opposizione a decreto ingiuntivo e tutela d'urgenza",
+  "description": "Come si affianca all'opposizione a decreto ingiuntivo un ricorso d'urgenza ex art. 700 c.p.c.: presupposti, prove da portare, mediazione e passi dopo l'ordinanza.",
+  "parole_chiave": [
+    "opposizione a decreto ingiuntivo",
+    "art. 700 c.p.c.",
+    "provvedimento d'urgenza",
+    "periculum in mora",
+    "ordinanza cautelare"
+  ],
+  "sezioni": [
+    {
+      "h2": "Perché un'opposizione può non bastare",
+      "paragrafi": [
+        "Quando si parla di opposizione a decreto ingiuntivo si pensa quasi sempre alla discussione sul credito: esiste, è provato, è scaduto. Il caso che qui si analizza, deciso dalla Corte d'Appello di Napoli, mostra però un lato meno frequentato. Accanto alla contestazione della pretesa può esserci un danno che non aspetta i tempi del giudizio ordinario, e che nessuna decisione, per quanto favorevole, riuscirebbe poi a cancellare del tutto.",
+        "In situazioni di questo tipo la sola opposizione, che segue il rito di cognizione ordinaria, non protegge la parte nel periodo intermedio. L'articolo 645 del codice di procedura civile prevede che l'opposizione si proponga davanti all'ufficio giudiziario che ha emesso il decreto, ma il processo che ne nasce richiede tempo. Se nel frattempo il pregiudizio si aggrava, serve uno strumento diverso e più rapido, che non sostituisce l'opposizione ma la affianca."
+      ]
+    },
+    {
+      "h2": "Le norme che reggono lo strumento d'urgenza",
+      "paragrafi": [
+        "Lo strumento è il provvedimento d'urgenza disciplinato dall'articolo 700 del codice di procedura civile. In generale, può chiederlo chi teme che, durante il tempo necessario per far valere il proprio diritto in via ordinaria, questo sia minacciato da un pregiudizio imminente e irreparabile. La norma ha carattere residuale: opera quando non esistono altre misure tipiche idonee a tutelare la stessa posizione.",
+        "Nel caso concreto la parte ha agito con ricorso cautelare per bloccare un pregiudizio grave e irreparabile. La difesa ha costruito il ricorso attorno ai due requisiti classici: la probabile fondatezza del diritto, che in latino si chiama fumus boni iuris, e il pericolo che il tempo del processo renda inutile la tutela, cioè il periculum in mora. Senza l'uno o senza l'altro il ricorso non può essere accolto, e per questo la parte di lavoro più delicata riguarda la documentazione.",
+        "Va tenuto presente anche il rapporto con la mediazione. Il decreto legislativo sulla mediazione civile, all'articolo 5, comma 5, precisa che lo svolgimento della mediazione non preclude in ogni caso la concessione dei provvedimenti urgenti e cautelari. Chi ha un'urgenza vera non deve quindi attendere l'esito di un tentativo di conciliazione prima di rivolgersi al giudice."
+      ],
+      "elenco": [
+        "Il pregiudizio deve essere imminente e non rimediabile con un successivo risarcimento.",
+        "Il diritto invocato deve apparire probabilmente fondato già in una prima valutazione.",
+        "La misura chiesta deve essere idonea ad assicurare provvisoriamente gli effetti della decisione di merito."
+      ]
+    },
+    {
+      "h2": "Perché la decisione è arrivata a quell'esito",
+      "paragrafi": [
+        "Il giudice ha ordinato l'esecuzione immediata degli interventi richiesti e ha fissato una penale giornaliera, cioè una somma dovuta per ogni giorno di ritardo nell'adempimento. Sui fatti disponibili, la ragione dell'accoglimento sta nella qualità del materiale portato in causa: una perizia asseverata, rilievi fotografici e diffide inviate in precedenza.",
+        "Questi tre elementi lavorano su piani distinti. La perizia asseverata dà una base tecnica alla descrizione del danno e indica quali lavori sono necessari. I rilievi fotografici fissano lo stato dei luoghi in un momento preciso e rendono verificabile ciò che si afferma. Le diffide pregresse dimostrano che la parte aveva già chiesto di rimediare, che la controparte era informata e che il ritardo non può essere attribuito a una scelta tardiva di chi ricorre.",
+        "La penale giornaliera ha una funzione pratica evidente: un ordine privo di una conseguenza immediata in caso di inerzia rischia di restare sulla carta. Fissarla fin dall'inizio sposta il costo del ritardo su chi non adempie."
+      ]
+    },
+    {
+      "h2": "Una situazione simile, per analogia",
+      "paragrafi": [
+        "In casi analoghi, chi riceve un decreto ingiuntivo legato a un rapporto continuativo, per esempio un contratto di appalto o di fornitura di servizi, può trovarsi esposto a una situazione di fatto che peggiora giorno dopo giorno. La domanda utile è sempre la stessa: il danno che temo è compensabile con una somma di denaro, oppure è di quelli che, una volta prodotti, non si ripristinano più? Solo nel secondo caso l'articolo 700 è lo strumento corretto.",
+        "In generale, è anche opportuno distinguere ciò che si può chiedere con l'opposizione da ciò che richiede una misura urgente. L'opposizione mira a far dichiarare l'insussistenza del credito, la misura urgente mira a evitare che nel frattempo si consumi un pregiudizio. Mescolare le due richieste nello stesso atto non giova alla chiarezza."
+      ]
+    },
+    {
+      "h2": "Dopo l'ordinanza: i passi da non sbagliare",
+      "paragrafi": [
+        "L'ordinanza che concede la misura va portata a conoscenza della controparte con una notifica regolare. È da quel momento che si può verificare con precisione se gli interventi ordinati vengono eseguiti, e documentare l'eventuale inadempimento con nuove fotografie o con un aggiornamento della relazione tecnica. Nel caso esaminato l'attività successiva si è articolata proprio così: notifica, verifica dell'adempimento e poi definizione del merito.",
+        "Un errore frequente è considerare chiusa la vicenda con l'ordinanza. La misura urgente è provvisoria per sua natura, e il giudizio di merito, compresa l'opposizione al decreto, prosegue. Occorre quindi mantenere coerenti le posizioni assunte nei due procedimenti e conservare con ordine tutte le prove raccolte, perché torneranno utili davanti al giudice del merito."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Il ricorso d'urgenza sospende l'efficacia del decreto ingiuntivo?",
+      "a": "No, sono strumenti diversi. Il ricorso ex articolo 700 tutela una situazione di pericolo concreta, mentre sull'esecuzione del decreto si interviene con le istanze previste nel giudizio di opposizione, che hanno presupposti propri."
+    },
+    {
+      "q": "Quali documenti servono per dimostrare il pericolo?",
+      "a": "In generale servono prove oggettive e datate: relazioni tecniche, fotografie dello stato dei luoghi e comunicazioni precedenti con cui si è chiesto di rimediare. Le semplici affermazioni di parte raramente bastano."
+    },
+    {
+      "q": "Si deve fare prima la mediazione?",
+      "a": "L'articolo 5, comma 5, del decreto sulla mediazione civile chiarisce che la mediazione non impedisce di ottenere provvedimenti urgenti e cautelari. L'urgenza non va quindi sacrificata in attesa del tentativo di conciliazione."
+    }
+  ],
+  "norme_verificate": [
+    {
+      "norma": "Codice di procedura civile, artt. 645 e 700",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+    },
+    {
+      "norma": "D.Lgs. 28/2010, art. 5",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/D.Lgs. 28-2010 mediazione civile.md"
+    }
+  ],
+  "parole": 879
+}

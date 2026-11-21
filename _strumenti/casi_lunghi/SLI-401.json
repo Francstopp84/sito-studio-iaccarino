@@ -1,0 +1,76 @@
+{
+  "id": "SLI-401",
+  "seo_title": "Tutela d'urgenza per un credito: ricorso cautelare",
+  "description": "Quando il tempo del giudizio ordinario mette a rischio il diritto: ricorso d'urgenza, fumus e periculum, documenti a sostegno, penale per il ritardo e giudizio di merito.",
+  "parole_chiave": [
+    "provvedimento d'urgenza",
+    "articolo 700",
+    "periculum in mora",
+    "penale per il ritardo",
+    "tutela cautelare"
+  ],
+  "sezioni": [
+    {
+      "h2": "Quando aspettare la decisione costa troppo",
+      "paragrafi": [
+        "Il caso riguarda una controversia trattata dal Tribunale di Napoli in sede di lavoro, in cui il cliente ha ottenuto un provvedimento d'urgenza in tempi brevi. Il giudice ha ordinato l'esecuzione immediata di determinati interventi e ha stabilito una penale giornaliera per ogni giorno di ritardo. La differenza rispetto al normale recupero di un credito è evidente: qui il problema non era soltanto ottenere un pagamento, ma evitare che il tempo del processo ordinario rendesse inutile il diritto.",
+        "Il processo di cognizione richiede mesi, spesso anni. Quando il pregiudizio si produce giorno dopo giorno, la decisione finale può arrivare quando il danno è ormai irreversibile. Per questo l'ordinamento prevede strumenti che anticipano la tutela, e la scelta tra la via ordinaria e quella cautelare è la prima decisione strategica da prendere."
+      ]
+    },
+    {
+      "h2": "Che cosa dice l'articolo 700",
+      "paragrafi": [
+        "L'articolo 700 del codice di procedura civile attribuisce un carattere residuale al provvedimento d'urgenza: opera fuori dei casi regolati nelle sezioni precedenti dello stesso capo, e riguarda chi ha fondato motivo di temere che, durante il tempo occorrente per far valere il proprio diritto in via ordinaria, esso sia minacciato da un pregiudizio imminente e irreparabile. Il giudice può allora emanare i provvedimenti d'urgenza che appaiono, secondo le circostanze, più idonei ad assicurare provvisoriamente gli effetti della decisione sul merito.",
+        "Da questa formula discendono i due requisiti che il ricorrente deve dimostrare: l'apparenza di un diritto fondato e il rischio concreto che il ritardo lo comprometta. Nella pratica li si chiama fumus boni iuris e periculum in mora, ed entrambi richiedono prove, non semplici affermazioni."
+      ]
+    },
+    {
+      "h2": "Le prove che hanno sostenuto il ricorso",
+      "paragrafi": [
+        "Nel caso la difesa ha costruito il ricorso con una perizia asseverata, rilievi fotografici e diffide già inviate. Sono tre elementi che rispondono a esigenze diverse. La perizia attribuisce una base tecnica al pregiudizio e ne indica la gravità. Le fotografie mostrano lo stato dei fatti in modo immediato, e il giudice le vede senza intermediazioni. Le diffide dimostrano che la controparte era stata avvertita e non aveva rimediato.",
+        "Il periculum richiede un ragionamento ulteriore: bisogna spiegare perché il danno non sia risarcibile per equivalente e perché non possa attendere. Un ricorso che si limita a lamentare un disagio, senza descrivere l'irreparabilità, rischia di essere respinto anche se il diritto è fondato."
+      ],
+      "elenco": [
+        "Perizia asseverata che descrive il pregiudizio.",
+        "Rilievi fotografici datati.",
+        "Diffide inviate prima del ricorso.",
+        "Descrizione precisa del danno che non si potrebbe riparare dopo."
+      ]
+    },
+    {
+      "h2": "La penale giornaliera e l'esecuzione immediata",
+      "paragrafi": [
+        "Un ordine del giudice che non viene rispettato perde forza. Per questo il provvedimento del caso ha previsto una penale giornaliera per ogni ritardo, cioè una somma che cresce col tempo e spinge il destinatario ad adempiere. Il suo funzionamento esatto dipende dal contenuto del provvedimento concreto, che va letto con attenzione: importo, decorrenza e modalità di riscossione si ricavano da lì e non da regole generali.",
+        "Dopo l'ordinanza, le attività sono state la notifica alla controparte, la verifica dell'adempimento e la prosecuzione del giudizio di merito. Il provvedimento cautelare, infatti, assicura provvisoriamente gli effetti della decisione, ma non sostituisce la decisione che definirà la causa."
+      ]
+    },
+    {
+      "h2": "Che cosa conviene fare in situazioni simili",
+      "paragrafi": [
+        "In generale, chi si trova esposto a un pregiudizio che si aggrava col tempo dovrebbe raccogliere subito prove datate, inviare una diffida scritta e rivolgersi senza indugio a un legale. Ogni settimana persa può indebolire il requisito dell'urgenza, perché il giudice può chiedersi come mai il ricorrente abbia atteso così a lungo se il danno era davvero imminente.",
+        "Va infine ricordato che la tutela d'urgenza è un percorso complementare, non alternativo, al giudizio di merito: chi la ottiene deve comunque mettere in conto di proseguire la causa."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quando si può chiedere un provvedimento d'urgenza?",
+      "a": "L'articolo 700 del codice di procedura civile lo consente a chi teme un pregiudizio imminente e irreparabile durante il tempo necessario per far valere il diritto in via ordinaria, fuori dei casi regolati da altre norme."
+    },
+    {
+      "q": "Quali prove servono per ottenerlo?",
+      "a": "Servono elementi che dimostrino sia la fondatezza apparente del diritto sia il rischio concreto del ritardo. Nel caso trattato sono stati utili una perizia asseverata, rilievi fotografici e diffide pregresse."
+    },
+    {
+      "q": "Il provvedimento d'urgenza chiude la causa?",
+      "a": "No. Assicura provvisoriamente gli effetti della futura decisione, e il giudizio di merito prosegue fino alla decisione che definisce la controversia."
+    }
+  ],
+  "norme_verificate": [
+    {
+      "norma": "Codice di procedura civile, art. 700",
+      "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+    }
+  ],
+  "parole": 672
+}

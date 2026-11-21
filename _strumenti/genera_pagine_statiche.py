@@ -140,6 +140,20 @@ def carica_lunga(slug):
     return g if g.get("sezioni") else None
 
 
+CASI_LUNGHI = R / "_strumenti" / "casi_lunghi"
+
+
+def carica_caso_lungo(cid):
+    f = CASI_LUNGHI / f"{cid}.json"
+    if not f.exists():
+        return None
+    try:
+        g = json.load(open(f, encoding="utf-8"))
+    except Exception:
+        return None
+    return g if g.get("sezioni") and g.get("id") == cid else None
+
+
 for a in ART:
     g = carica_lunga(a["slug"])
     chk = "".join(f"<li>{E(x)}</li>" for x in lista(a["checklist"]))
@@ -192,15 +206,34 @@ for c in CASI:
              f"<span class='tag'>Rif. {E(c['id'])}</span></p>\n<h1>{E(c['title'])}: {E(c['outcome'].lower())}</h1>\n"
              f"<h2>Il fatto</h2><p>{E(c['fatto'])}</p><h2>La strategia difensiva</h2><p>{E(c['strategia'])}</p>"
              f"<h2>La decisione</h2><p>{E(c['decisione'])}</p>\n"
-             + (f"<h2>Attivit&agrave; svolte</h2><ul class='el'>{att}</ul>\n" if att else "")
+             + (f"<h2>Attivit&agrave; svolte</h2><ul class='el'>{att}</ul>\n" if att else ""))
+    cl, faq_c = carica_caso_lungo(c["id"]), None
+    if cl:
+        for s in cl["sezioni"]:
+            corpo += f"\n<h2>{E(s.get('h2', ''))}</h2>" + "".join(f"<p>{E(p)}</p>" for p in s.get("paragrafi", []))
+            if s.get("elenco"):
+                corpo += "<ul class='el'>" + "".join(f"<li>{E(x)}</li>" for x in s["elenco"]) + "</ul>"
+        if cl.get("faq"):
+            corpo += "\n<h2>Domande frequenti</h2>" + "".join(f"<h3>{E(q['q'])}</h3><p>{E(q['a'])}</p>" for q in cl["faq"])
+            faq_c = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                {"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["a"]}}
+                for q in cl["faq"]]}
+        if cl.get("norme_verificate"):
+            corpo += "\n<h2>Norme di riferimento</h2><ul class='el'>" + "".join(
+                f"<li>{E(n['norma'])}</li>" for n in cl["norme_verificate"]) + "</ul>"
+    corpo += ("\n"
              + (f"<p>Materia: <a href='{pu}'>{E(nome_sub.get((c['area'], sub), sub))}</a>.</p>\n" if pu else "")
              + f"<h2>Guide sul tema</h2><ul class='el'>{guide_correlate(c['area'], sub)}</ul>\n"
              + f"<h2>Altri casi simili</h2><ul class='el'>{casi_correlati(c['area'], sub, c['id'])}</ul>")
-    desc = f"{c['title']} davanti al {c['court']}: {c['outcome']}. {c['fatto']}"
+    desc = (cl or {}).get("description") or f"{c['title']} davanti al {c['court']}: {c['outcome']}. {c['fatto']}"
     sch = {"@context": "https://schema.org", "@type": "Article", "headline": f"{c['title']}: {c['outcome']}"[:110],
            "description": desc[:300], "inLanguage": "it", "author": AUT}
-    pagina(casi_url[c["id"]][1:], f"{c['title']}, {c['outcome']} | Casi risolti Avv. Iaccarino", desc, corpo,
-           bc(("Casi risolti", "/casi/"), (AREE.get(c["area"], c["area"]), f"/casi/{c['area']}.html")), sch)
+    if cl and cl.get("parole_chiave"):
+        sch["keywords"] = ", ".join(cl["parole_chiave"])
+    tit_c = (cl or {}).get("seo_title") or f"{c['title']}, {c['outcome']} | Casi risolti Avv. Iaccarino"
+    pagina(casi_url[c["id"]][1:], tit_c, desc, corpo,
+           bc(("Casi risolti", "/casi/"), (AREE.get(c["area"], c["area"]), f"/casi/{c['area']}.html")),
+           [sch, faq_c] if faq_c else sch)
 
 for s in SUB:
     if not perc_url[(s["area"], s["slug"])].startswith("/percorsi/"):

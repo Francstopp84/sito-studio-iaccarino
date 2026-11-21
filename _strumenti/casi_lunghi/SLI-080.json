@@ -1,0 +1,74 @@
+{
+ "id": "SLI-080",
+ "seo_title": "Appropriazione indebita del dipendente: assoluzione",
+ "description": "Magazziniere accusato di appropriazione indebita di merce: assoluzione per prove insufficienti e inutilizzabili, tra differenze inventariali e telecamere.",
+ "parole_chiave": [
+  "appropriazione indebita dipendente",
+  "accusa di furto in magazzino assoluzione",
+  "prove inutilizzabili processo penale",
+  "differenze inventariali denuncia",
+  "telecamere sorveglianza prova penale"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le norme sull'appropriazione indebita e sulla prova",
+   "paragrafi": [
+    "L'art. 646 del codice penale punisce chi, per procurare a sé o ad altri un ingiusto profitto, si appropria del denaro o della cosa mobile altrui di cui abbia, a qualsiasi titolo, il possesso. Il reato presuppone quindi due elementi che l'accusa deve dimostrare: il possesso della cosa e la condotta con cui l'agente la fa propria, con la finalità di profitto.",
+    "Sul piano processuale contano tre regole. L'art. 192 del codice di procedura penale impone al giudice di valutare la prova dando conto dei risultati e dei criteri adottati, e di ritenere gli indizi solo se gravi, precisi e concordanti. L'art. 191 stabilisce che le prove acquisite in violazione dei divieti di legge non possono essere utilizzate. L'art. 189 disciplina le prove non regolate dalla legge, ammesse se idonee ad assicurare l'accertamento dei fatti. Infine l'art. 530, comma 2, impone l'assoluzione quando la prova manca, è insufficiente o è contraddittoria."
+   ]
+  },
+  {
+   "h2": "Perché l'imputato è stato assolto",
+   "paragrafi": [
+    "Nel caso, un magazziniere era stato denunciato per l'appropriazione di merce di valore stimato in € 12.000. L'accusa si reggeva su due elementi: le differenze inventariali e le registrazioni delle telecamere di sorveglianza. La difesa ha contestato che entrambi potessero dimostrare, oltre ogni ragionevole dubbio, che quel dipendente si fosse appropriato della merce.",
+    "La differenza tra giacenza contabile e giacenza reale è un dato che dice che qualcosa manca, ma non chi l'abbia portato via. Quanto alle immagini, il tribunale di Roma ha concluso che le prove erano insufficienti e inutilizzabili. Ne è seguita l'assoluzione, secondo la regola dell'art. 530, comma 2, che opera quando il dubbio sulla responsabilità resta. In questa sede non si riportano le ragioni specifiche dell'inutilizzabilità, che dipendono dagli atti."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale, chi è accusato di aver sottratto merce sul luogo di lavoro dovrebbe chiedersi quale sia la prova diretta del fatto. Un ammanco inventariale può avere molte cause: errori di registrazione, movimenti non annotati, consegne non conteggiate. Le immagini di sorveglianza, a loro volta, vanno verificate quanto a provenienza, integrità e modo in cui sono state acquisite.",
+    "Ogni vicenda va valutata sui suoi atti e senza previsioni sull'esito. Conviene però evitare dichiarazioni spontanee prima di aver letto la denuncia e le carte raccolte."
+   ],
+   "elenco": [
+    "denuncia o querela con i documenti allegati",
+    "registri di magazzino e inventari, con le date di aggiornamento",
+    "copia integrale delle registrazioni e indicazione di chi le ha estratte",
+    "turni di lavoro e persone con accesso al magazzino",
+    "verbali di eventuali contestazioni disciplinari"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il primo passo è chiedere e leggere gli atti, per capire su quali prove si basi l'ipotesi accusatoria. Un errore comune è concentrarsi sul valore della merce e trascurare l'attribuzione del fatto alla persona. Nel dibattimento conviene verificare se ogni elemento sia stato acquisito nel rispetto delle regole degli artt. 189 e 191, e proporre le eccezioni nei tempi del procedimento.",
+    "Un secondo errore è sottovalutare gli effetti paralleli del processo penale, come le conseguenze sul rapporto di lavoro, che hanno regole proprie e tempi diversi. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Un ammanco di magazzino basta per condannare un dipendente?",
+   "a": "No, di per sé è un indizio generico. L'art. 192 del codice di procedura penale richiede, per gli indizi, che siano gravi, precisi e concordanti, e l'art. 530, comma 2, impone l'assoluzione se la prova è insufficiente o contraddittoria. Occorre dimostrare chi si sia appropriato della merce e con quale scopo di profitto."
+  },
+  {
+   "q": "Le immagini delle telecamere sono sempre utilizzabili?",
+   "a": "Non sempre. Le prove acquisite violando divieti di legge non possono essere utilizzate, come prevede l'art. 191 del codice di procedura penale. Le prove non regolate dalla legge, ai sensi dell'art. 189, sono ammesse se idonee ad accertare i fatti. Occorre verificare provenienza, integrità e modalità di acquisizione delle registrazioni."
+  },
+  {
+   "q": "Che cosa significa assoluzione per insufficienza della prova?",
+   "a": "Significa che il giudice non ha raggiunto la certezza della responsabilità, perché la prova manca, è insufficiente o è contraddittoria. L'art. 530, comma 2, del codice di procedura penale lo prevede espressamente. L'imputato viene assolto, e il processo si chiude senza condanna."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 646 c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "artt. 189, 191, 192 e 530 c.p.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+  }
+ ],
+ "parole": 690
+}

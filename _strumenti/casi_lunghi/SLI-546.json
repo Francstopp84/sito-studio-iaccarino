@@ -1,0 +1,77 @@
+{
+ "id": "SLI-546",
+ "seo_title": "Sky ECC: chat inutilizzabili e scarcerazione",
+ "description": "Chat Sky ECC senza ordine europeo di indagine: inutilizzabilità, annullamento dell'ordinanza cautelare e scarcerazione davanti al Riesame di Napoli.",
+ "parole_chiave": [
+  "Sky ECC chat inutilizzabili",
+  "riesame scarcerazione",
+  "inutilizzabilità prove penale",
+  "catena di custodia dispositivi",
+  "art. 191 codice procedura penale"
+ ],
+ "sezioni": [
+  {
+   "h2": "Prove inutilizzabili e misura cautelare",
+   "paragrafi": [
+    "Il caso, deciso dal Tribunale del Riesame di Napoli, riguarda un imprenditore sottoposto a misura sulla base di chat attribuite a un utente di un servizio di messaggistica criptata. L'ordinanza è stata annullata e la scarcerazione è seguita, perché le chat sono state ritenute inutilizzabili in quanto prive di ordine europeo di indagine.",
+    "La regola di partenza è nell'articolo 191 del codice di procedura penale: le prove acquisite in violazione dei divieti stabiliti dalla legge non possono essere utilizzate, e l'inutilizzabilità è rilevabile anche d'ufficio in ogni stato e grado del procedimento. Una prova inutilizzabile non è solo una prova debole: è una prova che il giudice non può porre a fondamento della decisione.",
+    "Il legame con le misure cautelari passa dall'articolo 273: per applicare la custodia occorrono gravi indizi di colpevolezza e, nel valutarli, il comma 1-bis richiama espressamente, tra le altre, le disposizioni dell'articolo 271, comma 1. Se gli indizi poggiano su elementi non utilizzabili, la base della misura viene meno."
+   ]
+  },
+  {
+   "h2": "Che cosa ha inciso nella decisione",
+   "paragrafi": [
+    "Nella vicenda la difesa ha impostato il riesame su quattro snodi riportati dal caso: l'inutilizzabilità delle chat, il nickname non verificato, la catena di custodia e la restituzione dei dispositivi. Ciascuno incide sulla prova in modo diverso.",
+    "Il nickname non verificato riguarda l'attribuzione: anche ammettendo l'uso delle chat, resta da dimostrare che a scrivere fosse proprio la persona accusata. La catena di custodia riguarda invece la certezza che il materiale acquisito sia quello originale e sia rimasto integro. La restituzione dei dispositivi segue l'annullamento, quando viene meno il vincolo che li teneva in sequestro.",
+    "Quanto alla procedura, l'articolo 309, comma 9, del codice di procedura penale attribuisce al tribunale il potere di annullare, riformare o confermare l'ordinanza, e di annullarla anche quando manca l'autonoma valutazione delle esigenze cautelari. Nel caso l'esito è stato l'annullamento."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale, chi è raggiunto da una misura fondata su comunicazioni acquisite in contesti informatici complessi dovrebbe chiedere di sapere come e da chi quel materiale è stato ottenuto. Ogni vicenda va giudicata sui suoi atti e nessun esito può essere assicurato.",
+    "Le domande da porre sono ricorrenti."
+   ],
+   "elenco": [
+    "Con quale atto e da quale autorità è stato acquisito il materiale?",
+    "L'ordinanza dimostra che il nickname appartiene alla persona accusata?",
+    "Esiste una documentazione della catena di custodia dei dispositivi e dei dati?",
+    "Gli indizi, tolta la prova contestata, restano gravi?",
+    "Quali beni e dispositivi sono ancora sotto sequestro?"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il termine per chiedere il riesame è di dieci giorni, secondo l'articolo 309 del codice di procedura penale, e il tribunale decide entro dieci giorni dalla ricezione degli atti. Il comma 10 prevede la perdita di efficacia della misura quando la decisione non rispetta i termini di legge. Questo ritmo impone di arrivare all'udienza con argomenti già ordinati.",
+    "È utile chiedere subito gli atti su cui l'ordinanza si fonda e confrontarli con quanto il pubblico ministero ha messo a disposizione. Se il difensore ritiene una prova inutilizzabile, deve eccepirlo in modo esplicito, indicando la norma violata, anche se il giudice può rilevarlo d'ufficio.",
+    "Dopo l'annullamento restano le attività di chiusura: la scarcerazione e la richiesta di restituzione di quanto sequestrato. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Una prova inutilizzabile può fondare una misura cautelare?",
+   "a": "No. L'articolo 191 del codice di procedura penale stabilisce che le prove acquisite in violazione dei divieti di legge non possono essere utilizzate, e l'articolo 273 richiede gravi indizi di colpevolezza valutati nel rispetto delle regole sulle prove."
+  },
+  {
+   "q": "Chi può rilevare l'inutilizzabilità di una prova?",
+   "a": "L'articolo 191, comma 2, del codice di procedura penale precisa che l'inutilizzabilità è rilevabile anche d'ufficio in ogni stato e grado del procedimento. Resta consigliabile che la difesa la sollevi in modo espresso e motivato."
+  },
+  {
+   "q": "In quanto tempo decide il tribunale del riesame?",
+   "a": "Secondo l'articolo 309 del codice di procedura penale, la richiesta si propone entro dieci giorni e il tribunale decide entro dieci giorni dalla ricezione degli atti, annullando, riformando o confermando l'ordinanza. La misura perde efficacia se i termini non sono rispettati."
+  },
+  {
+   "q": "Perché conta la catena di custodia dei dispositivi?",
+   "a": "Serve a dimostrare che i dati esaminati sono quelli originali e non sono stati alterati. In assenza di una documentazione chiara, la difesa può contestare l'affidabilità della prova e chiedere che non venga posta a fondamento della decisione."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 191, 273, 309 c.p.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+  }
+ ],
+ "parole": 730
+}

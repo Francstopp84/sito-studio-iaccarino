@@ -1,0 +1,61 @@
+{
+ "id": "SLI-078",
+ "seo_title": "Ristrutturazione con vizi gravi: appalto e danno da inagibilità",
+ "description": "Pavimenti fuori piombo, intonaci che cadono, infissi non a tenuta e impianto elettrico non conforme: i rimedi dell'articolo 1667 e 1668 contro l'impresa appaltatrice.",
+ "parole_chiave": ["vizi di appalto ristrutturazione", "difetti dell'opera articolo 1667", "impianto elettrico senza dichiarazione di conformità", "danno da inagibilità", "denunzia dei vizi appaltatore", "riduzione del prezzo appalto"],
+ "sezioni": [
+  {
+   "h2": "Quando la ristrutturazione non è a regola d'arte",
+   "paragrafi": [
+    "Una ristrutturazione completa è tra le opere più delicate che un privato possa commissionare: molte lavorazioni si sovrappongono e un errore si ripercuote sulle successive. Nel caso riportato dalla scheda, un appartamento storico nel centro di Napoli era stato affidato a un'impresa per un corrispettivo di 120.000 euro. A lavori finiti sono emersi pavimenti fuori piombo, intonaci che si distaccavano, infissi non a tenuta d'acqua e un impianto elettrico non conforme alle norme CEI, privo della dichiarazione di conformità.",
+    "L'impresa, invitata a intervenire, rifiutava, attribuendo i problemi alla vetustà dell'edificio. È una difesa ricorrente negli appalti su immobili antichi: la parte committente deve essere in grado di mostrare che i difetti derivano dalla esecuzione e non dalla struttura preesistente."
+   ]
+  },
+  {
+   "h2": "Le norme dell'appalto sui difetti dell'opera",
+   "paragrafi": [
+    "L'articolo 1667 del codice civile impone all'appaltatore di garantire il committente per le difformità e i vizi dell'opera. La garanzia non è dovuta se il committente ha accettato l'opera e i vizi erano noti o riconoscibili, salvo che siano stati in mala fede taciuti. Il committente deve denunciare le difformità o i vizi entro sessanta giorni dalla scoperta, e l'azione contro l'appaltatore si prescrive in due anni dal giorno della consegna dell'opera.",
+    "L'articolo 1668 elenca i rimedi: il committente può chiedere che le difformità o i vizi siano eliminati a spese dell'appaltatore, oppure che il prezzo sia proporzionalmente ridotto, salvo il risarcimento del danno in caso di colpa. Se le difformità o i vizi sono tali da rendere l'opera del tutto inadatta alla sua destinazione, il committente può chiedere la risoluzione del contratto.",
+    "A questi rimedi si affiancano le regole generali sulla prova. L'articolo 2697 pone a carico di chi vuole far valere un diritto l'onere di provare i fatti che ne costituiscono il fondamento, e l'articolo 1218 stabilisce la responsabilità del debitore che non esegue esattamente la prestazione, se non prova che l'inadempimento deriva da impossibilità a lui non imputabile."
+   ]
+  },
+  {
+   "h2": "L'esito: condanna e danno da inagibilità",
+   "paragrafi": [
+    "La causa si è conclusa con la condanna dell'impresa al pagamento di 62.000 euro, oltre al danno da inagibilità. Questo secondo profilo è significativo: l'appartamento, in quelle condizioni, non poteva essere abitato, e il periodo in cui il proprietario è rimasto privo del bene è un pregiudizio autonomo rispetto al costo delle riparazioni.",
+    "La scheda non specifica come si componga la cifra, né quanto sia stato liquidato per l'inagibilità, e non va ricostruito. Dopo la decisione l'attività è consistita nella notifica del titolo esecutivo, nella verifica dell'adempimento e nella liquidazione delle spese legali."
+   ]
+  },
+  {
+   "h2": "Come si prepara la prova",
+   "paragrafi": [
+    "Per contrastare l'argomento della vetustà serve una relazione tecnica che separi i difetti dovuti all'esecuzione da quelli legati alla struttura. Nel giudizio, il giudice nomina di solito un consulente tecnico d'ufficio, ma una perizia preliminare di parte aiuta a impostare le domande e a documentare lo stato dei luoghi prima che si intervenga con altre riparazioni.",
+    "La mancanza della dichiarazione di conformità dell'impianto elettrico è un elemento di natura documentale e quindi più facile da provare. Gli altri vizi richiedono misure, fotografie datate e confronto con il capitolato e con il progetto."
+   ]
+  },
+  {
+   "h2": "Se i lavori sono finiti e i difetti emergono",
+   "paragrafi": [
+    "In casi analoghi il primo passo è la denuncia scritta all'impresa, con prova della data, entro il termine di sessanta giorni dalla scoperta. Poi conviene far accertare i difetti da un tecnico e conservare i documenti contrattuali. Ogni vicenda va valutata sugli atti e nessun risultato può essere promesso."
+   ],
+   "elenco": [
+    "contratto di appalto, capitolato e preventivi",
+    "fatture e pagamenti effettuati all'impresa",
+    "denuncia dei vizi inviata con prova della data",
+    "relazione tecnica sulle difformità e sulla non conformità dell'impianto",
+    "fotografie datate dei difetti",
+    "documentazione sul periodo in cui l'immobile è rimasto inutilizzabile"
+   ]
+  }
+ ],
+ "faq": [
+  {"q": "Entro quanto devo denunciare i vizi all'appaltatore?", "a": "L'articolo 1667 del codice civile prevede la denuncia entro sessanta giorni dalla scoperta, e la prescrizione dell'azione in due anni dalla consegna dell'opera. La denuncia conviene farla per iscritto, con una modalità che dia prova della data."},
+  {"q": "Quali rimedi ho contro l'impresa?", "a": "L'articolo 1668 consente di chiedere l'eliminazione dei vizi a spese dell'appaltatore oppure la riduzione del prezzo, salvo il risarcimento del danno se c'è colpa. Se l'opera è inadatta alla sua destinazione, si può chiedere la risoluzione del contratto."},
+  {"q": "L'impresa può dire che i difetti dipendono dalla vetustà dell'edificio?", "a": "Può farlo, ed è una difesa frequente. Spetta poi a chi agisce dimostrare che i difetti derivano dall'esecuzione dei lavori, di regola con una relazione tecnica e con la consulenza disposta dal giudice."},
+  {"q": "Si può chiedere anche il danno per il periodo in cui non ho potuto usare la casa?", "a": "Sì, il danno da inagibilità è un pregiudizio distinto dal costo delle riparazioni, ma va provato. Nel caso esaminato la condanna è stata di 62.000 euro, con riconoscimento anche del danno da inagibilità."}
+ ],
+ "norme_verificate": [
+  {"norma": "artt. 1218, 1667, 1668 e 2697 c.c.", "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"}
+ ],
+ "parole": 0
+}

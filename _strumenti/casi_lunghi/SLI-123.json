@@ -1,0 +1,74 @@
+{
+ "id": "SLI-123",
+ "seo_title": "Omicidio stradale escluso: morte per cause sopravvenute",
+ "description": "Ciclista investito e deceduto per complicanze cardiache: come l'art. 41 c.p. può escludere il nesso causale dall'omicidio stradale e lasciare lesioni colpose.",
+ "parole_chiave": [
+  "omicidio stradale nesso causale escluso",
+  "art. 589-bis codice penale",
+  "ciclista investito morto per complicanze",
+  "cause sopravvenute art. 41 codice penale",
+  "assoluzione appello omicidio stradale"
+ ],
+ "sezioni": [
+  {
+   "h2": "Quando una causa sopravvenuta interrompe il nesso",
+   "paragrafi": [
+    "L'art. 589-bis del codice penale punisce con la reclusione da due a sette anni chi cagiona per colpa la morte di una persona con violazione delle norme sulla circolazione stradale. Perché l'omicidio stradale sussista, la morte deve essere conseguenza della condotta del conducente. L'art. 41 del codice penale dispone che il concorso di cause preesistenti, simultanee o sopravvenute non esclude il rapporto di causalità; le cause sopravvenute lo escludono però quando sono state da sole sufficienti a determinare l'evento, e in tal caso si applica la pena prevista per il reato già commesso.",
+    "È proprio qui che si colloca la distinzione con le lesioni stradali dell'art. 590-bis, punite con pene molto più basse. La questione se la morte sia o no ricollegabile all'investimento non è accademica: separa due ipotesi di reato con trattamenti sanzionatori profondamente diversi."
+   ]
+  },
+  {
+   "h2": "Il percorso del caso",
+   "paragrafi": [
+    "Nel caso un conducente aveva investito un ciclista. Le lesioni apparivano inizialmente non gravi, ma dopo tre giorni la persona è morta in ospedale per complicanze cardiache. In primo grado era stato condannato a quattro anni di reclusione per omicidio stradale. La Corte d'Appello di Napoli ha escluso il nesso causale e ha assolto dall'omicidio stradale, lasciando residuare le sole lesioni colpose.",
+    "L'esito è coerente con l'art. 41, comma 2: se la morte è stata determinata da una causa autonoma e sufficiente, come una patologia cardiaca sopravvenuta, non può essere attribuita all'investimento. Il conducente risponde allora di ciò che ha effettivamente causato, cioè delle lesioni colpose, come la norma stessa prevede applicando la pena del reato già commesso. Il lotto non riferisce gli accertamenti medici né quelli sulla dinamica, e qui non si aggiungono. Si può solo osservare che il giudizio sul nesso ha richiesto di esaminare se, in assenza di quelle complicanze, l'evento mortale si sarebbe verificato."
+   ]
+  },
+  {
+   "h2": "Se un incidente è seguito da un decesso successivo",
+   "paragrafi": [
+    "Per analogia, quando una persona muore a distanza di giorni da un incidente, la difesa dovrebbe esaminare la cartella clinica completa, la diagnosi alla dimissione e alla morte, le eventuali patologie pregresse e il decorso, e farsi assistere da un medico legale. Non basta la successione temporale: occorre chiedersi se l'investimento sia stato condizione necessaria della morte e se la causa che ha portato al decesso fosse del tutto indipendente.",
+    "Occorre anche considerare la colpa del conducente, perché le lesioni colpose residue restano un reato. L'art. 590, nel testo letto, prevede in generale la procedibilità a querela, con eccezioni, e per le lesioni stradali l'art. 590-bis ha cornici proprie. Ogni vicenda va valutata sui suoi atti, e questo esito non è garantito altrove."
+   ],
+   "elenco": [
+    "cartella clinica integrale con diagnosi e decorso",
+    "referto di morte e documenti su un eventuale accertamento autoptico",
+    "verbali e rilievi dell'incidente",
+    "documentazione sulle patologie pregresse della persona",
+    "sentenza di primo grado con la motivazione sul nesso"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Nel giudizio d'appello l'art. 597 del codice di procedura penale limita la cognizione ai punti cui si riferiscono i motivi: il motivo sul nesso causale va quindi indicato in modo specifico. Se appella il solo imputato, non può essere irrogata una pena più grave. Nel valutare una condanna di primo grado a quattro anni è decisivo individuare presto un consulente medico-legale e un esperto di ricostruzione degli incidenti.",
+    "Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, assiste in procedimenti per omicidio e lesioni stradali."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Se la vittima muore giorni dopo l'incidente è sempre omicidio stradale?",
+   "a": "No: occorre provare che la morte sia conseguenza dell'azione del conducente. L'art. 41 del codice penale esclude il nesso se una causa sopravvenuta è da sola sufficiente a determinare l'evento. Nel caso, una complicanza cardiaca ha portato all'assoluzione dall'omicidio stradale."
+  },
+  {
+   "q": "Qual è la pena per omicidio stradale?",
+   "a": "L'art. 589-bis del codice penale prevede la reclusione da due a sette anni per l'ipotesi base di chi cagiona per colpa la morte con violazione delle norme sulla circolazione stradale. Nel caso la condanna di primo grado era a quattro anni, poi esclusa dalla Corte d'Appello di Napoli."
+  },
+  {
+   "q": "Che reato resta se cade il nesso con la morte?",
+   "a": "Resta la responsabilità per ciò che il conducente ha effettivamente cagionato, cioè le lesioni colpose: l'art. 41 prevede che, esclusa la causalità rispetto all'evento più grave, si applichi la pena del reato già commesso. Le lesioni stradali sono disciplinate dall'art. 590-bis."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 41, 589-bis, 590, 590-bis c.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+  },
+  {
+   "norma": "art. 597 c.p.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+  }
+ ],
+ "parole": 722
+}

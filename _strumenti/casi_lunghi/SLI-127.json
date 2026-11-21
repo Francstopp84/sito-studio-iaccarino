@@ -1,0 +1,87 @@
+{
+ "id": "SLI-127",
+ "seo_title": "Accesso abusivo a server senza protezione: assoluzione",
+ "description": "Accesso a un server dell'ex cliente senza misure di sicurezza: perché l'art. 615-ter c.p. richiede un sistema protetto e cosa deve provare l'accusa.",
+ "parole_chiave": [
+  "server senza misure di sicurezza",
+  "accesso abusivo consulente informatico",
+  "art. 615-ter sistema protetto",
+  "copia di dati aziendali",
+  "assoluzione sistema non protetto"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il requisito delle misure di sicurezza",
+   "paragrafi": [
+    "Una delle condotte descritte dall'articolo 615-ter del codice penale è l'introduzione abusiva in un sistema informatico o telematico protetto da misure di sicurezza. La formula è precisa: la norma non punisce qualunque ingresso nel sistema altrui, ma quello che avviene in un sistema dotato di una forma di protezione. Il legislatore ha collegato la tutela penale alla scelta del titolare di difendere il proprio spazio informatico, e la protezione, pur non dovendo essere sofisticata, deve esistere ed essere riconoscibile.",
+    "Nel caso un consulente informatico era accusato di avere acceduto al server di un ex cliente dopo la fine del rapporto contrattuale, copiando dati aziendali riservati. L'esito è stata l'assoluzione perché il sistema risultava non protetto. È un percorso diverso da quello che si fonda sull'elemento soggettivo: qui l'ostacolo per l'accusa è un presupposto oggettivo del reato."
+   ]
+  },
+  {
+   "h2": "Il mantenimento nel sistema e la volontà di chi può escludere",
+   "paragrafi": [
+    "L'articolo 615-ter prevede una seconda ipotesi: chi si mantiene nel sistema contro la volontà espressa o tacita di chi ha il diritto di escluderlo. Anche nel testo della norma, però, il sistema è quello \"protetto da misure di sicurezza\", e la dizione si riferisce a entrambe le condotte. La difesa ha quindi potuto argomentare che, in assenza di una protezione, non potesse configurarsi né l'introduzione né il mantenimento punibili.",
+    "Resta da distinguere il tema dalle norme vicine. L'articolo 615-quater punisce, con altra struttura, chi al fine di procurare a sé o ad altri un vantaggio o di arrecare un danno si procura, detiene, diffonde o installa codici, parole chiave o altri mezzi idonei all'accesso a un sistema protetto da misure di sicurezza. È un reato diverso, che richiede condotte e finalità proprie: contestarlo non equivale a provare l'accesso abusivo."
+   ]
+  },
+  {
+   "h2": "La prova che spetta all'accusa",
+   "paragrafi": [
+    "Per condannare occorre che l'accusa dimostri tutti gli elementi del reato, compreso il fatto che il server fosse protetto. Non basta la denuncia del cliente: servono la descrizione tecnica del sistema, le configurazioni di accesso, le password o i meccanismi di autenticazione presenti, gli eventuali registri. Se emerge che il server era raggiungibile senza credenziali, o che le protezioni erano di fatto inesistenti, il presupposto manca.",
+    "Il Tribunale di Salerno ha assolto per questa ragione. In termini di regola di giudizio, l'articolo 530, comma 2, del codice di procedura penale impone l'assoluzione quando la prova che il fatto sussista è insufficiente o contraddittoria; qui il presupposto oggettivo dell'accesso a un sistema protetto non risultava dimostrato. È una differenza utile da tenere presente: l'assoluzione non dice che il comportamento fosse corretto sul piano contrattuale o civile, dice che non integrava quel reato."
+   ]
+  },
+  {
+   "h2": "Cosa può valutare chi viene accusato dall'ex cliente",
+   "paragrafi": [
+    "In casi analoghi, la difesa parte da una ricostruzione tecnica del sistema: come era configurato il server, quale tipo di autenticazione esisteva, chi aveva accesso, che cosa risultava dai log. Spesso un consulente informatico di parte può esaminare la documentazione e dire se esistessero misure idonee. Servono anche le clausole del contratto di consulenza, per capire quali accessi fossero autorizzati e fino a quando.",
+    "È bene distinguere il piano penale dagli altri. Anche quando il reato non è configurabile, restano questioni civili sull'utilizzo dei dati e sul rapporto contrattuale, che vanno affrontate separatamente. Ogni vicenda va valutata sui suoi atti, e un'assoluzione non è mai un esito prevedibile in astratto."
+   ],
+   "elenco": [
+    "il contratto di consulenza e le eventuali clausole sugli accessi",
+    "la descrizione tecnica del server e le sue configurazioni",
+    "i log di accesso e i dati effettivamente copiati",
+    "la querela dell'ex cliente con la data della notizia del fatto"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il delitto del primo comma dell'articolo 615-ter è punibile a querela e, secondo l'articolo 124, il diritto di querela non può essere esercitato decorsi tre mesi dal giorno della notizia del fatto; la data in cui il cliente ha scoperto l'accesso va quindi ricostruita con attenzione. Chi è accusato di una condotta di questo genere deve evitare di rientrare nel sistema per verificare, di cancellare dati o log, e di contattare direttamente l'ex cliente. Nel caso gli adempimenti conclusivi sono stati la notifica del provvedimento, l'aggiornamento del casellario e la chiusura della posizione processuale. Per una valutazione della propria posizione sugli atti, è possibile rivolgersi allo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Per l'accesso abusivo il sistema deve essere protetto?",
+   "a": "Sì. L'articolo 615-ter del codice penale punisce chi si introduce abusivamente in un sistema informatico o telematico protetto da misure di sicurezza, o vi si mantiene contro la volontà di chi può escluderlo. Se il sistema non è protetto, il presupposto oggettivo dell'accusa può mancare, come nel caso descritto."
+  },
+  {
+   "q": "Un'assoluzione per sistema non protetto vale anche civilmente?",
+   "a": "No, non automaticamente. L'assoluzione riguarda solo la configurabilità del reato. L'utilizzo dei dati e gli obblighi del contratto di consulenza possono restare oggetto di una controversia civile autonoma, con regole di prova e di responsabilità diverse, e la scelta degli strumenti va valutata separatamente con il proprio difensore."
+  },
+  {
+   "q": "Copiare dati di un ex cliente è sempre accesso abusivo?",
+   "a": "Dipende. Occorre un accesso in un sistema protetto da misure di sicurezza e contrario alla volontà di chi può escluderlo. Se il sistema non è protetto, l'articolo 615-ter non si applica, mentre altre norme, come l'articolo 615-quater, richiedono condotte e finalità diverse da verificare sugli atti."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 615-ter c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "art. 615-quater c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  },
+  {
+   "norma": "art. 530 c.p.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice di procedura penale.md"
+  },
+  {
+   "norma": "art. 124 c.p.",
+   "file": "D:/BIBLIOTECA GIURIDICA/02 Penale e procedura penale/Norme/Codice penale.md"
+  }
+ ],
+ "parole": 885
+}

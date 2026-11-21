@@ -1,0 +1,71 @@
+{
+ "id": "SLI-333",
+ "seo_title": "Riesame: revoca della misura cautelare e dissequestro",
+ "description": "Misura cautelare e sequestro contestati al Riesame: come difetto di gravità indiziaria e assenza di attualità delle esigenze portano a revoca e dissequestro.",
+ "parole_chiave": [
+  "riesame revoca misura cautelare",
+  "dissequestro conti bloccati",
+  "gravi indizi di colpevolezza art. 273",
+  "esigenze cautelari attuali art. 274",
+  "riesame sequestro dieci giorni"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le condizioni per una misura cautelare",
+   "paragrafi": [
+    "Una misura cautelare personale non si applica per sospetto. L'art. 273 del codice di procedura penale richiede gravi indizi di colpevolezza e vieta qualsiasi misura quando risulta che il fatto è stato compiuto in presenza di una causa di giustificazione. L'art. 274 aggiunge che le esigenze cautelari devono essere specifiche, indifferibili e attuali, fondate su situazioni concrete e non su mere presunzioni. Mancando anche uno solo di questi presupposti, la misura non regge.",
+    "Per i sequestri il quadro è simmetrico: l'art. 321, comma 3, prevede la revoca immediata quando risultano mancanti, anche per fatti sopravvenuti, le condizioni di applicabilità. L'art. 324 consente di chiedere il riesame del sequestro entro dieci giorni, e l'art. 309 prevede per le misure personali la richiesta di riesame entro dieci giorni, che per il difensore decorrono dalla notificazione dell'avviso di deposito."
+   ]
+  },
+  {
+   "h2": "Come si è arrivati alla revoca",
+   "paragrafi": [
+    "Nel caso la difesa ha proposto istanza al Riesame su tre fronti: il difetto di gravità indiziaria, l'assenza di attualità delle esigenze cautelari e la tracciabilità documentale degli elementi. Il Tribunale di Napoli, nel collegio, ha revocato la misura e disposto il dissequestro, con il ripristino della libertà personale e lo sblocco dei conti.",
+    "Il lotto non riporta il reato, i fatti né i documenti. Si può dire, sul piano della norma, che i tre argomenti corrispondono ad altrettante condizioni degli artt. 273 e 274. Un quadro indiziario privo di gravità e, ancora, la mancanza di un pericolo attuale e concreto fanno venire meno il fondamento della misura. La tracciabilità documentale, invece, serve a dimostrare l'origine dei beni o delle somme sottoposte a vincolo, e quindi a rimuovere il presupposto del sequestro."
+   ]
+  },
+  {
+   "h2": "Se sei destinatario di una misura o di un sequestro",
+   "paragrafi": [
+    "In generale, chi riceve un provvedimento cautelare dovrebbe subito procurarsi l'ordinanza e gli atti su cui si fonda, perché sono questi a indicare gli indizi valorizzati e le esigenze indicate. La difesa cerca di mostrare che gli indizi non sono gravi, cioè non raggiungono un livello adeguato di consistenza, e che le esigenze sono genericamente enunciate o non più attuali, specie se è trascorso tempo dai fatti.",
+    "Quando il vincolo riguarda i conti, conviene raccogliere documenti che dimostrino la provenienza lecita delle somme: estratti, contratti, fatture, dichiarazioni. Ogni vicenda va valutata sugli atti, e la revoca ottenuta nel caso non è garantita altrove.",
+    "Va infine distinto il vizio che riguarda gli indizi da quello che riguarda le esigenze. Un quadro indiziario può essere solido e tuttavia non giustificare la misura, se il pericolo di reiterazione, di fuga o di inquinamento delle prove non è concreto e attuale; viceversa, esigenze evidenti non bastano se gli indizi non raggiungono la gravità richiesta. La difesa lavora su entrambi i lati, e la motivazione dell'ordinanza indica dove la tenuta è più fragile."
+   ],
+   "elenco": [
+    "ordinanza applicativa e atti allegati",
+    "decreto di sequestro con i beni indicati",
+    "estratti conto e documentazione sulla provenienza delle somme",
+    "elementi sul tempo trascorso dai fatti",
+    "documenti sulla situazione personale e familiare"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il termine per il riesame è di dieci giorni, tanto per le misure personali (art. 309) quanto per il sequestro (art. 324), ma i termini decorrono da momenti diversi che vanno letti sul provvedimento notificato. Perderli significa cercare altre strade, come l'istanza di revoca al giudice che ha disposto la misura, che resta sempre possibile quando mutano le condizioni.",
+    "Dopo la revoca bisogna curare l'esecuzione, in modo che la liberazione e lo sblocco dei conti siano effettivi. Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, assiste in questi procedimenti."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Entro quanto tempo si chiede il riesame di una misura?",
+   "a": "La richiesta va proposta entro dieci giorni, secondo l'art. 309 del codice di procedura penale; per il difensore il termine decorre dalla notificazione dell'avviso di deposito. Per il sequestro l'art. 324 prevede ugualmente dieci giorni dalla data di esecuzione o dalla conoscenza del provvedimento."
+  },
+  {
+   "q": "Cosa sono i gravi indizi di colpevolezza?",
+   "a": "Sono il presupposto previsto dall'art. 273 del codice di procedura penale per applicare una misura cautelare: non basta il sospetto, occorre un quadro di elementi consistente. L'articolo vieta inoltre qualsiasi misura se il fatto risulta compiuto in presenza di una causa di giustificazione."
+  },
+  {
+   "q": "Quando il sequestro dei conti deve essere revocato?",
+   "a": "L'art. 321, comma 3, del codice di procedura penale prevede la revoca immediata del sequestro quando mancano, anche per fatti sopravvenuti, le condizioni di applicabilità. Nel caso il Tribunale ha revocato la misura e disposto il dissequestro, con sblocco dei conti."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 273, 274, 309, 321, 324 c.p.p.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+  }
+ ],
+ "parole": 750
+}

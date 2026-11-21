@@ -1,0 +1,90 @@
+{
+ "id": "SLI-188",
+ "seo_title": "IMU con coefficiente errato: rimborso e silenzio",
+ "description": "IMU calcolata con coefficiente 160 invece di 140 su un immobile B/2: come chiedere il rimborso, cosa fare dopo il silenzio del Comune e come ricorrere alla CGT.",
+ "parole_chiave": [
+  "imu coefficiente sbagliato rimborso",
+  "moltiplicatore imu gruppo b",
+  "silenzio rifiuto rimborso imu",
+  "istanza di rimborso imu comune",
+  "ricorso silenzio rifiuto tributi",
+  "imu categoria catastale b/2"
+ ],
+ "sezioni": [
+  {
+   "h2": "Il moltiplicatore sbagliato e l'errore sul calcolo",
+   "paragrafi": [
+    "Nel caso un appartamento classificato B/2 era stato assoggettato all'IMU degli anni dal 2018 al 2021 con il coefficiente 160 anziché 140. Il comma 745 dell'art. 1 della legge n. 160 del 2019, nel testo letto, indica i moltiplicatori applicati al valore della rendita catastale: 160 per il gruppo A e per le categorie C/2, C/6 e C/7, e 140 per il gruppo B e per le categorie C/3, C/4 e C/5. Per un immobile del gruppo B il moltiplicatore corretto è quindi 140. Per gli anni anteriori alla legge n. 160 l'operazione è regolata dalla disciplina allora vigente.",
+    "L'errore del coefficiente pesa su ogni annualità, perché si ripete in ciascun versamento. Nel caso l'eccesso era di circa € 1.800 l'anno, per un totale di € 7.200."
+   ]
+  },
+  {
+   "h2": "La via del rimborso: istanza e silenzio",
+   "paragrafi": [
+    "Il contribuente ha presentato istanza di rimborso al Comune di Napoli entro cinque anni dal pagamento, come consente il comma 164 dell'art. 1 della legge n. 296 del 2006. Il comma prevede che l'ente risponda entro centottanta giorni. Nel caso non è arrivata alcuna risposta entro novanta giorni e il contribuente ha impugnato il silenzio-rifiuto davanti alla CGT di I grado di Napoli.",
+    "L'art. 21 del D.Lgs. 546/1992 consente il ricorso contro il silenzio dopo il novantesimo giorno dalla domanda di rimborso; la domanda di restituzione, in mancanza di termini specifici, non può essere presentata oltre due anni dal pagamento. Sono regole diverse da quelle della legge n. 296 e vanno lette con attenzione, perché dipendono dal tipo di tributo e dalla norma applicabile."
+   ]
+  },
+  {
+   "h2": "Il risultato della decisione",
+   "paragrafi": [
+    "La CGT ha accolto il ricorso e ha condannato il Comune a rimborsare € 7.200, più interessi e spese. Il rimborso è stato eseguito entro quattro mesi dalla sentenza. Gli interessi, nei tributi locali, sono regolati dal comma 165 della legge n. 296 del 2006: sono calcolati giorno per giorno dalla data di ciascun versamento, con un tetto di tre punti sopra il tasso legale.",
+    "Nel caso gli interessi sono stati riconosciuti dalla data di ciascun versamento, e questo è coerente con la regola generale. Non risulta altro: non si conoscono importi degli interessi o altre voci, e non vanno immaginati."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi ha pagato l'IMU per un immobile con categoria catastale non ordinaria dovrebbe riscontrare almeno tre elementi: la categoria risultante dalla visura, il coefficiente effettivamente usato nel calcolo e la rendita su cui è stato applicato. Un errore di moltiplicatore è tra i più semplici da accertare, perché si riduce a un confronto tra la norma e il prospetto di calcolo.",
+    "Una volta verificato, il percorso è ordinato: istanza al Comune, attesa della risposta nei termini, ricorso se manca o se è negativa. Ogni vicenda va valutata sui suoi atti, perché le regole cambiano con l'anno d'imposta."
+   ],
+   "elenco": [
+    "visura catastale con la categoria dell'immobile",
+    "prospetti di calcolo dell'IMU di ogni anno",
+    "ricevute dei versamenti",
+    "istanza di rimborso e prova della sua consegna",
+    "eventuale risposta o silenzio del Comune"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il primo termine è quello dei cinque anni dal pagamento per l'istanza di rimborso, che decorre separatamente per ciascun versamento: gli anni più lontani si perdono per primi. Il secondo è quello del ricorso: se il Comune risponde con un diniego, la corte va adita entro sessanta giorni, a pena di inammissibilità, secondo l'art. 21 del D.Lgs. 546/1992. In caso di silenzio il ricorso può essere proposto dopo il novantesimo giorno.",
+    "Un errore frequente è aspettare i centottanta giorni senza considerare che il silenzio è già impugnabile. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual è il coefficiente IMU per un immobile del gruppo B?",
+   "a": "Nel testo letto del comma 745 dell'art. 1 della legge n. 160 del 2019 il moltiplicatore è 140 per i fabbricati del gruppo B e per le categorie C/3, C/4 e C/5, mentre è 160 per il gruppo A e per le categorie C/2, C/6 e C/7. Per anni precedenti vale la disciplina allora vigente."
+  },
+  {
+   "q": "Entro quanto tempo chiedere il rimborso dell'IMU pagata in più?",
+   "a": "Il comma 164 dell'art. 1 della legge n. 296 del 2006 prevede cinque anni dal pagamento, o dal giorno in cui si accerta il diritto alla restituzione. L'ente deve decidere entro centottanta giorni. Il termine corre per ogni versamento, quindi gli anni più vecchi sono i primi a scadere."
+  },
+  {
+   "q": "Che cosa si fa se il Comune non risponde alla richiesta di rimborso?",
+   "a": "Il silenzio può essere impugnato davanti alla corte tributaria. L'art. 21 del D.Lgs. 546/1992 prevede la possibilità di ricorrere dopo il novantesimo giorno dalla domanda. Nel caso il contribuente ha impugnato il silenzio-rifiuto davanti alla CGT di I grado di Napoli e ha ottenuto il rimborso con gli interessi."
+  },
+  {
+   "q": "Da quando decorrono gli interessi sul rimborso?",
+   "a": "Il comma 165 dell'art. 1 della legge n. 296 del 2006 stabilisce che gli interessi maturano giorno per giorno dalla data del versamento, con una misura che non supera di oltre tre punti il tasso legale. Nel caso sono stati riconosciuti dalla data di ciascun versamento."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "L. 160/2019 art. 1 commi 738-783",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 160-2019 art. 1 IMU commi 738-783.md"
+  },
+  {
+   "norma": "L. 296/2006 art. 1 commi 161-169",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 296-2006 art. 1 tributi locali commi 161-169.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 846
+}

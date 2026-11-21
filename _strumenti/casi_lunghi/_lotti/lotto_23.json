@@ -1,0 +1,520 @@
+[
+ {
+  "id": "SLI-098",
+  "area": "penale",
+  "court": "Tribunale di Salerno",
+  "title": "Messa alla prova con estinzione del reato",
+  "outcome": "Reato estinto — Nessun precedente penale",
+  "fatto": "Giovane di 24 anni, incensurato, accusato di furto con destrezza per aver sottratto un telefono cellulare dalla tasca di un passeggero su un autobus.",
+  "strategia": "Il furto era stato documentato dalle telecamere di bordo, rendendo impossibile una contestazione sul piano probatorio. La strategia difensiva si è concentrata sull’immediato risarcimento del danno alla persona offesa e sulla richiesta di sospensione del procedimento con messa alla prova ex art.",
+  "decisione": "168-bis c.p.",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "furto",
+  "materia": "Furto e furto aggravato",
+  "lawRef_materia": "Artt. 624–625 c.p.",
+  "sintesi_materia": "Esclusione aggravanti, tenuità del fatto ex art. 131-bis c.p. e riti alternativi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 624, 625, 646, 124, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "artt. 624, 625, 649, 124, 152, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 340, 411, 444, 459, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-101",
+  "area": "penale",
+  "court": "Tribunale di Milano",
+  "title": "Margine di errore decisivo",
+  "outcome": "Derubricazione ad illecito amministrativo — Nessun precedente penale",
+  "fatto": "Impiegata fermata a un posto di blocco con tasso alcolemico di 0,84 g/l nella prima misurazione e 0,81 g/l nella seconda. Il tasso appariva nella fascia penalmente rilevante (oltre 0,8 g/l).",
+  "strategia": "La difesa ha prodotto perizia tecnica che dimostrava come, applicando il margine di errore del ±5% riconosciuto dalla letteratura scientifica e dalla giurisprudenza della Cassazione, il tasso effettivo potesse essere inferiore a 0,8 g/l.",
+  "decisione": "Derubricazione ad illecito amministrativo — Nessun precedente penale",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "furto",
+  "materia": "Furto e furto aggravato",
+  "lawRef_materia": "Artt. 624–625 c.p.",
+  "sintesi_materia": "Esclusione aggravanti, tenuità del fatto ex art. 131-bis c.p. e riti alternativi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 624, 625, 646, 124, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "artt. 624, 625, 649, 124, 152, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 340, 411, 444, 459, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-131",
+  "area": "penale",
+  "court": "Tribunale di Napoli Nord",
+  "title": "Omesso versamento ritenute: crisi di liquidità",
+  "outcome": "Assoluzione — Riconosciuta forza maggiore",
+  "fatto": "Titolare di un’azienda metalmeccanica con 35 dipendenti, accusato di aver omesso il versamento delle ritenute certificate per € 210.000.",
+  "strategia": "La difesa ha documentato che l’omissione era conseguenza diretta della crisi di liquidità causata dal mancato pagamento, da parte di un ente pubblico, di crediti per € 480.000 maturati su appalti regolarmente eseguiti.",
+  "decisione": "L’imprenditore aveva privilegiato il pagamento degli stipendi ai dipendenti rispetto al versamento delle ritenute allo Stato.",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "furto",
+  "materia": "Furto e furto aggravato",
+  "lawRef_materia": "Artt. 624–625 c.p.",
+  "sintesi_materia": "Esclusione aggravanti, tenuità del fatto ex art. 131-bis c.p. e riti alternativi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 624, 625, 646, 124, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "artt. 624, 625, 649, 124, 152, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 340, 411, 444, 459, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-320",
+  "area": "penale",
+  "subtopic": "furto",
+  "court": "Tribunale di Torre Annunziata",
+  "title": "Furto e furto aggravato — Difesa tecnica (Artt. 624–625 c.p.)",
+  "outcome": "Assoluzione con formula piena",
+  "fatto": "Procedimento relativo a furto e furto aggravato (Artt. 624–625 c.p.) instaurato dinanzi a Tribunale di Torre Annunziata. Archiviazione / proscioglimento integrale per insussistenza del fatto o difetto di elemento soggettivo.",
+  "strategia": "La difesa ha depositato indagini difensive tempestive, consulenza tecnica di parte e memoria ex art. 415-bis c.p.p. demolendo la tenuta dell’ipotesi accusatoria.",
+  "decisione": "Pronuncia integralmente liberatoria con caducazione di ogni vincolo reale e personale.",
+  "attivita": [
+   "Notifica sentenza definitiva",
+   "Cancellazione pendenze",
+   "Restituzione beni in sequestro"
+  ],
+  "materia": "Furto e furto aggravato",
+  "lawRef_materia": "Artt. 624–625 c.p.",
+  "sintesi_materia": "Esclusione aggravanti, tenuità del fatto ex art. 131-bis c.p. e riti alternativi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 624, 625, 646, 124, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "artt. 624, 625, 649, 124, 152, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 340, 411, 444, 459, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-321",
+  "area": "penale",
+  "subtopic": "furto",
+  "court": "Tribunale di Napoli Nord",
+  "title": "Furto e furto aggravato — Ricorso urgente (Artt. 624–625 c.p.)",
+  "outcome": "Revoca misura cautelare e dissequestro",
+  "fatto": "Procedimento relativo a furto e furto aggravato (Artt. 624–625 c.p.) instaurato dinanzi a Tribunale di Napoli Nord. Annullamento ordinanza cautelare con immediato ripristino della libertà e sblocco dei conti.",
+  "strategia": "Istanza al Tribunale del Riesame centrata sul difetto di gravità indiziaria, sull’assenza di attualità delle esigenze cautelari e sulla tracciabilità documentale.",
+  "decisione": "Il Collegio ha accolto integralmente il riesame revocando la misura e disponendo il dissequestro.",
+  "attivita": [
+   "Esecuzione immediata provvedimento",
+   "Sblocco rapporti bancari",
+   "Monitoraggio fase dibattimentale"
+  ],
+  "materia": "Furto e furto aggravato",
+  "lawRef_materia": "Artt. 624–625 c.p.",
+  "sintesi_materia": "Esclusione aggravanti, tenuità del fatto ex art. 131-bis c.p. e riti alternativi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 624, 625, 646, 124, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "artt. 624, 625, 649, 124, 152, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 340, 411, 444, 459, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-322",
+  "area": "penale",
+  "subtopic": "furto",
+  "court": "Tribunale di Salerno",
+  "title": "Furto e furto aggravato — Tutela giudiziale (Artt. 624–625 c.p.)",
+  "outcome": "Non punibilità ex art. 131-bis c.p. / Messa alla prova",
+  "fatto": "Procedimento relativo a furto e furto aggravato (Artt. 624–625 c.p.) instaurato dinanzi a Tribunale di Salerno. Estinzione del procedimento senza condanna né iscrizione pregiudizievole nel casellario.",
+  "strategia": "Ricostruzione dell’occasionalità della condotta, integrale riparazione e accesso strategico agli istituti deflattivi prima dell’apertura dibattimentale.",
+  "decisione": "Il Giudice ha dichiarato l’estinzione del reato escludendo sanzioni detentive e pene accessorie.",
+  "attivita": [
+   "Verifica casellario giudiziale",
+   "Chiusura posizione processuale",
+   "Restituzione patente o beni"
+  ],
+  "materia": "Furto e furto aggravato",
+  "lawRef_materia": "Artt. 624–625 c.p.",
+  "sintesi_materia": "Esclusione aggravanti, tenuità del fatto ex art. 131-bis c.p. e riti alternativi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 624, 625, 646, 124, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "artt. 624, 625, 649, 124, 152, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 340, 411, 444, 459, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-323",
+  "area": "penale",
+  "subtopic": "furto",
+  "court": "Tribunale di Roma",
+  "title": "Furto e furto aggravato — Definizione favorevole (Artt. 624–625 c.p.)",
+  "outcome": "Riqualificazione in appello e riduzione pena",
+  "fatto": "Procedimento relativo a furto e furto aggravato (Artt. 624–625 c.p.) instaurato dinanzi a Tribunale di Roma. Riforma sostanziale della sentenza di primo grado con esclusione delle aggravanti e sospensione condizionale.",
+  "strategia": "Atto di appello fondato su vizi motivazionali, contestazione dell’attendibilità dichiarativa e perizia tecnico-giuridica di parte.",
+  "decisione": "La Corte d’Appello ha accolto i motivi difensivi rideterminando radicalmente il trattamento sanzionatorio.",
+  "attivita": [
+   "Deposito istanze esecutive",
+   "Verifica sospensione condizionale",
+   "Chiusura giudizio di gravame"
+  ],
+  "materia": "Furto e furto aggravato",
+  "lawRef_materia": "Artt. 624–625 c.p.",
+  "sintesi_materia": "Esclusione aggravanti, tenuità del fatto ex art. 131-bis c.p. e riti alternativi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 624, 625, 646, 124, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "artt. 624, 625, 649, 124, 152, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 340, 411, 444, 459, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-557",
+  "area": "penale",
+  "subtopic": "furto",
+  "court": "Tribunale di Napoli",
+  "title": "Esclusione aggravante del mezzo fraudolento e tenuità ex art. 131-bis c.p.",
+  "outcome": "Non punibilità per particolare tenuità del fatto — Nessuna condanna",
+  "fatto": "Persona incensurata citata a giudizio per furto aggravato con richiesta del Pubblico Ministero di condanna detentiva non sospendibile.",
+  "strategia": "La difesa ha smontato la sussistenza dell’aggravante contestata dimostrando l’occasionalità dell’episodio e l’integrale risarcimento immediato.",
+  "decisione": "Il Tribunale ha riqualificato l’addebito e pronunciato sentenza di proscioglimento ex art. 131-bis c.p.",
+  "attivita": [
+   "Chiusura immediata procedimento",
+   "Nessun effetto sul lavoro",
+   "Archiviazione posizione"
+  ],
+  "materia": "Furto e furto aggravato",
+  "lawRef_materia": "Artt. 624–625 c.p.",
+  "sintesi_materia": "Esclusione aggravanti, tenuità del fatto ex art. 131-bis c.p. e riti alternativi.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 624, 625, 646, 124, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "artt. 624, 625, 649, 124, 152, 131-bis, 162-ter, 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 340, 411, 444, 459, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-081",
+  "area": "penale",
+  "court": "Tribunale di Salerno",
+  "title": "Professionista e compensazione del credito",
+  "outcome": "Assoluzione — Legittima compensazione",
+  "fatto": "Un commercialista veniva denunciato da un cliente per essersi appropriato di € 18.000 ricevuti per il pagamento di imposte che non aveva versato all’Erario.",
+  "strategia": "Il cliente scopriva il mancato versamento a seguito di una cartella esattoriale.",
+  "decisione": "Assoluzione — Legittima compensazione",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "guida-ebbrezza",
+  "materia": "Guida in stato di ebbrezza",
+  "lawRef_materia": "Art. 186 CdS",
+  "sintesi_materia": "Difesa tecnica su alcoltest, omologazione etilometro, messa alla prova e restituzione patente.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "art. 186 D.Lgs. 285/1992 (codice della strada)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\D.Lgs. 285-1992 codice della strada (articoli)\\art. 186.md"
+   },
+   {
+    "norma": "art. 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-099",
+  "area": "penale",
+  "court": "Tribunale di Napoli",
+  "title": "Etilometro non tarato",
+  "outcome": "Assoluzione piena — Patente restituita",
+  "fatto": "Professionista fermato dopo una cena di lavoro con tasso alcolemico di 1,2 g/l (fascia 2).",
+  "strategia": "La difesa ha acquisito il registro di manutenzione dell’etilometro utilizzato e ha dimostrato che l’apparecchio non era stato sottoposto alla revisione annuale obbligatoria prevista dal D.M. 196/1990.",
+  "decisione": "Il Tribunale ha dichiarato inutilizzabile l’accertamento strumentale.",
+  "attivita": [
+   "Restituzione patente",
+   "Comunicazione Prefettura",
+   "Estinzione sanzione"
+  ],
+  "subtopic": "guida-ebbrezza",
+  "materia": "Guida in stato di ebbrezza",
+  "lawRef_materia": "Art. 186 CdS",
+  "sintesi_materia": "Difesa tecnica su alcoltest, omologazione etilometro, messa alla prova e restituzione patente.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "art. 186 D.Lgs. 285/1992 (codice della strada)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\D.Lgs. 285-1992 codice della strada (articoli)\\art. 186.md"
+   },
+   {
+    "norma": "art. 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-120",
+  "area": "penale",
+  "court": "Tribunale di Roma",
+  "title": "Esclusione dell’aggravante dell’ebbrezza",
+  "outcome": "Aggravante esclusa — Pena ridotta da 8 a 3 anni",
+  "fatto": "Un giovane conducente causava un incidente mortale nelle prime ore del mattino.",
+  "strategia": "Il prelievo ematico effettuato in ospedale due ore dopo l’incidente risultava positivo con tasso alcolemico di 0,9 g/l.",
+  "decisione": "L’accusa contestava l’aggravante dello stato di ebbrezza.",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "guida-ebbrezza",
+  "materia": "Guida in stato di ebbrezza",
+  "lawRef_materia": "Art. 186 CdS",
+  "sintesi_materia": "Difesa tecnica su alcoltest, omologazione etilometro, messa alla prova e restituzione patente.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "art. 186 D.Lgs. 285/1992 (codice della strada)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\D.Lgs. 285-1992 codice della strada (articoli)\\art. 186.md"
+   },
+   {
+    "norma": "art. 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-122",
+  "area": "penale",
+  "court": "Tribunale di Napoli Nord",
+  "title": "Giudizio abbreviato con attenuanti",
+  "outcome": "Pena sospesa — Nessuna detenzione",
+  "fatto": "Un professionista, alla guida con tasso alcolemico di 1,1 g/l, provocava un sinistro in cui perdeva la vita il conducente dell’altro veicolo.",
+  "strategia": "L’accertamento era formalmente ineccepibile e la responsabilità difficilmente contestabile.",
+  "decisione": "Pena sospesa — Nessuna detenzione",
+  "attivita": [
+   "Notifica provvedimento",
+   "Aggiornamento casellario",
+   "Chiusura posizione processuale"
+  ],
+  "subtopic": "guida-ebbrezza",
+  "materia": "Guida in stato di ebbrezza",
+  "lawRef_materia": "Art. 186 CdS",
+  "sintesi_materia": "Difesa tecnica su alcoltest, omologazione etilometro, messa alla prova e restituzione patente.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "art. 186 D.Lgs. 285/1992 (codice della strada)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\D.Lgs. 285-1992 codice della strada (articoli)\\art. 186.md"
+   },
+   {
+    "norma": "art. 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-304",
+  "area": "penale",
+  "subtopic": "guida-ebbrezza",
+  "court": "Tribunale di Napoli",
+  "title": "Guida in stato di ebbrezza — Difesa tecnica (Art. 186 CdS)",
+  "outcome": "Assoluzione con formula piena",
+  "fatto": "Procedimento relativo a guida in stato di ebbrezza (Art. 186 CdS) instaurato dinanzi a Tribunale di Napoli. Archiviazione / proscioglimento integrale per insussistenza del fatto o difetto di elemento soggettivo.",
+  "strategia": "La difesa ha depositato indagini difensive tempestive, consulenza tecnica di parte e memoria ex art. 415-bis c.p.p. demolendo la tenuta dell’ipotesi accusatoria.",
+  "decisione": "Pronuncia integralmente liberatoria con caducazione di ogni vincolo reale e personale.",
+  "attivita": [
+   "Notifica sentenza definitiva",
+   "Cancellazione pendenze",
+   "Restituzione beni in sequestro"
+  ],
+  "materia": "Guida in stato di ebbrezza",
+  "lawRef_materia": "Art. 186 CdS",
+  "sintesi_materia": "Difesa tecnica su alcoltest, omologazione etilometro, messa alla prova e restituzione patente.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "art. 186 D.Lgs. 285/1992 (codice della strada)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\D.Lgs. 285-1992 codice della strada (articoli)\\art. 186.md"
+   },
+   {
+    "norma": "art. 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-305",
+  "area": "penale",
+  "subtopic": "guida-ebbrezza",
+  "court": "Corte d’Appello di Napoli",
+  "title": "Guida in stato di ebbrezza — Ricorso urgente (Art. 186 CdS)",
+  "outcome": "Revoca misura cautelare e dissequestro",
+  "fatto": "Procedimento relativo a guida in stato di ebbrezza (Art. 186 CdS) instaurato dinanzi a Corte d’Appello di Napoli. Annullamento ordinanza cautelare con immediato ripristino della libertà e sblocco dei conti.",
+  "strategia": "Istanza al Tribunale del Riesame centrata sul difetto di gravità indiziaria, sull’assenza di attualità delle esigenze cautelari e sulla tracciabilità documentale.",
+  "decisione": "Il Collegio ha accolto integralmente il riesame revocando la misura e disponendo il dissequestro.",
+  "attivita": [
+   "Esecuzione immediata provvedimento",
+   "Sblocco rapporti bancari",
+   "Monitoraggio fase dibattimentale"
+  ],
+  "materia": "Guida in stato di ebbrezza",
+  "lawRef_materia": "Art. 186 CdS",
+  "sintesi_materia": "Difesa tecnica su alcoltest, omologazione etilometro, messa alla prova e restituzione patente.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "art. 186 D.Lgs. 285/1992 (codice della strada)",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\D.Lgs. 285-1992 codice della strada (articoli)\\art. 186.md"
+   },
+   {
+    "norma": "art. 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   },
+   {
+    "norma": "art. 168-bis c.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"
+   },
+   {
+    "norma": "artt. 444, 461 c.p.p.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"
+   }
+  ]
+ }
+]

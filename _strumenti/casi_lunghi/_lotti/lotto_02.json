@@ -1,0 +1,592 @@
+[
+ {
+  "id": "SLI-012",
+  "area": "civile",
+  "court": "Tribunale di Napoli",
+  "title": "Amministratore revocato per gravi irregolarità",
+  "outcome": "Revoca immediata + Restituzione € 67.000",
+  "fatto": "Un gruppo di sette condomini (su dodici totali) di un edificio residenziale nel quartiere Fuorigrotta si rivolse allo studio dopo aver constatato gravi irregolarità nella gestione del loro condominio.",
+  "strategia": "L’amministratore, in carica da oltre otto anni, si era sempre rifiutato di produrre i rendiconti condominiali degli ultimi tre anni nonostante le reiterate richieste dei condomini; non aveva mai convocato l’assemblea ordinaria annuale per l’approvazione del bilancio consuntivo, violando sistematicamente l’obbligo di cui all’art. 1130-bis c.c.; risultava titolare del conto corrente condominiale a titolo personale anziché in qualità di amministratore del condominio; aveva effettuato pagamenti a propri familiari per asseriti lavori di manutenzione mai eseguiti.",
+  "decisione": "Il gruppo di condomini, pur maggioritario in termini di millesimi, non riusciva a deliberare la revoca per l’ostruzionismo dell’amministratore stesso.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "condominio",
+  "materia": "Controversie condominiali e infiltrazioni",
+  "lawRef_materia": "Artt. 1117–1139 c.c.",
+  "sintesi_materia": "Impugnazione delibere, lavori urgenti ex art. 700 c.p.c., revoca amministratore e tabelle.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1117, 1126, 1129, 1130, 1131 e 1136 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 5 e 5-ter D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "artt. 1123, 1129, 1130, 1135, 1136 e 1137 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1117, 1123, 1126, 1130, 1135, 1137, 2043, 2051 e 2947 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 700 e 669-octies c.p.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-013",
+  "area": "civile",
+  "court": "Tribunale di Napoli",
+  "title": "Tabelle millesimali revisionate giudizialmente",
+  "outcome": "Tabelle revisionate — Errore del 28,3% accertato e corretto",
+  "fatto": "Il proprietario di un appartamento al piano attico di un condominio in via Petrarca a Napoli si rivolse allo studio poiché la sua unità immobiliare, dotata di ampia terrazza panoramica con vista sul golfo, risultava valorizzata nelle tabelle millesimali vigenti in misura inferiore di circa il 28% rispetto al suo valore reale, con conseguente sottoripartizione delle spese condominiali a suo carico rispetto a quanto avrebbe dovuto contribuire sulla base del reale valore del suo appartamento.",
+  "strategia": "Gli altri condomini, che beneficiavano di questa erronea valorizzazione, si opponevano a qualsiasi modifica consensuale delle tabelle.",
+  "decisione": "Tabelle revisionate — Errore del 28,3% accertato e corretto",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "condominio",
+  "materia": "Controversie condominiali e infiltrazioni",
+  "lawRef_materia": "Artt. 1117–1139 c.c.",
+  "sintesi_materia": "Impugnazione delibere, lavori urgenti ex art. 700 c.p.c., revoca amministratore e tabelle.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1117, 1126, 1129, 1130, 1131 e 1136 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 5 e 5-ter D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "artt. 1123, 1129, 1130, 1135, 1136 e 1137 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1117, 1123, 1126, 1130, 1135, 1137, 2043, 2051 e 2947 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 700 e 669-octies c.p.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-070",
+  "area": "civile",
+  "court": "Appartamento occupato da oltre trenta anni",
+  "title": "Usucapione di immobile urbano",
+  "outcome": "Proprietà accertata — Appartamento del valore di € 280.000",
+  "fatto": "Una signora settantaquattrenne aveva occupato per trentadue anni un appartamento al terzo piano di un edificio condominiale del Vomero, dopo averlo acquistato verbalmente dal precedente occupante — un parente lontano emigrato in Argentina — versandogli una somma di denaro senza stipulare alcun atto notarile.",
+  "strategia": "Nel corso degli anni aveva eseguito lavori di ristrutturazione, intestato tutte le utenze (luce, gas, acqua), pagato le spese condominiali e le imposte locali, e usato l’appartamento come abitazione principale senza mai subire contestazioni.",
+  "decisione": "Il problema era sorto quando i figli dell’originario proprietario formale, ora anziano e in difficoltà economiche, avevano rivendicato la proprietà dell’immobile per rivenderlo.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "condominio",
+  "materia": "Controversie condominiali e infiltrazioni",
+  "lawRef_materia": "Artt. 1117–1139 c.c.",
+  "sintesi_materia": "Impugnazione delibere, lavori urgenti ex art. 700 c.p.c., revoca amministratore e tabelle.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1117, 1126, 1129, 1130, 1131 e 1136 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 5 e 5-ter D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "artt. 1123, 1129, 1130, 1135, 1136 e 1137 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1117, 1123, 1126, 1130, 1135, 1137, 2043, 2051 e 2947 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 700 e 669-octies c.p.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-075",
+  "area": "civile",
+  "court": "02",
+  "title": "Difetto strutturale in edificio di nuova costruzione",
+  "outcome": "✓ Condanna: 95.000 euro + spese",
+  "fatto": "Una famiglia aveva acquistato un appartamento in un condominio di nuova costruzione.",
+  "strategia": "A tre anni dal rogito, durante alcune opere di manutenzione ordinaria, un tecnico ha rilevato lesioni passanti nei pilastri portanti del piano terra, segno di cedimenti differenziali delle fondazioni.",
+  "decisione": "L’analisi strutturale ha evidenziato un grave errore di progettazione e di esecuzione: il calcestruzzo utilizzato presentava un rapporto acqua/cemento superiore ai limiti normativi, con conseguente riduzione della resistenza caratteristica al di sotto dei valori di progetto.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "condominio",
+  "materia": "Controversie condominiali e infiltrazioni",
+  "lawRef_materia": "Artt. 1117–1139 c.c.",
+  "sintesi_materia": "Impugnazione delibere, lavori urgenti ex art. 700 c.p.c., revoca amministratore e tabelle.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1117, 1126, 1129, 1130, 1131 e 1136 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 5 e 5-ter D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "artt. 1123, 1129, 1130, 1135, 1136 e 1137 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1117, 1123, 1126, 1130, 1135, 1137, 2043, 2051 e 2947 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 700 e 669-octies c.p.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-077",
+  "area": "civile",
+  "court": "04",
+  "title": "Infiltrazioni da parti comuni condominiali",
+  "outcome": "✓ Condanna solidale condominio + alienante: danno integralmente risarcito",
+  "fatto": "Un appartamento al quinto piano manifestava infiltrazioni al soffitto provenienti dal lastrico solare condominiale, non soggetto a copertura esclusiva.",
+  "strategia": "Il proprietario aveva invano sollecitato il condominio per oltre un anno, ricevendo solo promesse di intervento mai realizzate. La situazione aveva causato il distacco di intonaci, la muffa su arredi e pareti e l’inagibilità temporanea di una camera.",
+  "decisione": "Le spese di ripristino erano stimate in oltre 18.000 euro.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "condominio",
+  "materia": "Controversie condominiali e infiltrazioni",
+  "lawRef_materia": "Artt. 1117–1139 c.c.",
+  "sintesi_materia": "Impugnazione delibere, lavori urgenti ex art. 700 c.p.c., revoca amministratore e tabelle.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1117, 1126, 1129, 1130, 1131 e 1136 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 5 e 5-ter D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "artt. 1123, 1129, 1130, 1135, 1136 e 1137 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1117, 1123, 1126, 1130, 1135, 1137, 2043, 2051 e 2947 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 700 e 669-octies c.p.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-392",
+  "area": "civile",
+  "subtopic": "condominio",
+  "court": "Corte di Cassazione, Sez. Civile",
+  "title": "Controversie condominiali e infiltrazioni — Difesa tecnica (Artt. 1117–1139 c.c.)",
+  "outcome": "Domanda accolta con condanna alle spese",
+  "fatto": "Procedimento relativo a controversie condominiali e infiltrazioni (Artt. 1117–1139 c.c.) instaurato dinanzi a Corte di Cassazione, Sez. Civile. Accoglimento integrale delle pretese del cliente con liquidazione piena di capitale, interessi e spese legali.",
+  "strategia": "Istruttoria documentale rigorosa, CTU tecnica guidata da consulente di parte e richiamo puntuale alla giurisprudenza recente di Cassazione.",
+  "decisione": "Il Tribunale ha accolto integralmente la domanda condannando la controparte al risarcimento e alle spese di lite.",
+  "attivita": [
+   "Notifica titolo esecutivo",
+   "Incasso integrale somme",
+   "Recupero spese liquidate"
+  ],
+  "materia": "Controversie condominiali e infiltrazioni",
+  "lawRef_materia": "Artt. 1117–1139 c.c.",
+  "sintesi_materia": "Impugnazione delibere, lavori urgenti ex art. 700 c.p.c., revoca amministratore e tabelle.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1117, 1126, 1129, 1130, 1131 e 1136 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 5 e 5-ter D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "artt. 1123, 1129, 1130, 1135, 1136 e 1137 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1117, 1123, 1126, 1130, 1135, 1137, 2043, 2051 e 2947 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 700 e 669-octies c.p.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-393",
+  "area": "civile",
+  "subtopic": "condominio",
+  "court": "Tribunale di Napoli, Sez. Civile",
+  "title": "Controversie condominiali e infiltrazioni — Ricorso urgente (Artt. 1117–1139 c.c.)",
+  "outcome": "Provvedimento d’urgenza ex art. 700 c.p.c.",
+  "fatto": "Procedimento relativo a controversie condominiali e infiltrazioni (Artt. 1117–1139 c.c.) instaurato dinanzi a Tribunale di Napoli, Sez. Civile. Tutela cautelare immediata ottenuta in tempi brevi per bloccare il pregiudizio grave e irreparabile.",
+  "strategia": "Ricorso cautelare documentato con perizia asseverata, rilievi fotografici e diffide pregresse per dimostrare fumus boni iuris e periculum in mora.",
+  "decisione": "Il Giudice ha ordinato l’esecuzione immediata degli interventi e fissato penale giornaliera per ogni ritardo.",
+  "attivita": [
+   "Notifica ordinanza cautelare",
+   "Verifica adempimento",
+   "Definizione giudizio di merito"
+  ],
+  "materia": "Controversie condominiali e infiltrazioni",
+  "lawRef_materia": "Artt. 1117–1139 c.c.",
+  "sintesi_materia": "Impugnazione delibere, lavori urgenti ex art. 700 c.p.c., revoca amministratore e tabelle.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1117, 1126, 1129, 1130, 1131 e 1136 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 5 e 5-ter D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "artt. 1123, 1129, 1130, 1135, 1136 e 1137 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1117, 1123, 1126, 1130, 1135, 1137, 2043, 2051 e 2947 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 700 e 669-octies c.p.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-394",
+  "area": "civile",
+  "subtopic": "condominio",
+  "court": "Tribunale di Napoli, Sez. Famiglia",
+  "title": "Controversie condominiali e infiltrazioni — Tutela giudiziale (Artt. 1117–1139 c.c.)",
+  "outcome": "Accordo transattivo ad alto risparmio",
+  "fatto": "Procedimento relativo a controversie condominiali e infiltrazioni (Artt. 1117–1139 c.c.) instaurato dinanzi a Tribunale di Napoli, Sez. Famiglia. Definizione stragiudiziale / in mediazione con riduzione drastica della pretesa avversaria o incasso rapido.",
+  "strategia": "Contestazione analitica dei conteggi avversari, eccezioni di prescrizione e negoziazione assistita supportata da solida base giurisprudenziale.",
+  "decisione": "Sottoscrizione verbale di conciliazione con valore di titolo esecutivo e chiusura definitiva della lite.",
+  "attivita": [
+   "Sottoscrizione quietanza",
+   "Estinzione giudizio pendente",
+   "Archiviazione posizioni debitorie"
+  ],
+  "materia": "Controversie condominiali e infiltrazioni",
+  "lawRef_materia": "Artt. 1117–1139 c.c.",
+  "sintesi_materia": "Impugnazione delibere, lavori urgenti ex art. 700 c.p.c., revoca amministratore e tabelle.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1117, 1126, 1129, 1130, 1131 e 1136 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 5 e 5-ter D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "artt. 1123, 1129, 1130, 1135, 1136 e 1137 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1117, 1123, 1126, 1130, 1135, 1137, 2043, 2051 e 2947 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 700 e 669-octies c.p.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-395",
+  "area": "civile",
+  "subtopic": "condominio",
+  "court": "Tribunale di Napoli, Sez. Lavoro",
+  "title": "Controversie condominiali e infiltrazioni — Definizione favorevole (Artt. 1117–1139 c.c.)",
+  "outcome": "Riforma in appello / revoca titolo esecutivo",
+  "fatto": "Procedimento relativo a controversie condominiali e infiltrazioni (Artt. 1117–1139 c.c.) instaurato dinanzi a Tribunale di Napoli, Sez. Lavoro. Revoca integrale del provvedimento impugnato con liberazione del patrimonio del cliente.",
+  "strategia": "Opposizione tempestiva corredata da perizia contabile-giuridica e contestazione della prova scritta prodotta dalla controparte.",
+  "decisione": "Il Giudice ha revocato integralmente il provvedimento opposto ponendo le spese a carico della controparte.",
+  "attivita": [
+   "Cancellazione iscrizioni pregiudizievoli",
+   "Svincolo somme",
+   "Recupero spese di lite"
+  ],
+  "materia": "Controversie condominiali e infiltrazioni",
+  "lawRef_materia": "Artt. 1117–1139 c.c.",
+  "sintesi_materia": "Impugnazione delibere, lavori urgenti ex art. 700 c.p.c., revoca amministratore e tabelle.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1117, 1126, 1129, 1130, 1131 e 1136 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 5 e 5-ter D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   },
+   {
+    "norma": "artt. 1123, 1129, 1130, 1135, 1136 e 1137 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1117, 1123, 1126, 1130, 1135, 1137, 2043, 2051 e 2947 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 700 e 669-octies c.p.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice di procedura civile.md"
+   },
+   {
+    "norma": "art. 5 D.Lgs. 28/2010",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\D.Lgs. 28-2010 mediazione civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-014",
+  "area": "civile",
+  "court": "Doppio della caparra e risarcimento danni",
+  "title": "Risoluzione contratto preliminare",
+  "outcome": "Transazione € 98.000 — Doppio caparra + risarcimento integrale",
+  "fatto": "Una coppia aveva stipulato un contratto preliminare di compravendita per l’acquisto di un appartamento a Napoli (quartiere Fuorigrotta) per un prezzo complessivo di € 320.000, versando una caparra confirmatoria di € 40.000 e concordando la stipula del rogito definitivo entro sei mesi.",
+  "strategia": "Il venditore, nel frattempo, aveva ricevuto un’offerta superiore da un altro acquirente e aveva comunicato ai nostri assistiti di non essere più disponibile a vendere, adducendo problemi burocratici inesistenti relativi ai titoli edilizi dell’immobile per giustificare il recesso.",
+  "decisione": "La coppia rischiava di perdere non solo la caparra ma anche i costi sostenuti per l’istruttoria del mutuo bancario già approvato e le spese di trasloco già prenotate.",
+  "attivita": [
+   "Incasso somme liquidate",
+   "Quietanza e chiusura",
+   "Recupero spese di lite"
+  ],
+  "subtopic": "contratti-inadempimento",
+  "materia": "Contratti e inadempimento d’impresa",
+  "lawRef_materia": "Artt. 1453 ss. c.c.",
+  "sintesi_materia": "Risoluzione contrattuale, clausole penali, risarcimento danni commerciali e appalti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1176, 1218, 1341, 1342, 1362, 1371, 1372, 1455 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1223, 1224, 1225, 1226, 1382, 1384 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1453, 1454, 1455, 1456, 1460 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1667, 1668, 1669, 2946 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-016",
+  "area": "civile",
+  "court": "Fornitore agisce per corrispettivo non pagato",
+  "title": "Eccezione di inadempimento",
+  "outcome": "Eccezione inadempimento accolta — Riconvenzionale: € 14.200 incassati",
+  "fatto": "Una società di distribuzione alimentare era stata citata in giudizio da un fornitore di software gestionale per il pagamento di € 28.600 di canoni arretrati.",
+  "strategia": "La società aveva sospeso i pagamenti sostenendo che il software consegnato presentava gravi malfunzionamenti che rendevano impossibile la gestione del magazzino e la fatturazione automatica: errori nella sincronizzazione dell’inventario, blocchi frequenti del sistema durante le ore di picco operativo, mancata integrazione con il sistema di cassa già in uso.",
+  "decisione": "Il fornitore, dal canto suo, sosteneva che i problemi erano imputabili all’hardware e all’infrastruttura di rete del cliente, non al software.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "contratti-inadempimento",
+  "materia": "Contratti e inadempimento d’impresa",
+  "lawRef_materia": "Artt. 1453 ss. c.c.",
+  "sintesi_materia": "Risoluzione contrattuale, clausole penali, risarcimento danni commerciali e appalti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1176, 1218, 1341, 1342, 1362, 1371, 1372, 1455 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1223, 1224, 1225, 1226, 1382, 1384 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1453, 1454, 1455, 1456, 1460 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1667, 1668, 1669, 2946 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-017",
+  "area": "civile",
+  "court": "Ritardo nella consegna di macchinario industriale",
+  "title": "Clausola penale contrattuale",
+  "outcome": "Penale contrattuale massima ottenuta — € 60.000 + spese legali",
+  "fatto": "Un’impresa manifatturiera aveva acquistato un macchinario industriale specializzato per € 260.000, con un contratto che prevedeva la consegna e la messa in funzione entro novanta giorni dalla firma.",
+  "strategia": "Il contratto includeva una clausola penale di € 2.000 per ogni giorno di ritardo nella consegna, fino a un massimo di € 60.000. Il fornitore aveva consegnato il macchinario con centotrenta giorni di ritardo rispetto alla data pattuita, adducendo difficoltà nella catena di approvvigionamento dei componenti.",
+  "decisione": "Il ritardo aveva causato all’impresa l’impossibilità di rispettare i termini di consegna con i propri clienti, con conseguente applicazione di penali contrattuali da parte di questi ultimi per complessivi € 38.000.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "contratti-inadempimento",
+  "materia": "Contratti e inadempimento d’impresa",
+  "lawRef_materia": "Artt. 1453 ss. c.c.",
+  "sintesi_materia": "Risoluzione contrattuale, clausole penali, risarcimento danni commerciali e appalti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1176, 1218, 1341, 1342, 1362, 1371, 1372, 1455 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1223, 1224, 1225, 1226, 1382, 1384 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1453, 1454, 1455, 1456, 1460 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1667, 1668, 1669, 2946 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-076",
+  "area": "civile",
+  "court": "03",
+  "title": "Difformità catastale e urbanistica non dichiarata",
+  "outcome": "✓ Risoluzione contratto + rimborso integrale + risarcimento danni",
+  "fatto": "Un cliente aveva acquistato un locale commerciale con rogito notarile.",
+  "strategia": "Dopo la stipula, nell’ambito di una pratica per la ristrutturazione, un tecnico ha verificato che la planimetria catastale depositata in atto non corrispondeva allo stato di fatto: circa 40 mq risultavano realizzati in difformità dalla concessione edilizia, senza alcuna sanatoria. Parte dello spazio acquistato era abusiva, e il locale non poteva ottenere agibilità commerciale nelle condizioni in cui si trovava.",
+  "decisione": "Il cliente aveva corrisposto un prezzo calcolato su una metratura regolare che in realtà non esisteva.",
+  "attivita": [
+   "Incasso somme liquidate",
+   "Quietanza e chiusura",
+   "Recupero spese di lite"
+  ],
+  "subtopic": "contratti-inadempimento",
+  "materia": "Contratti e inadempimento d’impresa",
+  "lawRef_materia": "Artt. 1453 ss. c.c.",
+  "sintesi_materia": "Risoluzione contrattuale, clausole penali, risarcimento danni commerciali e appalti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1176, 1218, 1341, 1342, 1362, 1371, 1372, 1455 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1223, 1224, 1225, 1226, 1382, 1384 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1453, 1454, 1455, 1456, 1460 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1667, 1668, 1669, 2946 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   }
+  ]
+ },
+ {
+  "id": "SLI-078",
+  "area": "civile",
+  "court": "05",
+  "title": "Vizi di appalto in ristrutturazione complessa",
+  "outcome": "✓ Condanna: 62.000 euro + danno da inagibilità",
+  "fatto": "Un committente aveva affidato a un’impresa edile la ristrutturazione completa di un appartamento storico nel centro di Napoli, per un corrispettivo di 120.000 euro.",
+  "strategia": "L’opera completata presentava gravi vizi: pavimentazioni fuori piombo, intonaci che si distaccavano a pochi mesi dall’applicazione, infissi montati in modo da non garantire la tenuta all’acqua, impianto elettrico realizzato senza rispettare le norme CEI e privo di dichiarazione di conformità.",
+  "decisione": "L’impresa si rifiutava di intervenire sostenendo che i problemi erano dovuti alla vetustà dell’edificio.",
+  "attivita": [
+   "Notifica sentenza esecutiva",
+   "Verifica adempimento",
+   "Liquidazione spese legali"
+  ],
+  "subtopic": "contratti-inadempimento",
+  "materia": "Contratti e inadempimento d’impresa",
+  "lawRef_materia": "Artt. 1453 ss. c.c.",
+  "sintesi_materia": "Risoluzione contrattuale, clausole penali, risarcimento danni commerciali e appalti.",
+  "norme_gia_lette_nelle_guide": [
+   {
+    "norma": "artt. 1176, 1218, 1341, 1342, 1362, 1371, 1372, 1455 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1223, 1224, 1225, 1226, 1382, 1384 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1453, 1454, 1455, 1456, 1460 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   },
+   {
+    "norma": "artt. 1667, 1668, 1669, 2946 c.c.",
+    "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+   }
+  ]
+ }
+]

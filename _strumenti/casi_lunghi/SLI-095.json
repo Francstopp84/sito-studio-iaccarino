@@ -1,0 +1,47 @@
+{
+ "id": "SLI-095",
+ "seo_title": "Furto in abitazione: video inutilizzabili, assoluzione",
+ "description": "Furto in abitazione e videoregistrazioni di un impianto privato: inutilizzabilità delle prove ex articolo 191 c.p.p., arresti domiciliari revocati e assoluzione.",
+ "parole_chiave": ["furto in abitazione videosorveglianza", "inutilizzabilità prove art. 191", "arresti domiciliari revocati", "art. 624-bis codice penale", "videoregistrazioni senza informativa"],
+ "sezioni": [
+  {"h2": "Il furto in abitazione e la sua pena", "paragrafi": [
+   "L'articolo 624-bis del codice penale punisce con la reclusione da quattro a sette anni chi si impossessa della cosa mobile altrui, sottraendola a chi la detiene, mediante introduzione in un edificio o in altro luogo destinato in tutto o in parte a privata dimora. È un reato più grave del furto semplice e si associa spesso a misure cautelari, perché la pena massima consente di valutare anche gli arresti domiciliari o la custodia.",
+   "Poiché la pena è severa, la prova dell'identità dell'autore è il nodo del processo. Quando si basa su registrazioni di un impianto di sorveglianza, il giudice deve chiedersi non solo che cosa mostrino le immagini, ma anche se esse possano essere usate."
+  ]},
+  {"h2": "La vicenda: accusa fondata sui video", "paragrafi": [
+   "Nel caso riportato sul sito, un giovane operaio era accusato di furto in abitazione sulla base delle registrazioni di un impianto di sorveglianza privato. L'impianto, secondo la difesa, era stato installato senza l'informativa prevista dall'articolo 13 del GDPR e senza l'autorizzazione dell'Autorità Garante. L'imputato era sottoposto agli arresti domiciliari.",
+   "Il procedimento, dinanzi al Tribunale di Roma, si è concluso con l'assoluzione piena e con la revoca della misura cautelare. Dopo la decisione sono stati eseguiti l'ordine di scarcerazione, la restituzione dei beni e della libertà e il monitoraggio della fase successiva."
+  ]},
+  {"h2": "L'inutilizzabilità delle prove: l'articolo 191", "paragrafi": [
+   "L'articolo 191 del codice di procedura penale stabilisce che le prove acquisite in violazione dei divieti stabiliti dalla legge non possono essere utilizzate. L'inutilizzabilità è rilevabile anche d'ufficio in ogni stato e grado del procedimento. Significa che il giudice non può fondare la propria decisione su quel materiale, e che la difesa può sollevare il problema anche in una fase avanzata.",
+   "La difesa ha sostenuto, nel caso, che le videoregistrazioni fossero state acquisite in violazione dei divieti di legge. Il percorso logico è quindi questo: se il filmato è inutilizzabile, l'accusa perde la sua prova principale; senza di essa, il quadro indiziario non regge, né per la misura cautelare né per la condanna.",
+   "Va precisato, in generale, che non ogni irregolarità nella raccolta di una ripresa comporta inutilizzabilità. L'articolo 234 disciplina l'acquisizione di scritti o altri documenti che rappresentano fatti, persone o cose mediante la fotografia, la cinematografia, la fonografia o qualsiasi altro mezzo, e occorre verificare caso per caso il rapporto tra le norme sulla riservatezza e quelle sulla prova."
+  ], "elenco": [
+   "la fonte e la data di installazione dell'impianto di ripresa",
+   "l'eventuale informativa o cartellonistica presente",
+   "le autorizzazioni richieste e quelle effettivamente ottenute",
+   "il modo in cui le registrazioni sono state consegnate agli investigatori",
+   "gli altri elementi di prova oltre al filmato",
+   "la data del primo atto in cui è stata sollevata l'inutilizzabilità"
+  ]},
+  {"h2": "La misura cautelare senza prova", "paragrafi": [
+   "L'articolo 273 del codice di procedura penale richiede gravi indizi di colpevolezza per applicare una misura cautelare. Se la prova su cui poggiano gli indizi non è utilizzabile, il presupposto viene meno, e l'articolo 299 permette di chiedere la revoca della misura quando mutano le condizioni di applicabilità. Nel caso, la revoca è stata disposta insieme all'assoluzione.",
+   "L'articolo 530 prevede l'assoluzione quando manca, è insufficiente o è contraddittoria la prova. È la naturale conseguenza di un processo in cui l'elemento centrale non può essere considerato."
+  ]},
+  {"h2": "Cosa osservare in situazioni simili", "paragrafi": [
+   "In casi analoghi, chi è accusato sulla base di riprese private deve domandare al difensore di esaminare come l'impianto sia stato installato e come le immagini siano state acquisite. Ogni vicenda va valutata sui suoi atti, e il risultato del caso non è replicabile per automatismo.",
+   "Per un esame degli atti e delle registrazioni ci si può rivolgere allo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+  ]}
+ ],
+ "faq": [
+  {"q": "Che cosa significa prova inutilizzabile?", "a": "Secondo l'articolo 191 del codice di procedura penale, le prove acquisite in violazione dei divieti stabiliti dalla legge non possono essere utilizzate. Il giudice non può basare la decisione su di esse e l'inutilizzabilità può essere rilevata in ogni stato e grado del procedimento."},
+  {"q": "Un video di sorveglianza privata è sempre utilizzabile?", "a": "Non sempre. Occorre verificare come l'impianto è stato installato e come le immagini sono state acquisite, in rapporto ai divieti di legge. Nel caso riportato la difesa ha sostenuto l'inutilizzabilità per la mancanza di informativa e di autorizzazione."},
+  {"q": "Che pena prevede il furto in abitazione?", "a": "L'articolo 624-bis del codice penale prevede la reclusione da quattro a sette anni, oltre alla multa. La cornice elevata spiega perché il reato porti spesso a misure cautelari già nelle prime fasi del procedimento."},
+  {"q": "Se la prova cade, cade anche la misura cautelare?", "a": "Se la prova su cui si fondano i gravi indizi non è utilizzabile, viene meno un presupposto richiesto dall'articolo 273 del codice di procedura penale. La misura può essere revocata ai sensi dell'articolo 299. Resta da valutare l'insieme degli atti."}
+ ],
+ "norme_verificate": [
+  {"norma": "art. 624-bis c.p.", "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"},
+  {"norma": "artt. 191, 234, 273, 299, 530 c.p.p.", "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice di procedura penale.md"}
+ ],
+ "parole": 0
+}

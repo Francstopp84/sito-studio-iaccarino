@@ -1,0 +1,81 @@
+{
+ "id": "SLI-218",
+ "seo_title": "Esterometro omesso: ravvedimento rapido e sanzione minima",
+ "description": "Comunicazione delle operazioni con l'estero non trasmessa per un errore dei gestionali: come si regolarizza con il ravvedimento e quali sanzioni si evitano.",
+ "parole_chiave": [
+  "esterometro omesso sanzione",
+  "ravvedimento esterometro",
+  "comunicazione operazioni estero sanzione",
+  "ravvedimento operoso entro 90 giorni",
+  "sanzione omessa trasmissione fatture estere"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le norme sul ravvedimento e sulla sanzione dell'esterometro",
+   "paragrafi": [
+    "La trasmissione dei dati delle operazioni con l'estero è assistita dalla sanzione dell'articolo 11, comma 2-quater, del D.Lgs. 471/1997: per l'omissione si applica una sanzione di 2 euro per ciascuna fattura, con un limite massimo per trimestre, e la sanzione si riduce alla metà se la trasmissione avviene entro quindici giorni dalla scadenza. Il testo letto mostra quindi un sistema costruito sul numero delle fatture, e non su un importo fisso.",
+    "Accanto a questa regola si colloca il ravvedimento dell'articolo 13 del D.Lgs. 472/1997. La lettera a-bis) prevede la riduzione a un nono del minimo se la regolarizzazione avviene entro novanta giorni dall'omissione o dal termine per la dichiarazione. Il pagamento della sanzione ridotta deve avvenire insieme al tributo, se dovuto, e agli interessi al tasso legale, come stabilisce il comma 2.",
+    "Per una violazione senza imposta da versare, come quella di una comunicazione omessa, il costo del ravvedimento è dato soprattutto dalla sanzione ridotta, e proprio qui il tempo conta: più è breve il ritardo, più è bassa la frazione applicabile."
+   ]
+  },
+  {
+   "h2": "Come si è evitato il rischio",
+   "paragrafi": [
+    "Nel caso, un disguido nel passaggio tra due gestionali aveva impedito la trasmissione dell'esterometro per il secondo e per il terzo trimestre del 2023. Le fatture erano circa 180 per ciascun trimestre. L'omissione non dipendeva da una scelta, ma da un errore tecnico nella migrazione dei dati.",
+    "L'impresa si è accorta del problema e ha scelto di regolarizzare spontaneamente prima di qualunque contestazione. La trasmissione è stata effettuata entro novanta giorni e la sanzione è stata ridotta con il ravvedimento della lettera a-bis, pari a un nono. Il versamento è stato di 178 euro e l'intera regolarizzazione è avvenuta in meno di una settimana.",
+    "Il rischio evitato, indicato nel caso, era di 72.000 euro. L'esempio mostra come un controllo tempestivo dei flussi abbia trasformato un possibile procedimento sanzionatorio in un costo modesto; il risultato dipende però dai tempi e dalla natura dell'errore, e non è trasferibile automaticamente."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi cambia software gestionale o sistema di fatturazione dovrebbe, in generale, verificare che i flussi verso l'amministrazione continuino senza interruzioni, soprattutto per le comunicazioni periodiche che non producono una ricevuta immediatamente visibile. Un controllo a fine periodo permette di accorgersi in tempo di un'omissione.",
+    "Se l'errore è già avvenuto, la prima domanda è da quanti giorni è scaduto il termine, perché ciascuna lettera dell'articolo 13 corrisponde a una finestra temporale. La seconda è se nel frattempo l'ufficio abbia notificato atti di contestazione: dipende da questo la possibilità di regolarizzare con le riduzioni previste."
+   ],
+   "elenco": [
+    "elenco delle fatture e delle operazioni estere dei periodi interessati",
+    "data di scadenza della comunicazione omessa",
+    "ricevute di trasmissione dopo la regolarizzazione",
+    "prospetto di calcolo della sanzione ridotta",
+    "modello F24 e ricevuta di pagamento",
+    "descrizione dell'errore tecnico, con le date del passaggio di software"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il termine che conta è quello dei novanta giorni dell'articolo 13, lettera a-bis): superato, si passa alle frazioni successive. Meglio ancora è rispettare la finestra dei quindici giorni dell'articolo 11 del D.Lgs. 471/1997, che dimezza la sanzione base. In ogni caso la trasmissione e il pagamento vanno documentati.",
+    "Va inoltre ricordato che il ravvedimento non impedisce controlli futuri: l'articolo 13, comma 1-quater, lo precisa. Conservare i documenti dell'errore e della sua correzione serve a dimostrare la buona fede e la tempestività. Le informazioni sono generali e ogni situazione va valutata sugli atti. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Cos'è l'esterometro e cosa succede se non lo trasmetto?",
+   "a": "È la comunicazione dei dati delle operazioni con l'estero. L'articolo 11, comma 2-quater, del D.Lgs. 471/1997 prevede una sanzione di 2 euro per fattura, con un limite per trimestre, ridotta alla metà se si trasmette entro quindici giorni dalla scadenza. È possibile regolarizzare con il ravvedimento operoso."
+  },
+  {
+   "q": "Entro quanto tempo posso ravvedermi per pagare di meno?",
+   "a": "L'articolo 13 del D.Lgs. 472/1997 prevede un nono del minimo se la regolarizzazione avviene entro novanta giorni dall'omissione, un decimo entro trenta giorni per i ritardi nel pagamento, e frazioni più alte oltre. Nel caso trattato sono stati versati 178 euro entro novanta giorni."
+  },
+  {
+   "q": "Come si paga la sanzione ridotta nel ravvedimento?",
+   "a": "Il comma 2 dell'articolo 13 del D.Lgs. 472/1997 prevede il pagamento contestuale del tributo, degli interessi al tasso legale giorno per giorno e della sanzione ridotta. Se non c'è tributo da versare, si paga la sanzione ridotta con il codice tributo corretto, conservando la ricevuta."
+  },
+  {
+   "q": "Un errore del software può essere una giustificazione?",
+   "a": "L'errore tecnico non cancella l'obbligo, ma spiega l'omissione e mostra la buona fede. Nel caso esaminato il problema è stato regolarizzato in meno di una settimana con il ravvedimento. In generale conviene correggere subito e documentare cos'è accaduto, perché la tempestività incide sulla sanzione dovuta."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.Lgs. 471/1997",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 471-1997 sanzioni tributarie non penali.md"
+  },
+  {
+   "norma": "D.Lgs. 472/1997",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 472-1997 sanzioni tributarie.md"
+  }
+ ],
+ "parole": 772
+}

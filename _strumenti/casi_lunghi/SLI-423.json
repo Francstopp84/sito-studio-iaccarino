@@ -1,0 +1,70 @@
+{
+ "id": "SLI-423",
+ "seo_title": "Accettazione dell'opera e decadenze: la revoca",
+ "description": "Accettazione senza riserve, vizi riconoscibili e denuncia tardiva: artt. 1665, 1491 e 1495 c.c. e come si arriva alla revoca di un provvedimento opposto.",
+ "parole_chiave": [
+  "accettazione opera senza riserve",
+  "vizi riconoscibili decadenza",
+  "denuncia tardiva vizi",
+  "revoca provvedimento opposto",
+  "verifica dell'opera appalto"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le norme applicate al caso",
+   "paragrafi": [
+    "Il caso si è concluso davanti al Tribunale di Napoli, Sezione Famiglia, con la revoca del provvedimento opposto. Il testo non indica il contenuto del provvedimento né il rapporto di fondo, e perciò non si descrivono fatti ulteriori. L'angolo scelto riguarda le decadenze che il codice civile collega al comportamento di chi riceve un bene o un'opera: accettare, non riserbare, non denunciare in tempo.",
+    "L'art. 1665 c.c. regola la verifica e l'accettazione dell'opera appaltata: il committente ha diritto di controllarla a opera compiuta e l'accettazione senza riserve libera l'appaltatore dalla responsabilità per le difformità e i vizi riconoscibili. L'art. 1491 c.c., nella vendita, esclude la garanzia quando il compratore conosceva i vizi o quando erano facilmente riconoscibili. L'art. 1495 c.c. impone la denuncia entro otto giorni dalla scoperta, a pena di decadenza, tranne che il venditore abbia riconosciuto o occultato il vizio."
+   ]
+  },
+  {
+   "h2": "Perché la decisione è arrivata a questo esito",
+   "paragrafi": [
+    "Nel caso la difesa ha proposto un'opposizione tempestiva, ha prodotto documenti a sostegno e ha ottenuto la revoca del provvedimento, con spese a carico della controparte. Non si può dire su quale ragione il giudice abbia basato la revoca, e il caso non consente di collegarlo alle norme sull'accettazione o sulla denuncia.",
+    "Quel che si può osservare in generale è il ruolo del tempo. Chi contesta un provvedimento deve farlo nel termine, e chi lo ha ottenuto deve essere pronto a sostenere i presupposti con documenti. Una revoca arriva quando i documenti del ricorrente non reggono o quelli dell'opponente mostrano un quadro diverso.",
+    "Le attività successive indicate nel caso sono la notifica del provvedimento di revoca, il recupero delle spese e la chiusura del fascicolo. Il fatto che il caso appartenga alla Sezione Famiglia non cambia la logica dei termini: davanti a qualunque sezione del tribunale un'opposizione proposta fuori tempo rischia di non essere esaminata nel merito, mentre una proposta in tempo obbliga il giudice a valutare le ragioni e i documenti della parte opponente. Per questo il primo atto da compiere, appena ricevuto un provvedimento, è registrare la data di notifica e il termine che ne discende, e solo dopo ragionare sulla strategia. Un secondo accorgimento riguarda i documenti: vanno prodotti quelli che parlano da soli, con date certe, e vanno evitati quelli che richiedono lunghe spiegazioni, perché il giudice dà più peso a ciò che si legge senza interpretazioni."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "Chi riceve un'opera o un bene dovrebbe trattare il momento della consegna come un atto da non dare per scontato. Controllare subito, annotare per iscritto ogni difetto visibile e firmare l'accettazione solo con le riserve necessarie evita di perdere garanzie che la legge collega al silenzio. Chi invece è stato destinatario di un provvedimento contestabile deve contare i giorni dalla notifica. Ogni vicenda va valutata sui suoi atti."
+   ],
+   "elenco": [
+    "Verbale di consegna o di collaudo, con le riserve scritte",
+    "Documenti che mostrano lo stato del bene o dell'opera al momento della consegna",
+    "Data in cui il difetto è stato scoperto e come",
+    "Denuncia inviata con prova di ricezione",
+    "Provvedimento notificato, con la data di notifica"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il rischio più frequente è accettare senza riserve un'opera che presenta difetti visibili: l'art. 1665 c.c. libera in quel caso l'appaltatore dalle difformità e dai vizi riconoscibili. Nella vendita il compratore decade dalla garanzia se non denuncia entro otto giorni dalla scoperta. Per entrambi i casi la prova dell'invio e delle date è decisiva.",
+    "Per il provvedimento da revocare, il termine per opporsi si legge nel provvedimento stesso o nella norma che lo disciplina. Dopo l'esito favorevole bisogna notificare il titolo sulle spese. Lo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205, assiste in queste fasi."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Che cosa succede se accetto l'opera senza riserve?",
+   "a": "L'art. 1665 c.c. prevede che l'accettazione senza riserve liberi l'appaltatore dalla responsabilità per le difformità e i vizi riconoscibili. Per i vizi non riconoscibili restano le regole sulla garanzia, con i loro termini."
+  },
+  {
+   "q": "Posso far valere un vizio che vedevo già all'acquisto?",
+   "a": "L'art. 1491 c.c. esclude la garanzia per i vizi conosciuti o facilmente riconoscibili, salvo che il venditore abbia dichiarato la cosa esente da vizi. Conviene quindi segnalare subito ciò che si nota."
+  },
+  {
+   "q": "Che termine ho per denunciare un vizio nella vendita?",
+   "a": "Otto giorni dalla scoperta, secondo l'art. 1495 c.c., salvo che il venditore abbia riconosciuto o occultato il vizio. L'azione si prescrive in un anno dalla consegna."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 1665, 1491, 1495 c.c.",
+   "file": "D:\\BIBLIOTECA GIURIDICA\\01 Civile e procedura civile\\Norme\\Codice civile.md"
+  }
+ ],
+ "parole": 737
+}

@@ -1,0 +1,96 @@
+{
+ "id": "SLI-380",
+ "seo_title": "Cartella clinica e trasparenza: azione per malasanità",
+ "description": "Come costruire una causa di malasanità partendo dalla documentazione sanitaria: obbligo di trasparenza, richiesta della cartella, procedibilità e colpa.",
+ "parole_chiave": [
+  "richiesta cartella clinica",
+  "trasparenza sanitaria legge Gelli",
+  "causa malasanità tribunale",
+  "responsabilità struttura sanitaria",
+  "documentazione sanitaria termini"
+ ],
+ "sezioni": [
+  {
+   "h2": "La trasparenza dei dati sanitari: cosa dice la legge",
+   "paragrafi": [
+    "Ogni causa di responsabilità sanitaria comincia dai documenti. L'articolo 4 della legge 24 del 2017 sancisce l'obbligo di trasparenza per le prestazioni sanitarie erogate dalle strutture pubbliche e private, nel rispetto della normativa sulla protezione dei dati personali. La direzione sanitaria deve fornire la documentazione disponibile relativa al paziente entro sette giorni dalla richiesta degli aventi diritto, preferibilmente in formato elettronico, e le eventuali integrazioni entro il termine massimo di trenta giorni.",
+    "Sul versante sostanziale l'articolo 7 dispone che la struttura risponda delle condotte dolose o colpose degli esercenti la professione sanitaria di cui si avvale, ai sensi degli articoli 1218 e 1228 del codice civile. Sul versante processuale l'articolo 8 pone la condizione di procedibilità: prima della domanda va proposto il ricorso dell'articolo 696 bis del codice di procedura civile, in alternativa alla mediazione.",
+    "Per il risarcimento si applicano gli articoli 1218 e 1223 del codice civile, che collegano la responsabilità all'inadempimento e limitano il danno alle conseguenze immediate e dirette."
+   ]
+  },
+  {
+   "h2": "Perché il Tribunale di Salerno ha accolto la domanda",
+   "paragrafi": [
+    "Il caso è stato deciso dal Tribunale di Salerno con l'accoglimento integrale della domanda: condanna al capitale, agli interessi e alle spese. Il giudizio si è fondato su un'istruttoria documentale e su una consulenza tecnica d'ufficio, e la difesa tecnica si è mossa nel quadro della legge 24 del 2017.",
+    "Quando la prova è affidata ai documenti e a una consulenza tecnica, la qualità del lavoro iniziale diventa decisiva. Una documentazione completa consente al consulente di lavorare su dati certi e di rispondere ai quesiti sul nesso tra la condotta sanitaria e il danno. Se il consulente conferma il collegamento, la domanda trova il suo fondamento nel meccanismo contrattuale dell'articolo 1218.",
+    "L'accoglimento integrale, con interessi e spese, indica che la richiesta è stata ritenuta fondata in tutte le sue componenti. Non se ne ricava un esito generalizzabile: ogni causa dipende dai propri atti."
+   ]
+  },
+  {
+   "h2": "Se ti trovi in una situazione simile",
+   "paragrafi": [
+    "In generale, la prima iniziativa è la richiesta formale della documentazione sanitaria, fatta per iscritto in modo da poter provare la data e il contenuto. Se la risposta tarda oltre i termini dell'articolo 4, il ritardo va annotato e può essere richiamato nel seguito della pratica.",
+    "Con la documentazione in mano, un medico legale può valutare se esistono profili di responsabilità. Solo dopo ha senso decidere tra ricorso dell'articolo 696 bis e mediazione. Ogni vicenda va valutata sui suoi atti."
+   ],
+   "elenco": [
+    "La richiesta scritta di documentazione, con la prova di invio",
+    "La cartella clinica completa, compresi diari e consensi informati",
+    "Le immagini diagnostiche e i referti degli esami",
+    "Le comunicazioni scambiate con la struttura",
+    "Una cronologia scritta dei fatti, con le date principali"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Sette giorni per la documentazione e trenta per le integrazioni sono termini a carico della struttura: conviene contarli dalla data della richiesta. Per il giudizio, ricorda che l'improcedibilità deve essere eccepita dal convenuto a pena di decadenza o rilevata d'ufficio non oltre la prima udienza, e che il giudice può assegnare quindici giorni per proporre l'istanza.",
+    "Non iniziare la causa senza prima aver avviato il ricorso preventivo o la mediazione. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "In quanto tempo la struttura deve consegnare la cartella clinica?",
+   "a": "L'articolo 4 della legge 24 del 2017 prevede che la direzione sanitaria fornisca la documentazione disponibile entro sette giorni dalla richiesta. Le eventuali integrazioni vanno fornite entro il termine massimo di trenta giorni dalla presentazione della richiesta."
+  },
+  {
+   "q": "Cosa succede se non faccio il tentativo di conciliazione?",
+   "a": "La domanda è improcedibile. L'articolo 8 della legge 24 del 2017 richiede il ricorso dell'articolo 696 bis o la mediazione. L'improcedibilità va eccepita dal convenuto o rilevata d'ufficio non oltre la prima udienza."
+  },
+  {
+   "q": "Per cosa risponde la struttura sanitaria?",
+   "a": "Risponde, ai sensi degli articoli 1218 e 1228 del codice civile, delle condotte dolose o colpose degli esercenti la professione sanitaria di cui si avvale, anche se non dipendenti, come stabilisce l'articolo 7 della legge 24 del 2017."
+  },
+  {
+   "q": "Una consulenza tecnica è sempre necessaria?",
+   "a": "Nelle cause di responsabilità sanitaria è molto frequente, perché occorre valutare questioni mediche. Spetta al giudice disporla. In generale, una documentazione completa e ordinata facilita il lavoro del consulente."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "art. 1218 c.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "art. 1223 c.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice civile.md"
+  },
+  {
+   "norma": "art. 7 L. 24/2017",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+  },
+  {
+   "norma": "art. 8 L. 24/2017",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+  },
+  {
+   "norma": "art. 4 L. 24/2017",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/L. 24-2017 Gelli responsabilita' sanitaria.md"
+  },
+  {
+   "norma": "art. 696 bis c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  }
+ ],
+ "parole": 705
+}

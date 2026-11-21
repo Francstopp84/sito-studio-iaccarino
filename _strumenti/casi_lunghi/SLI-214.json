@@ -1,0 +1,79 @@
+{
+ "id": "SLI-214",
+ "seo_title": "Ravvedimento lungo IVA: sanzione ridotta dell'85%",
+ "description": "Omessi versamenti IVA e ravvedimento operoso: come l'art. 13 D.Lgs. 472/1997 riduce la sanzione, quando è ancora possibile e come si versa con F24 distinti.",
+ "parole_chiave": [
+  "ravvedimento operoso IVA",
+  "omesso versamento IVA sanzione ridotta",
+  "ravvedimento lungo",
+  "art. 13 D.Lgs. 472/1997",
+  "regolarizzazione debito IVA imprenditore"
+ ],
+ "sezioni": [
+  {
+   "h2": "Che cosa è il ravvedimento e perché conviene muoversi prima",
+   "paragrafi": [
+    "Il ravvedimento operoso consente a chi ha commesso una violazione tributaria di regolarizzarla spontaneamente pagando una sanzione ridotta. Nel caso trattato un imprenditore edile aveva omesso i versamenti IVA di un intero anno, con un debito di imposta di 160.000 euro. La sanzione ordinaria, pari al 30% dell'imposta, ammontava a 48.000 euro; con la regolarizzazione la sanzione versata è stata di 6.860 euro, con un risparmio dell'85%.",
+    "Il punto da cogliere è che questo beneficio non è un condono né una trattativa: è un diritto che la legge riconosce a condizioni precise e che si perde con il passare del tempo o con l'avanzare dell'attività dell'ufficio. Chi arriva in tempo paga meno, e chi aspetta paga di più, fino al punto in cui lo strumento non è più disponibile."
+   ]
+  },
+  {
+   "h2": "Le frazioni dell'articolo 13 e il loro significato",
+   "paragrafi": [
+    "L'articolo 13 del D.Lgs. n. 472 prevede una scala di riduzioni. La sanzione scende a un decimo del minimo se il tributo omesso è versato entro trenta giorni dalla data della commissione; a un nono se la regolarizzazione avviene entro novanta giorni; a un ottavo se avviene entro il termine della dichiarazione relativa all'anno della violazione o, in mancanza di dichiarazione periodica, entro un anno; a un settimo se avviene oltre quei termini; a un sesto e a un quinto in fasi successive, quando l'attività dell'ufficio si è già mossa ma non è ancora conclusa.",
+    "Ogni gradino ha una condizione di accesso e il suo valore è nel tempo: più tardi si regolarizza, più alta è la frazione del minimo. La conseguenza pratica è che, per una violazione già datata, bisogna anzitutto collocarsi esattamente nella scala, perché un errore di una sola fascia cambia la sanzione dovuta."
+   ]
+  },
+  {
+   "h2": "La condizione che decide tutto: nessuna constatazione e nessun accesso",
+   "paragrafi": [
+    "La norma vale a patto che la violazione non sia già stata constatata e che non siano iniziati accessi, ispezioni, verifiche o altre attività amministrative di accertamento delle quali l'autore abbia avuto formale conoscenza. Nel caso riferito i solleciti ricevuti non avevano ancora trasformato la situazione in un accertamento formale, e proprio questo ha lasciato aperta la porta.",
+    "Significa che il momento in cui il contribuente cerca assistenza fa la differenza. Un invito dell'ufficio, un questionario o una comunicazione possono avere natura diversa, e la loro qualificazione va valutata con attenzione prima di scegliere il percorso: da qui l'esigenza di far esaminare gli atti ricevuti senza attendere."
+   ]
+  },
+  {
+   "h2": "Come si esegue un versamento corretto",
+   "paragrafi": [
+    "Il ravvedimento si perfeziona con il pagamento integrale di imposta, sanzione ridotta e interessi, quindi con versamenti distinti per ciascuna componente, ciascuno con il proprio codice tributo, e con la regolarizzazione degli adempimenti omessi. Nel caso riferito il piano è stato scaglionato in tre tranche con modelli F24 separati per imposta, sanzione e interessi. L'errore più comune è un versamento cumulativo o con codici sbagliati, che rende difficile attribuire il pagamento e può compromettere l'effetto riduttivo."
+   ],
+   "elenco": [
+    "liquidazioni IVA del periodo e prospetto del debito di imposta per ciascun trimestre",
+    "calcolo della sanzione ridotta in base alla fascia temporale di ciascun omesso versamento",
+    "calcolo degli interessi legali per il periodo di ritardo",
+    "modelli F24 distinti per imposta, sanzione e interessi, con i codici tributo corretti",
+    "prova di tutti i pagamenti e archiviazione delle quietanze"
+   ]
+  },
+  {
+   "h2": "La norma sanzionatoria di riferimento",
+   "paragrafi": [
+    "La sanzione per omesso versamento è regolata dall'articolo 13 del D.Lgs. n. 471, che individua la misura base su cui poi si applica la riduzione. È un dato da verificare nel testo vigente al momento della violazione, perché le misure sono cambiate nel tempo e la scelta della disposizione applicabile dipende dalla data dei fatti. Ogni vicenda, comunque, va calcolata sul caso concreto; le percentuali di risparmio riferite non sono una promessa per altre situazioni."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Il ravvedimento si può fare anche dopo anni dalla violazione?",
+   "a": "Sì, purché la violazione non sia stata ancora constatata e non siano iniziati accessi, ispezioni o verifiche di cui l'interessato abbia avuto formale conoscenza. La sanzione ridotta è però tanto più alta quanto più tempo è passato, secondo la scala delle frazioni dell'articolo 13 del D.Lgs. n. 472."
+  },
+  {
+   "q": "Posso versare imposta, sanzione e interessi con un solo F24?",
+   "a": "È sconsigliabile. Ciascuna componente ha un proprio codice tributo e un proprio periodo di riferimento; versamenti distinti rendono chiaro che cosa si sta regolarizzando. Per il caso concreto conviene far verificare i codici e gli importi prima del pagamento, per evitare imputazioni errate."
+  },
+  {
+   "q": "Un sollecito dell'ufficio impedisce il ravvedimento?",
+   "a": "Dipende dalla natura dell'atto. L'articolo 13 esclude il beneficio quando la violazione è stata constatata o sono iniziati accessi, ispezioni, verifiche o altre attività di accertamento conosciute formalmente. Un semplice sollecito può non avere questo effetto, ma la qualificazione va fatta sul documento ricevuto."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.Lgs. 472/1997 art. 13",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 472-1997 sanzioni tributarie.md"
+  },
+  {
+   "norma": "D.Lgs. 471/1997 art. 13",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 471-1997 sanzioni tributarie non penali.md"
+  }
+ ],
+ "parole": 726
+}

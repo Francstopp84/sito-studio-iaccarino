@@ -1,0 +1,45 @@
+{
+ "id": "SLI-094",
+ "seo_title": "Furto al supermercato: non punibile per tenuità",
+ "description": "Merce non pagata alla cassa del supermercato e accusa di furto aggravato: cosa prevede l'articolo 131-bis del codice penale sulla tenuità del fatto e quando si applica.",
+ "parole_chiave": ["furto supermercato tenuità del fatto", "art. 131-bis codice penale", "furto merce esposta alla pubblica fede", "incensurato non punibile", "furto aggravato supermercato"],
+ "sezioni": [
+  {"h2": "Il furto di merce al supermercato", "paragrafi": [
+   "L'articolo 624 del codice penale punisce chi si impossessa della cosa mobile altrui, sottraendola a chi la detiene, per trarne profitto per sé o per altri. Il furto è, di regola, punibile a querela della persona offesa, e diventa procedibile d'ufficio solo nei casi indicati dalla norma. Tra le circostanze aggravanti dell'articolo 625, il numero 7 riguarda il fatto commesso su cose esposte per necessità o per consuetudine alla pubblica fede.",
+   "La merce collocata sugli scaffali di un punto vendita rientra, in generale, tra le cose che l'aggravante dell'esposizione alla pubblica fede intende considerare. Per questo capita che anche una sottrazione di poco conto venga contestata come furto aggravato, con tutte le conseguenze sulla pena."
+  ]},
+  {"h2": "La vicenda riportata", "paragrafi": [
+   "Nel caso pubblicato sul sito, una donna incensurata di 62 anni era stata sorpresa alla cassa di un supermercato con merce non pagata del valore di 27 euro, nascosta nella borsa della spesa. Le era stato contestato il furto aggravato per l'esposizione della merce alla pubblica fede. Il procedimento, dinanzi al Tribunale di Napoli, si è concluso con la non punibilità per tenuità del fatto e senza alcuna condanna.",
+   "La difesa ha lavorato su quattro elementi: l'incensuratezza assoluta, il valore irrisorio della merce, l'assenza di precedenti e il carattere non abituale della condotta. Sono i parametri che l'articolo 131-bis mette al centro."
+  ]},
+  {"h2": "Che cosa richiede l'articolo 131-bis", "paragrafi": [
+   "L'articolo 131-bis del codice penale esclude la punibilità quando, per le modalità della condotta e per l'esiguità del danno o del pericolo, l'offesa è di particolare tenuità e il comportamento risulta non abituale. Si applica ai reati con pena detentiva non superiore nel minimo a due anni, o con pena pecuniaria. Il giudice valuta il fatto concreto, non solo la sua descrizione astratta.",
+   "Gli indicatori si ricavano dalla vicenda: il valore della merce, il modo in cui è stata sottratta, l'eventuale recupero della cosa, l'assenza di danni ulteriori, la storia personale dell'imputato. Un'incensuratezza piena non basta da sola, ma pesa nella valutazione sull'abitualità."
+  ], "elenco": [
+   "il valore esatto della merce, risultante dallo scontrino o dal prezzo di vendita",
+   "la restituzione o il recupero della merce",
+   "il certificato del casellario che attesta l'assenza di precedenti",
+   "le modalità della condotta e l'assenza di violenza o danneggiamenti",
+   "la situazione personale e familiare dell'imputata",
+   "l'eventuale presenza o meno della querela da parte del punto vendita"
+  ]},
+  {"h2": "Querela, circostanze e altre vie", "paragrafi": [
+   "Oltre alla tenuità, restano da considerare altri elementi. L'articolo 124 del codice penale fissa in tre mesi il termine per la querela, e l'articolo 152 prevede che la remissione estingua il reato quando si procede a querela. L'articolo 62, numero 4, riconosce poi una circostanza attenuante quando il danno patrimoniale cagionato alla persona offesa è di speciale tenuità, e il numero 6 premia la riparazione integrale prima del giudizio.",
+   "Sono strumenti diversi, da valutare insieme, perché non portano allo stesso risultato: l'attenuante riduce la pena, mentre la non punibilità la esclude del tutto."
+  ]},
+  {"h2": "Che cosa fare dopo una contestazione simile", "paragrafi": [
+   "In casi analoghi conviene conservare lo scontrino e ogni documento sul valore della merce, ottenere il certificato del casellario e valutare se vi siano condotte riparatorie da documentare. Nel caso riportato, dopo la decisione, la difesa ha curato la verifica del casellario e la chiusura della posizione.",
+   "Ogni vicenda va valutata sui suoi atti, e un esito di non punibilità non è garantito: il giudice decide sul fatto concreto. Chi ha ricevuto una contestazione analoga può rivolgersi allo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+  ]}
+ ],
+ "faq": [
+  {"q": "Un furto di poco valore può essere non punibile?", "a": "Sì, se ricorrono i presupposti dell'articolo 131-bis del codice penale: offesa di particolare tenuità, comportamento non abituale e reato con pena detentiva non superiore nel minimo a due anni. La valutazione spetta al giudice sul caso concreto."},
+  {"q": "Il furto al supermercato si procede a querela?", "a": "Di regola l'articolo 624 del codice penale prevede la procedibilità a querela, con alcune eccezioni indicate dalla norma. Per le cose esposte alla pubblica fede la norma richiama il regime della querela. Occorre sempre controllare la contestazione e gli atti."},
+  {"q": "Che cos'è l'aggravante dell'esposizione alla pubblica fede?", "a": "È una circostanza prevista dall'articolo 625, numero 7, del codice penale, per il fatto commesso su cose esposte per necessità o consuetudine alla pubblica fede. Comporta una pena più severa ed è spesso contestata nei furti di merci in vendita."},
+  {"q": "Essere incensurati basta per ottenere la non punibilità?", "a": "No. L'incensuratezza è un indice a favore, ma l'articolo 131-bis richiede anche la particolare tenuità dell'offesa e il comportamento non abituale. Il giudice valuta insieme modalità della condotta, esiguità del danno e storia personale."}
+ ],
+ "norme_verificate": [
+  {"norma": "artt. 62, 124, 131-bis, 152, 624, 625 c.p.", "file": "D:\\BIBLIOTECA GIURIDICA\\02 Penale e procedura penale\\Norme\\Codice penale.md"}
+ ],
+ "parole": 0
+}

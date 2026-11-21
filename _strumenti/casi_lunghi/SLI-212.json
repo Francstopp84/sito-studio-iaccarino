@@ -1,0 +1,75 @@
+{
+ "id": "SLI-212",
+ "seo_title": "Fermo sull'auto aziendale: sblocco in 48 ore con la dilazione",
+ "description": "Fermo su un'auto aziendale per IRPEF di 38.500 euro: la domanda telematica di rateizzazione e lo sblocco agli sportelli in quarantotto ore.",
+ "parole_chiave": [
+  "fermo auto aziendale",
+  "rateizzazione cartelle IRPEF",
+  "sblocco fermo amministrativo",
+  "domanda dilazione telematica",
+  "effetti della richiesta di rateizzazione"
+ ],
+ "sezioni": [
+  {
+   "h2": "Un rappresentante senza auto e un debito IRPEF",
+   "paragrafi": [
+    "Il caso riguarda un rappresentante commerciale che per lavorare usava un'autovettura aziendale. L'Agente della Riscossione vi aveva iscritto il fermo per un debito IRPEF di 38.500 euro relativo agli anni 2019 e 2020. Per chi visita clienti ogni giorno, il veicolo fermo significa fermare il reddito.",
+    "La strada scelta non è stata il ricorso, ma la dilazione ordinaria, presentata con domanda telematica. È una scelta che ha senso quando il debito è reale e il problema è il tempo per pagarlo: si risolve la causa del fermo invece di contestarlo. Il risultato è stato un piano di settantadue rate mensili da circa 570 euro ciascuna.",
+    "La parte sorprendente è la velocità: entro quarantotto ore dall'inoltro della domanda il cliente ha potuto recarsi agli sportelli dell'Agente della Riscossione e ottenere il provvedimento di sospensione del fermo, con rilascio immediato del veicolo."
+   ]
+  },
+  {
+   "h2": "Che cosa produce la richiesta di dilazione",
+   "paragrafi": [
+    "L'effetto non è magia, ma disciplina. L'articolo 19 del decreto del Presidente della Repubblica 602 del 1973 dispone che, dalla presentazione della richiesta, siano sospesi i termini di prescrizione e decadenza, non possano essere iscritti nuovi fermi o ipoteche e non possano essere avviate nuove procedure esecutive, con salvezza di quelli già iscritti.",
+    "Il pagamento della prima rata ha un ulteriore effetto, previsto dal comma 1-quater.2: estingue le procedure esecutive già avviate, a condizione che non sia già stato fissato l'incanto con esito positivo o presentata istanza di assegnazione, o non sia già stata emessa l'ordinanza di assegnazione. Questo spiega perché, in pratica, lo sblocco passa dal contatto con lo sportello dopo la domanda.",
+    "Il fermo già iscritto, dunque, non si cancella per il solo effetto legale della domanda: occorre il provvedimento dell'agente, che nel caso è stato ottenuto in due giorni. Chi si aspetta lo sblocco automatico rischia di restare fermo ben oltre il necessario."
+   ]
+  },
+  {
+   "h2": "Come si imposta una dilazione che regge",
+   "paragrafi": [
+    "Per le richieste presentate nel biennio 2025 e 2026 l'articolo 19 consente di arrivare a ottantaquattro rate, entro il limite di centoventimila euro di debito; in presenza di temporanea situazione di obiettiva difficoltà si può arrivare a centoventi rate. Nel caso la scelta è caduta su settantadue rate, segno che la durata va calibrata sulla capacità reale.",
+    "Per le persone fisiche e le ditte individuali in regimi semplificati il criterio di valutazione è l'indicatore ISEE; per gli altri soggetti conta l'indice di liquidità. Il contribuente deve dichiarare la difficoltà e, quando richiesto, documentarla.",
+    "Prima di inviare la domanda occorre calcolare se la rata sia sostenibile. Una dilazione non pagata decade, e la decadenza riapre la pretesa. Il rappresentante del caso, con una rata di circa 570 euro, doveva potersi permettere di pagarla per tutta la durata del piano."
+   ],
+   "elenco": [
+    "elenco delle cartelle che si vogliono rateizzare",
+    "dati sul reddito e, se richiesto, ISEE",
+    "visura del veicolo con il fermo iscritto",
+    "prova dell'inoltro telematico della domanda"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "La dilazione sospende prescrizione e decadenza: se esiste il dubbio che il debito sia prescritto, la domanda va valutata con attenzione prima di presentarla. Lo sblocco in quarantotto ore è l'esito del caso, e dipende da fattori che variano per ogni pratica. Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "La domanda di rateizzazione sblocca subito il fermo?",
+   "a": "Non automaticamente. L'articolo 19 del decreto del Presidente della Repubblica 602 del 1973 impedisce nuovi fermi dalla richiesta ma fa salvi quelli già iscritti. Nel caso descritto, il fermo è stato sospeso con un provvedimento ottenuto agli sportelli dell'Agente della Riscossione entro quarantotto ore dall'inoltro della domanda."
+  },
+  {
+   "q": "Quante rate si possono chiedere?",
+   "a": "Per le richieste presentate nel 2025 e nel 2026 l'articolo 19 prevede fino a ottantaquattro rate per debiti sotto la soglia di centoventimila euro e fino a centoventi in caso di temporanea obiettiva difficoltà. Nel caso descritto il piano è stato di settantadue rate mensili."
+  },
+  {
+   "q": "Che criteri valutano la mia situazione economica?",
+   "a": "Per le persone fisiche e le ditte individuali in regimi semplificati si considera l'indicatore ISEE, per gli altri soggetti l'indice di liquidità. La norma è l'articolo 19, comma 1.2, del decreto del Presidente della Repubblica 602 del 1973. Conviene preparare i dati prima della domanda."
+  },
+  {
+   "q": "Pagare la prima rata ferma le procedure già avviate?",
+   "a": "Il comma 1-quater.2 dell'articolo 19 prevede che il pagamento della prima rata estingua le procedure esecutive già avviate, a determinate condizioni legate allo stato della procedura. Il fermo è un caso a parte, perché richiede un provvedimento di sospensione o cancellazione dell'agente."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.P.R. 602/1973, riscossione",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 602-1973 riscossione.md"
+  }
+ ],
+ "parole": 747
+}

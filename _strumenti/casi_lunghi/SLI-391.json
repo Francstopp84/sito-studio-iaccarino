@@ -1,0 +1,74 @@
+{
+ "id": "SLI-391",
+ "seo_title": "Opposizione allo sfratto: come difendersi dal conduttore",
+ "description": "Come opporsi a uno sfratto: opposizione in udienza, contestazione dei canoni e opposizione dopo la convalida secondo gli artt. 665, 666 e 668 c.p.c.",
+ "parole_chiave": [
+  "opposizione allo sfratto",
+  "opposizione dopo la convalida di sfratto",
+  "contestare canoni sfratto",
+  "sfratto notifica irregolare",
+  "revoca provvedimento di sfratto"
+ ],
+ "sezioni": [
+  {
+   "h2": "Le vie di opposizione previste dal codice",
+   "paragrafi": [
+    "Chi riceve un'intimazione di sfratto ha più strade, a seconda del momento. Se compare all'udienza e si oppone, l'articolo 665 del codice di procedura civile prevede che il giudice, quando l'opposizione non è fondata su prova scritta, possa emettere ordinanza di rilascio con riserva delle eccezioni; se invece l'opposizione si fonda su prova scritta, la valutazione cambia, e questo è il punto su cui spesso si concentra la difesa.",
+    "Se l'intimato contesta soltanto l'ammontare dei canoni, l'articolo 666 prevede un meccanismo specifico: il giudice può ordinare il pagamento della somma non controversa entro un termine non superiore a venti giorni. Infine, se lo sfratto è stato convalidato in assenza dell'intimato, l'articolo 668 permette di fare opposizione provando di non averne avuto tempestiva conoscenza per irregolarità della notificazione o per caso fortuito o forza maggiore."
+   ]
+  },
+  {
+   "h2": "Che cosa è stato ottenuto nel caso",
+   "paragrafi": [
+    "Nel caso, davanti al Tribunale di Napoli, sezione famiglia, secondo i dati del caso, è stata proposta un'opposizione tempestiva. La difesa si è basata su una perizia contabile-giuridica e sulla contestazione della prova scritta della controparte. Il provvedimento opposto è stato revocato integralmente e le spese sono state poste a carico della controparte.",
+    "Dopo la revoca sono state compiute le attività di chiusura: la cancellazione delle iscrizioni pregiudizievoli, lo svincolo delle somme e il recupero delle spese. Il collegamento con la norma è evidente nella parola tempestiva: l'opposizione ha valore solo se proposta nei modi e nei tempi della legge, e l'articolo 668 ne indica un limite espresso, decorsi dieci giorni dall'esecuzione."
+   ]
+  },
+  {
+   "h2": "Se hai ricevuto un provvedimento di sfratto che contesti",
+   "paragrafi": [
+    "In generale, il primo controllo riguarda la notificazione: chi non l'ha ricevuta o l'ha ricevuta in modo irregolare deve verificare con precisione quando ne ha avuto conoscenza. L'articolo 668 richiede che l'intimato provi di non aver avuto tempestiva conoscenza dell'intimazione, quindi serve un riscontro documentale, come la busta, la relata o una residenza diversa da quella indicata.",
+    "Il secondo controllo riguarda i conteggi. Se il debito è contestato in tutto o in parte, la perizia contabile consente di spiegare perché una somma non è dovuta, e la distinzione fra somma controversa e somma non controversa guida il pagamento che l'articolo 666 può imporre. Il terzo riguarda l'esecuzione: l'opposizione dopo la convalida non sospende il processo esecutivo, ma il giudice può disporne la sospensione per gravi motivi, con ordinanza non impugnabile."
+   ],
+   "elenco": [
+    "atto di intimazione e relata di notificazione",
+    "provvedimento di convalida o ordinanza di rilascio",
+    "contratto di locazione e ricevute di pagamento",
+    "prospetto dei conteggi contestati",
+    "eventuale perizia contabile"
+   ]
+  },
+  {
+   "h2": "Termini e passi da non sbagliare",
+   "paragrafi": [
+    "Il termine più delicato è quello dei dieci giorni dall'esecuzione: trascorsi, l'opposizione dopo la convalida non è più ammessa, e la cauzione eventualmente prestata viene liberata. Chi scopre tardi di avere uno sfratto convalidato deve quindi muoversi subito e raccogliere le prove dell'irregolarità prima di procedere.",
+    "L'opposizione dopo la convalida si propone davanti al tribunale nelle forme dell'opposizione al decreto di ingiunzione, in quanto applicabili. Ogni vicenda va esaminata sui propri atti e nessun risultato può essere previsto in astratto. Per una valutazione ci si può rivolgere allo Studio Legale Avv. Francesco Iaccarino, Napoli, Via Toledo 205."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso opporre lo sfratto convalidato senza che io sia comparso?",
+   "a": "Sì, se provi di non averne avuto tempestiva conoscenza per irregolarità della notificazione o per caso fortuito o forza maggiore: lo prevede l'articolo 668 del codice di procedura civile. L'opposizione non è più ammessa decorsi dieci giorni dall'esecuzione."
+  },
+  {
+   "q": "L'opposizione dopo la convalida ferma lo sfratto?",
+   "a": "Non automaticamente. L'articolo 668 stabilisce che l'opposizione non sospende il processo esecutivo, ma il giudice, con ordinanza non impugnabile, può disporne la sospensione per gravi motivi, imponendo se lo ritiene opportuno una cauzione."
+  },
+  {
+   "q": "Che cosa succede se contesto solo l'importo dei canoni?",
+   "a": "L'articolo 666 del codice di procedura civile prevede che, se l'ammontare dei canoni è contestato, il giudice possa ordinare il pagamento della somma non controversa entro un termine non superiore a venti giorni. La parte contestata resta da accertare."
+  },
+  {
+   "q": "Che differenza c'è se ho una prova scritta?",
+   "a": "L'articolo 665 consente l'ordinanza di rilascio con riserva delle eccezioni quando l'opposizione non è fondata su prova scritta. Se esiste una prova scritta a sostegno dell'opposizione, il quadro cambia e la valutazione spetta al giudice."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "artt. 665, 666, 668 c.p.c.",
+   "file": "D:/BIBLIOTECA GIURIDICA/01 Civile e procedura civile/Norme/Codice di procedura civile.md"
+  }
+ ],
+ "parole": 709
+}

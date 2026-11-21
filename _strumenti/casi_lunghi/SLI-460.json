@@ -1,0 +1,83 @@
+{
+ "id": "SLI-460",
+ "seo_title": "Accertamento IVA annullato in appello: notifica e decadenza",
+ "description": "Avviso IVA annullato in secondo grado per notifica irregolare, decadenza e difetto di motivazione: artt. 54 e 57 DPR 633, art. 7 Statuto, art. 21 D.Lgs. 546.",
+ "parole_chiave": [
+  "accertamento IVA annullato",
+  "decadenza avviso di accertamento IVA",
+  "vizio di notifica atto IVA",
+  "motivazione avviso di rettifica",
+  "CGT secondo grado Campania IVA"
+ ],
+ "sezioni": [
+  {
+   "h2": "Un appello vinto su tre vizi autonomi",
+   "paragrafi": [
+    "Nel caso deciso dalla Corte di giustizia tributaria di secondo grado della Campania, l'atto riguardava l'imposta sul valore aggiunto e il contribuente ha ottenuto l'annullamento totale, con condanna dell'ufficio alle spese. La difesa aveva fondato il ricorso su tre vizi che la legge tratta in modo distinto: la notifica irregolare, la decadenza dai termini di accertamento e il difetto di motivazione. La forza della strategia sta nel fatto che ciascuno di essi poteva bastare da solo a travolgere l'avviso.",
+    "A differenza di altri casi di questo gruppo, dove l'oggetto è la riscossione, qui il centro è l'attività di accertamento dell'imposta: l'ufficio deve rispettare le regole proprie del tributo, e il giudice le verifica a partire dall'atto che le ha applicate."
+   ]
+  },
+  {
+   "h2": "Il termine di decadenza dell'accertamento IVA",
+   "paragrafi": [
+    "L'articolo 57 del D.P.R. n. 633 stabilisce che gli avvisi di rettifica e di accertamento, previsti dall'articolo 54 e dal secondo comma dell'articolo 55, devono essere notificati a pena di decadenza entro il 31 dicembre del quinto anno successivo a quello di presentazione della dichiarazione. Nei casi di omessa presentazione o di dichiarazione nulla il termine si allunga al settimo anno successivo a quello in cui la dichiarazione avrebbe dovuto essere presentata.",
+    "La verifica è quindi un esercizio di calendario: si individua l'anno di presentazione della dichiarazione, si calcola la data finale e la si confronta con quella in cui l'avviso è stato effettivamente notificato. Se la notifica è tardiva, l'atto è travolto senza bisogno di discutere il merito. Il comma 4 consente all'ufficio di integrare o modificare gli avvisi fino alla scadenza dei termini, ma solo in base alla sopravvenuta conoscenza di nuovi elementi, che devono essere indicati a pena di nullità."
+   ]
+  },
+  {
+   "h2": "La notifica e la motivazione",
+   "paragrafi": [
+    "Sul piano della notifica, l'articolo 7-sexies dello Statuto del contribuente distingue tra atto privo degli elementi essenziali, inesistente, e atto notificato in violazione di legge, nullo ma sanabile col raggiungimento dello scopo, se il ricorso è proposto nei termini. Per questo, in appello, conta non solo l'esistenza del vizio ma anche la tempestività dell'impugnazione proposta dal contribuente.",
+    "Quanto alla motivazione, l'articolo 7 dello Statuto richiede che gli atti indichino i presupposti di fatto e le ragioni giuridiche della decisione. In materia di IVA la questione si concentra su un punto tipico: l'ufficio contesta la detrazione dell'imposta o rettifica le operazioni imponibili, e il contribuente deve poter capire quali fatture, quali periodi e quali ragioni siano in discussione. L'articolo 19 sulla detrazione, in particolare, impone di sapere quale operazione venga negata e perché."
+   ]
+  },
+  {
+   "h2": "Che cosa verificare in un avviso IVA",
+   "paragrafi": [
+    "In casi analoghi l'esame comincia sempre dagli atti formali. Soltanto dopo si entra nel merito della rettifica. Un avviso corretto nella forma ma sbagliato nella sostanza va combattuto con documenti e contabilità, mentre un avviso viziato nel procedimento può cadere con un esame attento delle date e della struttura dell'atto."
+   ],
+   "elenco": [
+    "data e mezzo di notifica dell'avviso, con ricevuta PEC o avviso di ricevimento",
+    "data di presentazione della dichiarazione IVA del periodo contestato",
+    "indicazione, nell'atto, delle fatture o delle operazioni oggetto di rettifica",
+    "eventuale questionario o invito precedente, con le risposte inviate",
+    "calcolo di imposta, sanzioni e interessi richiesti"
+   ]
+  },
+  {
+   "h2": "Termine per l'impugnazione e spese",
+   "paragrafi": [
+    "Il ricorso davanti alla Corte di giustizia tributaria di primo grado si propone a pena di inammissibilità entro sessanta giorni dalla notificazione dell'atto (articolo 21 del D.Lgs. n. 546). Contro la sentenza si può appellare davanti al secondo grado. In caso di annullamento la parte soccombente è condannata alle spese, salvo compensazione per soccombenza reciproca o gravi ed eccezionali ragioni motivate (articolo 15). Nessun risultato è garantito in anticipo e ogni valutazione richiede l'esame degli atti."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Entro quando deve essere notificato un avviso di accertamento IVA?",
+   "a": "L'articolo 57 del D.P.R. n. 633 prevede il 31 dicembre del quinto anno successivo a quello di presentazione della dichiarazione, a pena di decadenza. Se la dichiarazione è stata omessa o è nulla, il termine arriva al 31 dicembre del settimo anno successivo a quello in cui doveva essere presentata."
+  },
+  {
+   "q": "Se l'avviso è stato notificato male, è sempre annullabile?",
+   "a": "Dipende dal vizio. Se la notificazione è priva degli elementi essenziali è inesistente, se viola la legge è nulla ma può essere sanata dal raggiungimento dello scopo. L'articolo 7-sexies dello Statuto lega la sanatoria alla tempestività dell'impugnazione, perciò occorre esaminare la relata e la data del ricorso."
+  },
+  {
+   "q": "Quando un avviso IVA è privo di motivazione?",
+   "a": "Quando non indica i presupposti di fatto e le ragioni giuridiche, come richiesto dall'articolo 7 dello Statuto del contribuente. Per l'IVA significa non chiarire quali operazioni siano state rettificate o quale detrazione sia stata negata, lasciando il contribuente senza elementi per difendersi nel merito."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "DPR 633/1972 artt. 19, 54 e 57",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 633-1972 IVA.md"
+  },
+  {
+   "norma": "L. 212/2000 artt. 7 e 7-sexies",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/L. 212-2000 statuto del contribuente.md"
+  },
+  {
+   "norma": "D.Lgs. 546/1992 artt. 15 e 21",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  }
+ ],
+ "parole": 720
+}

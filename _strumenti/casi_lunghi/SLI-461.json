@@ -1,0 +1,83 @@
+{
+ "id": "SLI-461",
+ "seo_title": "IVA: sospensione urgente e sblocco in 48 ore",
+ "description": "Sospensione urgente di un atto IVA davanti alla CGT di primo grado di Salerno: art. 47 D.Lgs. 546, danno grave e irreparabile, reclamo e autotutela.",
+ "parole_chiave": [
+  "sospensione atto IVA",
+  "istanza cautelare tributaria",
+  "CGT Salerno sospensione",
+  "blocco per debito IVA",
+  "danno grave e irreparabile contribuente"
+ ],
+ "sezioni": [
+  {
+   "h2": "Un debito IVA e il tempo che stringe",
+   "paragrafi": [
+    "Quando l'atto contestato riguarda l'imposta sul valore aggiunto, l'impresa o il professionista subiscono spesso effetti immediati sulla liquidità: un fermo, un blocco, una trattenuta incidono sul lavoro quotidiano molto prima della sentenza. Nel caso trattato dalla Corte di giustizia tributaria di primo grado di Salerno la difesa ha presentato un'istanza urgente di sospensione, documentando il danno grave e irreparabile, e ha ottenuto lo sblocco in quarantotto ore.",
+    "Il dato temporale è quello riferito nel caso e non indica un tempo garantito: dipende dalla qualità della documentazione, dalla natura dell'atto e dal calendario del collegio."
+   ]
+  },
+  {
+   "h2": "Il meccanismo dell'articolo 47",
+   "paragrafi": [
+    "La sospensione cautelare nel processo tributario è regolata dall'articolo 47 del D.Lgs. n. 546. Il ricorrente che teme un danno grave e irreparabile dall'atto impugnato può chiedere la sospensione dell'esecuzione con istanza motivata, nel ricorso o con atto separato. Il presidente fissa la trattazione per la prima camera di consiglio utile, e se la situazione è di eccezionale urgenza può sospendere subito con decreto motivato, in attesa della decisione collegiale.",
+    "Contro l'ordinanza è possibile il reclamo entro quindici giorni dalla comunicazione. La sospensione può essere subordinata alla prestazione di idonea garanzia, e il collegio, quando concede la misura, deve fissare la trattazione di merito in tempi brevi."
+   ]
+  },
+  {
+   "h2": "Che cosa significa provare il danno in materia di IVA",
+   "paragrafi": [
+    "Nelle controversie IVA il danno non è un concetto astratto: va tradotto in dati. La lettura dei bilanci, dei flussi bancari, delle scadenze verso fornitori e dipendenti consente di mostrare perché una somma bloccata comprometta l'attività. La legge non fissa una soglia, e il collegio apprezza caso per caso se il pregiudizio sia davvero irrimediabile, cioè non compensabile con un successivo rimborso.",
+    "L'imposta, per sua natura, è però anche un tributo che si recupera attraverso il meccanismo della detrazione e, in alcuni casi, della restituzione: l'articolo 30-ter del D.P.R. n. 633 prevede la domanda di restituzione dell'imposta non dovuta entro due anni dal versamento. Chi lamenta il danno deve dunque spiegare perché questi rimedi successivi non bastino."
+   ]
+  },
+  {
+   "h2": "Documenti utili per l'istanza",
+   "paragrafi": [
+    "In casi analoghi l'istanza vive della documentazione allegata. Il giudice deve poter valutare in poche ore se il rischio sia reale e imminente, e un fascicolo ordinato è la prima forma di persuasione. Non esiste un elenco valido per tutti, ma alcuni elementi ricorrono spesso."
+   ],
+   "elenco": [
+    "atto impugnato e prova della data di notifica",
+    "situazione contabile aggiornata e liquidità disponibile",
+    "scadenze imminenti, come stipendi, fornitori, contributi e imposte",
+    "eventuale garanzia che il contribuente è disposto a offrire",
+    "comunicazioni già scambiate con l'ente sulla somma contestata"
+   ]
+  },
+  {
+   "h2": "Sospensione e merito: due piani distinti",
+   "paragrafi": [
+    "La sospensione non decide la lite: è una misura provvisoria che lascia intatta la discussione sul merito. Il ricorso deve essere comunque proposto entro sessanta giorni dalla notificazione dell'atto (articolo 21), e la sospensione, se concessa, vale fino alla pronuncia indicata dal collegio. Per questo la strategia deve tenere insieme il lavoro urgente e il lavoro di fondo, evitando che la prima vittoria faccia abbassare la guardia sulla seconda."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "La sospensione può essere ottenuta senza aspettare l'udienza?",
+   "a": "Nei casi di eccezionale urgenza il presidente può provvedere con decreto motivato, in attesa della camera di consiglio in cui il collegio decide. L'articolo 47 del D.Lgs. n. 546 prevede questa possibilità, che richiede però una motivazione precisa e una dimostrazione concreta del pregiudizio."
+  },
+  {
+   "q": "Quali elementi dimostrano un danno grave e irreparabile?",
+   "a": "Non esiste un elenco tassativo. Contano la situazione di liquidità, le scadenze obbligate e l'impossibilità di rimediare con un rimborso successivo. Il collegio valuta caso per caso e per questo servono documenti concreti e aggiornati, non dichiarazioni generiche sulla gravità della situazione."
+  },
+  {
+   "q": "Si può contestare l'ordinanza che respinge la sospensione?",
+   "a": "Sì, l'articolo 47 prevede il reclamo entro quindici giorni dalla comunicazione dell'ordinanza. Il reclamo si propone con le forme previste dalla norma e permette di sottoporre la decisione a un nuovo esame. Anche qui contano i tempi, che vanno controllati subito sugli atti."
+  },
+  {
+   "q": "Posso chiedere la restituzione dell'IVA pagata e non dovuta?",
+   "a": "L'articolo 30-ter del D.P.R. n. 633 prevede la domanda di restituzione dell'imposta non dovuta a pena di decadenza entro due anni dal versamento o, se successivo, dal giorno in cui si verifica il presupposto per la restituzione. Resta esclusa la restituzione se il versamento è avvenuto in un contesto di frode."
+  }
+ ],
+ "norme_verificate": [
+  {
+   "norma": "D.Lgs. 546/1992 artt. 21 e 47",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/D.Lgs. 546-1992 processo tributario.md"
+  },
+  {
+   "norma": "DPR 633/1972 art. 30-ter",
+   "file": "D:/BIBLIOTECA GIURIDICA/05 Tributario/Norme/DPR 633-1972 IVA.md"
+  }
+ ],
+ "parole": 651
+}
