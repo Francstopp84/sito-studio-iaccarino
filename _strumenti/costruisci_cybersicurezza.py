@@ -18,15 +18,17 @@ from pathlib import Path
 
 ROOT = Path(r"D:\STUDIO LEGALE\MODELLI E FORMULARI\Nuovo sito internet\_SITO_GITHUB_PAGES\sito")
 BASE_URL = "https://studiolegalefrancescoiaccarino.com"
-OG_IMG = f"{BASE_URL}/img/og-image.jpg"
+OG_IMG = f"{BASE_URL}/img/og-cybersicurezza.jpg"
 TODAY = "2026-11-26"
 
 sys.path.insert(0, str(ROOT / "_strumenti"))
 from cyber_dati.pilastri import PILASTRI, COMPASS_DATA, CATEGORIE_SCENARI, LINGUE_ESTERE
 from cyber_dati.scenari_a import SCENARI_A
 from cyber_dati.scenari_b import SCENARI_B
+from cyber_dati.scenari_c import SCENARI_C
+from cyber_dati.guide_cyber import GUIDE_CYBER
 
-SCENARI = SCENARI_A + SCENARI_B
+SCENARI = SCENARI_A + SCENARI_B + SCENARI_C
 PILASTRI_BY_SLUG = {p["slug"]: p for p in PILASTRI}
 
 ALL_LANGS = [
@@ -107,8 +109,8 @@ def nav_it(active: str = "cyber") -> str:
       <a href="/tributario.html">Tributario</a>
       <a href="/immigrazione.html">Immigrazione</a>
       <a href="/cybersicurezza.html" class="{'active' if active=='cyber' else ''}">Cybersicurezza</a>
-      <a href="/cybersicurezza/scenari/index.html" class="{'active' if active=='scenari' else ''}">70 Protocolli</a>
-      <a href="/blog/">Guide</a>
+      <a href="/cybersicurezza/scenari/index.html" class="{'active' if active=='scenari' else ''}">110 Protocolli</a>
+      <a href="/cybersicurezza/guide/index.html" class="{'active' if active=='guide' else ''}">Guide Cyber</a>
       <a href="/consulenza.html?area=cybersicurezza" class="cy-nav-cta">Richiedi Consulenza</a>
     </div>
   </div>
@@ -144,7 +146,8 @@ def footer_it() -> str:
       <a href="/tributario.html">Tributario</a>
       <a href="/immigrazione.html">Immigrazione</a>
       <a href="/cybersicurezza.html">Cybersicurezza</a>
-      <a href="/cybersicurezza/scenari/index.html">70 Protocolli Cyber</a>
+      <a href="/cybersicurezza/scenari/index.html">110 Protocolli Cyber</a>
+      <a href="/cybersicurezza/guide/index.html">18 Guide Operative</a>
       <a href="/casi-risolti.html">Casi Reali</a>
       <a href="/privacy.html">Privacy Policy</a>
     </div>
@@ -181,10 +184,10 @@ def head_common(title: str, desc: str, canonical: str, ld_blocks: list, lang: st
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:wght@500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
 {hl}
 <link rel="stylesheet" href="/css/lingue.css">
-<link rel="stylesheet" href="/css/cyber-wow.css?v=1">
+<link rel="stylesheet" href="/css/cyber-wow.css?v=2">
 {ld_html}
 </head>"""
 
@@ -296,7 +299,15 @@ def build_hub_it():
           <a href="#bussola-crisi" class="cy-btn-cyber">Bussola Emergenza 30 Minuti &darr;</a>
         </div>
       </div>
-      <aside class="cy-radar-card" aria-label="Scadenze legali di emergenza cyber">
+      <aside aria-label="Scultura e scadenze legali di emergenza cyber">
+        <div class="cy-sculpture-stage">
+          <img src="/assets/sculptures/cybersicurezza.png" alt="Cybersicurezza e Protezione Dati - Monolite crittografico in marmo Nero Marquina e ottone satinato" loading="eager">
+          <div class="cy-sculpture-caption">
+            <span>05 · CYBERSICUREZZA</span>
+            <span>PALAZZO BARBAJA · NAPOLI</span>
+          </div>
+        </div>
+        <div class="cy-radar-card">
         <div class="cy-radar-head">
           <span class="cy-radar-title">Scadenze Critiche di Legge</span>
           <span class="cy-radar-status">DESK ATTIVO</span>
@@ -318,12 +329,13 @@ def build_hub_it():
           <li><strong>Governance imprese:</strong> NIS2, Modello 231 art. 24-bis, Cloud/SaaS e AI Act</li>
         </ul>
         <a href="https://wa.me/393335684659?text=EMERGENZA%20CYBER%3A%20richiedo%20assistenza%20legale%20urgente." target="_blank" rel="noopener noreferrer" class="cy-btn-primary" style="width:100%;justify-content:center;">Attiva Desk Urgenze su WhatsApp</a>
+        </div>
       </aside>
     </div>
     <div class="cy-kpi-strip">
       <div class="cy-kpi"><strong>10 Aree Pilastro</strong><span>Copertura completa: imprese, PA, penale, banche, lavoro e IA</span></div>
-      <div class="cy-kpi"><strong>70 Protocolli</strong><span>Scenari operativi reali indicizzati su norme vigenti verificate</span></div>
-      <div class="cy-kpi"><strong>24h / 72h</strong><span>Gestione tempestiva notifiche ACN, Garante Privacy e Polizia Postale</span></div>
+      <div class="cy-kpi"><strong>110 Protocolli</strong><span>Scenari operativi verificati su norme vigenti italiane ed europee</span></div>
+      <div class="cy-kpi"><strong>18 Guide Legali</strong><span>Checklist operative per Garante 72h, ACN 24h, ABF, 231 e AI Act</span></div>
       <div class="cy-kpi"><strong>Tutta Italia</strong><span>Sede a Napoli (Via Toledo 205) e operativita' nazionale e internazionale</span></div>
     </div>
   </div>
@@ -410,22 +422,23 @@ def build_hub_it():
 <section class="cy-section" id="scenari-operativi">
   <div class="cy-container">
     <span class="cy-sec-label">Casistica Operativa e Protocolli di Difesa</span>
-    <h2 class="cy-sec-title">70 Scenari Operativi e Protocolli Pratici</h2>
+    <h2 class="cy-sec-title">110 Scenari Operativi e Protocolli Pratici</h2>
     <p class="cy-sec-sub">Cerca il problema esatto che stai affrontando: ogni scheda analizza un caso-tipo frequente su norme italiane ed europee vigenti, con mosse immediate, prove digitali da conservare, errori da evitare e FAQ. Per i casi reali gia' definiti dallo Studio consulta invece la pagina <a href="/casi-risolti.html">Casi Risolti</a>.</p>
     <div class="cy-explorer-controls">
       <div class="cy-search-wrap">
         <svg class="cy-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-        <input type="search" id="cy-scenario-search" class="cy-search-input" placeholder="Cerca: es. ransomware, 72 ore, phishing, SIM swap, NIS2, 615-ter, deepfake, ex dipendente..." aria-label="Cerca tra i 70 scenari operativi">
+        <input type="search" id="cy-scenario-search" class="cy-search-input" placeholder="Cerca: es. ransomware, 72 ore, phishing, SIM swap, crypto, SPID, NIS2, 615-ter, deepfake..." aria-label="Cerca tra i 110 scenari operativi">
       </div>
       <div class="cy-filter-pills" role="group" aria-label="Filtra per categoria">{filter_pills}</div>
     </div>
-    <div class="cy-count-line" id="cy-scenario-count">Archivio completo: 70 protocolli operativi verificati</div>
+    <div class="cy-count-line" id="cy-scenario-count">Archivio completo: 110 protocolli operativi verificati</div>
     <div class="cy-scenarios-grid">
       {''.join(scenario_cards)}
     </div>
     <div style="text-align:center;margin-top:2rem;display:flex;justify-content:center;gap:1rem;flex-wrap:wrap;">
-      <button type="button" id="cy-show-all" class="cy-btn-cyber" style="cursor:pointer;">Mostra tutti i 70 protocolli in questa pagina</button>
-      <a href="/cybersicurezza/scenari/index.html" class="cy-btn-primary">Apri l'Indice Completo dei 70 Protocolli</a>
+      <button type="button" id="cy-show-all" class="cy-btn-cyber" style="cursor:pointer;">Mostra tutti i 110 protocolli in questa pagina</button>
+      <a href="/cybersicurezza/scenari/index.html" class="cy-btn-primary">Apri l'Indice Completo dei 110 Protocolli</a>
+      <a href="/cybersicurezza/guide/index.html" class="cy-btn-cyber">Apri le 18 Guide Legali Operative</a>
     </div>
   </div>
 </section>
@@ -483,7 +496,7 @@ def build_hub_it():
     out = ROOT / "cybersicurezza.html"
     out.write_text(head_common(
         "Avvocato Cybersicurezza, GDPR, NIS2 e Reati Informatici | Studio Iaccarino",
-        "Studio Legale specializzato in cybersicurezza e protezione dati in tutta Italia: data breach 72 ore GDPR, ransomware (L. 90/2024), NIS2 e ACN (D.Lgs. 138/2024), phishing bancario ABF, Modello 231 e AI Act. 70 protocolli operativi.",
+        "Studio Legale specializzato in cybersicurezza e protezione dati in tutta Italia: data breach 72 ore GDPR, ransomware (L. 90/2024), NIS2 e ACN (D.Lgs. 138/2024), phishing bancario ABF, Modello 231 e AI Act. 110 protocolli operativi e 18 guide legali.",
         canonical, ld_blocks, lang="it", locale="it_IT", include_hreflang=True
     ) + "\n" + body, encoding="utf-8")
 
@@ -556,7 +569,7 @@ def build_pilastri():
     <div class="cy-pillar-tags" style="margin-bottom:1.6rem;">{norme_tags}</div>
     <div class="cy-cta-row" style="margin-bottom:0;">
       <a href="/consulenza.html?area=cybersicurezza" class="cy-btn-primary">Richiedi Valutazione Legale</a>
-      <a href="/cybersicurezza.html#scenari-operativi" class="cy-btn-cyber">Esplora i 70 Protocolli</a>
+      <a href="/cybersicurezza.html#scenari-operativi" class="cy-btn-cyber">Esplora i 110 Protocolli</a>
     </div>
   </div>
 </header>
@@ -650,7 +663,7 @@ def build_scenari():
                 "itemListElement": [
                     {"@type": "ListItem", "position": 1, "name": "Home", "item": f"{BASE_URL}/"},
                     {"@type": "ListItem", "position": 2, "name": "Cybersicurezza", "item": f"{BASE_URL}/cybersicurezza.html"},
-                    {"@type": "ListItem", "position": 3, "name": "70 Protocolli Operativi", "item": f"{BASE_URL}/cybersicurezza/scenari/index.html"},
+                    {"@type": "ListItem", "position": 3, "name": "110 Protocolli Operativi", "item": f"{BASE_URL}/cybersicurezza/scenari/index.html"},
                     {"@type": "ListItem", "position": 4, "name": s["cod"], "item": canonical}
                 ]
             },
@@ -665,7 +678,7 @@ def build_scenari():
         ]
 
         norme_tags = "".join(f'<span class="cy-tag">{esc(n)}</span>' for n in s["norme"])
-        kw_tags = "".join(f'<span class="cy-tag" style="color:var(--cy-cyan);border-color:rgba(34,211,238,.28);background:rgba(34,211,238,.08);">{esc(k)}</span>' for k in s["keywords"])
+        kw_tags = "".join(f'<span class="cy-tag">{esc(k)}</span>' for k in s["keywords"])
         proto_li = "".join(f"<li><strong>Fase {i+1}:</strong> {esc(step)}</li>" for i, step in enumerate(s["protocollo"]))
         prove_li = "".join(f"<li>{esc(pr)}</li>" for pr in s["prove"])
         err_li = "".join(f"<li>{esc(er)}</li>" for er in s["errori"])
@@ -687,7 +700,7 @@ def build_scenari():
 <header class="cy-hero" style="padding:3.8rem 1.5rem 3rem;">
   <div class="cy-container">
     <nav class="cy-breadcrumb" aria-label="Percorso">
-      <a href="/">Home</a> <span>/</span> <a href="/cybersicurezza.html">Cybersicurezza</a> <span>/</span> <a href="/cybersicurezza/scenari/index.html">70 Protocolli</a> <span>/</span> <span>{s['cod']}</span>
+      <a href="/">Home</a> <span>/</span> <a href="/cybersicurezza.html">Cybersicurezza</a> <span>/</span> <a href="/cybersicurezza/scenari/index.html">110 Protocolli</a> <span>/</span> <span>{s['cod']}</span>
     </nav>
     <span class="cy-eyebrow">PROTOCOLLO OPERATIVO {s['cod']} | {esc(s['cat_lbl'])}</span>
     <h1 style="max-width:960px;font-size:clamp(2rem,4.4vw,3.35rem);">{esc(s['titolo'])}</h1>
@@ -734,7 +747,7 @@ def build_scenari():
 
       <div style="display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;margin-top:2rem;">
         {prev_link}
-        <a href="/cybersicurezza/scenari/index.html" class="cy-btn-primary">Tutti i 70 Protocolli</a>
+        <a href="/cybersicurezza/scenari/index.html" class="cy-btn-primary">Tutti i 110 Protocolli</a>
         {next_link}
       </div>
     </article>
@@ -796,7 +809,7 @@ def build_scenari():
         {
             "@context": "https://schema.org",
             "@type": "ItemList",
-            "name": "70 Protocolli Operativi di Cybersicurezza e Protezione Dati",
+            "name": "110 Protocolli Operativi di Cybersicurezza e Protezione Dati",
             "numberOfItems": len(SCENARI),
             "itemListElement": [
                 {"@type": "ListItem", "position": i + 1, "name": s["titolo"], "url": f"{BASE_URL}/cybersicurezza/scenari/{s['slug']}.html"}
@@ -809,7 +822,7 @@ def build_scenari():
             "itemListElement": [
                 {"@type": "ListItem", "position": 1, "name": "Home", "item": f"{BASE_URL}/"},
                 {"@type": "ListItem", "position": 2, "name": "Cybersicurezza", "item": f"{BASE_URL}/cybersicurezza.html"},
-                {"@type": "ListItem", "position": 3, "name": "70 Protocolli Operativi", "item": idx_canonical}
+                {"@type": "ListItem", "position": 3, "name": "110 Protocolli Operativi", "item": idx_canonical}
             ]
         }
     ]
@@ -821,11 +834,11 @@ def build_scenari():
 <header class="cy-hero" style="padding:3.8rem 1.5rem 2.8rem;">
   <div class="cy-container">
     <nav class="cy-breadcrumb" aria-label="Percorso">
-      <a href="/">Home</a> <span>/</span> <a href="/cybersicurezza.html">Cybersicurezza</a> <span>/</span> <span>70 Protocolli Operativi</span>
+      <a href="/">Home</a> <span>/</span> <a href="/cybersicurezza.html">Cybersicurezza</a> <span>/</span> <span>110 Protocolli Operativi</span>
     </nav>
-    <span class="cy-eyebrow">ARCHIVIO COMPLETO | 7 CATEGORIE | 70 SCHEDE</span>
-    <h1>70 Scenari Operativi e Protocolli di <em>Difesa Cyber</em></h1>
-    <p class="cy-hero-lead">Indice integrale delle 70 casistiche operative in materia di data breach, GDPR, ransomware, Direttiva NIS2, phishing e banche, penale informatico, ex dipendenti, deepfake, reputazione online, contratti IT, AI Act e Modello 231.</p>
+    <span class="cy-eyebrow">ARCHIVIO COMPLETO | 7 CATEGORIE | 110 SCHEDE</span>
+    <h1>110 Scenari Operativi e Protocolli di <em>Difesa Cyber</em></h1>
+    <p class="cy-hero-lead">Indice integrale delle 110 casistiche operative in materia di data breach, GDPR, ransomware, Direttiva NIS2, phishing e banche, crypto, SPID, penale informatico, ex dipendenti, deepfake, reputazione online, contratti IT, AI Act e Modello 231.</p>
   </div>
 </header>
 <main class="cy-section">
@@ -833,11 +846,11 @@ def build_scenari():
     <div class="cy-explorer-controls">
       <div class="cy-search-wrap">
         <svg class="cy-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-        <input type="search" id="cy-scenario-search" class="cy-search-input" placeholder="Filtra per parola chiave, reato, articolo o problema..." aria-label="Cerca tra i 70 protocolli">
+        <input type="search" id="cy-scenario-search" class="cy-search-input" placeholder="Filtra per parola chiave, reato, articolo o problema..." aria-label="Cerca tra i 110 protocolli">
       </div>
       <div class="cy-filter-pills">{filter_pills}</div>
     </div>
-    <div class="cy-count-line" id="cy-scenario-count">Archivio completo: 70 protocolli operativi</div>
+    <div class="cy-count-line" id="cy-scenario-count">Archivio completo: 110 protocolli operativi</div>
     <div class="cy-scenarios-grid">{''.join(all_cards)}</div>
   </div>
 </main>
@@ -847,8 +860,178 @@ def build_scenari():
 </body>
 </html>"""
     (out_dir / "index.html").write_text(
-        head_common("70 Protocolli Operativi Cybersicurezza, GDPR e NIS2 | Studio Iaccarino",
-                    "Archivio completo di 70 scenari operativi e protocolli di difesa legale su data breach, ransomware, NIS2, phishing bancario, reati informatici, deepfake, lavoro, cloud e AI Act.",
+        head_common("110 Protocolli Operativi Cybersicurezza, GDPR e NIS2 | Studio Iaccarino",
+                    "Archivio completo di 110 scenari operativi e protocolli di difesa legale su data breach, ransomware, NIS2, phishing bancario, crypto, SPID, reati informatici, deepfake, lavoro, cloud e AI Act.",
+                    idx_canonical, idx_ld) + "\n" + idx_body,
+        encoding="utf-8"
+    )
+
+
+def build_guide():
+    out_dir = ROOT / "cybersicurezza" / "guide"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    for idx, g in enumerate(GUIDE_CYBER):
+        canonical = f"{BASE_URL}/cybersicurezza/guide/{g['slug']}.html"
+        pil = PILASTRI_BY_SLUG[g["pilastro"]]
+        ld_blocks = [
+            {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                "headline": g["titolo"],
+                "description": g["desc"],
+                "author": {"@type": "Person", "name": "Avv. Francesco Iaccarino"},
+                "publisher": {"@type": "Organization", "name": "Studio Legale Avv. Francesco Iaccarino", "url": BASE_URL},
+                "datePublished": TODAY,
+                "dateModified": TODAY,
+                "mainEntityOfPage": canonical
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {"@type": "ListItem", "position": 1, "name": "Home", "item": f"{BASE_URL}/"},
+                    {"@type": "ListItem", "position": 2, "name": "Cybersicurezza", "item": f"{BASE_URL}/cybersicurezza.html"},
+                    {"@type": "ListItem", "position": 3, "name": "Guide Operative", "item": f"{BASE_URL}/cybersicurezza/guide/index.html"},
+                    {"@type": "ListItem", "position": 4, "name": g["cod"], "item": canonical}
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
+                    for q, a in g["faqs"]
+                ]
+            }
+        ]
+        norme_tags = "".join(f'<span class="cy-tag">{esc(n)}</span>' for n in g["norme"])
+        sez_html = "".join(f"<h2>{esc(st)}</h2><p>{esc(sp)}</p>" for st, sp in g["sezioni"])
+        chk_html = "".join(f"<li>{esc(c)}</li>" for c in g["checklist"])
+        faq_html = "".join(f'<details class="cy-faq-item"><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for q, a in g["faqs"])
+        altre_guide = "".join(
+            f'<li><a href="/cybersicurezza/guide/{x["slug"]}.html">{esc(x["titolo"])}</a></li>'
+            for x in GUIDE_CYBER if x["slug"] != g["slug"]
+        )
+        prev_link = f'<a href="/cybersicurezza/guide/{GUIDE_CYBER[idx-1]["slug"]}.html" class="cy-btn-cyber">&larr; {GUIDE_CYBER[idx-1]["cod"]}</a>' if idx > 0 else ""
+        next_link = f'<a href="/cybersicurezza/guide/{GUIDE_CYBER[idx+1]["slug"]}.html" class="cy-btn-cyber">{GUIDE_CYBER[idx+1]["cod"]} &rarr;</a>' if idx < len(GUIDE_CYBER) - 1 else ""
+
+        body = f"""<body class="cyber-page">
+<div class="cy-progress" aria-hidden="true"></div>
+{GTM_BODY}
+{nav_it("guide")}
+{alert_bar_it()}
+<header class="cy-hero" style="padding:3.8rem 1.5rem 3rem;">
+  <div class="cy-container">
+    <nav class="cy-breadcrumb" aria-label="Percorso">
+      <a href="/">Home</a> <span>/</span> <a href="/cybersicurezza.html">Cybersicurezza</a> <span>/</span> <a href="/cybersicurezza/guide/index.html">Guide Operative</a> <span>/</span> <span>{g['cod']}</span>
+    </nav>
+    <span class="cy-eyebrow">GUIDA LEGALE OPERATIVA {g['cod']} | STUDIO LEGALE IACCARINO</span>
+    <h1 style="max-width:960px;font-size:clamp(1.9rem,4vw,3.15rem);">{esc(g['titolo'])}</h1>
+    <p class="cy-hero-lead" style="max-width:820px;">{esc(g['desc'])}</p>
+    <div class="cy-pillar-tags">{norme_tags}</div>
+  </div>
+</header>
+<main class="cy-section">
+  <div class="cy-container cy-article-layout">
+    <article class="cy-article-body">
+      <p>{esc(g['intro'])}</p>
+      <div class="cy-norma-box">
+        <h3>Norme Vigenti di Riferimento</h3>
+        <p style="margin:0;"><strong>{esc(', '.join(g['norme']))}</strong>. Area specialistica collegata: <a href="/cybersicurezza/{pil['slug']}.html">{esc(pil['titolo'])}</a>.</p>
+      </div>
+      {sez_html}
+      <h2>Checklist Operativa Immediata</h2>
+      <ul>{chk_html}</ul>
+      <h2>Domande Frequenti</h2>
+      <div class="cy-faq-list">{faq_html}</div>
+      <div class="cy-disclaimer">
+        Nota informativa: guida operativa redatta sulle norme vigenti dallo Studio Legale Avv. Francesco Iaccarino (Palazzo Barbaja, Via Toledo 205, Napoli). Ogni caso concreto va esaminato sui propri atti e documenti specifici.
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;margin-top:2rem;">
+        {prev_link}
+        <a href="/cybersicurezza/guide/index.html" class="cy-btn-primary">Tutte le 18 Guide Operative</a>
+        {next_link}
+      </div>
+    </article>
+    <aside class="cy-sidebar-box">
+      <div class="cy-side-card">
+        <h3>Assistenza su questa procedura?</h3>
+        <p>Richiedi una consulenza riservata in studio a Napoli o da remoto in tutta Italia per gestire subito adempimenti, difese o urgenze.</p>
+        <a href="/consulenza.html?area=cybersicurezza" class="cy-btn-primary" style="width:100%;justify-content:center;margin-bottom:.65rem;">Richiedi Consulenza</a>
+        <a href="tel:+393335684659" class="cy-btn-cyber" style="width:100%;justify-content:center;">Chiama +39 333 568 4659</a>
+      </div>
+      <div class="cy-side-card">
+        <h3>Altre Guide Cyber</h3>
+        <ul style="padding-left:1.1rem;margin:0;font-size:.86rem;line-height:1.7;">{altre_guide}</ul>
+      </div>
+    </aside>
+  </div>
+</main>
+{footer_it()}
+{WA_FLOAT}
+<script src="/js/cyber-wow.js?v=1" defer></script>
+</body>
+</html>"""
+        (out_dir / f"{g['slug']}.html").write_text(
+            head_common(g["seo_title"], g["desc"], canonical, ld_blocks) + "\n" + body,
+            encoding="utf-8"
+        )
+
+    idx_canonical = f"{BASE_URL}/cybersicurezza/guide/index.html"
+    cards = "".join(
+        f'<a href="/cybersicurezza/guide/{g["slug"]}.html" class="cy-scenario-card"><div><div class="cy-sc-top"><span class="cy-sc-code">{g["cod"]}</span><span class="cy-sc-cat">Guida Operativa</span></div><h3>{esc(g["titolo"])}</h3><p>{esc(g["desc"])}</p></div><div class="cy-sc-foot"><span>{esc(g["norme"][0])}</span><span>Leggi guida &rarr;</span></div></a>'
+        for g in GUIDE_CYBER
+    )
+    idx_ld = [
+        {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "name": "18 Guide Operative di Cybersicurezza, GDPR, NIS2 e AI Act",
+            "numberOfItems": len(GUIDE_CYBER),
+            "itemListElement": [
+                {"@type": "ListItem", "position": i + 1, "name": g["titolo"], "url": f"{BASE_URL}/cybersicurezza/guide/{g['slug']}.html"}
+                for i, g in enumerate(GUIDE_CYBER)
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": "Home", "item": f"{BASE_URL}/"},
+                {"@type": "ListItem", "position": 2, "name": "Cybersicurezza", "item": f"{BASE_URL}/cybersicurezza.html"},
+                {"@type": "ListItem", "position": 3, "name": "18 Guide Operative", "item": idx_canonical}
+            ]
+        }
+    ]
+    idx_body = f"""<body class="cyber-page">
+<div class="cy-progress" aria-hidden="true"></div>
+{GTM_BODY}
+{nav_it("guide")}
+{alert_bar_it()}
+<header class="cy-hero" style="padding:3.8rem 1.5rem 2.8rem;">
+  <div class="cy-container">
+    <nav class="cy-breadcrumb" aria-label="Percorso">
+      <a href="/">Home</a> <span>/</span> <a href="/cybersicurezza.html">Cybersicurezza</a> <span>/</span> <span>18 Guide Operative</span>
+    </nav>
+    <span class="cy-eyebrow">MANUALISTICA OPERATIVA | CHECKLIST LEGALI</span>
+    <h1>18 Guide Operative di <em>Cybersicurezza</em> e Protezione Dati</h1>
+    <p class="cy-hero-lead">Procedure passo passo, scadenze di legge e checklist forensi per imprese, DPO, amministratori e privati su Garante Privacy 72h, ACN 24h NIS2, Polizia Postale, ABF, Modello 231, AI Act, videosorveglianza ed e-commerce.</p>
+  </div>
+</header>
+<main class="cy-section">
+  <div class="cy-container">
+    <div class="cy-scenarios-grid">{cards}</div>
+  </div>
+</main>
+{footer_it()}
+{WA_FLOAT}
+<script src="/js/cyber-wow.js?v=1" defer></script>
+</body>
+</html>"""
+    (out_dir / "index.html").write_text(
+        head_common("18 Guide Operative Cybersicurezza, GDPR, NIS2 e AI Act | Studio Iaccarino",
+                    "Guide pratiche e checklist legali su data breach 72 ore, pre-notifica ACN 24 ore NIS2, querela Polizia Postale, prove digitali, ABF phishing, Modello 231 e AI Act.",
                     idx_canonical, idx_ld) + "\n" + idx_body,
         encoding="utf-8"
     )
@@ -991,12 +1174,13 @@ def integrate_existing_pages():
             )
             p.write_text(t, encoding="utf-8")
 
-    # 3. Aggiorna sitemap.xml (hub + 10 pilastri + indice scenari)
+    # 3. Aggiorna sitemap.xml (hub + 10 pilastri + indice scenari + indice guide)
     sm_path = ROOT / "sitemap.xml"
     sm = sm_path.read_text(encoding="utf-8")
     new_urls = [
         (f"{BASE_URL}/cybersicurezza.html", "weekly", "0.95"),
         (f"{BASE_URL}/cybersicurezza/scenari/index.html", "weekly", "0.90"),
+        (f"{BASE_URL}/cybersicurezza/guide/index.html", "weekly", "0.90"),
     ] + [(f"{BASE_URL}/cybersicurezza/{p['slug']}.html", "weekly", "0.85") for p in PILASTRI]
     entries = []
     for u, freq, prio in new_urls:
@@ -1006,7 +1190,7 @@ def integrate_existing_pages():
         sm = sm.replace("</urlset>", "\n".join(entries) + "\n</urlset>")
         sm_path.write_text(sm, encoding="utf-8")
 
-    # 4. Aggiorna sitemap-guide-casi.xml con tutti i 70 scenari operativi
+    # 4. Aggiorna sitemap-guide-casi.xml con tutti i 110 scenari operativi e le 18 guide
     sm2_path = ROOT / "sitemap-guide-casi.xml"
     if sm2_path.exists():
         sm2 = sm2_path.read_text(encoding="utf-8")
@@ -1015,6 +1199,10 @@ def integrate_existing_pages():
             u = f"{BASE_URL}/cybersicurezza/scenari/{s['slug']}.html"
             if u not in sm2:
                 sc_entries.append(f"  <url>\n    <loc>{u}</loc>\n    <lastmod>{TODAY}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.80</priority>\n  </url>")
+        for g in GUIDE_CYBER:
+            u = f"{BASE_URL}/cybersicurezza/guide/{g['slug']}.html"
+            if u not in sm2:
+                sc_entries.append(f"  <url>\n    <loc>{u}</loc>\n    <lastmod>{TODAY}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.82</priority>\n  </url>")
         if sc_entries:
             sm2 = sm2.replace("</urlset>", "\n".join(sc_entries) + "\n</urlset>")
             sm2_path.write_text(sm2, encoding="utf-8")
@@ -1037,20 +1225,26 @@ def validate_all():
     errors = []
     # 1. Controlla conteggio esatto
     assert len(PILASTRI) == 10, f"Pilastri={len(PILASTRI)}"
-    assert len(SCENARI) == 70, f"Scenari={len(SCENARI)}"
+    assert len(SCENARI) == 110, f"Scenari={len(SCENARI)}"
+    assert len(GUIDE_CYBER) == 18, f"Guide={len(GUIDE_CYBER)}"
     slugs = [s["slug"] for s in SCENARI]
-    if len(set(slugs)) != 70:
-        errors.append("Slug duplicati nei 70 scenari!")
+    if len(set(slugs)) != 110:
+        errors.append("Slug duplicati nei 110 scenari!")
     titles = [s["titolo"] for s in SCENARI]
-    if len(set(titles)) != 70:
-        errors.append("Titoli duplicati nei 70 scenari!")
+    if len(set(titles)) != 110:
+        errors.append("Titoli duplicati nei 110 scenari!")
+    g_slugs = [g["slug"] for g in GUIDE_CYBER]
+    if len(set(g_slugs)) != 18:
+        errors.append("Slug duplicati nelle 18 guide!")
 
-    # 2. Controlla che tutti i file esistano e non contengano trattini lunghi nel testo visibile o link rotti
+    # 2. Controlla che tutti i file esistano e non contengano link rotti o JSON-LD invalidi
     files_to_check = [
         ROOT / "cybersicurezza.html",
         ROOT / "cybersicurezza" / "scenari" / "index.html",
+        ROOT / "cybersicurezza" / "guide" / "index.html",
     ] + [ROOT / "cybersicurezza" / f"{p['slug']}.html" for p in PILASTRI] \
       + [ROOT / "cybersicurezza" / "scenari" / f"{s['slug']}.html" for s in SCENARI] \
+      + [ROOT / "cybersicurezza" / "guide" / f"{g['slug']}.html" for g in GUIDE_CYBER] \
       + [ROOT / code / "cybersicurezza.html" for code in LINGUE_ESTERE]
 
     for f in files_to_check:
@@ -1058,23 +1252,20 @@ def validate_all():
             errors.append(f"File mancante: {f}")
             continue
         raw = f.read_text(encoding="utf-8")
-        # Verifica JSON-LD validi
         for m in re.finditer(r'<script type="application/ld\+json">(.*?)</script>', raw, re.S):
             try:
                 json.loads(m.group(1))
             except Exception as ex:
                 errors.append(f"JSON-LD non valido in {f.name}: {ex}")
-        # Verifica link interni /cybersicurezza/...
         for href in re.findall(r'href="(/cybersicurezza[^"#?]*)"', raw):
             target = ROOT / href.lstrip("/")
             if not target.exists():
                 errors.append(f"Link interno rotto in {f.name}: {href}")
-        # Verifica assenza caporali
         if "«" in raw or "»" in raw:
             errors.append(f"Caporali trovati in {f.name}")
 
     print(f"FILE GENERATI E VERIFICATI: {len(files_to_check)}")
-    print(f"PILASRI: {len(PILASTRI)} | SCENARI: {len(SCENARI)} | LINGUE ESTERE: {len(LINGUE_ESTERE)}")
+    print(f"PILASTRI: {len(PILASTRI)} | SCENARI: {len(SCENARI)} | GUIDE: {len(GUIDE_CYBER)} | LINGUE ESTERE: {len(LINGUE_ESTERE)}")
     if errors:
         print("ERRORI RILEVATI:")
         for e in errors[:20]:
@@ -1088,6 +1279,7 @@ if __name__ == "__main__":
     build_hub_it()
     build_pilastri()
     build_scenari()
+    build_guide()
     build_multilingua()
     integrate_existing_pages()
     validate_all()
