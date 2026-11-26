@@ -1,21 +1,17 @@
-# PASSAGGIO — Sito Studio Legale Iaccarino: 5ª Area Cybersicurezza e Protezione Dati (26.11.2026)
+# PASSAGGIO — Sito Studio Legale Iaccarino: 5ª Area Cybersicurezza 150 URL + Restyling Palazzo Barbaja (26.11.2026)
 
 ## Fase conclusa
-- Verificata email di errore GitHub Actions stamattina (run 45771392628: disservizio temporaneo API artifact metadata su deploy-pages@v4, non errore del sito).
-- Progettata, costruita, validata e pubblicata su `Francstopp84/sito-studio-iaccarino` (`main`, commit `95e2f9a`, GitHub Actions run `45775406047` VERDE in 19s) la nuova **5ª area strutturale: Cybersicurezza e Protezione Dati**.
+- **Home sistemata (`_SITO_DA_ZIP_20112026/src/` -> `assets/index-l-rlJqZW.js`, `assets/index-BEBjf1ki.css`)**: bilancia 3D confinata tra `top-[128px]` e `bottom-[158px]` (non copre piu' il titolo dietro ne' i pulsanti sotto); aggiunta 5ª materia Cybersicurezza in Navbar, Hero e 5ª card scultorea in `PracticeSculpturesSection.tsx`.
+- **Scultura 3D dedicata**: creata `assets/sculptures/cybersicurezza.png` (marmo Nero Marquina, anelli ottone champagne, vetro fume' e cristallo dorato su `#060709`) e `img/og-cybersicurezza.jpg`, integrate sia in Home sia nell'hero di `cybersicurezza.html`.
+- **Restyling Palazzo Barbaja + Logo Sicurezza**: riscritto `css/cyber-wow.css` (`?v=2`) su Nero Ossidiana `#060709` + Oro Champagne `#C9B080`/`#E7D4AB` + `Cinzel`/`Manrope` (eliminato il ciano neon). Sostituito `#cyber-home-pill` sotto WhatsApp in `index.html` con emblema SVG a scudo araldico e lucchetto in oro su ossidiana.
+- **Espansione a 150 URL ESATTE validate (0 errori, 0 link rotti, 0 JSON-LD invalidi, 0 duplicati)**:
+  - 1 hub IT + 10 pilastri + 1 indice + 110 scenari (`scenari_a.py`, `scenari_b.py`, `scenari_c.py`) + 1 indice + 18 guide operative (`guide_cyber.py`) + 9 hub lingue estere.
+- **Pubblicazione e IndexNow**: commit `58f2df4` + `e1a96ae` su `Francstopp84/sito-studio-iaccarino` (`run 45778937342` VERDE in 20s), live HTTP 200 verificato, ping IndexNow inviato per tutte le 151 URL (`HTTP 200`, chiave `24f4bc2b1b81fcbddb240c707060128f`).
 
 ## File prodotti e modificati (NON RILEGGERE)
-- Grafica/JS executive cyber-legal: `css/cyber-wow.css`, `js/cyber-wow.js` (barra emergenze 24h/72h, bussola 8 emergenze primi 30 min, timeline 72h, filtro live 70 protocolli, spotlight).
-- Generatore e dati: `_strumenti/costruisci_cybersicurezza.py`, `_strumenti/cyber_dati/pilastri.py`, `scenari_a.py`, `scenari_b.py`.
-- 91 nuove pagine HTML validate (0 errori, 0 link rotti, 0 JSON-LD invalidi, 0 duplicati):
-  - `cybersicurezza.html` (hub italiano)
-  - 10 pagine pilastro in `cybersicurezza/*.html`
-  - `cybersicurezza/scenari/index.html` + 70 scenari operativi in `cybersicurezza/scenari/*.html`
-  - 9 hub esteri con `hreflang` reciproco: `en/`, `es/`, `pt/`, `ru/`, `ar/` (RTL), `zh/`, `hi/`, `bn/`, `si/cybersicurezza.html`.
-- Integrazioni: `index.html` (JSON-LD + pill flottante `#cyber-home-pill`), menu/footer di `penale.html`, `civile.html`, `tributario.html`, `immigrazione.html`, e sitemap XML validate (`sitemap.xml`, `sitemap-guide-casi.xml`, `sitemap-lingue.xml`).
-
-## Decisioni prese
-- I 70 contenuti sono impostati come **Scenari Operativi e Protocolli di Difesa** su norme vigenti verificate (GDPR, D.Lgs. 196/2003, D.Lgs. 138/2024 NIS2, L. 90/2024, c.p., D.Lgs. 231/2001 art. 24-bis, D.Lgs. 11/2010 PSD2, AI Act Reg. UE 2024/1689), separati dai casi reali in `casi-risolti.html` per piena conformita' deontologica (artt. 17 e 35 CDF).
+- `index.html`, `css/cyber-wow.css`, `assets/sculptures/cybersicurezza.png`, `img/og-cybersicurezza.jpg`, `assets/index-l-rlJqZW.js`, `assets/index-BEBjf1ki.css`.
+- `_strumenti/costruisci_cybersicurezza.py`, `_strumenti/cyber_dati/scenari_c.py`, `_strumenti/cyber_dati/guide_cyber.py`, `_strumenti/ping_indexnow_cyber.py`.
+- 150 pagine HTML della 5ª area + sitemap XML aggiornate (`sitemap.xml`, `sitemap-guide-casi.xml`, `sitemap-lingue.xml`).
 
 ## Punto esatto per riprendere
-- Tutto pubblicato e online in verde su `https://studiolegalefrancescoiaccarino.com/cybersicurezza.html`. In attesa di eventuali richieste di affinamento dell'avvocato o ping IndexNow/Search Console.
+- Tutto online in verde (150 URL Cybersicurezza + restyling Palazzo Barbaja + fix bilancia Home + scultura 3D + logo oro sotto WhatsApp + ping IndexNow HTTP 200). In attesa del riscontro visivo dell'avvocato dopo hard refresh (`Ctrl+F5`) per eventuali ulteriori ritocchi.

@@ -1,0 +1,165 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   STUDIO LEGALE AVV. FRANCESCO IACCARINO — PALAZZO BARBAJA DARK OVERRIDE
+   Uniforma tutte le pagine storiche del sito al nuovo tema Nero Ossidiana
+   (#060709) + Oro Champagne (#C9B080 / #E7D4AB) lasciando intatti i testi.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+:root {
+  --bg: #060709 !important;
+  --bg-alt: #0a0c12 !important;
+  --bg-card: #0c0f17 !important;
+  --ink: #f4f1ea !important;
+  --ink-soft: #d4cec2 !important;
+  --muted: #9f988c !important;
+  --navy: #0a0c12 !important;
+  --navy-dark: #060709 !important;
+  --navy-deep: #060709 !important;
+  --gold: #c9b080 !important;
+  --gold-light: #e7d4ab !important;
+  --cream: #0a0c12 !important;
+  --ivory: #0a0c12 !important;
+  --white: #0c0f17 !important;
+  --border: rgba(201, 176, 128, 0.22) !important;
+  --accent: #c9b080 !important;
+}
+
+html, body {
+  background-color: #060709 !important;
+  background-image: none !important;
+  color: #f4f1ea !important;
+}
+
+/* Header, navbar, hero, sezioni principali */
+header, nav, .navbar, .topbar, .site-header, .nav-bar, .hero, .page-hero, .area-hero, .sub-hero {
+  background: #060709 !important;
+  background-image: radial-gradient(ellipse 80% 50% at 50% 0%, rgba(201, 176, 128, 0.10), transparent 70%) !important;
+  color: #f4f1ea !important;
+  border-color: rgba(201, 176, 128, 0.22) !important;
+}
+
+main, section, article, aside, .section, .container, .wrap, .content, .main-content, .page-body, .article-body {
+  background-color: transparent !important;
+  color: #e6e0d4 !important;
+}
+
+section:nth-of-type(even) {
+  background-color: #090b10 !important;
+}
+
+/* Card, box, form, tabelle, callout, FAQ */
+.card, .box, .panel, .case-card, .caso-card, .guide-card, .blog-card, .service-card,
+.feature-card, .faq-item, details, .callout, .alert-box, .info-box, .cta-box,
+.form-box, .form-card, .booking-card, .sidebar-card, .toc, .summary-box,
+.step-card, .method-card, .stat-card, .review-card, .testimonial, blockquote,
+.area-card, .matter-card, .result-card {
+  background: #0c0f17 !important;
+  background-image: none !important;
+  color: #f4f1ea !important;
+  border: 1px solid rgba(201, 176, 128, 0.24) !important;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45) !important;
+}
+
+/* Tipografia */
+h1, h2, h3, h4, h5, h6, .title, .section-title, summary {
+  color: #f4f1ea !important;
+}
+
+h1 em, h2 em, h1 span.gold, .eyebrow, .kicker, .badge, .tag, .pill, .meta, .date, .category, .case-id, .num {
+  color: #e7d4ab !important;
+}
+
+p, li, td, th, dd, dt, span, label {
+  color: #d8d2c6;
+}
+
+strong, b {
+  color: #f4f1ea !important;
+}
+
+a {
+  color: #e7d4ab;
+}
+
+a:hover {
+  color: #faf0d4;
+}
+
+/* Pulsanti e CTA */
+.btn, button, input[type="submit"], .cta-btn, .btn-primary, .nav-cta, .submit-btn {
+  background: linear-gradient(180deg, #e7d4ab 0%, #c9b080 55%, #a88a54 100%) !important;
+  color: #060709 !important;
+  border: 1px solid #f3dfb2 !important;
+  font-weight: 700 !important;
+}
+
+.btn-secondary, .btn-outline, .nav-back, .back-link, .filter-btn, .tab-btn {
+  background: #0e121b !important;
+  color: #e7d4ab !important;
+  border: 1px solid rgba(201, 176, 128, 0.35) !important;
+}
+
+.filter-btn.active, .tab-btn.active {
+  background: linear-gradient(180deg, #e7d4ab 0%, #c9b080 100%) !important;
+  color: #060709 !important;
+}
+
+/* Input e campi form */
+input, select, textarea {
+  background: #090c13 !important;
+  color: #f4f1ea !important;
+  border: 1px solid rgba(201, 176, 128, 0.38) !important;
+}
+
+input::placeholder, textarea::placeholder {
+  color: #8f887c !important;
+}
+
+/* Tabelle */
+table {
+  background: #0c0f17 !important;
+  border-color: rgba(201, 176, 128, 0.25) !important;
+}
+
+th {
+  background: #141824 !important;
+  color: #e7d4ab !important;
+  border-color: rgba(201, 176, 128, 0.28) !important;
+}
+
+td {
+  background: #0c0f17 !important;
+  color: #e2dcd0 !important;
+  border-color: rgba(201, 176, 128, 0.16) !important;
+}
+
+tr:nth-child(even) td {
+  background: #090c12 !important;
+}
+
+/* Footer */
+footer, .footer, .site-footer {
+  background: #050608 !important;
+  color: #a8a296 !important;
+  border-top: 1px solid rgba(201, 176, 128, 0.22) !important;
+}
+
+footer a, .footer a {
+  color: #e7d4ab !important;
+}
+
+/* Preserva pulsante WhatsApp verde e pillola Cyber */
+#wa-float {
+  background: #25D366 !important;
+  color: #ffffff !important;
+  border: none !important;
+}
+#wa-float span, #wa-float svg {
+  color: #ffffff !important;
+}
+
+/* Preserva elementi con classe esplicita dark o badge verdi esito */
+.esito-verde, .badge-verde, .verde {
+  background: rgba(37, 211, 102, 0.14) !important;
+  color: #7ee2a8 !important;
+  border: 1px solid rgba(37, 211, 102, 0.35) !important;
+}
